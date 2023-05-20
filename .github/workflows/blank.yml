@@ -25,4 +25,12 @@ jobs:
           node linkedin2.js 
           node linkedin3.js
           ls
+      - name: Upload to GitHub
+        uses: LasyIsLazy/github-upload-action@v0.1.0
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          file-path: zedData.txt
+          owner: kindevilsorg
+          repo: https://github.com/kindevilsorg/cidown
+          remote-dir: ''
              
