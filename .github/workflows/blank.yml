@@ -14,14 +14,13 @@ jobs:
       - name: Download file
         id: download
         run: |
-          name="${{ github.event.inputs.file_name }}"
-          curl -JO -L "https://kindevils.rocks/api/raw/?path=/10%20oct/linkedin%20scrapped%20raw%20data%20(187gb)(1.4tb%20uncompressed)/{name}.gz&odpt=d900eea2e0814eda40a9464a7b8b01319e77d631d14e328390051743090ff6fe"
-          gzip -d {name}.gz
+          curl -JO -L "https://kindevils.rocks/api/raw/?path=/10%20oct/linkedin%20scrapped%20raw%20data%20(187gb)(1.4tb%20uncompressed)/${{ github.event.inputs.file_name }}.gz&odpt=d900eea2e0814eda40a9464a7b8b01319e77d631d14e328390051743090ff6fe"
+          gzip -d ${{ github.event.inputs.file_name }}.gz
           
       - name: Run scripts
         run: |
           npm i fs readline
-          node saver.js "$name"
+          node saver.js ${{ github.event.inputs.file_name }}
           node linkedin0.js 
           node linkedin2.js 
           node linkedin3.js
