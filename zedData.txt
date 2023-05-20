@@ -535,4 +535,21 @@ phumzile | andries | linkedin.com/in/phumzile-andries-0b77685a | phumzile.andrie
 kevin | moran | linkedin.com/in/kevin-moran-87164589 | kevin.moran@netplaytv.com | professional | N/A | N/A | betway ltd | null | 55,000-70,000
 beth | ojeda | linkedin.com/in/bethojeda | beth.ojeda@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
 carme | otero | linkedin.com/in/carmeotero | karmeta83@hotmail.com | personal | N/A | N/A | null | null | 35,000-45,000
-nora | merschel | linkedin.com/in/norarmerschel | nmerschel@gmail.com | personal | N/A | N/A | pippa small designs ltd | 201 westbourne grove | 85,000-100,000
+nora | merschel | linkedin.com/in/norarmerschel | nmerschel@gmail.com | personal | N/A | N/A | pippa small designs ltd | 201 westbourne grove | 85,000-100,000npw | contracting | linkedin.com/in/npw-contracting-196b07a7 | npw@npwcontracting.com | current_professional | npw@npwcontracting.com | +17206418216 | npw contracting | null | 85,000-100,000
+franziska | rappold | linkedin.com/in/franziska-rappold-81626799 | fr@flottweg.com | current_professional | fr@flottweg.com | N/A | flottweg separation technology, inc. | null | 70,000-85,000
+charlotte | dickson | linkedin.com/in/charlotteldickson | charlotte.dickson@rbs.co.uk | current_professional | charlotte.dickson@rbs.co.uk | N/A | royal bank of scotland | null | 55,000-70,000
+thomas | genet | linkedin.com/in/thomasgenet | thomasgenet@hotmail.fr | personal | N/A | N/A | roxane | null | 85,000-100,000
+giada | vesentini | linkedin.com/in/giada-vesentini-534b31107 | giada.vesentini@gmail.com | personal | N/A | N/A | decathlon italia | null | 45,000-55,000
+wisdom | doe | linkedin.com/in/wisdom-doe-46311530 | jonisacey@yahoo.ca | personal | N/A | N/A | null | null | 85,000-100,000
+sudhindra | rao | linkedin.com/in/sudhiendra | umennet@gmail.com | personal | N/A | N/A | commarchs | null | <20,000
+christy | jenkins | linkedin.com/in/christy-jenkins-61a2b02b | twinsr2xthefun@gmail.com | personal | N/A | N/A | scout & molly's | 640 freedom business ctr drive | 70,000-85,000
+cathrine | tjensvoll | linkedin.com/in/cathrinet | cathrinetjensvoll@hotmail.com | personal | N/A | N/A | null | null | 100,000-150,000
+claudia | claveras | linkedin.com/in/claudia-claveras-179aa397 | cclaveras@aristocrazy.com | professional | N/A | N/A | autónomo | null | 100,000-150,000
+freya | zank | linkedin.com/in/freya-zank-3a1173154 | freya.zank0423@gmail.com | personal | N/A | +16125545252 | brandshine creative services | null | 70,000-85,000
+rebecca | griffiths | linkedin.com/in/beckigriffiths | rebecca.griffiths@img.com | current_professional | rebecca.griffiths@img.com | N/A | img | 200 5th avenue | 55,000-70,000
+luis | malagon | linkedin.com/in/luismalagon24 | luis@chicagophoto.pro | professional | N/A | +16303174570 | precision camera & video | 2438 west anderson lane | 85,000-100,000
+luck | hunck | linkedin.com/in/luck-hunck-5448213b | luckhnck@gmail.com | personal | N/A | N/A | instantcashloansnofaxing.com.au | null | 70,000-85,000
+raffaele | serena | linkedin.com/in/raffaele-serena-32740454 | raffaele.serena@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+jo | templin | linkedin.com/in/jo-templin-4899a64a | templinj@countryroad.com.au | professional | N/A | N/A | karen willis holmes | null | 70,000-85,000
+erica | ouyang | linkedin.com/in/erica-ouyang-03ba97113 | zgyouyang@berkeley.edu | professional | N/A | +15109445850 | insta360 | null | 85,000-100,000
+stefania | renzetti | linkedin.com/in/srenzetti | fireice@libero.it | N/A | N/A | N/A | tsunami edizioni | null | 55,000-70,000
