@@ -526,4 +526,15 @@ benjamin | fry | linkedin.com/in/benjamin-fry-0a539940 | benfry1990@yahoo.co.uk 
 revista | bioreview | linkedin.com/in/revistabioreview | prensa@revistabioreview.com | current_professional | prensa@revistabioreview.com | N/A | revista bioreview | null | <20,000
 alexandra | lapp | linkedin.com/in/alexandra-lapp-8328b025 | alexandra802@gmail.com | personal | N/A | N/A | bearcub outfitters | 325 east lake street | 85,000-100,000
 zynab | khetani | linkedin.com/in/zynab-zee-khetani | zkhetani07@gmail.com | personal | N/A | +13105670245 | just media, inc. | 1585 62nd street | 70,000-85,000
-angélica | escárcega | linkedin.com/in/angélica-coday-escárcega-260b0841 | angelica.escarcega@gmail.com | personal | N/A | N/A | silicone media | null | <20,000
+angélica | escárcega | linkedin.com/in/angélica-coday-escárcega-260b0841 | angelica.escarcega@gmail.com | personal | N/A | N/A | silicone media | null | <20,000katrina | bingaman | linkedin.com/in/katrina-bingaman-b9791243 | kbingaman@vvcrossroads.org | N/A | N/A | N/A | crossroads christian church | null | 100,000-150,000
+ayush | chaddha | linkedin.com/in/ayush-chaddha-080902a6 | ayush.chaddha@tolexo.com | professional | N/A | N/A | null | null | <20,000
+ngoako | mannya | linkedin.com/in/ngoako-lerato-mannya-5735b727 | blk4ng3l@hotmail.com | personal | N/A | N/A | null | null | <20,000
+ankit | dasgupta | linkedin.com/in/ankit-dasgupta-7b6b1a27 | dasguptaankit123@gmail.com | personal | N/A | N/A | in10 media | null | <20,000
+ryan | wolhuter | linkedin.com/in/ryanwolhuter | ryansediting@gmail.com | personal | N/A | N/A | internet dominance | null | <20,000
+maría | rojas | linkedin.com/in/piarojas | mapiarojas@gmail.com | personal | N/A | N/A | null | null | 20,000-25,000
+deb | french | linkedin.com/in/deb-french-0bb07945 | debbie.french@glosmedia.co.uk | N/A | N/A | N/A | get social with deb french | null | 55,000-70,000
+carlos | terrado | linkedin.com/in/carlos-hernández-terrado-8924a923 | carlosherter@msn.com | personal | N/A | N/A | webedia | null | 35,000-45,000
+martha | ostiouni | linkedin.com/in/marthaostiouni | martha.ostiouni@gmail.com | personal | N/A | N/A | the coca-cola company | 1 coca cola plaza | 25,000-35,000
+indy | goraya | linkedin.com/in/indy-singh-goraya-303a2930 | indysinghgoraya@gmail.com | personal | N/A | N/A | indy singh goraya | null | 55,000-70,000
+nikita | spice | linkedin.com/in/nikita-spice | nikita-spice@live.co.uk | N/A | N/A | N/A | thirtythree | null | 55,000-70,000
+jess | hobbs | linkedin.com/in/jess-hobbs-6687a931 | jess.hobbs@hotmail.co.uk | personal | jess.hobbs@wrap.org.uk | N/A | wrap | 19 george street | 55,000-70,000
