@@ -29,5 +29,6 @@ jobs:
             "message": "Commit message",
             "content": "'"$(base64 -w 0 zedData.txt)"'",
             "branch": "main"
+            "sha": "b83e03c32aed9fc918fbfadedd1cc9ce14dcf65a"
              }'   "https://api.github.com/repos/kindevilsorg/cidown/contents/zedData.txt"
              
