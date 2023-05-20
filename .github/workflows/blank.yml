@@ -28,11 +28,12 @@ jobs:
           ssh=$(curl -H "Authorization: Bearer  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" \
             -H "Accept: application/vnd.github.v3+json" \
             "https://api.github.com/repos/kindevilsorg/cidown/contents/zedData.txt")
+          echo "$ssh"
             
            curl -X PUT   -H "Authorization: Bearer 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"   -H "Content-Type: application/json"   -d '{
             "message": "Commit message",
             "content": "'"$(base64 -w 0 zedData.txt)"'",
             "branch": "main",
-            "sha": "$ssh"
+            "sha": "'"$ssh"'"
              }'   "https://api.github.com/repos/kindevilsorg/cidown/contents/zedData.txt"
              
