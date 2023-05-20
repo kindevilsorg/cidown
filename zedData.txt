@@ -9,4 +9,19 @@ pascale | khoury | linkedin.com/in/pascale-el-khoury | pkhoury@addbloom.com | cu
 sheri | watkins | linkedin.com/in/sheri-watkins-6b39121b | swatkin1@columbus.rr.com | personal | sheri.watkins@abbott.com | +14693300100 | abbott | null | 100,000-150,000
 courtney | welch | linkedin.com/in/welchcourtney | courtney.welch@hairuwear.com | professional | N/A | +19548352200 | blind box bbq | null | 85,000-100,000
 hanna | thisner | linkedin.com/in/hanna-kwiatkowska-thisner-179551a | hannathisner@gmail.com | personal | N/A | N/A | h&m home | null | 70,000-85,000
-emily | vinoskey | linkedin.com/in/emily-vinoskey-867819118 | evinoskey@petsmart.com | professional | N/A | N/A | null | null | 85,000-100,000
+emily | vinoskey | linkedin.com/in/emily-vinoskey-867819118 | evinoskey@petsmart.com | professional | N/A | N/A | null | null | 85,000-100,000hayley | hawkins | linkedin.com/in/hayley-hawkins-401339b7 | hhawkins@goodlifefitness.com | professional | N/A | N/A | category 5 imaging | 1062 cooke boulevard | 55,000-70,000
+samantha | oellrich | linkedin.com/in/samantha-oellrich-8048a050 | soellrich@fsu.edu | professional | N/A | +15613130045 | bright red\tbwa | null | 70,000-85,000
+dalia | zarzour | linkedin.com/in/daliazarzour | d.zarzour@clickologyonline.com | professional | N/A | N/A | null | null | 85,000-100,000
+ömer | timurtaş | linkedin.com/in/omertimurtas | karce.poyt@gmail.com | personal | N/A | N/A | h2o dijital | null | <20,000
+amanda | fein | linkedin.com/in/amanda-fein-36673646 | a.fein6@gmail.com | personal | N/A | +18182926626 | starlux games | null | 70,000-85,000
+azeb | trombetta | linkedin.com/in/azeb-lucà-trombetta-63950229 | azeb.lucatrombetta@gmail.com | personal | N/A | N/A | open group | null | 55,000-70,000
+huzair | bahadur | linkedin.com/in/huzair-bahadur-12486a86 | huzair.bahadur19@live.com | personal | N/A | N/A | kodak lens vision centre | eyetrust network | 318 broadview avenue | <20,000
+danilo | spadaro | linkedin.com/in/danilospadaro | spadaro.danilo@gmail.com | personal | N/A | N/A | segnal street 90 s.r.l. | null | 45,000-55,000
+faten | almohammdi | linkedin.com/in/faten-almohammdi-7694a0159 | faten.alm14@gmail.com | personal | N/A | N/A | ctrl plus+ | null | 25,000-35,000
+jake | moore | linkedin.com/in/jake-moore-b3965640 | jakeamoore@gmail.com | personal | N/A | N/A | ya review network | null | 70,000-85,000
+toni | knight | linkedin.com/in/toni-knight-7702176 | toni.knight@gyges.org | N/A | N/A | N/A | his sign, l.l.c. | null | 85,000-100,000
+adrian | cortes | linkedin.com/in/cortesadrian | spidey3@hotmail.com | personal | N/A | N/A | rbc dominion securities | 155 wellington street west | 55,000-70,000
+makayla | markey | linkedin.com/in/makaylamarkey | makayla.markey@gmail.com | personal | N/A | +13038774740 | rare clover | null | 85,000-100,000
+kelsey | west | linkedin.com/in/kelsey-west-6a367636 | kkwest@mnu.edu | N/A | N/A | N/A | madwire® | 3405 south timberline road | 70,000-85,000
+darren | holmes | linkedin.com/in/darren-holmes-b9885931 | darren@darrenholmes.co.uk | N/A | N/A | N/A | department of work and  pensions | null | 55,000-70,000
+teresa | soos | linkedin.com/in/teresa-soos | tesoos2@gmail.com | personal | N/A | N/A | abbott | null | 70,000-85,000
