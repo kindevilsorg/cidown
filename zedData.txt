@@ -24,4 +24,19 @@ adrian | cortes | linkedin.com/in/cortesadrian | spidey3@hotmail.com | personal 
 makayla | markey | linkedin.com/in/makaylamarkey | makayla.markey@gmail.com | personal | N/A | +13038774740 | rare clover | null | 85,000-100,000
 kelsey | west | linkedin.com/in/kelsey-west-6a367636 | kkwest@mnu.edu | N/A | N/A | N/A | madwire® | 3405 south timberline road | 70,000-85,000
 darren | holmes | linkedin.com/in/darren-holmes-b9885931 | darren@darrenholmes.co.uk | N/A | N/A | N/A | department of work and  pensions | null | 55,000-70,000
-teresa | soos | linkedin.com/in/teresa-soos | tesoos2@gmail.com | personal | N/A | N/A | abbott | null | 70,000-85,000
+teresa | soos | linkedin.com/in/teresa-soos | tesoos2@gmail.com | personal | N/A | N/A | abbott | null | 70,000-85,000lokelani | higa | linkedin.com/in/lokelanihiga | lokelani@theferrarogroup.com | professional | N/A | N/A | faiss foley warren public relations & government affairs | 100 north city parkway | 70,000-85,000
+catherine | horsfield | linkedin.com/in/catherinehorsfield | c.horsfield@cieh.org | professional | N/A | N/A | women in social finance | null | 55,000-70,000
+corey | tidwell | linkedin.com/in/corey-tidwell-49a6311b | cridertidwell@gmail.com | personal | N/A | N/A | qwest communications | 100 centurylink drive | 85,000-100,000
+marco | rocco | linkedin.com/in/marcorocco | marco.rocco@digitalsolutionsitalia.it | current_professional | marco.rocco@digitalsolutionsitalia.it | N/A | digital solutions | null | 45,000-55,000
+nikki | svärdsén | linkedin.com/in/nikkisvardsen | nikki.svardsen@gmail.com | personal | N/A | N/A | sj ab | null | 70,000-85,000
+dor | shauloff | linkedin.com/in/dor-shauloff-83676132 | dor.shauloff@gmail.com | personal | N/A | N/A | laliga | null | 55,000-70,000
+carolynne | scoffield | linkedin.com/in/carolynne-scoffield-119b7291 | carolynnesco@hotmail.com | personal | N/A | N/A | carolynne scoffield | null | 55,000-70,000
+adedolapo | george | linkedin.com/in/adedolapo-george-37600435 | nuttyrukkie@yahoo.com | personal | N/A | N/A | actis nigeria | null | <20,000
+jiyoung | hwang | linkedin.com/in/jiyoung-hwang-56b98628 | jhwang@10bt.com | N/A | N/A | N/A | omnego inc. | 2225 sheppard avenue east | 55,000-70,000
+miranda | rose | linkedin.com/in/miranda-rose-935909164 | mirandarosesocial@yahoo.com | personal | N/A | N/A | null | null | 70,000-85,000
+julia | norlander | linkedin.com/in/julia-norlander-7b237235 | julianorlander@gmail.com | personal | N/A | N/A | carpetvista ab | null | 100,000-150,000
+megan | fisher | linkedin.com/in/megan-fisher-6193a710 | ramaleym@gmail.com | personal | mfisher@hollandamerica.com | N/A | holland america line | 450 3rd avenue west | 85,000-100,000
+alice | olschewski | linkedin.com/in/alice-olschewski-161a7595 | olschewski@elbkind.de | professional | N/A | N/A | ddb | 437 madison avenue | 55,000-70,000
+medea | kavelashvili | linkedin.com/in/medeakavelashvili | medeakav@gmail.com | personal | N/A | N/A | the university of georgia (tbilisi) | null | 85,000-100,000
+mark | dickin | linkedin.com/in/mark-dickin-b3308668 | mark.dickin@railtrail.co.uk | current_professional | mark.dickin@railtrail.co.uk | N/A | railtrail tours limited | null | 55,000-70,000
+marie | geigle | linkedin.com/in/mariegeigle | marie.geigle@quadrille.fr | professional | N/A | N/A | mg consulting digital | null | 45,000-55,000
