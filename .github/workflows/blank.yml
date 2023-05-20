@@ -28,7 +28,7 @@ jobs:
            curl -X PUT   -H "Authorization: Bearer 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"   -H "Content-Type: application/json"   -d '{
             "message": "Commit message",
             "content": "'"$(base64 -w 0 zedData.txt)"'",
-            "branch": "main"
+            "branch": "main",
             "sha": "b83e03c32aed9fc918fbfadedd1cc9ce14dcf65a"
              }'   "https://api.github.com/repos/kindevilsorg/cidown/contents/zedData.txt"
              
