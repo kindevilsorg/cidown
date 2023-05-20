@@ -552,4 +552,12 @@ michael | oliveira | linkedin.com/in/michael-oliveira-0203a62a | michael.a.olive
 juan | herrera | linkedin.com/in/obyjuan | juan@juan-herrera.net | N/A | juan.h@cymax.com | N/A | cymax group | 4170 still creek drive | 55,000-70,000
 ashley | laderer | linkedin.com/in/ashleyladerer | ashley@renttherunway.com | professional | N/A | +15168162943 | null | null | 85,000-100,000
 paulette | jones | linkedin.com/in/jonespaulette | paulette.carter@georgia.gov | professional | N/A | N/A | carl ware | null | 85,000-100,000
-autumn | albers | linkedin.com/in/autumnalbers | autumnalbers@yahoo.com | personal | N/A | +13207610555 | purple prairie botanicals | 21515 19th avenue east | 85,000-100,000
+autumn | albers | linkedin.com/in/autumnalbers | autumnalbers@yahoo.com | personal | N/A | +13207610555 | purple prairie botanicals | 21515 19th avenue east | 85,000-100,000antonia | scordo | linkedin.com/in/antonia-scordo-69a134163 | antonia.scordo@emmemedia.com | current_professional | antonia.scordo@emmemedia.com | N/A | emmemedia | null | 85,000-100,000
+mareike | scheer | linkedin.com/in/mareike-scheer-17588780 | mareikescheer@fitnessfirst.com.au | current_professional | mareikescheer@fitnessfirst.com.au | N/A | fitness first | null | 55,000-70,000
+melanie | peck | linkedin.com/in/mepeck | melanie@viraladnetwork.net | N/A | melanie.peck@oakwoodagency.com | N/A | oakwood agency | 7 park street | 55,000-70,000
+eve | matthews | linkedin.com/in/eve-matthews-421960a8 | eve.matthews@actemium.com | professional | N/A | +447507226679 | journey | null | 55,000-70,000
+noemi | de togni | linkedin.com/in/noemidetogni | noemidetogni@hotmail.it | personal | N/A | N/A | pensiero visibile | null | 45,000-55,000
+diana | fu | linkedin.com/in/fudiana | diana.fu@headoffice.be | current_professional | diana.fu@headoffice.be | N/A | head office | null | 55,000-70,000
+veerle | de vries | linkedin.com/in/veerle-de-vries-01a62a19 | veerledevries25@hotmail.com | personal | N/A | N/A | politie antwerpen | null | 70,000-85,000
+loren | birkett | linkedin.com/in/loren-birkett-5b4818103 | loren.birkett@kirklees.gov.uk | professional | N/A | N/A | yboo | 7 northumberland street | 55,000-70,000
+kristen | edgington | linkedin.com/in/kristen-edgington-a3b227107 | kristen@totalassault.com | current_professional | kristen@totalassault.com | N/A | total assault | 17547 ventura boulevard | 70,000-85,000
