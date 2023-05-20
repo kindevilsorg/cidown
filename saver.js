@@ -2,7 +2,8 @@ import fs from "fs";
 import readline from "readline";
 
 async function processLineByLine() {
-  const fileStream = fs.createReadStream("part-00067");
+  const filename = process.argv[2]; // Get the filename from command line arguments
+  const fileStream = fs.createReadStream(filename);
 
   const rl = readline.createInterface({
     input: fileStream,
