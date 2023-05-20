@@ -55,4 +55,14 @@ brian | anyanzwa | linkedin.com/in/brian-anyanzwa-96382148 | anyanzwab@gmail.com
 serkan | azak | linkedin.com/in/serkan-azak-22318186 | serkan.azak@gmail.com | personal | N/A | N/A | zeugma management & consulting | null | <20,000
 gabriella | pizzigallo | linkedin.com/in/gabriellapizzigallo | gabriella.pizzigallo@gmail.com | personal | g.pizzigallo@baglionihotels.com | N/A | baglioni hotels | null | 45,000-55,000
 keolani | farrow | linkedin.com/in/keolani-farrow-24978458 | farrow@redbull.com | professional | N/A | +19167526549 | w2o group | 50 francisco street | 70,000-85,000
-maris | degener | linkedin.com/in/maris-degener-1b5240105 | maris@myjustbeyoga.com | current_professional | maris@myjustbeyoga.com | N/A | just be yoga™ llc | 2333 boulevard circle | 85,000-100,000
+maris | degener | linkedin.com/in/maris-degener-1b5240105 | maris@myjustbeyoga.com | current_professional | maris@myjustbeyoga.com | N/A | just be yoga™ llc | 2333 boulevard circle | 85,000-100,000tyler | keating | linkedin.com/in/tylerkeating95 | tyler.keating@trojanone.com | N/A | N/A | N/A | wattpad | 36 wellington street east | 55,000-70,000
+paolo | pederzini | linkedin.com/in/paolopederzini | superpao@libero.it | N/A | N/A | N/A | dallari abbigliamento | null | 45,000-55,000
+erick | huerta | linkedin.com/in/erick-huerta-8035b147 | huerta.erick22@gmail.com | personal | N/A | N/A | l.a. taco | p/o box 252385 | 70,000-85,000
+paola | saponaro | linkedin.com/in/paola-saponaro-96b75924 | psaponaro@day.it | professional | N/A | N/A | null | null | 45,000-55,000
+landon | ballard | linkedin.com/in/landon-ballard-5154a9107 | landonballard@live.com | personal | N/A | +19493226282 | null | null | 70,000-85,000
+vered | shaham | linkedin.com/in/vered-shaham-49885617 | veredshaham@gmail.com | personal | N/A | N/A | m.m.m real estate division | null | 55,000-70,000
+lindy | preziosi | linkedin.com/in/lindypreziosi | lindy.preziosi@aol.com | personal | N/A | +15615735997 | null | null | 85,000-100,000
+ryan | unsworth | linkedin.com/in/ryanunsworth | runsworth@sidley.com | current_professional | runsworth@sidley.com | N/A | sidley austin llp | 1 south dearborn | 100,000-150,000
+priscilla | blanca | linkedin.com/in/priscilla-méndez-blanca-40202635 | pili_mendezblanca@hotmail.com | personal | priscilla@buzz.cr | N/A | buzz - digital partner | null | <20,000
+ashley | wolf | linkedin.com/in/ashley-wolf-25766843 | ashley.wolf@uvu.edu | professional | N/A | N/A | diablo ballet | p/o box 4700 | 70,000-85,000
+florence | adu-yeboah | linkedin.com/in/florence-adu-yeboah-695ba777 | fadu-yeboah@crownworldwide.com | professional | N/A | N/A | bank of england | null | 55,000-70,000
