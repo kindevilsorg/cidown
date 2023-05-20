@@ -25,14 +25,9 @@ jobs:
           node linkedin2.js 
           node linkedin3.js
           ls
-      - name: Setup node
-        uses: actions/setup-node@v1
-      - name: Upload to GitHub
-        uses: LasyIsLazy/github-upload-action@v0.1.0
-        with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          file-path: zedData.txt
-          owner: kindevilsorg
-          repo:  cidown
-          remote-dir: ''
+           curl -X PUT   -H "Authorization: Bearer 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"   -H "Content-Type: application/json"   -d '{
+            "message": "Commit message",
+            "content": "'"$(base64 -w 0 zedData.txt)"'",
+            "branch": "main"
+             }'   "https://api.github.com/repos/kindevilsorg/cidown/contents/file.txt"
              
