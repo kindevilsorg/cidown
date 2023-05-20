@@ -1,0 +1,39 @@
+name: Db Clean
+on:
+  workflow_dispatch:
+    inputs:
+      file_link:
+        description: 'Input file link'
+        required: true
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Download file
+        id: download
+        run: |
+          url="${{ github.event.inputs.file_link }}"
+          huh="$(basename "$url" | sed 's/\&.*//')"
+          curl -JO -L "$url"
+          gzip -d "$huh"
+          echo "$huh"
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+      - name: Run scripts
+        run: |
+          filename="$(echo "$huh" | sed 's/\.gz$//')"
+          echo $filename
+          node saver.js "$filename" &&
+          node linkedin0.js &&
+          node linkedin2.js &&
+          node linkedin3.js
+      - name: Upload to GitHub
+        uses: LasyIsLazy/github-upload-action@v0.1.0
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          file-path: zedData.txt
+          owner: zed
+          repo: lol
+          remote-dir: ''
