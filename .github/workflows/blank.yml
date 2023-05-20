@@ -25,6 +25,7 @@ jobs:
         run: |
           filename="$(echo "$huh" | sed 's/\.gz$//')"
           echo $filename
+          npm i
           node saver.js "$filename" &&
           node linkedin0.js &&
           node linkedin2.js &&
