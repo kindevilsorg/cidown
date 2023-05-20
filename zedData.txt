@@ -39,4 +39,20 @@ megan | fisher | linkedin.com/in/megan-fisher-6193a710 | ramaleym@gmail.com | pe
 alice | olschewski | linkedin.com/in/alice-olschewski-161a7595 | olschewski@elbkind.de | professional | N/A | N/A | ddb | 437 madison avenue | 55,000-70,000
 medea | kavelashvili | linkedin.com/in/medeakavelashvili | medeakav@gmail.com | personal | N/A | N/A | the university of georgia (tbilisi) | null | 85,000-100,000
 mark | dickin | linkedin.com/in/mark-dickin-b3308668 | mark.dickin@railtrail.co.uk | current_professional | mark.dickin@railtrail.co.uk | N/A | railtrail tours limited | null | 55,000-70,000
-marie | geigle | linkedin.com/in/mariegeigle | marie.geigle@quadrille.fr | professional | N/A | N/A | mg consulting digital | null | 45,000-55,000
+marie | geigle | linkedin.com/in/mariegeigle | marie.geigle@quadrille.fr | professional | N/A | N/A | mg consulting digital | null | 45,000-55,000michel | hayek | linkedin.com/in/michel-hayek | michel.hayek@aleteia.org | current_professional | michel.hayek@aleteia.org | N/A | aleteia | null | 70,000-85,000
+gabrielle | stein | linkedin.com/in/gabrielle-stein-b2a786101 | ewstein@msn.com | personal | N/A | +16077854799 | regency home remodeling | null | 85,000-100,000
+cherish | bar | linkedin.com/in/cherish-bar-b82bb346 | cbar@cowest.com | professional | N/A | +13036889597 | non-profit organization - confidential | null | 70,000-85,000
+elitza | arsenov | linkedin.com/in/elitza-arsenov-9943b091 | elitza.arsenov@paris-sorbonne.fr | professional | N/A | N/A | sitel | 600 brickell avenue | 70,000-85,000
+haris | izhar | linkedin.com/in/harisizhar | harry-izhar@hotmail.com | personal | N/A | N/A | skin doctor uae | null | <20,000
+carmen | yong | linkedin.com/in/carmen-yong-4367121b | carmenyong_1189@msn.com | personal | carmen@myris.my | N/A | myris consultancy | null | <20,000
+camila | barsotti | linkedin.com/in/camila-barsotti-2266877 | camila@fleurdetails.com | professional | N/A | N/A | mami in miami | null | 70,000-85,000
+carolina | ligabue | linkedin.com/in/carolligabue | carolligabue@hotmail.com | personal | N/A | +5511980911818 | mafagafo agência de conteúdo | null | <20,000
+anna | hakobyan | linkedin.com/in/anna-hakobyan-a86bb02b | annahakobyanarm@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+meredith | parker | linkedin.com/in/meredithparker | mparker@newswatchtv.com | professional | N/A | +14048030311 | null | null | 85,000-100,000
+frances | morrow-brown | linkedin.com/in/frances-morrow-brown-69894a59 | socialmedia@cheltenhamcollege.org | current_professional | socialmedia@cheltenhamcollege.org | +447384253582 | cheltenham college | null | 55,000-70,000
+cari | cantrell | linkedin.com/in/cari-cantrell-34104323 | cx1286@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+brian | anyanzwa | linkedin.com/in/brian-anyanzwa-96382148 | anyanzwab@gmail.com | personal | N/A | N/A | westlands constituency office | null | <20,000
+serkan | azak | linkedin.com/in/serkan-azak-22318186 | serkan.azak@gmail.com | personal | N/A | N/A | zeugma management & consulting | null | <20,000
+gabriella | pizzigallo | linkedin.com/in/gabriellapizzigallo | gabriella.pizzigallo@gmail.com | personal | g.pizzigallo@baglionihotels.com | N/A | baglioni hotels | null | 45,000-55,000
+keolani | farrow | linkedin.com/in/keolani-farrow-24978458 | farrow@redbull.com | professional | N/A | +19167526549 | w2o group | 50 francisco street | 70,000-85,000
+maris | degener | linkedin.com/in/maris-degener-1b5240105 | maris@myjustbeyoga.com | current_professional | maris@myjustbeyoga.com | N/A | just be yoga™ llc | 2333 boulevard circle | 85,000-100,000
