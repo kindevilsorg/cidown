@@ -437,17 +437,10 @@ maria | silvestri | linkedin.com/in/mariaesilvestri | maria.silvestri@siriusxm.c
 emoruwa | folayemi | linkedin.com/in/emoruwa-folayemi-a9a81a35 | fola2805@yahoo.com | personal | N/A | N/A | null | null | <20,000
 jennifer | litman | linkedin.com/in/jennifer-litman-440163a8 | jennifer@zonamedspa.com | current_professional | jennifer@zonamedspa.com | N/A | zona med spa | 9767 north 91st street | 70,000-85,000
 nicole | russo | linkedin.com/in/russonicole | nrusso13@hotmail.com | personal | N/A | +18042480611 | enabler media | null | 85,000-100,000
-matteo | mozzato | linkedin.com/in/matteo-mozzato-54010386 | matteomozzato@jeremyhawkins.net | N/A | N/A | N/A | null | null | 45,000-55,000claudia | gerken | linkedin.com/in/claudiagerken | claudia.gerken@hotmail.de | N/A | N/A | N/A | ddb düsseldorf | null | 55,000-70,000
-elizabeth | johnson | linkedin.com/in/elizabeth11 | lizziejohnson92@gmail.com | personal | N/A | +17346640446 | dobi real estate | null | 70,000-85,000
-kim | ostellino | linkedin.com/in/kim-ostellino-a426266b | kim.ostellino@gmail.com | personal | N/A | N/A | berkshiregirl social media manager | null | 85,000-100,000
-pamela | casas | linkedin.com/in/pamelagise | prensaestrada@gmail.com | personal | N/A | N/A | ministerio de la mujer y poblaciones vulnerables | null | <20,000
-jonathan | batson | linkedin.com/in/jonathan-ryan-batson-42a83b28 | jonbatson89@gmail.com | personal | N/A | N/A | student national medical association | 5113 georgia avenue northwest | 100,000-150,000
-lorina | stan | linkedin.com/in/lorinadaiana | lorina@kovachmarketing.com | current_professional | lorina@kovachmarketing.com | N/A | kovach marketing | 7 upper newport plaza | 85,000-100,000
-jeremy | nicolls | linkedin.com/in/jeremynicolls | jeremynicolls@gmail.com | personal | N/A | +13478853649 | null | null | 70,000-85,000
-ramadhanu | rizkinuriza | linkedin.com/in/ramadhanu-rizkinuriza | ramadhanu.rizkinuriza@ui.ac.id | professional | N/A | N/A | billboard indonesia | null | <20,000
-angelo | mazziotti | linkedin.com/in/angelo-mazziotti-66430818 | mazzi.ange@yahoo.com | personal | N/A | N/A | buon gusto | null | 55,000-70,000
-michael | wellvang | linkedin.com/in/michaelwellvang | wellvang@gmail.com | personal | N/A | +16129688133 | democratic socialists of america | 75 maiden lane | 70,000-85,000
-julie | thorup | linkedin.com/in/julie-thorup-961a7820 | julie.thorup@gmail.com | personal | N/A | N/A | thor media | null | 85,000-100,000
-arsela | gjyshja | linkedin.com/in/arsela-gjyshja-24233242 | arsela1234@hotmail.it | personal | N/A | N/A | null | null | 55,000-70,000
-satish | pandey | linkedin.com/in/satishpandey65 | satishpandey65@gmail.com | personal | N/A | N/A | vinsys it services india pvt.ltd. | null | <20,000
-adalis | serrano | linkedin.com/in/adalis-serrano-b5038775 | adalis.serrano@popular.com | professional | N/A | N/A | null | null | 85,000-100,000
+matteo | mozzato | linkedin.com/in/matteo-mozzato-54010386 | matteomozzato@jeremyhawkins.net | N/A | N/A | N/A | null | null | 45,000-55,000mücahit | hoşcan | linkedin.com/in/mucahithoscan | justinfukinwest@gmail.com | personal | N/A | N/A | kaspersky lab turkey | null | <20,000
+traian | racu | linkedin.com/in/traian-racu-2646169 | traianracu@yahoo.com | personal | N/A | N/A | federația română de baschet | null | <20,000
+sosyal | bezelye | linkedin.com/in/sosyal-bezelye-28767966 | sbezelye@yandex.com | current_professional | sbezelye@yandex.com | N/A | yandex | null | <20,000
+mariangel | ramos | linkedin.com/in/mariangel-ramos-8640a736 | marur20@hotmail.com | personal | N/A | N/A | null | null | 20,000-25,000
+charia | mcdonald | linkedin.com/in/chariamrose | cmcdonald@depaul.edu | professional | N/A | +13129221999 | free the work | null | 85,000-100,000
+geraldine | cavagnon | linkedin.com/in/geraldinecavagnon | gcavagnon@yahoo.fr | personal | N/A | N/A | mybrandingpower | null | 45,000-55,000
+roman | sandbanks | linkedin.com/in/roman-sandbanks-aa1ba22a | sandbanks@rocketmail.com | personal | roman@n5r.com | N/A | n5r | null | 55,000-70,000
