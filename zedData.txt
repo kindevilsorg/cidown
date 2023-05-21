@@ -422,4 +422,11 @@ christopher | cargnello | linkedin.com/in/christopher-cargnello-4b133b40 | c.car
 marisa | quijano | linkedin.com/in/marisaquijano06 | mquijano@shipyard.com | professional | N/A | N/A | null | null | 70,000-85,000
 michelle | badiable | linkedin.com/in/michelle-badiable-08889915 | colin_mitchy@yahoo.com | personal | N/A | N/A | fil-am virtual services | null | <20,000
 emily | johnson | linkedin.com/in/emijohn | ejohnson@puroclean.com | professional | N/A | N/A | vivial | 160 inverness drive west | 70,000-85,000
-alicia | song | linkedin.com/in/aliciasong | alicia.song@rallyworldwide.com | professional | alicia.song@iprospect.com | N/A | iprospect | null | <20,000
+alicia | song | linkedin.com/in/aliciasong | alicia.song@rallyworldwide.com | professional | alicia.song@iprospect.com | N/A | iprospect | null | <20,000kaleigh | henderson | linkedin.com/in/kaleigh-henderson-090b2726 | kaleigh.henderson6@gmail.com | personal | N/A | N/A | sephora | null | 55,000-70,000
+mariona | carbonell | linkedin.com/in/marionacarbonell | mariona.carbonell@agrdigital.it | current_professional | mariona.carbonell@agrdigital.it | N/A | prs digital | null | 45,000-55,000
+luna | solomon | linkedin.com/in/luna-solomon-94b27773 | solomonluna@yahoo.com | personal | N/A | N/A | moneta | null | <20,000
+leah | jackson | linkedin.com/in/leah-jackson-9841865a | ljackson@oassist.com | current_professional | ljackson@oassist.com | N/A | oassist llc | 174 nassau street | 85,000-100,000
+michelle | harris | linkedin.com/in/michelle-harris-social-media | michellebharris@gmail.com | personal | N/A | N/A | social media marketing | null | 55,000-70,000
+emem | nnamdie | linkedin.com/in/emem-nnamdie-28212240 | ennamdie@gmail.com | personal | N/A | +18138411327 | kaydyes | null | 85,000-100,000
+vasilis | lampropoulos | linkedin.com/in/lamprva | tsapos@gmail.com | personal | N/A | N/A | european commission | null | 55,000-70,000
+paula | saldarriaga | linkedin.com/in/paulita393 | paulita393@hotmail.com | personal | N/A | N/A | null | null | 55,000-70,000
