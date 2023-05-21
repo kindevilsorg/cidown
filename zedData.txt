@@ -662,13 +662,12 @@ sarah | foradori | linkedin.com/in/sarah-foradori | sarahf@lowrysolutions.com | 
 kostas | kosta | linkedin.com/in/kostas-kosta-a03109a3 | kkosta@eworkswsi.com.cy | current_professional | kkosta@eworkswsi.com.cy | N/A | eworkswsi cyprus | null | 85,000-100,000
 khaled | saber | linkedin.com/in/khaled-saber-09221518b | khaled_saber@outlook.com | personal | N/A | N/A | multi business services "mbs recruitment & hr services" | null | <20,000
 elle | pamintuan | linkedin.com/in/elle-pamintuan-62313a75 | elle.pamintuan@empire-east.com | professional | N/A | N/A | brenpro | null | <20,000
-nina | fordham | linkedin.com/in/nina-fordham-8ba3804a | nina.fordham@debenhams.com | professional | N/A | N/A | campus living villages uk | 1 lowry plaza | 55,000-70,000regie | ramas | linkedin.com/in/rramas90 | regie.ramas@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-casey | mundell | linkedin.com/in/casey-mundell-bb851545 | caseyray570@aol.com | personal | N/A | N/A | once upon an adventure | null | 85,000-100,000
-valentina | spotti | linkedin.com/in/valentinaspotti | valentina.spotti@gmail.com | personal | valentina.spotti@mondadori.it | N/A | mondadori | null | 45,000-55,000
-alexis | merle | linkedin.com/in/alexis-merle-84b8b1b7 | alexis.merle@bva.fr | professional | N/A | N/A | levest | null | 45,000-55,000
-andrea | minnozzi | linkedin.com/in/andrea-minnozzi-82a52340 | andreagila85@hotmail.it | personal | a.minnozzi@hse24.it | N/A | hse24 s.p.a. | null | 45,000-55,000
-gunhild | hune | linkedin.com/in/gunhildhune | gunhild.arbejde@gmail.com | personal | N/A | N/A | andel ltd. | null | 70,000-85,000
-ekta | binjrajka | linkedin.com/in/ekta-binjrajka-34a832106 | ekta@optimizeitsystems.com | professional | N/A | N/A | country harvest | null | <20,000
-thulisa | gogela | linkedin.com/in/thulisa-thuli-gogela-75543112 | tgogela@pioneerfoods.co.za | N/A | N/A | N/A | liquorice digitaslbi | null | <20,000
-amy | cornett | linkedin.com/in/amy-cornett-2124902a | amycornett@comcast.net | personal | N/A | N/A | southern table hospitality | 504 1st avenue south | 70,000-85,000
-amorfhia | manager | linkedin.com/in/amorfhia-social-media-manager-b291025a | amorfhia@amorfhia.com | current_professional | amorfhia@amorfhia.com | N/A | amorfhia | null | <20,000
+nina | fordham | linkedin.com/in/nina-fordham-8ba3804a | nina.fordham@debenhams.com | professional | N/A | N/A | campus living villages uk | 1 lowry plaza | 55,000-70,000tess | bartnicki | linkedin.com/in/tess-bartnicki-8bb47b113 | tbartnicki@flightpath.com | current_professional | tbartnicki@flightpath.com | +12813844537 | flightpath | 36 west 25th street | 85,000-100,000
+celia | martínez | linkedin.com/in/celiavazquezmartinez | celia_7169@hotmail.com | personal | N/A | N/A | yslandia | null | 35,000-45,000
+alex | strubbe | linkedin.com/in/alex-strubbe-68515015b | strubbe76@yahoo.com | personal | N/A | +17873156422 | gr social media | null | 85,000-100,000
+edward | quinn | linkedin.com/in/edward-quinn-439a7973 | equinn@vanderheyden.org | professional | N/A | +15182833458 | troy kitchen | null | 70,000-85,000
+taylor | loving | linkedin.com/in/taylor-loving-646290105 | taylor.loving@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+rachel | johnson | linkedin.com/in/rachel-johnson-88982416 | rachel@dieseldigital.co.uk | professional | N/A | N/A | twelve pr | null | 55,000-70,000
+yainire | de ilarduya sánchez | linkedin.com/in/yainire-mtz-de-ilarduya-sánchez-1a63ba21 | yainire_elorza@hotmail.com | personal | N/A | N/A | the summer agency | null | 35,000-45,000
+pratibha | chakrabarty | linkedin.com/in/pratibha-chakrabarty-a5128a118 | pratibha@advisorkhoj.com | current_professional | pratibha@advisorkhoj.com | N/A | advisorkhoj.com | 10th main | <20,000
+massimo | mantovani | linkedin.com/in/massimomantovani60 | info@massimomantovani.it | professional | N/A | N/A | magenta studio | null | 85,000-100,000
