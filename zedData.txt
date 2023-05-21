@@ -1039,4 +1039,17 @@ albert | rodriguez | linkedin.com/in/albert-rodriguez-a5a3382b | albertcelulares
 cindy | zozo | linkedin.com/in/cindyzozo | zozocindy@gmail.com | personal | cindy@monvanityideal.com | N/A | mon vanity idéal | null | 55,000-70,000
 francesco | urru | linkedin.com/in/francesco-urru-89552925 | 360c6tv@gmail.com | personal | N/A | N/A | radio dei navigli | null | 45,000-55,000
 susan | kuilder | linkedin.com/in/susan-kuilder-06b31139 | sdkuilder@gmail.com | personal | N/A | +12165096720 | world youth day | null | 85,000-100,000
-bhawna | kaneria | linkedin.com/in/bhawna-kaneria-46000282 | bhawnakaneria2812@gmail.com | personal | N/A | N/A | think whynot | null | <20,000
+bhawna | kaneria | linkedin.com/in/bhawna-kaneria-46000282 | bhawnakaneria2812@gmail.com | personal | N/A | N/A | think whynot | null | <20,000ajin | krishna | linkedin.com/in/ajin-krishna-9ba26848 | advt@chemmanurinternational.com | current_professional | advt@chemmanurinternational.com | N/A | chemmanur international jewellers | null | <20,000
+cristina | antonelli | linkedin.com/in/cristina-antonelli-89a6a145 | ant_cri@yahoo.it | personal | N/A | N/A | null | null | 45,000-55,000
+jennifer | littlefield | linkedin.com/in/jennifer-littlefield-79453717 | jennifermcnutt@gmail.com | personal | N/A | N/A | purewest ranches | null | 70,000-85,000
+anne | gibier | linkedin.com/in/annegibier | anne.gibier@gmail.com | personal | anne.gibier@brainstorming.fr | N/A | brainstorming | null | 55,000-70,000
+alejandra | rivero | linkedin.com/in/alerivero | alejandra.rivero@newlink-group.com | professional | N/A | N/A | null | null | 20,000-25,000
+shohel | rana | linkedin.com/in/shohel-rana-98b14134 | shohelsmith@gmail.com | personal | N/A | N/A | null | null | <20,000
+christian | uzcategui | linkedin.com/in/uzcategui001 | c_uzcategui89@hotmail.com | personal | N/A | N/A | guarapo media | null | <20,000
+bettina | baric | linkedin.com/in/bettina-baric-542219153 | bettina.baric@hm.com | current_professional | bettina.baric@hm.com | N/A | h&m | null | 85,000-100,000
+scott | colley | linkedin.com/in/scottcolley | scott@brilliantsocialmedia.co.uk | professional | N/A | N/A | live & breathe | 17 macklin street | 55,000-70,000
+sanjeev | pandey | linkedin.com/in/sanjeev-pandey-198b1147 | sanjeev.pandey41@gmail.com | personal | N/A | N/A | publicis | null | <20,000
+jonathan | ratliff | linkedin.com/in/jonathan-ratliff-1779236 | ikonz219@yahoo.com | personal | N/A | +12193540335 | fetcher media | null | 85,000-100,000
+john | kiddle | linkedin.com/in/john-kiddle-1623a47b | john-kiddle@cmagency.co.uk | current_professional | john-kiddle@cmagency.co.uk | N/A | the content marketing agency ltd | 80 cleethorpe road | 55,000-70,000
+tori | caves | linkedin.com/in/tori-caves-2a469564 | tcaves@palestineschools.org | professional | N/A | N/A | caves jewelry inc | 220 east pleasant run road | 85,000-100,000
+brieanna | fisher | linkedin.com/in/brieannafisher | f.brieanna@gmail.com | personal | bfisher@democracyforamerica.com | +18328302237 | democracy for america | p/o box 1717 | 55,000-70,000
