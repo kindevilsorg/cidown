@@ -694,4 +694,10 @@ edmond | bibaj | linkedin.com/in/eddibibaj | e.bibaj@gmail.com | personal | N/A 
 tim | roberts | linkedin.com/in/phxcoordinator | image_19@yahoo.com | personal | troberts@godaddy.com | +14803299995 | godaddy | 14455 north hayden road | 85,000-100,000
 sara | adami | linkedin.com/in/saraadami | saraadami@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
 kavitha | joshi | linkedin.com/in/kavitha-joshi-6966a373 | kavitha@goldensquare.in | current_professional | kavitha@goldensquare.in | N/A | golden square serviced & virtual office | 102 eden park 20 vittal mallya road | <20,000
-kate | goepferd | linkedin.com/in/kate-goepferd-24155223 | kate.goepferd@gmail.com | personal | kate.goepferd@drmartens.com | N/A | dr martens - airwair international ltd | null | 70,000-85,000
+kate | goepferd | linkedin.com/in/kate-goepferd-24155223 | kate.goepferd@gmail.com | personal | kate.goepferd@drmartens.com | N/A | dr martens - airwair international ltd | null | 70,000-85,000amber | leff | linkedin.com/in/amber-leff-6b77ab9b | amber.leff@upbeatmarketingaustin.com | current_professional | amber.leff@upbeatmarketingaustin.com | N/A | upbeat marketing | 3409 executive center drive | 70,000-85,000
+benoit | prevost | linkedin.com/in/benoit-prevost-socialmedia | bprevost@voyages-sncf.com | professional | N/A | N/A | sidetrade | null | 55,000-70,000
+moses-paula | abustan | linkedin.com/in/moses-paula-abustan-82777a103 | moses-paula.abustan@axa.com.ph | professional | N/A | N/A | null | null | <20,000
+justine | bonnel | linkedin.com/in/justine-bonnel-0853a423 | j-bonnel@hotmail.fr | personal | N/A | N/A | null | null | 55,000-70,000
+raven | favor | linkedin.com/in/ravenfavor | raven.favor@gmail.com | personal | N/A | N/A | scetv | null | 70,000-85,000
+jordi | clapera | linkedin.com/in/jordieto | jordi@clapera.net | professional | N/A | N/A | sr. munera | null | 35,000-45,000
+lauren | wagner | linkedin.com/in/laurenraewagner | lwagner@avedainstitutechapelhill.com | N/A | lauren.wagner@forevercompanies.com | N/A | forever companies | 5050 west ashland way | 70,000-85,000
