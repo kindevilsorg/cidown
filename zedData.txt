@@ -1634,4 +1634,14 @@ héloïse | benguigui | linkedin.com/in/héloïse-benguigui-a0553463 | heloise.b
 brandy | forsman | linkedin.com/in/brandy-forsman-536571102 | brandy.forsman@dailymotion.com | current_professional | brandy.forsman@dailymotion.com | N/A | dailymotion | null | 85,000-100,000
 janos | matuschewski | linkedin.com/in/janosmatuschewski | janos@moviepilot.de | professional | N/A | N/A | red bull | null | 55,000-70,000
 renee | bugden | linkedin.com/in/reneebugden | superfox_888@hotmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-vanessa | nunes | linkedin.com/in/vanessanunesc | mynameisproject@gmail.com | personal | vanessa.nunes@stormcom.co.uk | N/A | storm communications | null | 55,000-70,000
+vanessa | nunes | linkedin.com/in/vanessanunesc | mynameisproject@gmail.com | personal | vanessa.nunes@stormcom.co.uk | N/A | storm communications | null | 55,000-70,000emily | jackson | linkedin.com/in/emily-jackson-91a68117 | ejackson422@gmail.com | personal | N/A | +15628847640 | top practices | 12237 lost treasure avenue | 85,000-100,000
+jordan | bland | linkedin.com/in/jordan-bland-11579aa1 | jayblandy@gmail.com | personal | N/A | N/A | wheelhouse 20/20 | 12600 southwest 72nd avenue | 70,000-85,000
+daniele | magliocca | linkedin.com/in/danielemagliocca | mapep@hotmail.it | personal | N/A | N/A | proforma | 8800 east pleasant valley road | 45,000-55,000
+nate | bull | linkedin.com/in/nate-bull-b461861b0 | nateb@google.com | current_professional | nateb@google.com | N/A | google | 1600 amphitheatre parkway | 85,000-100,000
+silvana | cena | linkedin.com/in/silvanamaricelcena | maricel@link-b.com | current_professional | maricel@link-b.com | N/A | link-b | null | <20,000
+shilpa | suri | linkedin.com/in/shilpasuri25 | shilpasurirockz.258@gmail.com | personal | shilpa@nmsindia.org | N/A | neerja modi school | null | <20,000
+sally | moore | linkedin.com/in/sally-moore-59b77b9a | sally.moore@isentia.com | professional | N/A | N/A | reveal social | null | 70,000-85,000
+dainis | dembovskis | linkedin.com/in/dainis-dembovskis-302a3611b | dainis.dembovskis@bite.lv | current_professional | dainis.dembovskis@bite.lv | N/A | bite latvija | null | 85,000-100,000
+yara | asi | linkedin.com/in/dryaraasi | yara@ucf.edu | professional | N/A | N/A | palestinian american research center | null | 85,000-100,000
+estelle | oltra | linkedin.com/in/estelle-oltra-42200649 | estelle.oltra@creditmutuel.fr | current_professional | estelle.oltra@creditmutuel.fr | N/A | crédit mutuel | null | 55,000-70,000
+pippa | dean | linkedin.com/in/pippa-dean-87b544a7 | pdean@webershandwick.com | professional | N/A | N/A | skiddle | null | 55,000-70,000
