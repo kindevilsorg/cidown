@@ -1753,13 +1753,15 @@ ali | fenwick | linkedin.com/in/alexandrafenwick | alexandrafenwick@yahoo.com | 
 annalisa | sorbi | linkedin.com/in/annalisa-sorbi-b9684b16 | annaliya@libero.it | N/A | N/A | N/A | cooperativa alba | null | 45,000-55,000
 justine | bondoc | linkedin.com/in/justinevbondoc | justine.bondoc@polarion.com | professional | N/A | N/A | siemens plm software | null | 85,000-100,000
 mohamed | sayed | linkedin.com/in/mohamed-sayed-1b30b1110 | msm0007@yahoo.com | personal | N/A | N/A | united tower group | null | 100,000-150,000
-jessey | njau | linkedin.com/in/jesseynjau | jessey.njau@mchizi.com | professional | N/A | N/A | chinawest filmmakers alliance | null | 55,000-70,000juvenal | vargas | linkedin.com/in/juvenal-vargas-76850237 | juvenalprimero@hotmail.com | personal | N/A | N/A | social media digital | null | <20,000
-eric | newman | linkedin.com/in/eric-newman-05a42718 | eric.newman@corporatecompliance.org | current_professional | eric.newman@corporatecompliance.org | +19529880141 | society of corporate compliance and ethics (scce) | 6500 barrie road | 85,000-100,000
-quinn | carlton | linkedin.com/in/quinn-carlton-0412b783 | quinn@tabletopmediagroup.com | current_professional | quinn@tabletopmediagroup.com | N/A | tabletop media group | 170 sallie lou lane | 70,000-85,000
-francesca | knowles | linkedin.com/in/francescaknowles | francesca.marie@mac.com | personal | fknowles@codacorpusa.com | +17165502578 | coda corp usa | null | 85,000-100,000
-nicolas | rusques | linkedin.com/in/nicolasrusques | nicolas.rusques@gmail.com | personal | N/A | N/A | ministère de l'enseignement supérieur et de la recherche (france) | null | 55,000-70,000
-catherine | klaeren | linkedin.com/in/catherine-klaeren-40259496 | catherine.klaeren@googlemail.com | personal | N/A | N/A | beapp | null | 55,000-70,000
-jane | smith | linkedin.com/in/jane-smith-358a7748 | socialmedia@ipscorporation.ca | N/A | N/A | N/A | ips - invoice payment system corporation | 11-1535 meyerside drive | 55,000-70,000
-angela | wagner | linkedin.com/in/angela-wagner-49106438 | e-mas@vtxfree.ch | N/A | N/A | N/A | xeno com | null | 100,000-150,000
-bria | earls | linkedin.com/in/briaearls | bearls@bouncetv.com | current_professional | bearls@bouncetv.com | N/A | bounce tv | null | 85,000-100,000
-stephanie | allor | linkedin.com/in/stephanie-allor-72242b2b | smallor@oakland.edu | N/A | N/A | N/A | marketing associates | 777 woodward avenue | 70,000-85,000
+jessey | njau | linkedin.com/in/jesseynjau | jessey.njau@mchizi.com | professional | N/A | N/A | chinawest filmmakers alliance | null | 55,000-70,000dj | webber | linkedin.com/in/dj-webber-72a7a256 | dj@starkequipment.com | current_professional | dj@starkequipment.com | N/A | stark equipment corporation | p/o box 359 | 85,000-100,000
+katie | crimi | linkedin.com/in/katie-crimi | kcrimi@freepeople.com | professional | N/A | N/A | null | null | 85,000-100,000
+james | larbi | linkedin.com/in/larbijames | james_larbi1@live.co.uk | N/A | N/A | N/A | travelsupermarket.com | null | 55,000-70,000
+erika | ceneda | linkedin.com/in/erikaceneda | erika.ceneda@intermixonline.com | professional | N/A | N/A | trend savvy | 328 victoria avenue | 55,000-70,000
+fernando | segura | linkedin.com/in/fernandohes | fernando.hsegura@gmail.com | personal | N/A | N/A | fcb méxico | null | <20,000
+merel | janmaat | linkedin.com/in/mereljanmaat | merel.janmaat@dille-kamille.com | professional | N/A | N/A | chicas productions | p/o box 100 | 55,000-70,000
+micah | schaffer | linkedin.com/in/w-micahschaffer | micah.schaffer@manpowergroup.com | professional | N/A | +16014340222 | the north star | null | 85,000-100,000
+giacomo | liberto | linkedin.com/in/giacomo-liberto-53b49549 | jumpix88@hotmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+deborah | wardle | linkedin.com/in/deborah-wardle-33154040 | d.l.wardle@hotmail.co.uk | personal | N/A | N/A | independent online marketing | null | 55,000-70,000
+katie | tchintcharauli | linkedin.com/in/katie-tchintcharauli-60012111b | katie@socialsharks.cz | current_professional | katie@socialsharks.cz | N/A | socialsharks | null | 85,000-100,000
+erika | couts | linkedin.com/in/erika-couts-3b856120 | oeron27@yahoo.com | personal | N/A | +18185725935 | null | null | 85,000-100,000
+joshua | sala | linkedin.com/in/joshuasala | joshua.sala88@gmail.com | personal | N/A | N/A | freedata labs | null | 45,000-55,000
