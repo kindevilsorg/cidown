@@ -274,12 +274,16 @@ jennie | boström | linkedin.com/in/jennie-boström-64b5003 | jenniebostrom@hotm
 alyson | bartolomei | linkedin.com/in/alyson-bartolomei-0bab3189 | bartolomei@thebravogroup.com | professional | N/A | N/A | null | null | 70,000-85,000
 ingrid | duarte | linkedin.com/in/ingrid-alvarez-duarte-85501142 | ingridalvarezd@yahoo.com | personal | N/A | N/A | null | null | 35,000-45,000
 thamara | valença | linkedin.com/in/thamaravalenca | thamaravalenca@yahoo.com.br | personal | N/A | N/A | los angeles brazilian film festival | null | 70,000-85,000
-amber | valenzuela | linkedin.com/in/ambervalenzuela | ambervalenzuela@gmail.com | personal | N/A | N/A | traditional medicinals, inc. | 1400 valley house drive | 70,000-85,000jade | jordan | linkedin.com/in/jade-weider-jordan-22428113 | jade.weider@gmail.com | personal | N/A | +13054018046 | social media marketer and content writer | null | 85,000-100,000
-audree | hall | linkedin.com/in/audree-hall-3a22a16 | audree.hall@pearson.com | professional | audree.hall@ellucian.com | +18477293001 | ellucian | 2003 edmund halley drive | 85,000-100,000
-joe | posnanski | linkedin.com/in/joe-posnanski-4096a921 | joe@traffic-prm.com | current_professional | joe@traffic-prm.com | N/A | trafficprm | 4041 forest park avenue | 85,000-100,000
-nicky | chan | linkedin.com/in/nickyckh | nickckh@gmail.com | personal | N/A | N/A | isobar | 20 triton square | 55,000-70,000
-francesco | del franco | linkedin.com/in/francescodelfranco | francesco.delfranco@gmail.com | personal | francescod@spark44.com | N/A | spark44 | 1 old street | 45,000-55,000
-erin | rich | linkedin.com/in/erincrich | erich@nordicnaturals.com | professional | N/A | N/A | null | null | 85,000-100,000
-cecilia | lupano | linkedin.com/in/cecilialupano | sici1983@hotmail.com | personal | cecilia.lupano@iaki.it | N/A | iaki | null | 45,000-55,000
-elodie | nunn | linkedin.com/in/elodie-roux-15915681 | elodie@hertfordmedia.co.uk | current_professional | elodie@hertfordmedia.co.uk | N/A | hertford media ltd | 2 eastbourne terrace | 85,000-100,000
-juliette | millet | linkedin.com/in/juliette-millet-67576094 | jmillet@customary.fr | current_professional | jmillet@customary.fr | N/A | customr group (customary, reachr, youzr) | null | 55,000-70,000
+amber | valenzuela | linkedin.com/in/ambervalenzuela | ambervalenzuela@gmail.com | personal | N/A | N/A | traditional medicinals, inc. | 1400 valley house drive | 70,000-85,000lauren | ravotti | linkedin.com/in/lauren-ravotti-70219592 | lravotti@healthpointchc.org | professional | N/A | N/A | all around 516 | null | 70,000-85,000
+allison | shimp | linkedin.com/in/allison-shimp-a5a48a20 | shimp_alli@bentley.edu | N/A | N/A | N/A | agency 5 | null | 85,000-100,000
+larisa | calog | linkedin.com/in/larisa-dean-calog-3aa788185 | larisadeanwang@gmail.com | personal | N/A | N/A | nex2global co., ltd. | null | <20,000
+tom | mclaughlin | linkedin.com/in/tom-mclaughlin-61259534 | hawkdad1973@aim.com | personal | N/A | N/A | null | null | 85,000-100,000
+arrie | gardner | linkedin.com/in/arrie-gardner-0a05676 | arrie.gardner@harrisbank.com | current_professional | arrie.gardner@harrisbank.com | N/A | bmo harris bank | 111 west monroe street | 85,000-100,000
+tania | bolsi | linkedin.com/in/tania-bolsi-699ab716 | taniabolsi@yahoo.it | personal | N/A | N/A | white, red & green | null | 45,000-55,000
+mary | buckley | linkedin.com/in/mary-buckley-05915626 | m_buckley@ymail.com | personal | N/A | N/A | horans health store | null | 70,000-85,000
+caterina | fuhrmeister | linkedin.com/in/kb3poa | cstewart6106@students.mc3.edu | N/A | N/A | N/A | private rail charters | null | 85,000-100,000
+tristan | bacon | linkedin.com/in/tristanbacon | tristanojbacon@gmail.com | personal | N/A | N/A | expressvpn | null | 55,000-70,000
+sofia | granath | linkedin.com/in/granathsofia | sofia.granath@sfstudios.se | current_professional | sofia.granath@sfstudios.se | N/A | sf studios | null | 70,000-85,000
+blaine | dunford | linkedin.com/in/blainedunford | bdunfo1@students.towson.edu | N/A | N/A | N/A | crosby marketing communications | 705 melvin avenue | 70,000-85,000
+foster | kleinstiver | linkedin.com/in/anteaterinc | zkleinstiver@hotmail.com | personal | kim@anteater.ws | +16238771017 | anteater exterminating, inc. | 14454 west monterey way | 85,000-100,000
+alice | strete | linkedin.com/in/alicestrete | alice.strt@yahoo.com | personal | N/A | N/A | fairplanet.org | null | 55,000-70,000
