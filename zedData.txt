@@ -21,4 +21,15 @@ marianne | lescure | linkedin.com/in/marianne-lescure-9531a543 | marianne.lescur
 aspasia | kalomoiri | linkedin.com/in/aspasia-kalomoiri-05273631 | a.kalomoiri@live.com | personal | N/A | N/A | sinis group | null | 25,000-35,000
 marta | lera | linkedin.com/in/marta-lera-78526544 | martalera@hotmail.it | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
 francesco | nanni | linkedin.com/in/francesco-nanni | f.nanni@yahoo.co.uk | personal | N/A | N/A | askfrankie | null | 85,000-100,000
-ankit | sharma | linkedin.com/in/ankit-sharma-b6371372 | asharma@amity.edu | professional | N/A | N/A | aastha tv - india | null | <20,000
+ankit | sharma | linkedin.com/in/ankit-sharma-b6371372 | asharma@amity.edu | professional | N/A | N/A | aastha tv - india | null | <20,000jeri | klein | linkedin.com/in/jeriklein | jeri_klein@yahoo.com | personal | N/A | N/A | partnership for palliative care | 6 west 48th street | 85,000-100,000
+kaytlin | nowell | linkedin.com/in/kaytlin-nowell | kaytlin.nowell@gmail.com | personal | N/A | +19016745734 | southern methodist university | 6423 boaz lane | 70,000-85,000
+maría | varo | linkedin.com/in/maría-rubio-varo-346b2047 | medea_rv@hotmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+pauline | magne | linkedin.com/in/pauline-magne-bb8575b7 | pmagne@arcadsoftware.com | professional | N/A | N/A | agence paprika | null | 45,000-55,000
+vicky | oddi | linkedin.com/in/vickyoddi | vicky.oddi@hotmail.com | personal | N/A | N/A | jackie joyner-kersee foundation | null | 70,000-85,000
+katharina | koch | linkedin.com/in/katharina-koch-523220b6 | koch.k@zdf.de | professional | N/A | N/A | paul smith | 20 kean street | 70,000-85,000
+anthony | ramos | linkedin.com/in/tonyoramos | anthonyoctavioramos@gmail.com | personal | ramos@healbe.com | +13523598313 | healbe corporation | null | 70,000-85,000
+justin | kroboth | linkedin.com/in/justin-kroboth-4a43b517 | jkroboth7@aol.com | personal | N/A | N/A | sfh - stronger faster healthier | 825 atlantic highway | 85,000-100,000
+miriam | barad | linkedin.com/in/miriam-barad-28821965 | miriam.barad@gmail.com | personal | miriam@drinkedin.net | N/A | drinkedin | null | 55,000-70,000
+michael | sierra | linkedin.com/in/michaelsierra1 | michaelsierra443@yahoo.comi | N/A | N/A | N/A | null | null | 70,000-85,000
+kathryn | williams | linkedin.com/in/kathryn-williams-56b59792 | kathryn_williams@anninc.com | professional | N/A | N/A | mi jong lee | null | 85,000-100,000
+cheryl | walker | linkedin.com/in/cheryl-walker-64046035 | cwalke11@harding.edu | professional | N/A | N/A | cox berry farm | null | 85,000-100,000
