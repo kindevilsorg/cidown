@@ -236,21 +236,14 @@ jacinta | hunter | linkedin.com/in/jacintamaud | jacintamaud@hotmail.co.uk | per
 aniket | sawant | linkedin.com/in/aniket-sawant-0261ab6a | aniket@theglitch.in | professional | N/A | N/A | ideatelabs | null | <20,000
 james | flath | linkedin.com/in/james-flath-a89ba044 | jdf7324@truman.edu | professional | N/A | N/A | intouch solutions | 7045 college boulevard | 85,000-100,000
 donna | genaw | linkedin.com/in/donna-genaw-84300415 | dgenaw@heritage.com | professional | N/A | +13136907179 | ats advisors a cpa company | null | 85,000-100,000
-lisa | johansson | linkedin.com/in/lisa-johansson-986b98b | ldashiell@gmail.com | personal | N/A | N/A | all-in-one social media | null | 85,000-100,000giulia | vettese | linkedin.com/in/giulia-vettese-7813a228 | vettese.giulia@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-nathalie | tachet | linkedin.com/in/nathalietachet | nathalie.tachet@lafraise.com | professional | N/A | N/A | nathalietachet | null | 100,000-150,000
-jazmin | duarte | linkedin.com/in/jazminduarte | jfduarte92@gmail.com | personal | N/A | N/A | fitness rox | null | 70,000-85,000
-kyle | pace | linkedin.com/in/kyle-pace-293075b4 | kyle@juhll.com | professional | kpace@omniadvertising.com | N/A | omni advertising | 622 banyan trail | 85,000-100,000
-ignaura | solimán | linkedin.com/in/ignaura-tejeda-solimán-409a3822 | ignaura@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-andrew | johnson-schmit | linkedin.com/in/andrew-johnson-schmit-57726a6 | coyoteradiotheater@gmail.com | personal | N/A | +19289256830 | slackerwriter | null | 70,000-85,000
-kelly | bennett | linkedin.com/in/kellybennett11 | bennetka@muohio.edu | N/A | N/A | +13306125421 | null | null | 85,000-100,000
-zia | bradley | linkedin.com/in/ziabradley | zbradley@footlocker.com | professional | N/A | N/A | hie living | null | 85,000-100,000
-pietro | giammona | linkedin.com/in/pietro-giammona-43a9803b | pietrogiammona@gmail.com | personal | N/A | N/A | presidenza del consiglio dei ministri | null | 45,000-55,000
-stacy | bauer | linkedin.com/in/stacy-bauer-78370256 | stacy@weddingsparrow.co.uk | current_professional | stacy@weddingsparrow.co.uk | N/A | wedding sparrow | null | 70,000-85,000
-rachael | kotadia | linkedin.com/in/rachael-kotadia-6b94399b | rachael.kotadia@ubs.com | current_professional | rachael.kotadia@ubs.com | +12128825000 | ubs | null | 55,000-70,000
-manoela | meirelles | linkedin.com/in/manoela-meirelles-022960a6 | manoelam@oitozerooito.com.br | professional | N/A | N/A | mater digital | null | 25,000-35,000
-eric | garcia | linkedin.com/in/eric-garcia-44454331 | fskane67@gmail.com | personal | N/A | N/A | breeze in | null | 85,000-100,000
-megi | rusia | linkedin.com/in/megi-rusia-797247b8 | m.rusia@diogene.ge | current_professional | m.rusia@diogene.ge | N/A | diogene publishers | null | 85,000-100,000
-kailas | dingankar | linkedin.com/in/kailasdingankar | kailas@shotformats.com | professional | N/A | N/A | null | null | <20,000
-courtney | howell | linkedin.com/in/courtneylhowell | howellco21@yahoo.com | personal | N/A | N/A | goldfish swim school franchising, llc | 2701 industrial row drive | 70,000-85,000
-anthony | furnas | linkedin.com/in/anthony-furnas | arfurnas@hotmail.com | personal | N/A | N/A | telnyx | 311 west superior street | 85,000-100,000
-janne | raudla | linkedin.com/in/janne-raudla-36374524 | janne.raudla@eesti.ee | professional | N/A | N/A | omniva | null | 85,000-100,000
+lisa | johansson | linkedin.com/in/lisa-johansson-986b98b | ldashiell@gmail.com | personal | N/A | N/A | all-in-one social media | null | 85,000-100,000rocky | mcstone | linkedin.com/in/rocky-mcstone-51b52943 | rmcstone@esrock.com | current_professional | rmcstone@esrock.com | N/A | esrock partners | 60 north frontage road | 85,000-100,000
+andrea | patrulescu | linkedin.com/in/andrea-patrulescu-58993497 | andrea.patrulescu@anytimefitness.com | professional | N/A | N/A | boozebud | null | 70,000-85,000
+emma | kamhi | linkedin.com/in/emma-kamhi-b2a8b0b3 | ekamhi@skyesolutions.com | current_professional | ekamhi@skyesolutions.com | N/A | skye recruitment solutions | 600 cleveland street | 85,000-100,000
+barbara | gnägi | linkedin.com/in/barbara-gnägi-64687411 | babsg10@bluewin.ch | N/A | N/A | N/A | universität bern | null | 100,000-150,000
+saskia | kivi | linkedin.com/in/saskia-kivi-47036a106 | saskia.kivi@gmail.com | personal | N/A | N/A | elisa eesti as | null | 85,000-100,000
+shilpa | srivastava | linkedin.com/in/shilpa70 | shilpa70@gmail.com | personal | N/A | N/A | compare infobase limited | null | <20,000
+jules | pierson | linkedin.com/in/jules-pierson-253584b0 | jp@grenade-sparks.com | professional | N/A | N/A | bang bang management | null | 45,000-55,000
+olivia | lilley | linkedin.com/in/olivialilley | twentypens.orl@gmail.com | personal | N/A | N/A | willchill | null | 70,000-85,000
+radka | gottwaldová | linkedin.com/in/radkagottwaldova | razi@seznam.cz | personal | N/A | N/A | samsung electronics | null | 85,000-100,000
+justin | ferk | linkedin.com/in/justin-ferk-31859120 | j_ferk@yahoo.com | personal | N/A | +15613945349 | nkp medical marketing, inc. | 8929 south sepulveda boulevard | 70,000-85,000
+katie | brandt | linkedin.com/in/katie-brandt-conner | brandtkatherine@gmail.com | personal | N/A | N/A | thrivent financial | 625 fourth avenue south | 85,000-100,000
