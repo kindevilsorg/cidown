@@ -333,4 +333,16 @@ kristen | kinstler | linkedin.com/in/kkinstler | kk_kaktus@bigpond.com | persona
 jasmine | ancrum | linkedin.com/in/jasmineancrum | jda.ent@gmail.com | personal | N/A | N/A | carestream dental | 3625 cumberland boulevard southeast | 70,000-85,000
 emily | benson | linkedin.com/in/emilyrbenson | emyrose@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
 kim | anderson | linkedin.com/in/kim-anderson-94478a | kimzinkgraf@hotmail.com | personal | N/A | N/A | outside analytics | 10901 west 120th avenue | 85,000-100,000
-ali | murbe | linkedin.com/in/ali-murbe-a1925935 | amurbe@psi.org | professional | N/A | N/A | upwork | 2625 augustine drive | <20,000
+ali | murbe | linkedin.com/in/ali-murbe-a1925935 | amurbe@psi.org | professional | N/A | N/A | upwork | 2625 augustine drive | <20,000patrick | mcneil | linkedin.com/in/patrick-mcneil-0929715 | patrickryne@gmail.com | personal | mcneil@civilrights.org | +16105071711 | the leadership conference on civil and human rights | 1620 l street northwest | 85,000-100,000
+dan | burgos | linkedin.com/in/dan-burgos-50b22642 | agentburgos@comicbooktherapy.com | professional | N/A | N/A | the li'l depressed boy | null | 85,000-100,000
+lara | holt | linkedin.com/in/laraelizabethborgholt | lara@wahinemedia.com | professional | N/A | N/A | vivial | 160 inverness drive west | 85,000-100,000
+glenn | woods | linkedin.com/in/iamgwoods | glenn.woods@elizabethbaptist.org | professional | N/A | N/A | tv one | null | 85,000-100,000
+natalie | mccaskill | linkedin.com/in/natalie-mccaskill-69b0b785 | natalie.mccaskill@open.ac.uk | current_professional | natalie.mccaskill@open.ac.uk | N/A | the open university | null | 55,000-70,000
+monica | mureddu | linkedin.com/in/monicamureddu | monicamureddu@gmail.com | personal | N/A | N/A | gal barbagia | null | 85,000-100,000
+ivona | josipovic | linkedin.com/in/ivona-josipovic-9a621649 | josipovic.ivona@gmail.com | personal | N/A | N/A | roaring romania tours | null | 70,000-85,000
+kari-ann | wanat | linkedin.com/in/kari-ann-wanat-9b35948 | kboose78@hotmail.com | personal | N/A | +19172612168 | the reggae marathon | null | 85,000-100,000
+brandi | bowers | linkedin.com/in/brandimbarker | bbowers@nexstar.tv | professional | N/A | N/A | em-media, inc. | 2728 sunset boulevard | 70,000-85,000
+miguel | davila | linkedin.com/in/miguel-davila-5a68392b | daevilus@gmail.com | personal | N/A | N/A | independent | null | 85,000-100,000
+ashley | robinson | linkedin.com/in/12amsunshine | ashley@vsco.co | current_professional | ashley@vsco.co | N/A | vsco® | 1500 broadway | 85,000-100,000
+anne | hathcock | linkedin.com/in/anne-marie-hathcock-4324646 | annemariehathcock@yahoo.com | personal | N/A | N/A | moonbug entertainment | null | 85,000-100,000
+amita | bhoir | linkedin.com/in/amitabhoir | amita.bhoir@gmail.com | personal | N/A | N/A | spicetree design agency (sda) | null | <20,000
