@@ -1543,4 +1543,21 @@ david | schaub | linkedin.com/in/dschaub | davidschaub@tumblr.com | N/A | N/A | 
 arnobi | de | linkedin.com/in/arnobide | arnobide4@gmail.com | personal | N/A | +13233569466 | null | null | <20,000
 emilie | legendre | linkedin.com/in/emilie-legendre-58715414 | emilie.legendre981@hotmail.fr | personal | N/A | N/A | bhv | null | 55,000-70,000
 jenny | morning | linkedin.com/in/jenny-morning | jenny.morning@ashurst.com | current_professional | jenny.morning@ashurst.com | N/A | ashurst | 1 duval square | 55,000-70,000
-sara | chessa | linkedin.com/in/sara-chessa-0047a717 | sarachessa@amm.unica.it | N/A | N/A | N/A | social click | null | 85,000-100,000
+sara | chessa | linkedin.com/in/sara-chessa-0047a717 | sarachessa@amm.unica.it | N/A | N/A | N/A | social click | null | 85,000-100,000michelle | guerrero | linkedin.com/in/michelle-giselle-guerrero-29988a111 | michelly023@yahoo.com | personal | N/A | N/A | high q digital | 4657 hollywood boulevard | 55,000-70,000
+walid | tueni | linkedin.com/in/walid-tueni-378a8bba | walidtueni@khoolood.com | current_professional | walidtueni@khoolood.com | N/A | khoolood.com | null | 85,000-100,000
+amy | priestley | linkedin.com/in/amy-priestley-73a61971 | amy.priestley@river-island.com | professional | amy.priestley@nobodyschild.com | N/A | nobody's child | 36-38 mortimer street | 55,000-70,000
+edward | white | linkedin.com/in/eddiewhite24 | mexicanballa2424@hotmail.com | personal | N/A | +13039465030 | cec document services | 4865 oakland street | 85,000-100,000
+jamie | robbins | linkedin.com/in/jamie-robbins-b724386b | jrobbins@swchristian.org | professional | N/A | +17083887656 | budget blinds of kokomo in | null | 70,000-85,000
+kudzanai | chimeri | linkedin.com/in/kudzanai-chimeri-11628549 | hwutton@gmail.com | personal | N/A | N/A | null | null | <20,000
+outbuzz | biz | linkedin.com/in/outbuzz-biz-145bb831 | outbuzz@gmail.com | personal | N/A | N/A | outbuzz | null | 85,000-100,000
+julie | dagenais | linkedin.com/in/julie-dagenais-067aa248 | julie.dagenais@belairdirect.com | professional | N/A | N/A | les princes sports team and charity | null | 55,000-70,000
+brian | gibbs | linkedin.com/in/brian-gibbs-b46b48111 | brian_gibbs@newyorklife.com | professional | N/A | +18432857075 | submitedge | null | 70,000-85,000
+darren | ferguson | linkedin.com/in/darrenferguson1 | my30yearstory@hotmail.co.uk | personal | N/A | N/A | faith dimensions ministries | null | 55,000-70,000
+jordan | gray | linkedin.com/in/jrdngray | jgray@zimmerman.com | current_professional | jgray@zimmerman.com | N/A | the zimmerman agency | 1821 miccosukee commons | 70,000-85,000
+elaine | caul | linkedin.com/in/elaine-caul-67431926 | elaine.caul@gmail.com | personal | N/A | N/A | music matters inclusive community choirs | null | 70,000-85,000
+barbara | della torre | linkedin.com/in/barbaradellatorre | dellatorre.b@gmail.com | personal | N/A | N/A | lostudiobianco | null | 45,000-55,000
+isabelle | estrin | linkedin.com/in/isabelleestrin | isabelleestrin@yahoo.com | personal | N/A | +14049365368 | rebag | 260 west 35th street | 85,000-100,000
+valeria | cardoch | linkedin.com/in/valeria-cardoch-99003946 | cardoch.a@gmail.com | personal | N/A | N/A | smag graphique | null | 55,000-70,000
+linda | hughes | linkedin.com/in/succesisme | succesisme7@gmail.com | personal | N/A | N/A | get brand junkie social | null | 70,000-85,000
+stéphanie | laperle | linkedin.com/in/stéphanie-laperle | slaperle@cegid.com | current_professional | slaperle@cegid.com | N/A | cegid | null | 45,000-55,000
+gisela | perichon | linkedin.com/in/gisela-paola-perichon-541b7336 | gigisoul@hotmail.com | professional | N/A | N/A | trifont | null | 35,000-45,000
