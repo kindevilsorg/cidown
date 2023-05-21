@@ -1418,4 +1418,12 @@ donnacha | kenny | linkedin.com/in/donnacha-kenny | donnacha13@gmail.com | perso
 cara | carter-mcdonald | linkedin.com/in/cara-carter-mcdonald-53505585 | cara.carter-mcdonald@scala.com | professional | N/A | N/A | ringwood health clinic ltd | null | 55,000-70,000
 jenna | millemann | linkedin.com/in/jenna-millemann-5949a75 | jenna@echosports.com | N/A | N/A | N/A | viator | 360 3rd street | 70,000-85,000
 mayoli | weidelich | linkedin.com/in/mayoliweidelich | mayoli_weidelich@toyota.com | professional | mayoli.weidelich@cma.ca | +16473909546 | md financial management | gestion financière md | 1870 alta vista drive | 55,000-70,000
-ashley | rogers | linkedin.com/in/arogers84 | ashleyrogers@lrec.org | N/A | N/A | N/A | alert 360 | 2448 east 81st street south | 85,000-100,000
+ashley | rogers | linkedin.com/in/arogers84 | ashleyrogers@lrec.org | N/A | N/A | N/A | alert 360 | 2448 east 81st street south | 85,000-100,000margo | showers | linkedin.com/in/margo-showers-0a53623 | margoshowers@hotmail.com | personal | margo@steppingstories.com | +14157138429 | stepping stories | 12242 business park drive | 70,000-85,000
+deborah | sitbon | linkedin.com/in/deborah-sitbon-1949b49 | deborahs359@hotmail.com | personal | N/A | N/A | decorasol | null | 55,000-70,000
+erich | donaldson | linkedin.com/in/sermonsdomain | sermonsdomain@gmail.com | professional | N/A | N/A | visionary music group | null | 85,000-100,000
+erica | lonabaugh | linkedin.com/in/erica-lonabaugh-5b109b49 | erica@relate24.com | professional | N/A | N/A | country visions cooperative | 709 mill street | 85,000-100,000
+melissa | mitchell | linkedin.com/in/melissamitchell | sippycupmom@gmail.com | professional | N/A | N/A | cambrick yard | null | 85,000-100,000
+marcos | montiel | linkedin.com/in/marcos-bruno-montiel-45038b18 | marcosbrunomontiel@gmail.com | personal | N/A | N/A | el tribuno | null | <20,000
+amanda | prince | linkedin.com/in/amanda-prince-494a2392 | aprince2o12@gmail.com | personal | amanda@americommarketing.com | +14097285335 | americom marketing lp | 2615 calder avenue | 70,000-85,000
+megan | pinckney | linkedin.com/in/megan-pinckney-56a06393 | pinckney@sc.edu | professional | N/A | N/A | pinck strategies | null | 70,000-85,000
+ishita | nag | linkedin.com/in/ishitanag | isabella.nag@gmail.com | personal | N/A | N/A | aakash educational services limited | null | <20,000
