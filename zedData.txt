@@ -243,19 +243,11 @@ katherine | hager | linkedin.com/in/katherine-hager-a9435245 | katherine.hager@g
 danielle | rast | linkedin.com/in/daniellegamache | d.d.gamache@gmail.com | personal | N/A | N/A | swiss performance sailing | null | 100,000-150,000
 gregory | hawkins | linkedin.com/in/gregory-hawkinsjr | greg.hawkins21@gmail.com | personal | N/A | N/A | capital one | 1680 capital one drive | 85,000-100,000
 alessandro | guida | linkedin.com/in/alessandro-guida-956b76a6 | alessandroguida@ied.edu | N/A | N/A | N/A | errani studio | null | 45,000-55,000
-thelma | sanderson | linkedin.com/in/thelma-sanderson-98a8b131 | itscarrietaylor@aol.com | personal | N/A | +13474857022 | new life bible church | null | 70,000-85,000nick | gargiula | linkedin.com/in/nick-gargiula-012005118 | nick@deltaexteriorsstl.com | current_professional | nick@deltaexteriorsstl.com | N/A | delta exteriors | 8220 delmar boulevard | 70,000-85,000
-joseph | josephry | linkedin.com/in/joseph-josephry-4ab20747 | andrew@triplefourdesign.com | N/A | N/A | N/A | socialr | null | 70,000-85,000
-natalie | pflug | linkedin.com/in/nataliepflug | natalie.engelhardt@sycor.de | current_professional | natalie.engelhardt@sycor.de | N/A | sycor | null | 70,000-85,000
-katie | lenhart | linkedin.com/in/katie-lenhart | klenhart@kochcomm.com | professional | N/A | +14058154027 | central oklahoma federal credit union | null | 70,000-85,000
-jamin | washington | linkedin.com/in/jaminwashington | jaminwashington@gmail.com | personal | N/A | N/A | affordable health insurance agency | 7330 san pedro avenue | 85,000-100,000
-celinda | scott | linkedin.com/in/cmnichole | cscott@rivervalleycu.org | professional | N/A | +19378591970 | aliber's bridal shop | null | 70,000-85,000
-serena | lebessis | linkedin.com/in/serena-lebessis-bb851663 | serenalebessis@gmail.com | personal | N/A | N/A | sk intertainment, inc. | null | 85,000-100,000
-alessandra | vancheri | linkedin.com/in/alessandra-vancheri-3744ab82 | a.vancheri@inputidea.it | current_professional | a.vancheri@inputidea.it | N/A | input srl | null | 45,000-55,000
-jennifer | rock | linkedin.com/in/jenrock1 | jennifer.rock27@gmail.com | personal | N/A | +18184029441 | null | null | 85,000-100,000
-andrew | good | linkedin.com/in/awgood | andrewwilliamgood@gmail.com | personal | N/A | N/A | broadway's calling with lance roberts | null | 100,000-150,000
-eliud | rivera | linkedin.com/in/eliud-rivera-a55b9bb1 | erivera@bgca.org | professional | N/A | N/A | jabbolabs | null | 85,000-100,000
-mary | ossa | linkedin.com/in/mary-anna-ossa-5708b14 | maryanna24nc@yahoo.com | personal | N/A | N/A | ossa studio pllc | null | 70,000-85,000
-marian | oruña | linkedin.com/in/marian-abascal-oruña-3b802045 | marian_a@ono.com | N/A | N/A | N/A | social media | null | 35,000-45,000
-samantha | cummons | linkedin.com/in/samanthacummons | samantha.cummons@cbsradio.com | professional | N/A | N/A | valley forge tourism & convention board | 1000 first avenue | 85,000-100,000
-john | wright | linkedin.com/in/johnswright | jwright45a@yahoo.com | personal | N/A | +17577935812 | null | null | 85,000-100,000
-stefano | chiatto | linkedin.com/in/stelochiatto | stefano@befamily.it | current_professional | stefano@befamily.it | N/A | be.family | null | 45,000-55,000
+thelma | sanderson | linkedin.com/in/thelma-sanderson-98a8b131 | itscarrietaylor@aol.com | personal | N/A | +13474857022 | new life bible church | null | 70,000-85,000ioanna | drakatou | linkedin.com/in/ioanna-drakatou-5946733a | idrakatou@hotmail.com | personal | N/A | N/A | null | null | 25,000-35,000
+michelle | faid | linkedin.com/in/michelle-faid-a083286 | michelle.faid@crotchedmountain.org | professional | N/A | N/A | hasoptimization | 125 asby road | 70,000-85,000
+pedro | corbelle | linkedin.com/in/pedro-canton-corbelle-69914064 | pedro.corbelle@telefonica.com | current_professional | pedro.corbelle@telefonica.com | N/A | telefónica | null | <20,000
+olivia | farrell | linkedin.com/in/oliviaemilyfarrell | olivia@nobull-communications.co.uk | professional | N/A | N/A | tui | null | 55,000-70,000
+reza | vedadi | linkedin.com/in/rezajohnvedadi | john@barrpictures.co.uk | current_professional | john@barrpictures.co.uk | N/A | barr pictures | null | 70,000-85,000
+jaffar | mjasiri | linkedin.com/in/jaffar-z-mjasiri-86069928 | jmriha@hotmail.com | personal | N/A | +12024200884 | netcom group s.p.a | null | 85,000-100,000
+jill | krugman | linkedin.com/in/jillkrugman | jill.krugman@lmco.com | current_professional | jill.krugman@lmco.com | +18567223336 | lockheed martin | 6801 rockledge drive | 85,000-100,000
+minoo | behzadi | linkedin.com/in/minoo-behzadi-aa6629aa | minoo.behzadi@ilsc.com | professional | N/A | N/A | upguys | null | 55,000-70,000
