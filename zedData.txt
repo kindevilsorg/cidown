@@ -905,4 +905,14 @@ lucia | falagan | linkedin.com/in/luciafalagan | luciafalagan@fab-social.com | c
 reginne | bondoc | linkedin.com/in/reginne-bondoc-02694b69 | bondocr@exchangebank.com | professional | N/A | +14153422418 | uchiwa ramen | null | 85,000-100,000
 mugambi | neville | linkedin.com/in/mugambi-neville-7447211a | nevillemugz@gmail.com | personal | N/A | N/A | sifasafi solutions | null | <20,000
 krystyna | krajevskaja | linkedin.com/in/krajkrys | krystyna.krajevskaja@danskebank.lt | professional | N/A | N/A | whatagraph.com | null | 85,000-100,000
-carme | munné | linkedin.com/in/carmecaralt | carmecaralt@gmail.com | personal | N/A | N/A | principios interactivos | null | 35,000-45,000
+carme | munné | linkedin.com/in/carmecaralt | carmecaralt@gmail.com | personal | N/A | N/A | principios interactivos | null | 35,000-45,000metz | miranda | linkedin.com/in/metz-miranda-41997877 | metzsmiranda@yahoo.com | personal | N/A | N/A | null | null | <20,000
+bianca | ferrari | linkedin.com/in/biancaferrari | bia.hvid@gmail.com | personal | N/A | N/A | leo burnett italia | null | 45,000-55,000
+jenny | ballin | linkedin.com/in/jenny-ballin-430344102 | jenny.ballin@stadium.se | current_professional | jenny.ballin@stadium.se | N/A | stadium | null | 85,000-100,000
+john | hays | linkedin.com/in/johnhays | jimmyolsen@yahoo.com | personal | N/A | +19726726856 | globe life | 3700 south stonebridge drive | 100,000-150,000
+kenzi | williamson | linkedin.com/in/kenzi-williamson-428834164 | kenziwilliamsonn@gmail.com | personal | N/A | +16619124153 | american kids sports center | 3622 allen road | 100,000-150,000
+justin | cross | linkedin.com/in/justin-cross-45450923 | justcross@gmail.com | personal | justin.cross@roberthalf.com | +19046357684 | robert half | 2884 sand hill road | 85,000-100,000
+marta | hidalgo | linkedin.com/in/hidalgomarta | martita_h@hotmail.com | personal | N/A | N/A | sapos y princesas | null | 35,000-45,000
+jessica | ivetich | linkedin.com/in/jessica-ivetich | jivetich@indiana.edu | professional | N/A | +12193788574 | vote.org | null | 70,000-85,000
+maclina | lopes | linkedin.com/in/maclina-lopes-5a92b649 | maculopes@gmail.com | personal | N/A | N/A | roche diagnostics india, neighbouring markets | null | <20,000
+dorottya | csak | linkedin.com/in/dorottyacsak | csakdorottya@yahoo.com | personal | N/A | N/A | eit digital | null | 20,000-25,000
+bethany | farr | linkedin.com/in/bethanyfarr | bfarr@oxfam.org.uk | professional | N/A | N/A | bethanyfarr.com | null | 55,000-70,000
