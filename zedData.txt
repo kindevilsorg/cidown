@@ -318,4 +318,19 @@ tiffany | kronz | linkedin.com/in/tiffanykronz | tiffany.marrufo@gmail.com | per
 artis | kalveits | linkedin.com/in/artiskalveits | artis@deals.lv | N/A | N/A | N/A | tet.lv | null | 70,000-85,000
 amy | nicholson | linkedin.com/in/amy-nicholson-b1b43219 | nicholson_amy@hotmail.co.uk | personal | N/A | N/A | social buzzing | 26 york street | 55,000-70,000
 laurie | froehlingsdorf | linkedin.com/in/laurie-froehlingsdorf-438a2042 | laurie@shoutlife.net | professional | N/A | +17632223535 | marriage builders | null | 85,000-100,000
-daniela | samek | linkedin.com/in/daniela-samek-2467a0aa | daniela.samek@betamodus.de | current_professional | daniela.samek@betamodus.de | N/A | betamodus gmbh | null | 55,000-70,000
+daniela | samek | linkedin.com/in/daniela-samek-2467a0aa | daniela.samek@betamodus.de | current_professional | daniela.samek@betamodus.de | N/A | betamodus gmbh | null | 55,000-70,000dixie | crabtree | linkedin.com/in/dixie-crabtree-1a34a817 | dixiejean59@gmail.com | personal | N/A | +16512316717 | north star family chiropractic maximized living | null | 85,000-100,000
+alessio | ercoli | linkedin.com/in/alessioercoli | alessio.ercoli@comune.biella.it | professional | N/A | N/A | btrees | null | 45,000-55,000
+yaman | samman | linkedin.com/in/yaman-samman-586bb039 | yamsami@hotmail.com | personal | N/A | N/A | alkhaleejonline | null | <20,000
+katie | bowkett | linkedin.com/in/katie-bowkett-66423264 | katie.bowkett@harrods.com | professional | k.bowkett@aquazzura.com | N/A | aquazzura | null | 55,000-70,000
+felipe | ayala | linkedin.com/in/ayalafelipe | felipea@childrensaidsociety.org | professional | N/A | N/A | advocates corner | null | 85,000-100,000
+domaine | carneros | linkedin.com/in/domaine-carneros-8403a1117 | dcarneros@moanarestaurantgroup.com | N/A | N/A | N/A | domaine carneros winery | 1240 duhig road | 85,000-100,000
+claudia | pereyra | linkedin.com/in/claudiapereyra | claudiabpereyra@msn.com | personal | claudiapereyra@sonicapro.com.ar | N/A | sonica pro | null | 20,000-25,000
+norah | ikoh | linkedin.com/in/norah-ikoh-833440a | norahikoh@yahoo.com | personal | norah.ikoh@ringier.ng | N/A | ringier nigeria | null | 85,000-100,000
+lilly | weil | linkedin.com/in/lilly-weil-62927a91 | lweil@prg.com | professional | N/A | N/A | teamfirst soccer academy | null | 100,000-150,000
+sanjay | bhat | linkedin.com/in/sanjay-bhat-b9539124 | sanjay.bb@gmail.com | personal | N/A | N/A | top level technology solutions | null | <20,000
+udaya | kumar | linkedin.com/in/udaya-kumar-721556107 | udaya.kumar@kaseya.com | current_professional | udaya.kumar@kaseya.com | N/A | kaseya | null | 85,000-100,000
+kristen | kinstler | linkedin.com/in/kkinstler | kk_kaktus@bigpond.com | personal | N/A | +61403463983 | frank cre8 | null | 70,000-85,000
+jasmine | ancrum | linkedin.com/in/jasmineancrum | jda.ent@gmail.com | personal | N/A | N/A | carestream dental | 3625 cumberland boulevard southeast | 70,000-85,000
+emily | benson | linkedin.com/in/emilyrbenson | emyrose@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+kim | anderson | linkedin.com/in/kim-anderson-94478a | kimzinkgraf@hotmail.com | personal | N/A | N/A | outside analytics | 10901 west 120th avenue | 85,000-100,000
+ali | murbe | linkedin.com/in/ali-murbe-a1925935 | amurbe@psi.org | professional | N/A | N/A | upwork | 2625 augustine drive | <20,000
