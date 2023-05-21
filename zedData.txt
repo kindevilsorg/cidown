@@ -636,14 +636,17 @@ bon | serrano | linkedin.com/in/bon-serrano-a6205b88 | bon@digitalmaas.com | cur
 uri | bosch | linkedin.com/in/uribosch | iamurius@gmail.com | personal | N/A | N/A | pmfarma | null | 35,000-45,000
 willmeisha | hall | linkedin.com/in/willmeishahall | wjh2j@mtmail.mtsu.edu | professional | N/A | N/A | the children's trust of miami-dade county | 3150 southwest 3rd avenue | 70,000-85,000
 alex | wiltse | linkedin.com/in/alex-wiltse-200929b9 | spazticdog@yahoo.com | personal | N/A | +14806862480 | null | null | 70,000-85,000
-kinsley | suer | linkedin.com/in/kinsley-suer-98611714 | kinsley@uoregon.edu | N/A | ksuer@spotnyc.com | +19176780294 | spotco | 114 west 41st street | 85,000-100,000tyler | keating | linkedin.com/in/tylerkeating95 | tyler.keating@trojanone.com | N/A | N/A | N/A | wattpad | 36 wellington street east | 55,000-70,000
-paolo | pederzini | linkedin.com/in/paolopederzini | superpao@libero.it | N/A | N/A | N/A | dallari abbigliamento | null | 45,000-55,000
-erick | huerta | linkedin.com/in/erick-huerta-8035b147 | huerta.erick22@gmail.com | personal | N/A | N/A | l.a. taco | p/o box 252385 | 70,000-85,000
-paola | saponaro | linkedin.com/in/paola-saponaro-96b75924 | psaponaro@day.it | professional | N/A | N/A | null | null | 45,000-55,000
-landon | ballard | linkedin.com/in/landon-ballard-5154a9107 | landonballard@live.com | personal | N/A | +19493226282 | null | null | 70,000-85,000
-vered | shaham | linkedin.com/in/vered-shaham-49885617 | veredshaham@gmail.com | personal | N/A | N/A | m.m.m real estate division | null | 55,000-70,000
-lindy | preziosi | linkedin.com/in/lindypreziosi | lindy.preziosi@aol.com | personal | N/A | +15615735997 | null | null | 85,000-100,000
-ryan | unsworth | linkedin.com/in/ryanunsworth | runsworth@sidley.com | current_professional | runsworth@sidley.com | N/A | sidley austin llp | 1 south dearborn | 100,000-150,000
-priscilla | blanca | linkedin.com/in/priscilla-méndez-blanca-40202635 | pili_mendezblanca@hotmail.com | personal | priscilla@buzz.cr | N/A | buzz - digital partner | null | <20,000
-ashley | wolf | linkedin.com/in/ashley-wolf-25766843 | ashley.wolf@uvu.edu | professional | N/A | N/A | diablo ballet | p/o box 4700 | 70,000-85,000
-florence | adu-yeboah | linkedin.com/in/florence-adu-yeboah-695ba777 | fadu-yeboah@crownworldwide.com | professional | N/A | N/A | bank of england | null | 55,000-70,000
+kinsley | suer | linkedin.com/in/kinsley-suer-98611714 | kinsley@uoregon.edu | N/A | ksuer@spotnyc.com | +19176780294 | spotco | 114 west 41st street | 85,000-100,000colt | sanderson | linkedin.com/in/colt-sanderson-b86814a8 | coltsanderson@aol.com | personal | N/A | +19512584180 | hyperfastcars | null | 85,000-100,000
+celia | hinkson | linkedin.com/in/msceliadhinkson | celia_hinkson@dell.com | professional | N/A | N/A | null | null | 85,000-100,000
+luise | spangenberg | linkedin.com/in/luisespangenberg | luise@hope.co.za | N/A | N/A | N/A | eduprofile | 22 royal chalice crescent | <20,000
+courtney | stencel | linkedin.com/in/courtney-stencel-3739b084 | courtneys@tkmkt.com | current_professional | courtneys@tkmkt.com | N/A | turnkey marketing inc | 4190 green river road | 85,000-100,000
+michael | gray | linkedin.com/in/michael-anna-gray-3b62b374 | gray@bard.edu | professional | N/A | N/A | the clyde fitch report | null | 70,000-85,000
+mariana | betancur | linkedin.com/in/marianabetancur | marianabet85@hotmail.com | personal | N/A | N/A | setas de cuivá | null | <20,000
+maría | martinez | linkedin.com/in/martinezmarialejandra | martinezmarialejandra@gmail.com | personal | N/A | N/A | podimo | null | 35,000-45,000
+charlotte | norris | linkedin.com/in/charlottenorris | charlotte-norris@hotmail.com | personal | N/A | N/A | accolade wines | null | 55,000-70,000
+shea | deberry | linkedin.com/in/shea-deberry-87483882 | s.deberry@tomjames.com | professional | N/A | N/A | billy the kidden rescue | null | 70,000-85,000
+laura | jackson | linkedin.com/in/laura-jackson-a306ba45 | laura.jackson91@hotmail.co.uk | personal | N/A | N/A | pretty lavish ltd | 113 fore street | 55,000-70,000
+kung | yun | linkedin.com/in/kung-yun-3a59a13b | kung@inkwhy.com | professional | inkwhy@gmail.com | N/A | inkwhy | null | 85,000-100,000
+kelsey | bechtel | linkedin.com/in/kelseybechtel | k_bechtel@hotmail.com | personal | N/A | N/A | studio 41 creative | null | 70,000-85,000
+amanda | gass | linkedin.com/in/amanda-gass-0bb24679 | amanda@intouchvet.com | current_professional | amanda@intouchvet.com | N/A | intouch practice communications (formerly on hold advertising, inc) | 3737 45th street | 70,000-85,000
+ryan | smith | linkedin.com/in/ryansscottsmith | smithscottryan@gmail.com | personal | ryan.smith@shopmyexchange.com | N/A | aafes | 3911 south walton walker boulevard | 85,000-100,000
