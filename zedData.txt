@@ -304,11 +304,11 @@ tavia | aprillia | linkedin.com/in/tavia-aprillia-bb03a15b | tavia@brightstars.c
 chiara | cutolo | linkedin.com/in/chiara-cutolo-214533a | chiaretta2004@hotmail.com | personal | N/A | N/A | msc cruises | null | 100,000-150,000
 bryan | garcia | linkedin.com/in/bryan-garcia-70186a25 | bryanhgarcia@gmail.com | personal | N/A | +14072420864 | new york eagles | null | 85,000-100,000
 dieneke | van gerrewey | linkedin.com/in/dienekevangerrewey | dieneke.van.gerrewey@gmail.com | personal | N/A | N/A | punchline | null | 55,000-70,000
-katherine | howley | linkedin.com/in/katherine-howley-259b3127 | kkh214@lehigh.edu | N/A | N/A | N/A | viacom | 1515 broadway | 85,000-100,000kaleigh | henderson | linkedin.com/in/kaleigh-henderson-090b2726 | kaleigh.henderson6@gmail.com | personal | N/A | N/A | sephora | null | 55,000-70,000
-mariona | carbonell | linkedin.com/in/marionacarbonell | mariona.carbonell@agrdigital.it | current_professional | mariona.carbonell@agrdigital.it | N/A | prs digital | null | 45,000-55,000
-luna | solomon | linkedin.com/in/luna-solomon-94b27773 | solomonluna@yahoo.com | personal | N/A | N/A | moneta | null | <20,000
-leah | jackson | linkedin.com/in/leah-jackson-9841865a | ljackson@oassist.com | current_professional | ljackson@oassist.com | N/A | oassist llc | 174 nassau street | 85,000-100,000
-michelle | harris | linkedin.com/in/michelle-harris-social-media | michellebharris@gmail.com | personal | N/A | N/A | social media marketing | null | 55,000-70,000
-emem | nnamdie | linkedin.com/in/emem-nnamdie-28212240 | ennamdie@gmail.com | personal | N/A | +18138411327 | kaydyes | null | 85,000-100,000
-vasilis | lampropoulos | linkedin.com/in/lamprva | tsapos@gmail.com | personal | N/A | N/A | european commission | null | 55,000-70,000
-paula | saldarriaga | linkedin.com/in/paulita393 | paulita393@hotmail.com | personal | N/A | N/A | null | null | 55,000-70,000
+katherine | howley | linkedin.com/in/katherine-howley-259b3127 | kkh214@lehigh.edu | N/A | N/A | N/A | viacom | 1515 broadway | 85,000-100,000ioanna | drakatou | linkedin.com/in/ioanna-drakatou-5946733a | idrakatou@hotmail.com | personal | N/A | N/A | null | null | 25,000-35,000
+michelle | faid | linkedin.com/in/michelle-faid-a083286 | michelle.faid@crotchedmountain.org | professional | N/A | N/A | hasoptimization | 125 asby road | 70,000-85,000
+pedro | corbelle | linkedin.com/in/pedro-canton-corbelle-69914064 | pedro.corbelle@telefonica.com | current_professional | pedro.corbelle@telefonica.com | N/A | telefónica | null | <20,000
+olivia | farrell | linkedin.com/in/oliviaemilyfarrell | olivia@nobull-communications.co.uk | professional | N/A | N/A | tui | null | 55,000-70,000
+reza | vedadi | linkedin.com/in/rezajohnvedadi | john@barrpictures.co.uk | current_professional | john@barrpictures.co.uk | N/A | barr pictures | null | 70,000-85,000
+jaffar | mjasiri | linkedin.com/in/jaffar-z-mjasiri-86069928 | jmriha@hotmail.com | personal | N/A | +12024200884 | netcom group s.p.a | null | 85,000-100,000
+jill | krugman | linkedin.com/in/jillkrugman | jill.krugman@lmco.com | current_professional | jill.krugman@lmco.com | +18567223336 | lockheed martin | 6801 rockledge drive | 85,000-100,000
+minoo | behzadi | linkedin.com/in/minoo-behzadi-aa6629aa | minoo.behzadi@ilsc.com | professional | N/A | N/A | upguys | null | 55,000-70,000
