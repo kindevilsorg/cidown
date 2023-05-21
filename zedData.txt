@@ -802,4 +802,15 @@ laura | bailey | linkedin.com/in/laurabailey2 | seriousaboutsocial@gmail.com | p
 laura | hauer | linkedin.com/in/laurahauer | laura.hauer@gmail.com | personal | N/A | +4526170864 | djøf | null | 70,000-85,000
 ariel | sanchez | linkedin.com/in/ariel-sanchez-a58195 | sznet@yahoo.com | current_professional | sznet@yahoo.com | N/A | sznet sa | null | <20,000
 alissa | martin | linkedin.com/in/alissa-martin-390b2218 | alissamaymartin@gmail.com | personal | alissa@kushalayoga.com | N/A | kushala yoga | 130 brew street | 55,000-70,000
-evangeline | see | linkedin.com/in/evangeline-see-b7a7b5a7 | evangeline@curekids.org.nz | current_professional | evangeline@curekids.org.nz | N/A | cure kids | 96 new north road | 70,000-85,000
+evangeline | see | linkedin.com/in/evangeline-see-b7a7b5a7 | evangeline@curekids.org.nz | current_professional | evangeline@curekids.org.nz | N/A | cure kids | 96 new north road | 70,000-85,000sonia | leibar | linkedin.com/in/sonia-got-leibar | sgot@pluralent.com | professional | N/A | N/A | mediaset españa | null | 35,000-45,000
+danielle | godjikian | linkedin.com/in/danielle-godjikian-b4a1368a | danielle@dunejewelry.com | current_professional | danielle@dunejewelry.com | N/A | dune jewelry | 1 westinghouse plaza | 85,000-100,000
+aswin | lutchanah | linkedin.com/in/aswinlutchanah | admin@aswinlutchanah.info | professional | aswin.lutchanah@uni.lu | N/A | university of luxembourg | null | 55,000-70,000
+bochra | moumeni | linkedin.com/in/bochra-moumeni-320351bb | moumeni.bochra@gmail.com | personal | N/A | N/A | tbwa\raad | null | 70,000-85,000
+ayo | cho | linkedin.com/in/ayo-cho-9b242b6b | ayo.cho@gmail.com | personal | N/A | N/A | the coca-cola company | 1 coca cola plaza | 35,000-45,000
+eleonora | tagliazucchi | linkedin.com/in/eleonora-tagliazucchi-14b4084b | tall_inside@hotmail.it | personal | N/A | N/A | coffi festival berlin | null | 70,000-85,000
+steve | kamrad | linkedin.com/in/steve-kamrad-b36253107 | hozoo@verizon.net | personal | N/A | +16098511779 | altrider | 4000 aurora avenue north | 85,000-100,000
+kimberly | solorio | linkedin.com/in/kimberly-solorio-58971470 | kimberly_solorio@belk.com | professional | N/A | N/A | null | null | 85,000-100,000
+ron | banks | linkedin.com/in/ron-banks-715b1075 | ron.banks@aa.com | professional | N/A | N/A | seraph social media | null | 85,000-100,000
+rodrigo | molina | linkedin.com/in/rodrigo-molina-1451b126 | rodrimol@yahoo.com.ar | personal | N/A | N/A | anigamy | null | <20,000
+abril | curiel | linkedin.com/in/edselceja | abril@nativo-digital.mx | current_professional | abril@nativo-digital.mx | N/A | nativo digital // | null | <20,000
+jena | sedillo | linkedin.com/in/jena-sedillo-4b1776104 | jena.sedillo@gmail.com | personal | jena@upticknewswire.com | N/A | uptick newswire | 10000 north 31st avenue | 85,000-100,000
