@@ -1179,14 +1179,12 @@ laura | gagliano | linkedin.com/in/laura-gagliano-97610946 | lauralbastyle@yahoo
 mark | mut | linkedin.com/in/mark-mut-a4216280 | mark.mut@caramba.eu | current_professional | mark.mut@caramba.eu | N/A | caramba chemie gmbh & co. kg | null | 55,000-70,000
 mindy | lentz | linkedin.com/in/socialmediamindy | socialmediamindy@gmail.com | personal | N/A | N/A | social media mindy | null | 85,000-100,000
 brent | bernasconi | linkedin.com/in/brentbernasconi | brent.bernasconi@gmail.com | personal | bbernasconi@sandiego.org | +16193305605 | san diego tourism authority | 750 b street | 100,000-150,000
-azhani | daniel | linkedin.com/in/azhani | azhani.daniel@rba.com.bn | N/A | N/A | N/A | royal brunei airlines | null | 85,000-100,000maghen | barranco | linkedin.com/in/maghen-barranco-71933b65 | mbarranco@stampideas.com | current_professional | mbarranco@stampideas.com | +13347966301 | stamp ideas | 111 washington avenue | 70,000-85,000
-bevanee | moodley | linkedin.com/in/bevanee-moodley-6201117a | bevanee.moodley@liquorice.co.za | current_professional | bevanee.moodley@liquorice.co.za | N/A | liquorice digitaslbi | 50 harrington street | <20,000
-gabriel | hoerger | linkedin.com/in/gabriel-hoerger-9a867587 | gabrielhoerger@yahoo.com | personal | N/A | +17082800812 | mensroom | null | 70,000-85,000
-rachel | mahon | linkedin.com/in/rachmahon | rachelmahonis@hotmail.com | personal | N/A | N/A | outline arts uk | null | 55,000-70,000
-david | altman | linkedin.com/in/dhaltman | david.altman@earthlink.net | personal | N/A | +19543192487 | st patrick's day parade | null | 85,000-100,000
-evant | christina | linkedin.com/in/evant-christina-9615219b | evant.christina@kalbis.ac.id | professional | N/A | N/A | pt saras subur abadi | null | <20,000
-rachel | horner | linkedin.com/in/rachelleighhorner | rachh139@yahoo.com | personal | N/A | +14435232198 | entertainment tonight | null | 70,000-85,000
-francesca | aquilone | linkedin.com/in/francesca-aquilone-105314154 | francesca.aquilone@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
-amanda | jeffs | linkedin.com/in/amandajeffs | amandajeffs@gmail.com | personal | amanda.jeffs@aut.ac.nz | N/A | auckland university of technology | 55 wellesley street east | 55,000-70,000
-mar | rodriguez | linkedin.com/in/marhurtado | maria-del-mar.hurtado@caixacatalunya.es | professional | N/A | N/A | fundació catalunya la pedrera | null | 45,000-55,000
-xiana | vidal | linkedin.com/in/xianavidal | xiana@elementalchefs.es | current_professional | xiana@elementalchefs.es | N/A | elemental chefs | null | 35,000-45,000
+azhani | daniel | linkedin.com/in/azhani | azhani.daniel@rba.com.bn | N/A | N/A | N/A | royal brunei airlines | null | 85,000-100,000giuliano | marasco | linkedin.com/in/giuliano-marasco-187a558b | giuliano.marasco@alleanza.it | professional | N/A | N/A | kentstrapper | null | 45,000-55,000
+rai | shahid | linkedin.com/in/raiazlan | rai.azlan@gmail.com | personal | N/A | N/A | pakistan cricket board (pcb) | null | <20,000
+martina | frego | linkedin.com/in/martina-frego | marty1991@libero.it | N/A | N/A | N/A | amen panoramic bar&food | null | 45,000-55,000
+daven | mayeda | linkedin.com/in/davenmayeda | truman516@yahoo.com | personal | daven@davenmayeda.com | +13102131344 | daven mayeda art | null | 85,000-100,000
+lyndell | grewar | linkedin.com/in/lyndell-grewar-000b5313 | lyndell@10degrees.co.za | N/A | N/A | N/A | null | null | <20,000
+francesca | michelini | linkedin.com/in/francesca-michelini-333841111 | francesca.michelini@mediaset.it | professional | N/A | N/A | greyunited | null | 45,000-55,000
+lidia | torres | linkedin.com/in/lidia-m-torres-1282091a | lidiatorres73@gmail.com | personal | N/A | N/A | demur consulting | null | 85,000-100,000
+luka | jashiashvili | linkedin.com/in/luka-jashiashvili | pr1menwfan@gmail.com | personal | N/A | N/A | financial management group ფინანსური მართვის ჯგუფი | null | 85,000-100,000
+guilherme | de carvalho | linkedin.com/in/guilherme-carvalho-17203824 | abati.guilherme@gmail.com | personal | N/A | N/A | tamer comunicação | null | <20,000
