@@ -1148,4 +1148,19 @@ jorge | deleon | linkedin.com/in/jorge-deleon-32617144 | jorge.dlc@gmail.com | p
 lizzie | binks | linkedin.com/in/lizzie-binks-81b34b6a | lizzie.binks@zenithmedia.com | current_professional | lizzie.binks@zenithmedia.com | N/A | zenith | 101 wood lane | 70,000-85,000
 benoit | wattecamps | linkedin.com/in/benoit-wattecamps-612a2740 | benoit.wattecamps@gmail.com | personal | N/A | N/A | altitude creative agency | null | 55,000-70,000
 melanie | lustyk | linkedin.com/in/melanie-lustyk-627b1a47 | melanie.lustyk@accor.com | professional | melanie.lustyk@ing-diba.at | N/A | ing-diba austria | null | 70,000-85,000
-sheila | isavary | linkedin.com/in/sheilaisavary | sheila.isavary@gmail.com | personal | N/A | N/A | creatives garage | null | <20,000
+sheila | isavary | linkedin.com/in/sheilaisavary | sheila.isavary@gmail.com | personal | N/A | N/A | creatives garage | null | <20,000romane | poncelet | linkedin.com/in/romane-poncelet-424b64a6 | romane.poncelet@havasworldwide.com | N/A | N/A | N/A | null | null | 55,000-70,000
+robert | freitag | linkedin.com/in/robert-freitag-4a0547b8 | robert.freitag@nu3.de | professional | N/A | N/A | null | null | 70,000-85,000
+juan | rojas | linkedin.com/in/juanjoserojas | jj_rojasleon@yahoo.com.ar | personal | N/A | N/A | blah comunicaciones | null | <20,000
+veronica | yanez | linkedin.com/in/veronica-lopez-yanez-1b19741a | veropauxx@hotmail.com | personal | N/A | N/A | school of lighting | null | 35,000-45,000
+dorian | carrspace | linkedin.com/in/dorian-carrspace-a14242a8 | dorian_carrspace@renault.com.au | current_professional | dorian_carrspace@renault.com.au | N/A | renault australia | 10 nexus court | 70,000-85,000
+clare | rolf | linkedin.com/in/clare-rolf-0237b3a0 | clare.rolf@gmail.com | personal | N/A | N/A | the common craft | null | 55,000-70,000
+clarence | navarro | linkedin.com/in/clarence-navarro-46319420 | clarnavarro@clarinovainc.com | N/A | N/A | N/A | clarinova inc. | 315 highway 101 | 85,000-100,000
+catarina | dos santos | linkedin.com/in/catarina-reis-dos-santos-176931107 | catarinareisd.santos93@hotmail.com | personal | N/A | N/A | sintrart | null | 25,000-35,000
+noreen | morgan | linkedin.com/in/noreen-morgan-070344110 | noreen@flatheadtravel.com | current_professional | noreen@flatheadtravel.com | N/A | flathead travel service | 500 south main street | 85,000-100,000
+ayesha | james | linkedin.com/in/ayesha-james-547870a2 | ayesha@insidelook.co | current_professional | ayesha@insidelook.co | N/A | insidelook.co | 1 market street | 55,000-70,000
+lindsay | schlesser | linkedin.com/in/lindsay-schlesser-19147211 | lindsayschlesser@gmail.com | personal | N/A | +13127310424 | bezier games inc | p/o box 730 | 85,000-100,000
+lorena | salvatore | linkedin.com/in/lorena-salvatore-3511733a | salvatore@negrisud.it | professional | N/A | N/A | null | null | 85,000-100,000
+melissa | mendoza | linkedin.com/in/melissa-mendoza | melmend674@gmail.com | personal | N/A | N/A | greenroom agency | 100 biscayne boulevard | 70,000-85,000
+manar | shashaty | linkedin.com/in/manar-shashaty-b13a2a158 | manar.shashaty@teqball.com | current_professional | manar.shashaty@teqball.com | N/A | teqball ltd. | null | 20,000-25,000
+brian | mahulette | linkedin.com/in/brian-mahulette-620b3324 | bssmahulette@hotmail.com | personal | brian@wannahaves.com | N/A | wannahaves | null | 70,000-85,000
+vincent | zappacosta | linkedin.com/in/vincent-zappacosta-07b69514 | nyc2suburbia@gmail.com | professional | N/A | N/A | null | null | 85,000-100,000
