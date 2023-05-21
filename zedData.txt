@@ -784,8 +784,33 @@ jo | coley | linkedin.com/in/jo-coley-58770329 | johannatucker1984@googlemail.co
 leigh | travers | linkedin.com/in/leightravers | leigh@festicket.com | current_professional | leigh@festicket.com | N/A | festicket | 7 chalcot road | 55,000-70,000
 laura | caputo | linkedin.com/in/lauralyncaputo | lcaputo@ffc.com | professional | N/A | +18455195192 | brookbush institute of human movement science | on lexington avenue | 85,000-100,000
 daniela | amin | linkedin.com/in/daniela-amin-06238842 | daniamina@gmail.com | personal | N/A | N/A | gimnasio cross | null | <20,000
-dija | mulla | linkedin.com/in/dijamulla | dija.mulla@tuimarine.com | professional | dmulla@torqueagencygroup.com | N/A | torque agency group | 201 borough high street | 55,000-70,000ohui | kwao | linkedin.com/in/oakwao | afi_joanita@hotmail.com | personal | N/A | N/A | icgc yahweh temple | null | 85,000-100,000
-francisca | ulloa | linkedin.com/in/franciscaulloa | franuyeah@gmail.com | professional | N/A | N/A | revesderecho | null | 20,000-25,000
-felipe | creighton-nunez | linkedin.com/in/felipe-creighton-nunez-04b8ba29 | fc67354@gulls.salisbury.edu | professional | N/A | N/A | so | null | 70,000-85,000
-lily | edwards | linkedin.com/in/lily-edwards-6819ba16b | lily@starlingbank.com | current_professional | lily@starlingbank.com | N/A | starling bank | 2 finsbury avenue | 55,000-70,000
-corey | stewart | linkedin.com/in/corey-stewart-b2001b37 | cgstewart@knights.ucf.edu | N/A | N/A | N/A | null | null | 70,000-85,000
+dija | mulla | linkedin.com/in/dijamulla | dija.mulla@tuimarine.com | professional | dmulla@torqueagencygroup.com | N/A | torque agency group | 201 borough high street | 55,000-70,000stine | dechmann | linkedin.com/in/stine-dechmann-23580552 | sdechmann@novonordisk.com | current_professional | sdechmann@novonordisk.com | N/A | novo nordisk | null | 85,000-100,000
+zubair | ahmed | linkedin.com/in/zubair-ahmed-36572b36 | zubairahmed88@hotmail.com | personal | zubair.ahmed@emumba.com | N/A | emumba | null | <20,000
+marisin | gonzalez | linkedin.com/in/marisin | mcastelblanco@extrasoft.es | current_professional | mcastelblanco@extrasoft.es | N/A | extra software | null | 35,000-45,000
+nicole | sison | linkedin.com/in/nicole-erica-sison-3a365b46 | nicolesison@gmail.com | personal | N/A | N/A | wwhcurrent pte | null | <20,000
+dustin | johnston | linkedin.com/in/dustinjohnston | dustintj@gmail.com | personal | N/A | N/A | university of michigan law school | null | 70,000-85,000
+anxo | lópez | linkedin.com/in/anxosaco | rentaguidescq@gmail.com | professional | N/A | N/A | alavaimedia | null | 35,000-45,000
+emma | ratpojanakul | linkedin.com/in/emmaratpo | emma.ratpojanakul@marriott.com | professional | N/A | +12149050050 | null | null | 85,000-100,000
+brooke | millea | linkedin.com/in/brooke-millea-65462864 | brookemillea@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+zsolt | körmendy | linkedin.com/in/kormendyzsolt | colos@builder.hu | professional | N/A | N/A | biotech usa | null | <20,000
+nicole | yuen | linkedin.com/in/nicole-yuen-52802844 | nicole.yuen@powertechlabs.com | professional | N/A | N/A | fuggles & warlock craftworks | 11220 horseshoe way | 55,000-70,000
+ashley | rock | linkedin.com/in/ashley-rock-18578231 | rockashl@msu.edu | professional | N/A | N/A | badgley mischka | 550 7th avenue | 85,000-100,000
+begoña | blanco | linkedin.com/in/begoperezblanco | begoperezblanco@gmail.com | personal | N/A | N/A | marketing digital asturias | null | 55,000-70,000
+davis | james | linkedin.com/in/davis-james-03543146 | davisjames.finnfoto@gmail.com | personal | N/A | +17206655312 | null | null | 85,000-100,000
+jelica | dojčinović | linkedin.com/in/jelicadojcinovic | jelica.dojcinovic@gmail.com | personal | N/A | N/A | mondo | 102 madison avenue | <20,000
+enock | pompee | linkedin.com/in/enock-pompee-4b19423b | enock.pompee@crs.org | professional | N/A | N/A | focusart photography | null | 70,000-85,000
+fran | carballo | linkedin.com/in/fran-carballo-305423b8 | fcarballopy@gmail.com | personal | N/A | +595974901200 | paraguay tv | null | 85,000-100,000
+grup | xaluca | linkedin.com/in/grup-xaluca-78042659 | xaluca@xaluca.com | current_professional | xaluca@xaluca.com | N/A | grup xaluca | null | 35,000-45,000barbara | beach | linkedin.com/in/barbie-beach-39006697 | barbieabeach@gmail.com | personal | N/A | N/A | patricia field art fashion | null | 85,000-100,000
+allison | burnette | linkedin.com/in/allison-burnette-05525792 | aburnette@fsu.edu | professional | N/A | +18505755655 | candler school of theology | 201 dowman drive | 85,000-100,000
+ilaria | fiorito | linkedin.com/in/ilaria-fiorito-585b5b93 | ilaria.fiorito@gmail.com | personal | ilaria.fiorito@forestae.com | N/A | forestae | null | 45,000-55,000
+ashley | gold | linkedin.com/in/ashley-gold-665075110 | ashley.gold@bryantlakebowl.com | professional | N/A | N/A | us cuba artist exchange | 7106 james avenue south | 70,000-85,000
+angel | salarda | linkedin.com/in/angelfez | aacs143@gmail.com | personal | N/A | N/A | residential care gateway | 450 hillside drive | <20,000
+joshua | dishman | linkedin.com/in/joshuadishman | joshua.dishman@shinecom.com | N/A | N/A | N/A | adam&eveddb | 12 bishops bridge road | 55,000-70,000
+kim | huff | linkedin.com/in/kimhuff | kimpressions@gmail.com | personal | N/A | N/A | luther's liquors | null | 85,000-100,000
+kiyonah | thundersong | linkedin.com/in/kiyonah-thundersong-ab175a36 | riversingingontherocks@yahoo.com | personal | N/A | N/A | the new world rising network | null | 85,000-100,000
+monique | mclaughlin | linkedin.com/in/moemakeup | moemclaughlin33@msn.com | personal | N/A | N/A | moniquemclaughlin.com | null | 70,000-85,000
+brittany | keife | linkedin.com/in/brittany-keife-63161684 | brittany.keife@ufcgym.com | professional | N/A | N/A | the bar method | 3717 buchanan street | 70,000-85,000
+shane | mcduffy | linkedin.com/in/shane-mcduffy-58973742 | samcduffy@aol.com | personal | N/A | N/A | bogues consulting group | null | 70,000-85,000
+olivia | rasper | linkedin.com/in/olivia-rasper-14474b106 | olivia.rasper@watson.ch | current_professional | olivia.rasper@watson.ch | N/A | watson news | null | 100,000-150,000
+susana | jiménez | linkedin.com/in/susana-poncela-jiménez-a540733b | susanapjm83@hotmail.com | personal | N/A | N/A | null | null | 35,000-45,000
+danielle | dombrowski | linkedin.com/in/danielle-dombrowski-b8a34134 | danielledombrowski321@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
