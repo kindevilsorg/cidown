@@ -265,16 +265,12 @@ martin | jacobsen | linkedin.com/in/martin-jacobsen-644670114 | martin.jacobsen@
 hira | adnan | linkedin.com/in/hiraadnan | mrsadnan2007@gmail.com | personal | N/A | N/A | half our deen | null | 55,000-70,000
 spencer | robbins | linkedin.com/in/spencer-robbins-16b45523 | monica@socialtoot.com | current_professional | monica@socialtoot.com | N/A | social toot | null | 85,000-100,000
 richard | brownrigg | linkedin.com/in/richard-brownrigg-41381068 | richard_brownrigg@dell.com | professional | richard.brownrigg@csscorp.com | N/A | css corp | 1900 mccarthy boulevard | <20,000
-janell | westmoreland | linkedin.com/in/janell-westmoreland-71201ba1 | janell.westmoreland@att.com | professional | janell.westmoreland@verizon.com | N/A | verizon | 1 verizon way | 70,000-85,000raffaella | turati | linkedin.com/in/raffaella-turati-744a5012 | livore@hotmail.com | personal | N/A | N/A | f v g in asia company | null | 45,000-55,000
-liz | fenner | linkedin.com/in/lizfenner | liz.fenner@gmail.com | personal | lfenner@rightplacemedia.com | +18596853800 | right place media | 437 lewis hargett circle | 85,000-100,000
-avihu | sha'altiel | linkedin.com/in/avihush | esh411@gmail.com | personal | N/A | N/A | globe telecom | null | 55,000-70,000
-ritesh | rajpoot | linkedin.com/in/ritesh-rajpoot-33465271 | ritesh.rajpoot@capitalvia.com | professional | N/A | N/A | bpo plus | p/o box 24857 | <20,000
-karla | pires | linkedin.com/in/karla-rodrigues-pires-58508346 | karla_pires@hotmail.com | personal | N/A | N/A | elements ibiza | null | <20,000
-elisa | bellcishta | linkedin.com/in/elisabellcishta | elisa.bellcishta@thestreet.com | professional | N/A | N/A | newsela | null | 85,000-100,000
-laura | bessuges | linkedin.com/in/laura-bessuges | laura.bessuges@accor.com | professional | laura.bessuges@buzzbrothers.ch | N/A | buzz brothers | null | 100,000-150,000
-dana | sterpe | linkedin.com/in/dana-sterpe-0226484b | dsterpe@toyotaofelcajon.com | professional | N/A | N/A | bolts from the blue | null | 70,000-85,000
-justin | iriajen | linkedin.com/in/justin-iriajen-a3121024 | justinsignal@hotmail.com | personal | N/A | +447960790252 | university of the west of england | null | 55,000-70,000
-katie | wilkinson | linkedin.com/in/katietwilkinson | katietwilkins@gmail.com | personal | N/A | +12522302856 | the rave agency | 1011 south hamilton road | 85,000-100,000
-jane | doe | linkedin.com/in/jane-doe-012a61105 | jdoe@vml.com | current_professional | jdoe@vml.com | N/A | vml london | null | 55,000-70,000
-saroar | hossen | linkedin.com/in/saroar-hossen | hossen@ilo.org | professional | N/A | N/A | null | null | 70,000-85,000
-michelle | sorensen | linkedin.com/in/michelle-sorensen-4817a96 | meshel8@gmail.com | personal | N/A | +15039132713 | null | null | 70,000-85,000
+janell | westmoreland | linkedin.com/in/janell-westmoreland-71201ba1 | janell.westmoreland@att.com | professional | janell.westmoreland@verizon.com | N/A | verizon | 1 verizon way | 70,000-85,000seun | adenuga | linkedin.com/in/seun-adenuga-2b53a666 | seun.adenuga@jumia.com.ng | current_professional | seun.adenuga@jumia.com.ng | N/A | jumia nigeria | null | 85,000-100,000
+ricky | feegrade | linkedin.com/in/ricky-feegrade-0a0a5149 | ricky_feegrade@hotmail.com | personal | ricky.feegrade@networkrail.co.uk | N/A | network rail | null | 55,000-70,000
+jeremiah | braithwaite | linkedin.com/in/jerebraith | jbraithwaite@urbanoutfitters.com | N/A | N/A | N/A | null | null | 55,000-70,000
+cindy | valera | linkedin.com/in/ladycindyvalera | valeral@iata.org | professional | N/A | N/A | jump for bread | null | 100,000-150,000
+marie | bonnault | linkedin.com/in/marie-bonnault | marie.bonnault@gettyimages.com | professional | N/A | N/A | elbkind reply | null | 70,000-85,000
+karina | perez | linkedin.com/in/karina-lizet-perez-49a05457 | karinalizetperez@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+ankush | khandelwal | linkedin.com/in/ankush-khandelwal-248768103 | ankush@wyo.in | current_professional | ankush@wyo.in | N/A | wear your opinion | null | <20,000
+camilla | marabelli | linkedin.com/in/camilla-marabelli-456bbb43 | camimarabelli@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+artem | miranovich | linkedin.com/in/artem-miranovich-29715823 | insight.artem@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
