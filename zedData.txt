@@ -1001,4 +1001,10 @@ francis | vianne | linkedin.com/in/francisvianne | francisvianne@gmail.com | per
 taylor | olivia | linkedin.com/in/atayloroliviaa | taylor.olivia@gmail.com | personal | taylor.olivia@manpowergroup.com | N/A | manpowergroup | 100 manpower place | 85,000-100,000
 erin | bishop | linkedin.com/in/erin-bishop-62015943 | erinbishop83@live.com | personal | N/A | +12062939611 | leather works by willow | null | 85,000-100,000
 elena | garcía | linkedin.com/in/elena-diaz-garcia-77b56b21 | elena.diazgarcia@ubisoft.com | professional | N/A | N/A | koch media / deep silver | null | 35,000-45,000
-laura | gilinsky | linkedin.com/in/laura-gilinsky | laura.gilinsky@target.com | professional | N/A | N/A | therabody | null | 70,000-85,000
+laura | gilinsky | linkedin.com/in/laura-gilinsky | laura.gilinsky@target.com | professional | N/A | N/A | therabody | null | 70,000-85,000valerie | morby | linkedin.com/in/valerie-morby-3b537296 | vmorby@pinecove.com | current_professional | vmorby@pinecove.com | N/A | pine cove | 15791 county road 1113 | 100,000-150,000
+christianna | van de wetering | linkedin.com/in/christianna-van-de-wetering-59645816 | christiannagevinski@hotmail.com | personal | N/A | N/A | east end doves | null | 70,000-85,000
+ashley | solomon | linkedin.com/in/ashleysolomon93 | ashley.solomon@orthology.com | professional | N/A | N/A | tres colori | null | 85,000-100,000
+ahmed | burhan | linkedin.com/in/ahmed-burhan-899621190 | ahmedforlinkedin2019@gmail.com | personal | N/A | N/A | jiasaz | null | 70,000-85,000
+jamie | hosie | linkedin.com/in/jamie-hosie-3a987449 | jamie.hosie@atpmedia.tv | current_professional | jamie.hosie@atpmedia.tv | N/A | atp media | null | 55,000-70,000
+kelly | kirwan | linkedin.com/in/kelly-kirwan-77b48235 | kkirwan@google.com | professional | N/A | N/A | segment | 100 california street | 85,000-100,000
+sarah | mctamney | linkedin.com/in/sarah-mctamney-135a8978 | smctamney@kindercare.com | professional | N/A | N/A | null | null | 85,000-100,000
