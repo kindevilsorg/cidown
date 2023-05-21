@@ -1597,4 +1597,15 @@ andie | moody | linkedin.com/in/andieroedermoody | armoody@northpark.edu | profe
 argiro | stavrakaki | linkedin.com/in/argiro-stavrakaki-5742251b | stavargy@gmail.com | personal | N/A | N/A | wines of crete | null | 25,000-35,000
 darbaz | dara | linkedin.com/in/darbaz-dara-a564908a | darbaz.dara@yougov.com | professional | N/A | N/A | null | null | 85,000-100,000
 siham | haddougui | linkedin.com/in/siham-haddougui-9a3b46b3 | shaddougui@royalairmaroc.com | current_professional | shaddougui@royalairmaroc.com | N/A | royal air maroc | null | <20,000
-leah | ison | linkedin.com/in/leahison | leahdi@shaw.ca | N/A | N/A | +17804053968 | prairie girl social | null | 55,000-70,000
+leah | ison | linkedin.com/in/leahison | leahdi@shaw.ca | N/A | N/A | +17804053968 | prairie girl social | null | 55,000-70,000esté | katzman | linkedin.com/in/esté-katzman-49042519 | estekatzman@yahoo.com | personal | N/A | N/A | michael aquino racing | null | 85,000-100,000
+kim | vij | linkedin.com/in/kimvij | kimvijconsulting@gmail.com | personal | N/A | +13526423525 | wpbeginner | null | 70,000-85,000
+alina | robu | linkedin.com/in/alina-robu-8a721773 | alina@webtailors.sg | professional | N/A | N/A | mrm//mccann | 622 third avenue | <20,000
+shivali | shah | linkedin.com/in/shivali-shah-143672b3 | shivali.shah@endurance.com | professional | N/A | N/A | soulfull | null | <20,000
+kristina | radonjic | linkedin.com/in/kristina-radonjic-6ab24333 | k.radonjic@gmddoo.biz | N/A | N/A | N/A | null | null | 85,000-100,000
+sue | ferguson | linkedin.com/in/sjferguson | mail@sueferguson.co.uk | professional | N/A | N/A | null | null | 55,000-70,000
+felicity | higgins | linkedin.com/in/felicity-higgins-704b4199 | felicity.higgins@starmotorcars.com | current_professional | felicity.higgins@starmotorcars.com | N/A | star motor cars | 7000 katy road | 70,000-85,000
+jordan | kranick | linkedin.com/in/jordan-kranick-b02b7881 | jordan.kranick@tileshop.com | professional | N/A | +16513249408 | solve | null | 70,000-85,000
+kayla | hulen | linkedin.com/in/kaylahulen | kayla.hulen@gmail.com | personal | N/A | N/A | take this, inc. | null | 70,000-85,000
+jessica | tsang | linkedin.com/in/jessica-tsang16 | jessica.tsang@disneystore.com | professional | N/A | N/A | null | null | 85,000-100,000
+kamil | melcer | linkedin.com/in/kamilmelcer | k.melcer@uw.edu.pl | professional | N/A | N/A | goout | null | 20,000-25,000
+stéphanie | favier | linkedin.com/in/stephaniefavier | sfavier@agatha.fr | current_professional | sfavier@agatha.fr | N/A | agatha paris | null | 55,000-70,000
