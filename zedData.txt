@@ -177,13 +177,19 @@ chase | spruiell | linkedin.com/in/chase-spruiell-39b7a514 | listentocds41@yahoo
 karly | shriver | linkedin.com/in/karlyshriver | karly.shriver@victoriassecret.com | professional | kshriver@optimizesocialmedia.net | N/A | optimize social media inc. | 1 imation way | 70,000-85,000
 ornella | vanni | linkedin.com/in/ornellapaturzovanni | ornella@liquidsound.com.ar | professional | N/A | N/A | null | null | 20,000-25,000
 vicki | trottier | linkedin.com/in/vickitrottier | vickitrottier@gmail.com | personal | N/A | N/A | community literacy of ontario | 80 bradford street | 55,000-70,000
-fabio | zagami | linkedin.com/in/fabio-zagami-638b899a | fabio.zagami@enel.com | professional | N/A | N/A | autonomo | null | 45,000-55,000ariel | maccarone | linkedin.com/in/ariel-maccarone-4b76b044 | ariel.maccarone@gmail.com | personal | N/A | +18184191890 | black belt karate | null | 70,000-85,000
-babigumira | atwine | linkedin.com/in/paulatwine | atwinep@yahoo.com | personal | N/A | N/A | talent africa group | null | 70,000-85,000
-anh-dao | pham | linkedin.com/in/anh-dao-pham-229881114 | anh-dao.pham@ecoemballages.fr | professional | N/A | N/A | sciences po | null | 55,000-70,000
-anna | kiappes | linkedin.com/in/anna-kiappes-0a16a638 | akiappes@gmail.com | personal | N/A | N/A | baylor college of medicine | 1 baylor plaza | 70,000-85,000
-katie | steinharter | linkedin.com/in/ksteinharter | ksteinharter@gmail.com | personal | N/A | N/A | alterra mountain company | 3501 wazee street | 85,000-100,000
-cristina | sanford | linkedin.com/in/cristina-maio-sanford-18864324 | cristinamary.m@gmail.com | personal | N/A | N/A | stephens media, llc | 1111 west bonanza | 70,000-85,000
-lauren | king | linkedin.com/in/lauren-c-king-9b2652101 | lauren.king@mirumagency.com | current_professional | lauren.king@mirumagency.com | N/A | mirum agency | 24 percy street | 70,000-85,000
-mirjam | lepp | linkedin.com/in/mirjamlepp | mirjam.lepp@clickandgrow.com | current_professional | mirjam.lepp@clickandgrow.com | N/A | click & grow | null | 55,000-70,000
-heidi | pashman | linkedin.com/in/heidipashman | heidipashman@gmail.com | personal | N/A | +18167288994 | mindbodygreen | null | 70,000-85,000
-valeria | zonin | linkedin.com/in/valeriazonin | valeria@jandr.it | professional | N/A | N/A | notorious agency | null | 45,000-55,000
+fabio | zagami | linkedin.com/in/fabio-zagami-638b899a | fabio.zagami@enel.com | professional | N/A | N/A | autonomo | null | 45,000-55,000natalia | sabirova | linkedin.com/in/natalisabirova | natalia.sabirova@foxcable.com | current_professional | natalia.sabirova@foxcable.com | N/A | fox cable networks | null | <20,000
+christina | brown | linkedin.com/in/christina-brown-643a3593 | cbrown@coniferllc.com | professional | N/A | N/A | el pilon criollo | null | 70,000-85,000
+akshita | uppal | linkedin.com/in/akshita-uppal-ba45a3104 | akshita.uppal@pvrcinemas.com | professional | N/A | N/A | looks salon pvt. ltd. | 17 a 22 west east a ajmal khan road | <20,000
+yolande | boulade | linkedin.com/in/yolande-boulade-0054ab34 | yolande@grandpalais.fr | professional | N/A | N/A | null | null | 55,000-70,000
+jonas | nygaard | linkedin.com/in/jknygaard | el_bobs@hotmail.com | personal | N/A | N/A | dansk boldspil-union (dbu) | null | 85,000-100,000
+ricardo | reyes | linkedin.com/in/crericardo | crericardo@gmail.com | personal | N/A | N/A | atelier político | null | <20,000
+jade-roy | huntington | linkedin.com/in/jrhuntington | jade-roy.huntington@fcpeuro.com | current_professional | jade-roy.huntington@fcpeuro.com | +18605028827 | fcp euro | null | 100,000-150,000
+filsan | yusuf | linkedin.com/in/filsan-yusuf-984866a0 | filsan.yusuf@gmail.com | personal | filsan.yusuf@edelman.com | N/A | edelman | 250 hudson street | 45,000-55,000
+aaron | marsell | linkedin.com/in/getsomebuzz | getsomebuzz@gmail.com | current_professional | getsomebuzz@gmail.com | N/A | get some buzz | null | 85,000-100,000
+jennifer | kerr | linkedin.com/in/jenniferleekerr | jenniferkerr7@hotmail.com | personal | N/A | +19022192161 | river oaks golf club | null | 55,000-70,000
+rory | briggs | linkedin.com/in/rory-briggs-75110115 | briggsy33@hotmail.com | personal | N/A | N/A | the conservative party | 4 matthew parker street | 55,000-70,000
+rachael | cates | linkedin.com/in/rachaelcates | rlwilso5@mail.usf.edu | N/A | N/A | N/A | ecobark pet supplies | null | 85,000-100,000
+mike | williams | linkedin.com/in/mikewilliamspro | mjwilliamspro@gmail.com | personal | N/A | +15165574874 | steadfast consumer solutions | null | 85,000-100,000
+joe | goodson | linkedin.com/in/joecgoodson | whistlelock@gmail.com | personal | N/A | N/A | firehost | 2360 campbell creek boulevard | 70,000-85,000
+net | age | linkedin.com/in/net-age-social-media-a348a9b9 | netage@netage.co.za | current_professional | netage@netage.co.za | N/A | net age | null | <20,000
+amanda | stephens | linkedin.com/in/amanda-rae-stephens-480919b1 | astephens@vans.com | current_professional | astephens@vans.com | N/A | vans a division of vf outdoor | 1588 south coast drive | 85,000-100,000
