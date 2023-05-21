@@ -379,11 +379,22 @@ christy | linden | linkedin.com/in/christy-linden-a3911426 | christylinden@gmail
 charlie | smith | linkedin.com/in/charliesmith25 | charliesmith25@gmail.com | personal | N/A | N/A | emerge sales training | null | 85,000-100,000
 valeria | grimaldi | linkedin.com/in/valeria-grimaldi-ba04aa36 | valeria_grimaldi@hotmail.com | personal | N/A | N/A | dip in tour | null | 45,000-55,000
 melanie | lee | linkedin.com/in/melanie-lee-9b549b114 | melanienbuttons@gmail.com | personal | N/A | +19703106265 | growcentia, inc | 1552 riverside drive | 85,000-100,000
-stenden | hotel | linkedin.com/in/stenden-university-hotel-a0375524 | socialstenden@hotmail.nl | N/A | N/A | N/A | stenden university | null | 55,000-70,000andrea | howard | linkedin.com/in/andreabrenemanhoward | andrea@kellyskids.com | professional | N/A | N/A | kendra scott | 3800 north lamar boulevard | 85,000-100,000
-gisle | levang | linkedin.com/in/ghl85 | gisle.levang@gmail.com | personal | N/A | N/A | ice.net | null | 100,000-150,000
-paulina | rivera | linkedin.com/in/paulinarivera | pr@raya.cl | professional | N/A | N/A | agencia land | null | 20,000-25,000
-jessica | ronan | linkedin.com/in/jessica-ronan-34320153 | jronan@woocom.com.au | current_professional | jronan@woocom.com.au | N/A | woocom | 3 owen place | 85,000-100,000
-david | armstrong | linkedin.com/in/david-armstrong-9bb58444 | strongarmmashups@gmail.com | personal | N/A | N/A | axos bank | 4350 la jolla village drive | 85,000-100,000
-matt | dean | linkedin.com/in/matt-dean-910b4a3b | masterhulkmatt@gmail.com | personal | N/A | N/A | social solutions | 10801-2 north mopac expressway | 55,000-70,000
-cynthia | berman | linkedin.com/in/cynthia-berman-6b205111 | thiab1010@aol.com | personal | N/A | +13107174448 | cynthia berman | null | 85,000-100,000
-isaac | nunn | linkedin.com/in/isaac-nunn-73186a110 | isaac@styleadvertising.com | professional | N/A | +13347509259 | null | null | 55,000-70,000
+stenden | hotel | linkedin.com/in/stenden-university-hotel-a0375524 | socialstenden@hotmail.nl | N/A | N/A | N/A | stenden university | null | 55,000-70,000kendra | grant | linkedin.com/in/kendra-grant-12096a15 | kendra.com@gmail.com | personal | N/A | N/A | glenbeigh | 2863 route 45 | 70,000-85,000
+natalia | mihailovich | linkedin.com/in/natalia-mihailovich-b224042b | passionsearchdating@gmail.com | personal | N/A | N/A | passion search | null | 55,000-70,000
+steven | goodwin | linkedin.com/in/wozzla | s.goodwin@live.co.uk | N/A | N/A | N/A | wozzla | null | 55,000-70,000
+alexiane | renier | linkedin.com/in/arenier | renier@unric.org | professional | N/A | N/A | ecolo | null | 55,000-70,000
+tim | losee | linkedin.com/in/tim-losee-08650811 | theflyerlosee@hotmail.com | personal | N/A | +17144703891 | irvine company office | 111 innovation drive | 70,000-85,000
+madelaine | pack | linkedin.com/in/madelaine-pack-6b237589 | mpack@rodanandfields.com | professional | N/A | N/A | pack ponderosa | null | 85,000-100,000
+marlon | mora | linkedin.com/in/marlon-mora-4489125b | marlon.mora@radioshack.com | professional | N/A | +14077482773 | century 21® | 175 madison avenue | 85,000-100,000
+lisa | douglas | linkedin.com/in/lisa-douglas-1b6a5731 | lisa@thingstodoguide.co.uk | N/A | N/A | N/A | visav limited | 616a mansfield road | 55,000-70,000jyaer | lewis | linkedin.com/in/jyaer-lewis-731193120 | jyaerlewis79@gmail.com | personal | N/A | +19082307958 | def pen | null | 85,000-100,000
+rachel | rademacher | linkedin.com/in/rachel-rademacher-06718570 | rademacherr@shmc.org | professional | N/A | N/A | null | null | 85,000-100,000
+winfred | abba | ng.linkedin.com/in/winfred-abba-63581a40 | winfredabba@yahoo.com | personal | N/A | N/A | acken technologies & services | null | <20,000
+christine | bumatay | linkedin.com/in/christine-bumatay-a970b1a6 | cbumatay@sfmoma.org | professional | N/A | +15102899894 | little passports | 282 2nd street | 70,000-85,000
+andrea | borraccino | linkedin.com/in/andreaborraccino | preso.blu@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
+brittainy | kelley | linkedin.com/in/brittainy-kelley-1846456b | brittainy.kelley@klipsch.com | current_professional | brittainy.kelley@klipsch.com | +13172603394 | klipsch group, inc. | 3502 woodview trace | 100,000-150,000
+adriana | sierra | linkedin.com/in/adriana-rodríguez-sierra-75034523 | adrianarayones@gmail.com | personal | N/A | N/A | omd colombia | null | <20,000
+lovely | ramos | linkedin.com/in/ramoslovelyv | lovely@bonseyjaden.com | current_professional | lovely@bonseyjaden.com | N/A | bonsey jaden | 19 carpenter street | <20,000
+casey | danton | linkedin.com/in/caseydanton | danton.casey@gmail.com | personal | N/A | +12126602458 | new avon | 1 liberty plaza | 85,000-100,000
+sharon | minkovicz | linkedin.com/in/sharon-minkovicz-6ba60625 | skoch788@gmail.com | personal | N/A | N/A | etoro | null | 55,000-70,000
+kyle | kirkland | linkedin.com/in/kyle-kirkland-70479667 | kylekirkland@linney.com | current_professional | kylekirkland@linney.com | +61401361724 | linney | null | 55,000-70,000
+florian | steinig | linkedin.com/in/florian-steinig-6a025332 | f.steinig@dhug.de | N/A | N/A | N/A | innogy.c3 | null | 55,000-70,000
