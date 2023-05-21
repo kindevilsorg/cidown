@@ -1227,4 +1227,17 @@ jessica | berry | linkedin.com/in/jessica-berry-7b96aba8 | j.berry@capilano.com.
 sami | kciku | linkedin.com/in/samikciku | sami@prishtina.com | professional | N/A | +17184593009 | grupi koha | null | <20,000
 jay | bolton | linkedin.com/in/jay-bolton-78525a7a | jay@leadtoconversion.com | professional | N/A | N/A | online marketing standard | null | 85,000-100,000
 samantha | mckenzie | linkedin.com/in/samanthamckenzie | mckenzies@nationwide.com | professional | N/A | +12092291096 | mckenzie marketing group | null | 70,000-85,000
-rebecca | linde | linkedin.com/in/rfvanderlinde | rvanderlinde@gmail.com | personal | N/A | N/A | american university | 4400 massachusetts avenue | 85,000-100,000
+rebecca | linde | linkedin.com/in/rfvanderlinde | rvanderlinde@gmail.com | personal | N/A | N/A | american university | 4400 massachusetts avenue | 85,000-100,000shirley | kim | linkedin.com/in/shirley-kim | shirl08@gmail.com | personal | shirley.kim@flatironschool.com | N/A | flatiron school | 11 broadway | 85,000-100,000
+sophie | boyden | linkedin.com/in/sophieboyden | sophie.boyden@hearst.co.uk | professional | N/A | N/A | cosmopolitan uk | 30 panton street | 70,000-85,000
+fran | weddle | linkedin.com/in/fran-weddle-219a88a0 | fran.weddle@brandwatch.com | professional | fran@8ms.com | N/A | 8 million stories ltd | 15 queen street | 55,000-70,000
+pauline | grevet | linkedin.com/in/pauline-grevet-19097032 | pauline.grevet@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
+gaia | passerini | linkedin.com/in/gaiapasserini | gaiapasserini@libero.it | professional | N/A | N/A | wind tre | null | 45,000-55,000
+natacha | truong | linkedin.com/in/natacha-truong | natacha.truong@virtual-expo.com | professional | N/A | N/A | null | null | 55,000-70,000
+mariela | tobar | linkedin.com/in/marielatobar | mbtobar22@gmail.com | personal | N/A | +19546080870 | bpi sports | 3149 southwest 42nd street | 85,000-100,000
+talitha | appadu | linkedin.com/in/talitha-appadu-97632536 | talithaappadu@ymail.com | personal | N/A | N/A | deon govender | null | <20,000
+lori | davis | linkedin.com/in/lori-davis-9060391b | loel.davis@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+baptiste | marty | linkedin.com/in/martybaptiste | bmarty@petzl.com | current_professional | bmarty@petzl.com | N/A | petzl | null | 100,000-150,000
+maria | sapuppo | linkedin.com/in/mariacarlasapuppo | carlasapuppo@gmail.com | personal | N/A | N/A | mychicjungle | null | 45,000-55,000
+katerina | fondi | linkedin.com/in/katerina-fondi-780b4a44 | k.fondi@acg.edu | N/A | N/A | N/A | fragola company | null | 45,000-55,000
+kathleen | beveridge | linkedin.com/in/kathleenbeveridge | kmhbeveridge@gmail.com | personal | N/A | N/A | mat collective | 95 east 32nd avenue | 55,000-70,000
+david | frick | linkedin.com/in/david-frick-98198930 | david.frick@charter.net | personal | N/A | +15417277399 | southern oregon media management | null | 70,000-85,000
