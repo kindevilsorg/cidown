@@ -123,15 +123,12 @@ iris | wu | linkedin.com/in/wuiris | iwu@coursera.org | current_professional | i
 danielle | riley | linkedin.com/in/danielle-riley-014764a5 | danielle.riley@ikea.com | professional | N/A | N/A | cruise access now agency | null | 70,000-85,000
 stefani | ijou | linkedin.com/in/stefani-ijou-a2297b11a | stefani.ijou@nfinity8.com | current_professional | stefani.ijou@nfinity8.com | N/A | nfinity8 | null | 45,000-55,000
 hilary | nicholas | linkedin.com/in/hilary-nicholas-92544628 | hilacmcn@yahoo.com | professional | N/A | N/A | null | null | 85,000-100,000
-khalid | gharaibeh | linkedin.com/in/khalid-gharaibeh | khalid.gharaibeh@grayling.com | professional | N/A | N/A | memac ogilvy | null | 70,000-85,000elijah | miti | linkedin.com/in/elijah-miti-00254536 | elijahcmiti@gmail.com | personal | N/A | N/A | destiny media | null | <20,000
-rachel | charles | linkedin.com/in/rachel-charles-3a1aa944 | rh_charles_09@yahoo.com | personal | N/A | N/A | pleasure paradise salon and spa | null | 85,000-100,000
-svetlana | fedkina | linkedin.com/in/svetlanafedkina | sveta.fedkina@gmail.com | personal | N/A | N/A | dance education project | null | <20,000
-celeste | noble | linkedin.com/in/celeste-noble-66972510a | cnoble@uoguelph.ca | professional | N/A | +17059302394 | champlain animal hospital | null | 55,000-70,000
-alicia | vega | linkedin.com/in/alicia-vega-0b16b972 | avega@tucson.com | professional | N/A | +15202396330 | buzziler ✈️ travel experiences | null | 35,000-45,000
-vanessa | osio | linkedin.com/in/vanessaosio | vanessa@thethaddeusfoundation.org | current_professional | vanessa@thethaddeusfoundation.org | N/A | the thaddeus foundation | 250 east center street | 70,000-85,000
-daniel | cordero | linkedin.com/in/daniel-torrealba | danielfebres88@gmail.com | personal | N/A | N/A | fundación de nuevo periodismo iberoamericano | null | <20,000
-iris | wu | linkedin.com/in/wuiris | iwu@coursera.org | current_professional | iwu@coursera.org | N/A | coursera | 381 east evelyn avenue | 85,000-100,000
-danielle | riley | linkedin.com/in/danielle-riley-014764a5 | danielle.riley@ikea.com | professional | N/A | N/A | cruise access now agency | null | 70,000-85,000
-stefani | ijou | linkedin.com/in/stefani-ijou-a2297b11a | stefani.ijou@nfinity8.com | current_professional | stefani.ijou@nfinity8.com | N/A | nfinity8 | null | 45,000-55,000
-hilary | nicholas | linkedin.com/in/hilary-nicholas-92544628 | hilacmcn@yahoo.com | professional | N/A | N/A | null | null | 85,000-100,000
-khalid | gharaibeh | linkedin.com/in/khalid-gharaibeh | khalid.gharaibeh@grayling.com | professional | N/A | N/A | memac ogilvy | null | 70,000-85,000
+khalid | gharaibeh | linkedin.com/in/khalid-gharaibeh | khalid.gharaibeh@grayling.com | professional | N/A | N/A | memac ogilvy | null | 70,000-85,000aakarsh | sharma | linkedin.com/in/aakarsh-sharma-05667949 | aakarsh.sharma@tgcampus.com | current_professional | aakarsh.sharma@tgcampus.com | N/A | tg campus | null | <20,000
+francisca | rojas | linkedin.com/in/lafranto | lafranto@gmail.com | personal | N/A | N/A | draw | null | 20,000-25,000
+barış | boduç | linkedin.com/in/barisboduc | barisboduc@gmail.com | personal | N/A | N/A | canyaş i̇leti̇şi̇m | null | <20,000
+marianela | castagna | linkedin.com/in/marianela-castagna-81140131 | mela1203@hotmail.com | personal | N/A | N/A | kananga viajes | null | <20,000
+martha | schoemaker | linkedin.com/in/martha-schoemaker-44088721 | martha@saleskracht.nl | professional | N/A | N/A | hammerfest | null | 55,000-70,000
+ailsa | sherrington | linkedin.com/in/ailsasherrington | ailsa@thenextweb.com | current_professional | ailsa@thenextweb.com | N/A | tnw | null | 70,000-85,000
+sunny | johannson | linkedin.com/in/sunny-johannson-16b3505a | sunnyj@demandplanning.net | current_professional | sunnyj@demandplanning.net | N/A | demand planning net | 26 henshaw street | 85,000-100,000
+jena | kuykendall | linkedin.com/in/jena-kuykendall-03006b83 | jena@dbsadvantage.com | current_professional | jena@dbsadvantage.com | N/A | dbsadvantage.com | 1120 north louisa avenue | 85,000-100,000
+vilja-roosa | juntunen | linkedin.com/in/vilja-roosa | vilja.juntunen@kielikone.fi | current_professional | vilja.juntunen@kielikone.fi | N/A | kielikone oy | null | 55,000-70,000
