@@ -754,26 +754,23 @@ kelly | papp | linkedin.com/in/kellypapp | kelly.papp@gmail.com | personal | N/A
 blackstone | apps | linkedin.com/in/blackstone-apps-a29a4134 | blackstonemiami@gmail.com | personal | N/A | N/A | blackstone calling cards | 11600 northwest 34th street | 85,000-100,000
 ivan | iacoangeli | linkedin.com/in/ivan-iacoangeli-7a8a3121 | ivaniacoangeli@gmail.com | personal | N/A | N/A | in proprio | null | 45,000-55,000
 tim | moldenaers | linkedin.com/in/tim-moldenaers-95997288 | tim.moldenaers@golazo.com | professional | tim.moldenaers@sporthousegroup.com | N/A | sporthouse group | null | 70,000-85,000
-dallas | boudreaux | linkedin.com/in/dallas-boudreaux-b42697121 | dallas.maitlyn@gmail.com | personal | N/A | +19856344377 | illustree/calligritype | null | 70,000-85,000abha | joshi | linkedin.com/in/abha-joshi-38a98033 | abhapj@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-mariagiovanna | emanuele | linkedin.com/in/mariagiovanna-emanuele-77777511b | mariagiovanna.emanuele@masterblog.it | current_professional | mariagiovanna.emanuele@masterblog.it | N/A | master blog | null | 45,000-55,000
-elena | alfonso | linkedin.com/in/elena-rodriguez-alfonso-68685430 | elena.rodriguez1@vodafone.com | current_professional | elena.rodriguez1@vodafone.com | N/A | vodafone | null | 35,000-45,000
-briea | chanel | linkedin.com/in/brieachanel | brieaclark@yahoo.com | personal | N/A | N/A | girl much | null | 85,000-100,000
-allyson | lupovich | linkedin.com/in/allyson-lupovich-b8190488 | alupovich@meowwolf.com | current_professional | alupovich@meowwolf.com | N/A | meow wolf | 1352 rufina circle | 85,000-100,000
-mel | appleton | linkedin.com/in/mel-appleton-31a74652 | mel@dakotadigital.co.uk | professional | N/A | N/A | music promotions | null | 55,000-70,000
-bryce | bettinger | linkedin.com/in/bryce-bettinger-6a19697 | brycebettinger@hotmail.com | personal | N/A | N/A | loco canopies | null | 85,000-100,000
-mariana | franco | linkedin.com/in/mariana-marcano-franco-99501148 | marianamarcano15@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-pooja | sharma | linkedin.com/in/poojasharma05 | pooja.sharma@nordstrom.com | professional | N/A | N/A | note to self movement | null | 55,000-70,000
-javeria | chandna | linkedin.com/in/javeria-jamil-chandna-53bb7725 | javeriajamil@gmail.com | personal | N/A | N/A | digimmatic | null | 55,000-70,000dean | barberio | linkedin.com/in/dean-barberio-a0984630 | daenandsue@bigpond.com | personal | N/A | N/A | coles supermarkets & flybuys australia | null | 70,000-85,000
-selina | che | linkedin.com/in/selinache | sche@ucla.edu | professional | N/A | +17145041245 | null | null | 100,000-150,000
-fatou | keita | linkedin.com/in/fatou-keita-4710a684 | fatou.keita@fossilgroup.com | professional | N/A | +12017792097 | the wiggins collection | null | 70,000-85,000
-paola | andriani | linkedin.com/in/paola-andriani-6803472b | paola.andriani@gmail.com | personal | N/A | N/A | consorzio icon | null | 45,000-55,000
-sharmetra | pittman | linkedin.com/in/sharmetrapittman | simplymetra@yahoo.com | personal | N/A | +17573432600 | sp social media solutions | 6801 bridgeway drive | 55,000-70,000
-natalie | gray | linkedin.com/in/natalie-gray-334417b4 | natalie.gray@leaseplus.com.au | current_professional | natalie.gray@leaseplus.com.au | N/A | leaseplus | 464 st kilda road | 70,000-85,000
-leo | rechetniak | linkedin.com/in/leorechet | leo.rechetniak@mymail.champlain.edu | professional | N/A | N/A | high times | 10990 wilshire boulevard | 70,000-85,000
-ashwini | pawar | linkedin.com/in/ashwini-pawar-44a62ab9 | ashwini.pawar@birlasunlife.com | professional | ashwini@webdakaar.com | N/A | web dakaar digital consultancy llp. | null | <20,000
-shode | modupe | linkedin.com/in/shode-modupe-8a3b0b1b | shodemodupe@yahoo.com | personal | N/A | N/A | literamed publications | null | <20,000
-daniele | de massis | linkedin.com/in/daniele-de-massis-2700b928 | danieledemassis@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-emil | buszta | linkedin.com/in/emil-buszta-77a516169 | emilosff@wp.pl | personal | N/A | N/A | grupa wm sp. z o.o | null | <20,000
-ime | mark | linkedin.com/in/imemarkc | ime.mark@charmingcharlie.com | professional | N/A | +13475674114 | null | null | 100,000-150,000
-becky | bonde | linkedin.com/in/rebecca-bonde-09584754 | bonde.becky@gmail.com | personal | N/A | +14038090744 | arashi do martial arts calgary | 1120 53 avenue northeast | 55,000-70,000
-alessandra | fina | linkedin.com/in/alessandra-fina-6603b829 | sandrafina@gmail.com | personal | N/A | N/A | wind tre | null | 45,000-55,000
+dallas | boudreaux | linkedin.com/in/dallas-boudreaux-b42697121 | dallas.maitlyn@gmail.com | personal | N/A | +19856344377 | illustree/calligritype | null | 70,000-85,000haley | lindenberg | linkedin.com/in/haleylindenberg | haley.lindenberg@1stdibs.com | current_professional | haley.lindenberg@1stdibs.com | +19087211575 | 1stdibs.com | 51 astor place | 85,000-100,000
+courage | ahiati | linkedin.com/in/courage-ahiati-32058530 | courage354@yahoo.co.uk | personal | N/A | N/A | sprint consult | null | 70,000-85,000
+evangeline | gomez | linkedin.com/in/evangeline-gomez-39007a91 | evangeline.gomez@warnerbros.com | professional | N/A | N/A | onevoice digital | null | 55,000-70,000
+rebecca | may | linkedin.com/in/mayrebecca | rcmay11@gmail.com | personal | N/A | +17707145249 | turner (turner broadcasting system, inc) | 1050 techwood drive northwest | 70,000-85,000
+sahar | aidipour | linkedin.com/in/sahar-aidipour-1b5b4030 | saharaidipour@gmail.com | personal | N/A | +15125516000 | the law office of chris clark, pllc | null | 70,000-85,000
+amber | stevenson | linkedin.com/in/amber-stevenson-76197657 | amber.stevenson@andrettiautosport.com | professional | N/A | N/A | heartland rv | 2831 dexter drive | 85,000-100,000
+michelle | mayer | linkedin.com/in/michelle-mayer-b04439a4 | m.mayer@nexthermal.com | current_professional | m.mayer@nexthermal.com | N/A | nexthermal | 1045 harts lake road | 85,000-100,000
+david | price | linkedin.com/in/dprice2 | dprice218@gmail.com | personal | N/A | +15857508119 | dr.leila quality of life medicine | null | 85,000-100,000
+mariella | frias | linkedin.com/in/mariellafrias | mariella.frias@itan.com | professional | mariella.frias@amobee.com | N/A | amobee | 901 marshall street | 100,000-150,000
+bianca | bollani | linkedin.com/in/bianca-bollani-3081b582 | bianca.bollani@gmail.com | personal | N/A | N/A | alfaparf milano | null | 35,000-45,000
+claudie | smith | linkedin.com/in/claudie-smith-91954a27 | smithclaudie@gmail.com | personal | N/A | +14018550774 | 7seassilver | null | 85,000-100,000
+maddalena | tentori | linkedin.com/in/maddalena-tentori-3319a970 | maddalena.tentori@uninsubria.it | professional | N/A | N/A | como in style srl | null | 45,000-55,000
+diaferia | chloe | linkedin.com/in/chloé-diaferia-48309544 | diaferiachloe@gmail.com | personal | N/A | N/A | netstim | null | 55,000-70,000edit | issagholian | linkedin.com/in/edit-issagholian-1904484a | edit.issagholian@insideweddings.com | current_professional | edit.issagholian@insideweddings.com | N/A | inside weddings magazine | 7119 west sunset boulevard | 70,000-85,000
+ellen | wernecke | linkedin.com/in/ellen-wernecke-3624893 | ellen.wernecke@dairy.org | professional | ellen@swingleft.org | N/A | swing left | null | 70,000-85,000
+angela | estefan | linkedin.com/in/angela-garcia-estefan-a7a66761 | angela.estefan@gmail.com | personal | N/A | N/A | making people | null | 20,000-25,000
+mélanie | ribault | linkedin.com/in/melanieribault | mribault@maniacom.org | current_professional | mribault@maniacom.org | N/A | maniacom groupe | null | 55,000-70,000
+francesca | collodi | linkedin.com/in/francesca-collodi-b01187a3 | fcollodi@abcpest.com | N/A | N/A | N/A | null | null | 45,000-55,000
+ana | gordon | linkedin.com/in/ana-gordon-829188a5 | agordon@ithaca.edu | professional | N/A | +12033216561 | crazy love creative | null | 85,000-100,000
+nadeem | khawar | linkedin.com/in/nadeem-khawar-48a0b429 | nadeem_945@hotmail.com | personal | N/A | N/A | institute for art and culture | null | <20,000
+luca | biondi | linkedin.com/in/blukaos | luca.biondi@centrocliniconemo.it | current_professional | luca.biondi@centrocliniconemo.it | N/A | fondazione serena centro clinico nemo | null | 55,000-70,000
