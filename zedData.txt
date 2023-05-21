@@ -131,18 +131,20 @@ martha | schoemaker | linkedin.com/in/martha-schoemaker-44088721 | martha@salesk
 ailsa | sherrington | linkedin.com/in/ailsasherrington | ailsa@thenextweb.com | current_professional | ailsa@thenextweb.com | N/A | tnw | null | 70,000-85,000
 sunny | johannson | linkedin.com/in/sunny-johannson-16b3505a | sunnyj@demandplanning.net | current_professional | sunnyj@demandplanning.net | N/A | demand planning net | 26 henshaw street | 85,000-100,000
 jena | kuykendall | linkedin.com/in/jena-kuykendall-03006b83 | jena@dbsadvantage.com | current_professional | jena@dbsadvantage.com | N/A | dbsadvantage.com | 1120 north louisa avenue | 85,000-100,000
-vilja-roosa | juntunen | linkedin.com/in/vilja-roosa | vilja.juntunen@kielikone.fi | current_professional | vilja.juntunen@kielikone.fi | N/A | kielikone oy | null | 55,000-70,000jess | fawcett | linkedin.com/in/jess-fawcett-b3a04619 | vc_rox@hotmail.co.uk | personal | N/A | N/A | null | null | 55,000-70,000
-sidney | wing | linkedin.com/in/sidney-wing-3a1b54122 | sidney.wing@mad.digital | current_professional | sidney.wing@mad.digital | N/A | mad about digital | null | 85,000-100,000
-jessica | andry | linkedin.com/in/jessica-andry-32aa5818 | jessica.andry@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-lara | sigrist | linkedin.com/in/larasigrist | lara.sigrist@publicispixelpark.de | current_professional | lara.sigrist@publicispixelpark.de | N/A | publicis pixelpark | null | 70,000-85,000
-mike | allende | linkedin.com/in/mike-allende-b2366a7 | mja31575@yahoo.com | personal | mike.allende@wa.gov | N/A | washington state department of transportation | 310 maple park | 85,000-100,000
-rebecca | ellis | linkedin.com/in/rebeccaellis90 | rellis@newswatchtv.com | current_professional | rellis@newswatchtv.com | +17034019332 | newswatch | 2611 jefferson highway | 70,000-85,000
-laura | hylton | linkedin.com/in/laurahyltonfrancecommunication | laura.hylton@hotmail.fr | personal | N/A | N/A | essilor | null | 55,000-70,000
-michael | lenhart | linkedin.com/in/michael-lenhart-a18a0022 | ml@michaellenhart.at | professional | N/A | N/A | social media consulting | null | 55,000-70,000
-brandon | johnson | linkedin.com/in/bjohnsonxar | 1994bmj@sbcglobal.net | personal | N/A | +15016128757 | emporium presents | null | 100,000-150,000
-mohammad | ahmer | linkedin.com/in/sapphiresolutionsmarketing | sapphiresolutions02@gmail.com | personal | N/A | N/A | sapphire solutions | null | <20,000
-catherine | cavallo | linkedin.com/in/catherine-cavallo-9b9a0a97 | catherine.cavallo@monash.edu | professional | catherine.cavallo@rememberthewild.org.au | +61413900167 | remember the wild | null | 70,000-85,000
-amanda | ruiz | linkedin.com/in/amandaruiz418 | amanda.ruiz@christmastreeshops.com | professional | N/A | N/A | be visible | null | 85,000-100,000
-daniela | fernández | linkedin.com/in/danielladaza | danydaza@hotmail.com | personal | N/A | N/A | compass group españa | null | 35,000-45,000
-lars | kattelmann | linkedin.com/in/lars-kattelmann-3b1438113 | lars.kattelmann@turner.com | professional | N/A | N/A | drillisch online ag | null | 55,000-70,000
-bj | shelton | linkedin.com/in/bj-shelton-90736723 | bjshelton@aarp.org | N/A | N/A | N/A | social media today, llc | 1575 eye street northwest | 85,000-100,000
+vilja-roosa | juntunen | linkedin.com/in/vilja-roosa | vilja.juntunen@kielikone.fi | current_professional | vilja.juntunen@kielikone.fi | N/A | kielikone oy | null | 55,000-70,000juliana | gregory | linkedin.com/in/juliana-gregory-9b1352b7 | jgregory@ethanallen.com | professional | N/A | N/A | simplicity digital agency | 615 south college street | 70,000-85,000
+christopher | stark | linkedin.com/in/christopher-stark-65663092 | starkc@gvsu.edu | professional | N/A | N/A | meraki.social | null | 85,000-100,000
+heather | harding | linkedin.com/in/heather-c-harding-a1994824 | hharding41056@hotmail.com | personal | N/A | N/A | 20/20 ent | null | 85,000-100,000
+hira | liaqat | linkedin.com/in/hira-liaqat-10b86048 | hira_lhb@hotmail.com | personal | N/A | N/A | impressive solutions | null | <20,000
+yann | amiry | linkedin.com/in/yann-amiry-a6b91833 | yann.amiry@skema.edu | N/A | yann.amiry@decathlon.com | N/A | decathlon france | null | 55,000-70,000
+kelsey | stilwell | linkedin.com/in/kelseystilwell | kelseyiverson07@gmail.com | personal | N/A | N/A | patriot machining | null | 85,000-100,000
+greg | bellefontaine | linkedin.com/in/gregbellefontaine | vettech@rogers.com | N/A | N/A | N/A | aventix animal health | null | 55,000-70,000
+tiffany | ramoneda | linkedin.com/in/tiffany-ramoneda-b8a84ba4 | tiffany.ramoneda@outlook.com | personal | N/A | +14083103923 | booksmart enterprises | null | 85,000-100,000
+badr | elaini | linkedin.com/in/badr-elaini-7414694b | badr.elaini@meditel.ma | professional | badr.elaini@orange.com | N/A | orange | null | <20,000
+lynne | swan | linkedin.com/in/lynne-swan-4462a835 | lynne.swan90@gmail.com | personal | N/A | N/A | london business school | null | 55,000-70,000
+oliver | scherb | linkedin.com/in/oliver-scherb-20018833 | facebook@metabo.de | current_professional | facebook@metabo.de | N/A | metabowerke gmbh | null | 55,000-70,000
+mihaela | dumitru | linkedin.com/in/mihaela-dumitru-5085794 | mihaela.dumitru@rompetrol.com | current_professional | mihaela.dumitru@rompetrol.com | N/A | rompetrol | null | <20,000
+claire | cavanagh | linkedin.com/in/claire-cavanagh-02078a59 | claire.cavanagh@coventry.ac.uk | professional | claire.cavanagh@tmwi.co.uk | N/A | tmwi | null | 55,000-70,000
+eduardo | gálvez | linkedin.com/in/eduardo-gálvez-99906635 | donlalo.diseno@gmail.com | personal | N/A | N/A | vertical store | null | 20,000-25,000
+payton | holbrook | linkedin.com/in/paytonholbrook | payton.holbrook@mmiagency.com | current_professional | payton.holbrook@mmiagency.com | N/A | mmi agency | 1712 pease | 70,000-85,000
+jeremy | azzopardi | linkedin.com/in/jeremyazzopardi | jeremy@presentcompany.co | professional | N/A | N/A | sydney zoo | null | 70,000-85,000
+samantha | varela | linkedin.com/in/samantha-ayelen-varela-aa072a3b | samy.locura@hotmail.com | personal | N/A | N/A | null | null | 20,000-25,000
