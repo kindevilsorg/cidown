@@ -1764,4 +1764,12 @@ giacomo | liberto | linkedin.com/in/giacomo-liberto-53b49549 | jumpix88@hotmail.
 deborah | wardle | linkedin.com/in/deborah-wardle-33154040 | d.l.wardle@hotmail.co.uk | personal | N/A | N/A | independent online marketing | null | 55,000-70,000
 katie | tchintcharauli | linkedin.com/in/katie-tchintcharauli-60012111b | katie@socialsharks.cz | current_professional | katie@socialsharks.cz | N/A | socialsharks | null | 85,000-100,000
 erika | couts | linkedin.com/in/erika-couts-3b856120 | oeron27@yahoo.com | personal | N/A | +18185725935 | null | null | 85,000-100,000
-joshua | sala | linkedin.com/in/joshuasala | joshua.sala88@gmail.com | personal | N/A | N/A | freedata labs | null | 45,000-55,000
+joshua | sala | linkedin.com/in/joshuasala | joshua.sala88@gmail.com | personal | N/A | N/A | freedata labs | null | 45,000-55,000alberto | de la rubia | linkedin.com/in/alberto-ordoñez-de-la-rubia-b0795537 | alberto.odlr@gmail.com | personal | N/A | N/A | tbwa\ españa | null | 20,000-25,000
+emma | smith | linkedin.com/in/emma-smith-710 | smith4e2@mail.uc.edu | N/A | N/A | N/A | cilantro vietnamese bistro | 2510 clifton avenue | 70,000-85,000
+kamila | klimczak | linkedin.com/in/kamila-klimczak | kamila.klimczak@opusb.pl | current_professional | kamila.klimczak@opusb.pl | N/A | agencja reklamowa opus b | null | 20,000-25,000
+murilo | de oliveira | linkedin.com/in/murilo-alves-de-oliveira-83b32535 | murilo.menedor@gmail.com | personal | N/A | N/A | micropro franquias | null | <20,000
+april | macias | linkedin.com/in/aprildenisemacias | proggy9@yahoo.com | personal | N/A | +15626331057 | directv | 2230 east imperial highway | 70,000-85,000
+erin | siskind | linkedin.com/in/erinbyrne | esiskind@goldstar.com | current_professional | esiskind@goldstar.com | N/A | goldstar events, inc. | null | 70,000-85,000
+stathis | kalligeris | linkedin.com/in/stathisgr | blogakilicious@gmail.com | personal | N/A | N/A | webjar | null | 25,000-35,000
+pamela | christopher | linkedin.com/in/pamela-christopher-9bb80b28 | pamelacee@gmail.com | personal | N/A | N/A | backstage studio of dance | null | 100,000-150,000
+qais | qazaz | linkedin.com/in/qais-qazaz-4411052b | qaisqazaz@aol.com | personal | N/A | N/A | ismc ioftd | null | 85,000-100,000
