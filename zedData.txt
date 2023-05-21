@@ -489,4 +489,16 @@ olivia | hood | linkedin.com/in/olivialhood | olivia@proctorio.com | current_pro
 alison | pittick | linkedin.com/in/alisonpittick | alison.pittick@gloryglobalsolutions.com | professional | N/A | N/A | glory global solutions | null | 70,000-85,000
 renata | lima | linkedin.com/in/renata-lima-ab18a524 | renatab_lima@hotmail.com | personal | N/A | N/A | leme digital | null | <20,000
 marie-sophie | pepe | linkedin.com/in/mariesophiepepe | mspepe13@gmail.com | personal | marie-sophie.pepe@kbcbrussels.be | N/A | kbc brussels bank and insurance | null | 55,000-70,000
-hannah | schlei | linkedin.com/in/hannah-schlei-b142b429 | hschlei@georgestreetphoto.com | professional | N/A | N/A | sportschic | null | 70,000-85,000
+hannah | schlei | linkedin.com/in/hannah-schlei-b142b429 | hschlei@georgestreetphoto.com | professional | N/A | N/A | sportschic | null | 70,000-85,000jim | cooper | linkedin.com/in/jamesmcooper | jim.cooper@jmcsteelgroup.com | current_professional | jim.cooper@jmcsteelgroup.com | N/A | jmc steel group | 227 west monroe street | 85,000-100,000
+maksym | ilchenko | linkedin.com/in/milchenko | maxkram@inbox.ru | personal | N/A | N/A | kirimovmedia | null | <20,000
+mauricio | mormontoy | linkedin.com/in/mauricio-mormontoy-550a08109 | mauricio.mormontoy@gmail.com | personal | N/A | N/A | null | null | <20,000
+kenisha | archer | linkedin.com/in/kenisha-archer-69091333 | archerkenisha@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+marina | syrmakezi | linkedin.com/in/marina-syrmakezi-03850949 | m.syrmakezi@me.com | personal | N/A | N/A | null | null | 55,000-70,000
+niv | slater | linkedin.com/in/niv-slater-02800a132 | niv@harel-moradi.com | current_professional | niv@harel-moradi.com | N/A | harel-moradi | null | 55,000-70,000
+jenny | kampourogianni | linkedin.com/in/jenny-kampourogianni-753b502a | eygenia87@hotmail.com | personal | N/A | N/A | null | null | 25,000-35,000
+shana | callaghan | linkedin.com/in/shana-callaghan-529701b5 | shana.callaghan@rymanhealthcare.co.nz | professional | N/A | N/A | event hire | null | 45,000-55,000
+sarah | loucks | linkedin.com/in/sarah-loucks-b4b249109 | sarah.loucks@avon.com | professional | N/A | N/A | surplus furniture & mattress | null | 55,000-70,000
+yulia | ivanova | linkedin.com/in/yulia-ivanova-73809527 | yulia-ivanova@hotmail.com | personal | N/A | N/A | rising phoenix international | null | 55,000-70,000
+herald | herrera | linkedin.com/in/heraldherrera | herrera.herald@hotmail.com | personal | N/A | N/A | independent food company | null | 55,000-70,000
+spyros | sifakakis | linkedin.com/in/spsifakakis | sp_sifo@hotmail.com | personal | N/A | N/A | ibiscos garden hotel crete | null | 25,000-35,000
+hollis | johnson | linkedin.com/in/hollis-johnson-98a1aa15 | hollis.k.walker@gmail.com | personal | N/A | N/A | potter lawson, inc. | 749 university row | 85,000-100,000
