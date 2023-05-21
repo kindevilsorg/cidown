@@ -742,4 +742,16 @@ madan | bhardwaj | linkedin.com/in/madan-mohit-bhardwaj-ab19b2125 | mohitbhardwa
 michael | tisei | linkedin.com/in/michael-tisei-642a9069 | michael.tisei@gmail.com | personal | N/A | +17814846192 | cwa | 501 3rd street northwest | 85,000-100,000
 jordan | wheeler | linkedin.com/in/jordan-wheeler-0365689 | jordanwheeler1994@hotmail.co.uk | personal | N/A | N/A | provoke me | null | 55,000-70,000
 caitlin | soriano | linkedin.com/in/caitlin-soriano-52bb90b8 | caitlin@projectedgrowthconsulting.com | current_professional | caitlin@projectedgrowthconsulting.com | N/A | projected growth consulting | 1324 liberty lake drive | 85,000-100,000
-jonathan | amaro-barron | linkedin.com/in/jonathan-amaro-barron-1469b0a3 | jonathan@almeidafamilydentistry.com | current_professional | jonathan@almeidafamilydentistry.com | +17864731445 | almeida family dentistry | null | 85,000-100,000
+jonathan | amaro-barron | linkedin.com/in/jonathan-amaro-barron-1469b0a3 | jonathan@almeidafamilydentistry.com | current_professional | jonathan@almeidafamilydentistry.com | +17864731445 | almeida family dentistry | null | 85,000-100,000kristin | niizawa | linkedin.com/in/kristin-niizawa-a5b070126 | alaniisann@gmail.com | personal | N/A | +17143186707 | vivial | 160 inverness drive west | 70,000-85,000
+dawn | ives | linkedin.com/in/dawn-ives-27458726 | dives3000@gmail.com | personal | N/A | N/A | delta air lines | 1030 delta boulevard | 70,000-85,000
+m.cristina | ricci | linkedin.com/in/m-cristina-ricci-5a9a3ab | flameleth@gmail.com | personal | N/A | N/A | università degli studi "g. d'annunzio" chieti - pescara | null | 45,000-55,000
+katie | bell | linkedin.com/in/katieelizabethbell | katbell@rocketmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+katrina | sheiles | linkedin.com/in/katrina-sheiles-99868724 | ksheiles@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+martina | del gracco | linkedin.com/in/martina-del-gracco | martina.del.gracco@gmail.com | personal | N/A | N/A | unoone srl | null | 45,000-55,000
+mislav | melki | linkedin.com/in/mislav-melki-942b7159 | mislav@revolucija.hr | current_professional | mislav@revolucija.hr | N/A | studio revolucija | null | <20,000
+emma | del valle | linkedin.com/in/emma-del-valle-86808947 | emma@mentalfloss.com | professional | N/A | +14403381816 | fancy soups | null | 70,000-85,000
+kelly | papp | linkedin.com/in/kellypapp | kelly.papp@gmail.com | personal | N/A | N/A | true mtn social | null | 70,000-85,000
+blackstone | apps | linkedin.com/in/blackstone-apps-a29a4134 | blackstonemiami@gmail.com | personal | N/A | N/A | blackstone calling cards | 11600 northwest 34th street | 85,000-100,000
+ivan | iacoangeli | linkedin.com/in/ivan-iacoangeli-7a8a3121 | ivaniacoangeli@gmail.com | personal | N/A | N/A | in proprio | null | 45,000-55,000
+tim | moldenaers | linkedin.com/in/tim-moldenaers-95997288 | tim.moldenaers@golazo.com | professional | tim.moldenaers@sporthousegroup.com | N/A | sporthouse group | null | 70,000-85,000
+dallas | boudreaux | linkedin.com/in/dallas-boudreaux-b42697121 | dallas.maitlyn@gmail.com | personal | N/A | +19856344377 | illustree/calligritype | null | 70,000-85,000
