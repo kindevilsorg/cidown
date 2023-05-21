@@ -1859,13 +1859,27 @@ carsten | hanke | linkedin.com/in/carsten-hanke-3387a3b9 | carsten.hanke@landgar
 carmen | martínez | linkedin.com/in/carmen-martínez-80b44243 | carmen.martz@outlook.com | personal | N/A | N/A | inova mexico | null | <20,000
 vanessa | losi | linkedin.com/in/vanessa-losi-40191825 | vanes@libero.it | N/A | N/A | N/A | not just coffee | 1812 oakdale green drive | 45,000-55,000
 michelle | cyr | linkedin.com/in/michellecyr | cyr_michelle@hotmail.com | personal | N/A | N/A | form & affect | null | 55,000-70,000
-daniela | hauser | linkedin.com/in/danielahauser | daniela.hauser@harman.com | professional | N/A | N/A | tremento | null | 55,000-70,000margarida | pais | linkedin.com/in/margarida-pais | margarida.pais@insigte.com | professional | N/A | N/A | independence | null | 25,000-35,000
-alba | bonet | linkedin.com/in/albabonet | mondodialba@hotmail.com | personal | N/A | N/A | alba bonet | null | <20,000
-cathie | glennon | linkedin.com/in/cathie-glennon-6a14b69 | cathie3@telus.net | N/A | cathie@infofit.ca | N/A | infofit | 102-1687 broadway | 55,000-70,000
-marie | tondereau | linkedin.com/in/marie-tondereau-5907b868 | marie.tondereau@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-brooke | rachman | linkedin.com/in/brooke-rachman-980637102 | brooke@lancerskincare.com | current_professional | brooke@lancerskincare.com | +19496909496 | lancer skincare | 440 north rodeo drive | 85,000-100,000
-kamila | kelly | linkedin.com/in/kamila-kelly-51674b15 | kamila@mastersandsavant.com | professional | N/A | N/A | k a n social media and content creation | null | <20,000
-shayne | ebrahimi | linkedin.com/in/shayneebrahimi | shayne.ebrahimi@gia.edu | current_professional | shayne.ebrahimi@gia.edu | N/A | gia | null | 70,000-85,000
-silje | fiskerstrand | linkedin.com/in/silje-hustoft-fiskerstrand-394a1b31 | siljehfiskerstrand@gmail.com | personal | N/A | N/A | mediacom | 124 theobalds road | 100,000-150,000
-florian | menath | linkedin.com/in/florian-menath-073082106 | fmenath@artus.com | current_professional | fmenath@artus.com | N/A | artus interactive | null | 55,000-70,000
-kathleen | winter | linkedin.com/in/kathleenwinter | kmwintr@yahoo.com | personal | N/A | N/A | shriners hospitals for children | null | 85,000-100,000
+daniela | hauser | linkedin.com/in/danielahauser | daniela.hauser@harman.com | professional | N/A | N/A | tremento | null | 55,000-70,000nicolas | lemarchand | linkedin.com/in/nicolas-lemarchand | nicolas.lemarchand@bpce.fr | professional | N/A | N/A | crédit agricole normandie-seine | null | 55,000-70,000
+delphine | errime | linkedin.com/in/delphine-errime-57aa5048 | delphine.errime@yahoo.fr | personal | N/A | N/A | null | null | 55,000-70,000
+hayley | miller | linkedin.com/in/hayley-miller-99750211 | mycomet525@aol.com | personal | hmiller@ushmm.org | +18186488332 | united states holocaust memorial museum | 100 raul wallenberg place southwest | 85,000-100,000
+joe | scarchilli | linkedin.com/in/joe-scarchilli-4865098a | jscarchilli@capcomfcu.org | professional | N/A | +15183967718 | groupiehead | null | 85,000-100,000
+dotan | jakoby | linkedin.com/in/dotan-jakoby-172838a3 | dotan.jakoby@jewishagency.org | professional | N/A | N/A | xtra mile - b2b marketing agency | null | 45,000-55,000
+alfares | moh | linkedin.com/in/alfares-moh-98439736 | moh.my@hotmail.com | personal | N/A | N/A | almohite travel agency | null | <20,000
+nicola | lazzaro | linkedin.com/in/nicolalazzaro | nicko86n@libero.it | N/A | N/A | N/A | youcoach s.r.l. | null | 45,000-55,000
+olga | maksimovica | linkedin.com/in/olgamaksimovica | olga@quiqup.com | professional | N/A | N/A | union hand-roasted coffee | 7a south crescent | 55,000-70,000
+martina | cabrini | linkedin.com/in/martina-cabrini-a49a6238 | martina.cabrini@gmail.com | personal | martina.cabrini@ponzi-in.it | N/A | ponzi ingressi infissi | null | 55,000-70,000
+nicolas | hetman | linkedin.com/in/nicolas-hetman-690b5820 | nhetman17@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+mythily | lemerle | linkedin.com/in/mythilylemerle | mythily.kasippilai@h-paris.com | N/A | N/A | N/A | gigaset | null | 55,000-70,000
+josh | plit | linkedin.com/in/josh-plit-05870534 | josh@mydario.com | professional | N/A | N/A | gurushots | 171 hamilton street | 55,000-70,000georgia | donaldson | linkedin.com/in/georgia-donaldson | georgia_donaldson@ninewest.com | professional | georgia@overport.com.au | N/A | overport agency | null | 70,000-85,000
+mark | spansel | linkedin.com/in/mark-spansel-1b9839132 | markspansel@outlook.com | professional | N/A | +15103617979 | 49er news | null | 85,000-100,000
+lottie | madden | linkedin.com/in/lottie-madden-576728b2 | lottie.madden@gmail.com | personal | N/A | +447720617225 | clarity thailand | null | 55,000-70,000
+greg | harwood | linkedin.com/in/greg-harwood-6a647216 | gregoryharwood@yahoo.co.uk | personal | N/A | N/A | the open university | null | 55,000-70,000
+kumsal | kınay | linkedin.com/in/kumsalkinay | kumsal.kinay@gmail.com | personal | N/A | N/A | ahtapot sosyal medya | null | <20,000
+berna | aytuna | linkedin.com/in/berna-aytuna-57a4283b | aytunaberna88@gmail.com | personal | berna@kreatif.net | N/A | yeni nesil kreatif | 19 mayıs mh 19 mayıs cad ubm plaza | <20,000
+jenna | wernovsky | linkedin.com/in/jenna-wernovsky-85641443 | jmwernov@gmail.com | personal | N/A | N/A | citizen watch company | 350 fifth avenue | 85,000-100,000
+emily | spears | linkedin.com/in/emily-spears | emily@twitch.tv | professional | N/A | +17722337594 | visuals by impulse | null | 70,000-85,000
+heather | ferrari | linkedin.com/in/heather-ferrari-0a6bbb35 | whatigot06@yahoo.com | personal | N/A | N/A | h&m landing | 2803 emerson street | 85,000-100,000
+joanna | wishart | linkedin.com/in/joanna-m-wishart-15961b32 | jowish00@gmail.com | personal | N/A | +13106547546 | yahoo | null | 85,000-100,000
+chiara | guerrieri | linkedin.com/in/chiara-guerrieri-3243553b | chiara.gue@libero.it | N/A | N/A | N/A | almagìa | null | 45,000-55,000
+ankita | pandey | linkedin.com/in/ankita-pandey-41815516 | anki_0409@yahoo.co.in | personal | N/A | N/A | star india | null | <20,000
+jennifer | stafford | linkedin.com/in/jennifer-stafford-b4945225 | hacorpsocial@gmail.com | personal | N/A | +12144769964 | homeaway.com | 11800 domain boulevard | 85,000-100,000
