@@ -1859,4 +1859,15 @@ carsten | hanke | linkedin.com/in/carsten-hanke-3387a3b9 | carsten.hanke@landgar
 carmen | martínez | linkedin.com/in/carmen-martínez-80b44243 | carmen.martz@outlook.com | personal | N/A | N/A | inova mexico | null | <20,000
 vanessa | losi | linkedin.com/in/vanessa-losi-40191825 | vanes@libero.it | N/A | N/A | N/A | not just coffee | 1812 oakdale green drive | 45,000-55,000
 michelle | cyr | linkedin.com/in/michellecyr | cyr_michelle@hotmail.com | personal | N/A | N/A | form & affect | null | 55,000-70,000
-daniela | hauser | linkedin.com/in/danielahauser | daniela.hauser@harman.com | professional | N/A | N/A | tremento | null | 55,000-70,000
+daniela | hauser | linkedin.com/in/danielahauser | daniela.hauser@harman.com | professional | N/A | N/A | tremento | null | 55,000-70,000nicolas | lemarchand | linkedin.com/in/nicolas-lemarchand | nicolas.lemarchand@bpce.fr | professional | N/A | N/A | crédit agricole normandie-seine | null | 55,000-70,000
+delphine | errime | linkedin.com/in/delphine-errime-57aa5048 | delphine.errime@yahoo.fr | personal | N/A | N/A | null | null | 55,000-70,000
+hayley | miller | linkedin.com/in/hayley-miller-99750211 | mycomet525@aol.com | personal | hmiller@ushmm.org | +18186488332 | united states holocaust memorial museum | 100 raul wallenberg place southwest | 85,000-100,000
+joe | scarchilli | linkedin.com/in/joe-scarchilli-4865098a | jscarchilli@capcomfcu.org | professional | N/A | +15183967718 | groupiehead | null | 85,000-100,000
+dotan | jakoby | linkedin.com/in/dotan-jakoby-172838a3 | dotan.jakoby@jewishagency.org | professional | N/A | N/A | xtra mile - b2b marketing agency | null | 45,000-55,000
+alfares | moh | linkedin.com/in/alfares-moh-98439736 | moh.my@hotmail.com | personal | N/A | N/A | almohite travel agency | null | <20,000
+nicola | lazzaro | linkedin.com/in/nicolalazzaro | nicko86n@libero.it | N/A | N/A | N/A | youcoach s.r.l. | null | 45,000-55,000
+olga | maksimovica | linkedin.com/in/olgamaksimovica | olga@quiqup.com | professional | N/A | N/A | union hand-roasted coffee | 7a south crescent | 55,000-70,000
+martina | cabrini | linkedin.com/in/martina-cabrini-a49a6238 | martina.cabrini@gmail.com | personal | martina.cabrini@ponzi-in.it | N/A | ponzi ingressi infissi | null | 55,000-70,000
+nicolas | hetman | linkedin.com/in/nicolas-hetman-690b5820 | nhetman17@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+mythily | lemerle | linkedin.com/in/mythilylemerle | mythily.kasippilai@h-paris.com | N/A | N/A | N/A | gigaset | null | 55,000-70,000
+josh | plit | linkedin.com/in/josh-plit-05870534 | josh@mydario.com | professional | N/A | N/A | gurushots | 171 hamilton street | 55,000-70,000
