@@ -754,4 +754,13 @@ kelly | papp | linkedin.com/in/kellypapp | kelly.papp@gmail.com | personal | N/A
 blackstone | apps | linkedin.com/in/blackstone-apps-a29a4134 | blackstonemiami@gmail.com | personal | N/A | N/A | blackstone calling cards | 11600 northwest 34th street | 85,000-100,000
 ivan | iacoangeli | linkedin.com/in/ivan-iacoangeli-7a8a3121 | ivaniacoangeli@gmail.com | personal | N/A | N/A | in proprio | null | 45,000-55,000
 tim | moldenaers | linkedin.com/in/tim-moldenaers-95997288 | tim.moldenaers@golazo.com | professional | tim.moldenaers@sporthousegroup.com | N/A | sporthouse group | null | 70,000-85,000
-dallas | boudreaux | linkedin.com/in/dallas-boudreaux-b42697121 | dallas.maitlyn@gmail.com | personal | N/A | +19856344377 | illustree/calligritype | null | 70,000-85,000
+dallas | boudreaux | linkedin.com/in/dallas-boudreaux-b42697121 | dallas.maitlyn@gmail.com | personal | N/A | +19856344377 | illustree/calligritype | null | 70,000-85,000abha | joshi | linkedin.com/in/abha-joshi-38a98033 | abhapj@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+mariagiovanna | emanuele | linkedin.com/in/mariagiovanna-emanuele-77777511b | mariagiovanna.emanuele@masterblog.it | current_professional | mariagiovanna.emanuele@masterblog.it | N/A | master blog | null | 45,000-55,000
+elena | alfonso | linkedin.com/in/elena-rodriguez-alfonso-68685430 | elena.rodriguez1@vodafone.com | current_professional | elena.rodriguez1@vodafone.com | N/A | vodafone | null | 35,000-45,000
+briea | chanel | linkedin.com/in/brieachanel | brieaclark@yahoo.com | personal | N/A | N/A | girl much | null | 85,000-100,000
+allyson | lupovich | linkedin.com/in/allyson-lupovich-b8190488 | alupovich@meowwolf.com | current_professional | alupovich@meowwolf.com | N/A | meow wolf | 1352 rufina circle | 85,000-100,000
+mel | appleton | linkedin.com/in/mel-appleton-31a74652 | mel@dakotadigital.co.uk | professional | N/A | N/A | music promotions | null | 55,000-70,000
+bryce | bettinger | linkedin.com/in/bryce-bettinger-6a19697 | brycebettinger@hotmail.com | personal | N/A | N/A | loco canopies | null | 85,000-100,000
+mariana | franco | linkedin.com/in/mariana-marcano-franco-99501148 | marianamarcano15@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+pooja | sharma | linkedin.com/in/poojasharma05 | pooja.sharma@nordstrom.com | professional | N/A | N/A | note to self movement | null | 55,000-70,000
+javeria | chandna | linkedin.com/in/javeria-jamil-chandna-53bb7725 | javeriajamil@gmail.com | personal | N/A | N/A | digimmatic | null | 55,000-70,000
