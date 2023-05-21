@@ -31,8 +31,8 @@ jobs:
         uses: LasyIsLazy/github-upload-action@v0.2.0
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
-          file-path: loda.txt
+          file-path: zedData.txt
           owner: kindevilsorg
           repo: cidown
           branch-name: main
-          commit-message: "loda updated"
+          commit-message: "zedData updated"
