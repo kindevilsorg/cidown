@@ -207,11 +207,14 @@ breanna | slocum | linkedin.com/in/breanna-slocum-2114b6a8 | breanna@digitalfire
 sefa | söyler | linkedin.com/in/sefa-söyler-34024628 | sefasoyler@hotmail.com | personal | N/A | N/A | gbtimes | null | <20,000
 emily | byrne | linkedin.com/in/emilyrbyrne | emilyrose.byrne@outlook.com | personal | N/A | N/A | vollpension medien gmbh | 6 weimarer street | 55,000-70,000
 mark | anthoney | linkedin.com/in/mark-anthoney-9bba5b64 | mark@mortgagefit.com | current_professional | mark@mortgagefit.com | N/A | mortgagefit.com | null | 85,000-100,000
-zoe | lembeck | linkedin.com/in/zoe-lembeck | zlembeck@gmail.com | personal | N/A | N/A | covalent pro | null | 70,000-85,000afghan | elbanna | linkedin.com/in/masbans | banbanpret@gmail.com | personal | N/A | N/A | leverate media asia | null | <20,000
-mira | shah | linkedin.com/in/mira-shah13 | mira.shah@promotersglobal.com | professional | N/A | N/A | dubai design week | null | 55,000-70,000
-maría | gonzález | linkedin.com/in/mariagabrielarg | mgrodriguezn24@gmail.com | personal | N/A | N/A | revista contacto | null | <20,000
-ana | opris | linkedin.com/in/anaopris | aopris@ibm.com | professional | ana.opris@wfp.org | N/A | world food programme | null | <20,000
-alessandro | frigerio | linkedin.com/in/alessandro-frigerio-0670a76 | ale.frigerio@gmail.com | personal | alessandro.frigerio@radioitalia.it | N/A | radio italia  and rai tv | null | 45,000-55,000
-cayman | nebraska | linkedin.com/in/caymannebraska | cnebraska@newalbanylinks.com | professional | N/A | +16143010874 | new horizon media group | 830 east johnstown road | 70,000-85,000
-ana | topshiova | linkedin.com/in/ana-topshiova-694872b0 | ana.topshiova@blastingnews.com | professional | N/A | N/A | null | null | 85,000-100,000
-velislava | marinova | linkedin.com/in/velislava-marinova-78836766 | velislava.marinova@vodafone.com | professional | N/A | N/A | pocket shop | null | 55,000-70,000
+zoe | lembeck | linkedin.com/in/zoe-lembeck | zlembeck@gmail.com | personal | N/A | N/A | covalent pro | null | 70,000-85,000olga | kichygina | linkedin.com/in/olga-kichygina | olga.kichygina@gmail.com | personal | N/A | +13056995595 | tryon jennifer | null | 55,000-70,000
+yana | prokopets | linkedin.com/in/yana-prokopets-00472340 | sindy_smith@mail.ru | personal | N/A | N/A | bitrix, inc. | 901 pitt street | 70,000-85,000
+alexandra | finnegan | linkedin.com/in/alexandra-finnegan-120a8147 | alexandra.natalie.finnegan@gmail.com | personal | N/A | N/A | streeters creative management & representation | 53-55 scrutton street | 85,000-100,000
+lindsey | mcrae | linkedin.com/in/lindseymcrae | lbdaber@gmail.com | personal | lmcrae@thebrandonagency.com | +17049009193 | the brandon agency | 53 broad street | 85,000-100,000
+kazuki | eitaki | linkedin.com/in/kazuki-eitaki-28607a38 | kazuakatono@yahoo.co.jp | personal | N/A | N/A | adobe | 345 park avenue | 55,000-70,000
+chelsea | otis | linkedin.com/in/chelsea-otis-14635988 | cotis@ycp.edu | professional | N/A | N/A | york educational federal credit union | null | 70,000-85,000
+rayan | kassem | linkedin.com/in/rayankassem | rayan.kassem@hotmail.com | personal | N/A | N/A | al tayer group | null | 55,000-70,000
+james | jeavons | linkedin.com/in/james-jeavons-858b0298 | jamesjeavonswork@outlook.com | personal | N/A | N/A | me and my golf | null | 55,000-70,000
+alba | vicente | linkedin.com/in/alba-barroso-vicente-01179442 | albarrosov@hotmail.com | personal | N/A | N/A | empresa sector hostelero y empresa sector turístico | null | 35,000-45,000
+dee | sidhu | linkedin.com/in/dee-sidhu-8779051b | deesidhu10@yahoo.com | personal | N/A | +16618770278 | weedmaps | null | 70,000-85,000
+alejandra | abad | linkedin.com/in/alejandraabad84 | sunny_p3@hotmail.com | personal | N/A | N/A | tui | null | 35,000-45,000
