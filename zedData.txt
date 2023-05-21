@@ -727,19 +727,19 @@ laura | galip | linkedin.com/in/laura-galip-58a429a0 | laura-galip@web.de | pers
 shadab | malik | linkedin.com/in/shadabmalik | kingofthefriends99@hotmail.com | personal | N/A | N/A | whm global | null | 55,000-70,000
 gianmarco | diorio | linkedin.com/in/gianmarco-diorio-5abb286a | gianmarco@birradelborgo.it | current_professional | gianmarco@birradelborgo.it | N/A | birra del borgo | null | 45,000-55,000
 robbie | hoover | linkedin.com/in/robbiehoover | rdh2n3@mail.missouri.edu | professional | N/A | +13126745315 | dfw marriott hotel & golf club | 3300 championship parkway | 85,000-100,000
-danae | istari | linkedin.com/in/danae-istari-33900124 | istaridanae@hotmail.com | personal | N/A | N/A | webquitecto | null | <20,000chris | zurales | linkedin.com/in/chris-zurales-53b4a859 | chris.zurales@presencehealth.org | professional | N/A | N/A | amita health | 800 biesterfield road | 70,000-85,000
-jesseca | vanderwork | linkedin.com/in/jesseca-vanderwork-555159b5 | jesseca.vanderwork@gmail.com | personal | jvanderwork@innoceanusa.com | +19513342480 | innocean usa | null | 85,000-100,000
-nithita | aroonchote | linkedin.com/in/nithita-aroonchote-a5541732 | ployni@hotmail.com | personal | N/A | N/A | grand hyatt erawan bangkok | 494 rajdamri road | <20,000
-williams | kenya | linkedin.com/in/kenya-williams-5467a378 | williams.kenya@medtronic.com | professional | N/A | N/A | social butterfly media relations | null | 70,000-85,000
-martyna | janus | linkedin.com/in/martyna-janus-35570444 | helloworld@onet.eu | N/A | N/A | N/A | platinium cast pr | null | 20,000-25,000
-ida | sameri | linkedin.com/in/idasameri | ida.sameri@gmail.com | personal | N/A | N/A | bea connected | null | 70,000-85,000
-marissa | miars | linkedin.com/in/marissa-miars-527214a6 | marissa.miars@teachforamerica.org | current_professional | marissa.miars@teachforamerica.org | N/A | teach for america | 25 broadway | 85,000-100,000
-judith | thomas | linkedin.com/in/judith-thomas | jthomas@stepupforstudents.org | current_professional | jthomas@stepupforstudents.org | N/A | step up for students | null | 85,000-100,000
-jennifer | driskel | linkedin.com/in/jennifer-driskel-29318648 | job164jenn42@gmail.com | personal | N/A | N/A | online | null | 85,000-100,000
-hayley | sarratt | linkedin.com/in/hayleysarratt | hayley.sarratt@gmail.com | personal | N/A | +447545753645 | updates media | null | 55,000-70,000
-brian | zulu | linkedin.com/in/brianzulu | zuluonyourstoep@yahoo.com | personal | N/A | N/A | slm - everyone active | 2 watling drive | 55,000-70,000
-pooja | vig | linkedin.com/in/poojavig | pooja.vig@revolveclothing.com | N/A | pvig@powercrunch.com | +19515227229 | power crunch | 6 morgan 100 | 85,000-100,000
-alberto | muggeo | linkedin.com/in/albertomuggeo | alberto.muggeo@sun-times.it | current_professional | alberto.muggeo@sun-times.it | N/A | sun-times srl | null | 45,000-55,000
-tal | oringer | linkedin.com/in/tal-oringer-66882589 | tal@literally.media | current_professional | tal@literally.media | N/A | literally media | 61 greenpoint avenue | 55,000-70,000
-dheeraj | verma | linkedin.com/in/dheeraj-verma-363215138 | dheeraj@dakshinfo.com | current_professional | dheeraj@dakshinfo.com | N/A | daksh infosoft pvt ltd | 724 usha nagar extension | <20,000
-elodie | boullé | linkedin.com/in/elodie-boullé-84a28867 | elodie@mbm.net.nz | current_professional | elodie@mbm.net.nz | N/A | mbm | 317-319 new north road | 55,000-70,000
+danae | istari | linkedin.com/in/danae-istari-33900124 | istaridanae@hotmail.com | personal | N/A | N/A | webquitecto | null | <20,000paul | kaminka | linkedin.com/in/paul-kaminka | paul@babaroro.co | current_professional | paul@babaroro.co | N/A | babaroro | null | 85,000-100,000
+dina | goparian | linkedin.com/in/dina-goparian-31802318 | agirlnamedgupe@yahoo.com | personal | N/A | +15084591502 | entrepreneur, real estate investor & marketing affiliate in the free enterprise market. | null | 85,000-100,000
+natasha | gildea | linkedin.com/in/natasha-gildea-47129b20 | natasha@northstateinsurance.com | N/A | N/A | N/A | alitura naturals | null | 70,000-85,000
+nicole | javines | linkedin.com/in/nicolejavines | shopherclothing@gmail.com | personal | N/A | N/A | nala the label | null | <20,000
+marvin | fernandez | linkedin.com/in/marvin-fernandez-881a3739 | marvinfernandez1@aol.co.uk | N/A | N/A | N/A | ikaroa | 100 pall mall | 55,000-70,000
+hannah | disney | linkedin.com/in/hannah-disney-ab2b7272 | hannah.disney@drivenbrands.com | professional | N/A | N/A | audible, inc. | null | 85,000-100,000
+francesca | tosi | linkedin.com/in/francescatosi88 | ftosi@google.com | professional | N/A | N/A | null | null | 45,000-55,000
+ryal | curtis | linkedin.com/in/ryalcurtis | ryalcurtis@gmail.com | personal | N/A | +19196219757 | bluecross blueshield of south carolina | 20 east at alpine road | 85,000-100,000
+harith | ramli | linkedin.com/in/harith-ramli-72451737 | hr205@live.mdx.ac.uk | professional | N/A | N/A | lnw asia | null | <20,000
+jacopo | casati | linkedin.com/in/jacopocasati | jacopo.casati@outune.net | professional | N/A | N/A | areaconcerti | null | 55,000-70,000
+tina | burr | linkedin.com/in/tinaburr | tina.burr@nielsen.com | current_professional | tina.burr@nielsen.com | N/A | nielsen | 85 broad street | 85,000-100,000
+liudmila | mazyarkina | linkedin.com/in/liudmila-mazyarkina-5585b430 | mazyarkina@mail.ru | personal | N/A | N/A | awoo lcc | null | <20,000
+lila | ench | linkedin.com/in/lila-ench-bb43aa45 | lilaench@msn.com | personal | N/A | N/A | better world tours | null | 85,000-100,000
+brianna | tabler | linkedin.com/in/brianna-tabler-b7511920 | btabler@christiecomm.com | N/A | N/A | N/A | crazy love ministries | null | 85,000-100,000
+rachel | landen | linkedin.com/in/landenrachel | relanden@gmail.com | personal | N/A | +12524323799 | cme group | 20 south wacker drive | 85,000-100,000
+carolina | taborda | linkedin.com/in/carolina-taborda-6b43763b | carolinatabord@gmail.com | personal | N/A | N/A | prosumia | null | <20,000
