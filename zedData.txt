@@ -987,4 +987,17 @@ rogelio | antillón | linkedin.com/in/rogelioantillon | rogelio.antillon@gmail.c
 emma | coften | linkedin.com/in/emma-coften-b7ba723b | ecoften@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
 anthony | lambinus | linkedin.com/in/anthonyrlambinus | alambinus822@gmail.com | personal | N/A | N/A | 1821 media | null | 70,000-85,000
 arabella | barkow | linkedin.com/in/arabella-barkow-925a1a3b | arabella.barkow@hotmail.com | personal | N/A | +19178592915 | pets for vets, inc | null | 70,000-85,000
-jarad | matula | linkedin.com/in/jaradm | jmatula@bulldogsolutions.com | professional | N/A | N/A | just media, inc. | 1585 62nd street | 85,000-100,000
+jarad | matula | linkedin.com/in/jaradm | jmatula@bulldogsolutions.com | professional | N/A | N/A | just media, inc. | 1585 62nd street | 85,000-100,000sydney | brannan | linkedin.com/in/sydney-brannan-64b1794a | sydney.brannan@pop.belmont.edu | professional | N/A | +18177217473 | marq labs | null | 70,000-85,000
+kevin | gasque | linkedin.com/in/kevin-gasque-a5012111 | okkoolguy@yahoo.com | personal | N/A | +19186563314 | null | null | 85,000-100,000
+alexandria | duncan | linkedin.com/in/alexandriaduncan | adunca2@students.towson.edu | professional | N/A | N/A | verisign | null | 85,000-100,000
+benjamin | hall | linkedin.com/in/benjamin-hall-1901642a | bhall@dynalinkmarketing.com | current_professional | bhall@dynalinkmarketing.com | +13176968375 | dynalink marketing | null | 70,000-85,000
+devin | friedman | linkedin.com/in/devinmichelle | devinmichelle.88@gmail.com | personal | N/A | N/A | the lee group | 11838 rock landing drive | 70,000-85,000
+melissa | tam | linkedin.com/in/melissa-k-tam | melissa.tam87@gmail.com | personal | melissa.tam@canadastays.com | N/A | canadastays | 20 eglinton avenue west | 55,000-70,000
+emily | ciano | linkedin.com/in/emily-ciano-b7686b6b | emily.ciano@gmail.com | personal | N/A | N/A | austinmusicworks | p/o box 81145 | 70,000-85,000
+april | galindo-monterrosa | linkedin.com/in/aprilmaemedia | thelilsparoom@gmail.com | personal | N/A | N/A | south san antonio chamber of commerce | 3315 sidney brooks drive | 85,000-100,000
+tony | huntimer | linkedin.com/in/tony-huntimer-58324a3 | thunt@racehome.com | professional | N/A | N/A | camaro family | null | 85,000-100,000
+natalya | copeland | linkedin.com/in/natalya-copeland | natalya.copeland@gmail.com | personal | natalya.copeland@servicenow.com | +16504650979 | servicenow | 2225 lawson lane | 85,000-100,000
+pierrette | kousemaker | linkedin.com/in/pckousemaker | pckousemaker@live.nl | N/A | N/A | N/A | null | null | 70,000-85,000
+fern | mitton | linkedin.com/in/fernmitton | fern.mitton@purplexmarketing.com | current_professional | fern.mitton@purplexmarketing.com | N/A | purplex marketing | null | 55,000-70,000
+brooke | derby | linkedin.com/in/brookederby | brookederby@hawaiilife.com | professional | N/A | +18089375352 | derby debt collections llc | null | 85,000-100,000
+sharon | brown | linkedin.com/in/sharon-brown-66b95a12 | sharonmurphy_brown@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
