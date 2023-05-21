@@ -908,4 +908,11 @@ panagiotis | bourandas | linkedin.com/in/panagiotis-bourandas-650ab628 | bourand
 adarsh | pradhan | linkedin.com/in/adarsh-pradhan-25970136 | adarsh1948@gmail.com | personal | N/A | N/A | null | null | <20,000
 nene | nseabasi | linkedin.com/in/nene-nseabasi | nene.nseabasi@gmail.com | personal | N/A | N/A | crenov8 | null | <20,000
 chris | gallatin | linkedin.com/in/chris-gallatin-65610035 | cgallatin1@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-sofia | teixeira | linkedin.com/in/sofia-teixeira-277646178 | sofia@returningvideotapes.com | N/A | N/A | N/A | sportclasse | null | 25,000-35,000
+sofia | teixeira | linkedin.com/in/sofia-teixeira-277646178 | sofia@returningvideotapes.com | N/A | N/A | N/A | sportclasse | null | 25,000-35,000jane | arschavir | linkedin.com/in/jane-arschavir-92945839 | janewoolley@hotmail.com | personal | N/A | N/A | st james & emmanuel | 6 barlow moor road | 55,000-70,000
+deena | moskowitz | linkedin.com/in/deenamoskowitz | dcmoskow@gmail.com | personal | N/A | N/A | prima hotels israel | 75 allenby street | 55,000-70,000
+shari | walker | linkedin.com/in/shari-walker-2788b938 | shari@kseanwalker.com | N/A | N/A | N/A | showboxexpo | null | 70,000-85,000
+jeimie | franco | linkedin.com/in/jeimie-franco-542492137 | francojeimie@yahoo.com | personal | N/A | N/A | bks group (pty) limited | null | <20,000
+agnese | ndoj | linkedin.com/in/agnese-ndoj-173370b5 | agnese.ndoj@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+anne | corbeau | linkedin.com/in/anne-corbeau-6bb680ab | anne@storyboard-agency.com | current_professional | anne@storyboard-agency.com | N/A | storyboard amsterdam | null | 55,000-70,000
+sonja | reid | linkedin.com/in/sonja-reid-a9505423 | reid.sonja@gmail.com | personal | N/A | N/A | centre for urban innovation gaining ground | null | 55,000-70,000
+oğuz | tetik | linkedin.com/in/plusrulz | oktetikk@gmail.com | personal | N/A | N/A | vivi | 7700 falstaff road | <20,000
