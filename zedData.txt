@@ -1482,14 +1482,31 @@ kristin | janes | linkedin.com/in/kristinjanes | kristin.janes@manzellamarketing
 kathinka | prochotta | linkedin.com/in/kathinka-prochotta-2b087817 | lakathinka@gmx.de | personal | N/A | N/A | elbkind gmbh | null | 70,000-85,000
 ethel | eman | linkedin.com/in/ethel-eman-6b989327 | etheleman@gmail.com | personal | N/A | N/A | starpil italia | null | 45,000-55,000
 juan | pisonero | linkedin.com/in/juan-torregrosa-pisonero-b0a86216 | juantp08@gmail.com | personal | N/A | N/A | hellotalk | null | <20,000
-elena | bacciaglia | linkedin.com/in/elenabacciaglia | elena.bacciaglia@e3online.it | professional | N/A | N/A | digital automotive solutions s.r.l | null | 45,000-55,000brian | sin | linkedin.com/in/brian-sin-8128ba29 | briansinl@gmail.com | personal | N/A | +19163884439 | krg network | null | 85,000-100,000
-terrelle | dames | linkedin.com/in/terrelle-dames-a15a04a4 | tdames@uttyler.edu | professional | N/A | +19037149505 | null | null | 85,000-100,000
-emily | sundberg | linkedin.com/in/emily-sundberg-83721775 | emily_sundberg@fitnyc.edu | N/A | N/A | +16315590982 | great jones | null | 85,000-100,000
-nini | vascotto | linkedin.com/in/nini-vascotto-372a9aaa | nvascotto@australianturfclub.com.au | current_professional | nvascotto@australianturfclub.com.au | N/A | australian turf club | null | 70,000-85,000
-noelia | cortés | linkedin.com/in/noeliaflorenciacortes | novaxa8@hotmail.com | personal | N/A | N/A | viajes tdh | null | <20,000
-iris | versluis | linkedin.com/in/irisversluis | iris.versluis@dpdk.nl | professional | N/A | N/A | shareaty | null | 55,000-70,000
-katie | conoby | linkedin.com/in/katie-conoby-753b7240 | katie.conoby@bbc.co.uk | professional | N/A | +447912889801 | title role productions | 2-4 atkinson street | 55,000-70,000
-im | smm | linkedin.com/in/im-so-there-smm-66a48240 | imsotheresmm@gmail.com | personal | N/A | N/A | im so there smm | null | 55,000-70,000
-reid | levin | linkedin.com/in/reid-levin-0919b437 | reid.w.levin@gmail.com | personal | N/A | +17039752707 | adobe | 345 park avenue | 85,000-100,000
-arun | rajagopal | linkedin.com/in/arunrajagopal | arunjoboy@yahoo.com | personal | arun.rajagopal@emirates.com | N/A | emirates | null | 55,000-70,000
-james | downes | linkedin.com/in/james-downes-12550522 | sooperjim@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+elena | bacciaglia | linkedin.com/in/elenabacciaglia | elena.bacciaglia@e3online.it | professional | N/A | N/A | digital automotive solutions s.r.l | null | 45,000-55,000alek | kanellopoulos | linkedin.com/in/alekkanellopoulos | alek.kanel@gmail.com | personal | N/A | N/A | the crust pizza | null | 70,000-85,000
+megan | elms | linkedin.com/in/meganelms | melms@landmarkcinemas.com | professional | N/A | N/A | null | null | 55,000-70,000
+celena | javanbakht | linkedin.com/in/celena-javanbakht-7a506941 | celena@totaldermatology.com | current_professional | celena@totaldermatology.com | N/A | total dermatology | null | 85,000-100,000
+mirko | sergi | linkedin.com/in/mirkosergi | mirko@photograficlab.com | professional | N/A | N/A | photograficlab | null | 45,000-55,000
+ana | guerra | linkedin.com/in/anaguerrab | ana.guerra@engelvoelkers.com | current_professional | ana.guerra@engelvoelkers.com | N/A | engel & völkers españa | null | 35,000-45,000
+andrea | ramsteck | linkedin.com/in/andrea-ramsteck-97b13830 | andrea.ramsteck@arcor.de | personal | N/A | N/A | null | null | 55,000-70,000
+camille | bataille | linkedin.com/in/camille-bataille-00a77076 | camille.bataille@psa-peugeot-citroen.com | current_professional | camille.bataille@psa-peugeot-citroen.com | N/A | psa peugeot citroën | null | 100,000-150,000
+dustin | moore | linkedin.com/in/dustintylermoore | dustintylermoore@gmail.com | personal | N/A | N/A | bookmark content and communications | 1 st john south lane | 70,000-85,000
+nicoletta | minniti | linkedin.com/in/nicoletta-minniti-a7736431 | nicoletta.minniti@email.it | personal | N/A | N/A | null | null | 45,000-55,000
+anne | schade | linkedin.com/in/anne-schade-9aa99399 | anne.schade@henkel.com | current_professional | anne.schade@henkel.com | +19145341316 | henkel | null | 85,000-100,000
+pedro | luis | linkedin.com/in/lk-pedro-luis | pedro-luis@telecom.pt | professional | N/A | N/A | altice portugal | null | 25,000-35,000
+matteo | scannavini | linkedin.com/in/matteoscannavini | matteos@microsoft.com | professional | N/A | N/A | green man gaming | null | 55,000-70,000
+santosh | sharma | linkedin.com/in/santosh-sharma-b392882b | sonusimla@gmail.com | personal | N/A | N/A | india tv | null | <20,000
+olive | mckay | linkedin.com/in/olive-mckay-993988b3 | olive.mckay@littledogagency.com | current_professional | olive.mckay@littledogagency.com | N/A | little dog agency, inc. | 3850 bessemer road | 70,000-85,000
+joão | duarte | linkedin.com/in/jmdduarte | jmdduarte@gmail.com | personal | N/A | N/A | null | null | 25,000-35,000
+laura | melón | linkedin.com/in/laura-míguez-melón-13b10940 | 100081505@alumnos.uc3m.es | N/A | N/A | N/A | pixel and pixel | null | 35,000-45,000
+kristine | reynolds | linkedin.com/in/kristinereynolds2 | kreynolds@wayfair.com | professional | N/A | N/A | hornblower cruises and events | 3 the embarcadero | 70,000-85,000
+rachel | gulotta | linkedin.com/in/rachel-gulotta-a9009045 | rae82488@yahoo.com | personal | N/A | N/A | motomedia | null | 85,000-100,000
+christine | galante | linkedin.com/in/christinegalante | christine_galante@harvard.edu | professional | N/A | N/A | the hanover insurance group | null | 70,000-85,000mabu | boloka | linkedin.com/in/mabu-boloka-37771531 | bolokam@sabc.co.za | professional | N/A | N/A | mgb digital | null | <20,000
+sarah | brown | linkedin.com/in/sarah-brown-a3838668 | sarah.brown@airbnb.com | current_professional | sarah.brown@airbnb.com | N/A | airbnb | 888 brannan street | 85,000-100,000
+sophie | taberly | linkedin.com/in/sophie-taberly-70211047 | taberlso@e-i.com | N/A | N/A | N/A | social media manager | null | 55,000-70,000
+james | therrian | linkedin.com/in/jamestherrian | urbanzensandiego@yahoo.com | personal | N/A | N/A | imua family services | 161 south wakea avenue | 85,000-100,000
+ben | wittenstein | linkedin.com/in/benwittenstein | ben.wittenstein@btn.com | professional | N/A | +18472263683 | stadium | null | 70,000-85,000
+david | liao | linkedin.com/in/davidliao90 | david.liao@sonydadc.com | professional | N/A | N/A | zhiyun tech | null | 70,000-85,000
+lily | heise | linkedin.com/in/lily-heise-4166a62 | lilyheise@yahoo.com | personal | N/A | N/A | null | null | 45,000-55,000
+devin | mcnulty | linkedin.com/in/devin-mcnulty-211a8163 | devin@truegault.com | professional | N/A | N/A | independence realty trust inc (irt) | 1835 market street | 85,000-100,000
+maddie | prahm | linkedin.com/in/maddiemayer | maddie.prahm@gmail.com | personal | N/A | +19493656842 | goldenvoice | null | 85,000-100,000
+charlotte | ermeneux | linkedin.com/in/charlotte-ermeneux-476352107 | c.ermeneux@kingcom.fr | professional | N/A | N/A | esv digital | null | 55,000-70,000
