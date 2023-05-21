@@ -1614,4 +1614,10 @@ luis | lopez | linkedin.com/in/luis-lopez-745b4639 | luisferlg14@hotmail.com | p
 lamirault | fabrice | linkedin.com/in/fabricelamirault | fabrice.lamirault@gmail.com | personal | N/A | N/A | banque populaire | null | 55,000-70,000
 hillary | hogard | linkedin.com/in/hillaryhogard | hillary.hogard@narrativemediagroup.com | current_professional | hillary.hogard@narrativemediagroup.com | N/A | the narrative group | 32 avenue of the americas | 85,000-100,000
 charlotte | thompson | linkedin.com/in/charlotte-thompson-5076581b | contact@lipglossiping.com | professional | N/A | N/A | stickleback games | null | 55,000-70,000
-bojana | bosanac | linkedin.com/in/bojana-bosanac-634100113 | bojana.bosanac@telekom.rs | professional | N/A | N/A | fk crvena zvezda | null | <20,000
+bojana | bosanac | linkedin.com/in/bojana-bosanac-634100113 | bojana.bosanac@telekom.rs | professional | N/A | N/A | fk crvena zvezda | null | <20,000daniel | ledesma | linkedin.com/in/daniel-ledesma | dnledesma@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+martina | sulkova | linkedin.com/in/martinasulkova | martina.sulkova@gmail.com | personal | N/A | N/A | creative dock | null | 85,000-100,000
+chiara | bertani | linkedin.com/in/chiara-bertani-24b548b3 | chiara@ma-tic.com | professional | N/A | N/A | the zen srl | null | 45,000-55,000
+miriam | wang | linkedin.com/in/miriamtangen | miriam@smfbengine.com | professional | N/A | N/A | frelsesarmeen - the salvation army | null | 100,000-150,000
+chris | habel | linkedin.com/in/chris-habel-9a0866a4 | chris.habel@t-mobile.at | current_professional | chris.habel@t-mobile.at | N/A | t-mobile austria | null | 70,000-85,000
+justin | perry | linkedin.com/in/justin-perry-30ab2536 | bigbuzz0@gmail.com | personal | N/A | N/A | social media underdog | null | 85,000-100,000
+taline | vertians | linkedin.com/in/taline-vertians-30707747 | lunavive419@aol.com | personal | taline.vertians@sprocketmedia.com | N/A | sprocket media | 45 south arroyo parkway | 85,000-100,000
