@@ -859,14 +859,12 @@ silvana | olson | linkedin.com/in/silvana-olson-97060028 | silvanaolson@gmail.co
 lauren | purdy | linkedin.com/in/lauren-purdy-mba-a1a79475 | lauren.purdy@nike.com | professional | N/A | +15037801379 | biamp systems | 9300 southwest gemini | 85,000-100,000
 sara | corinaldesi | linkedin.com/in/saracorinaldesi | sospirodelvento_90@hotmail.it | personal | N/A | N/A | liberami | null | 45,000-55,000
 ahmed | hamdy | linkedin.com/in/ahmedmahmoudhamdy | ahmed.hamdy@shelfdrilling.com | N/A | N/A | N/A | hamdyhafez | null | <20,000
-teresa | carfora | linkedin.com/in/teresa-carfora-168668a | teresa.carfora@gmail.com | personal | N/A | N/A | icanweb | null | 45,000-55,000rachel | westerveld | linkedin.com/in/rachel-westerveld-42614129 | rwesterveld@advantagedealer.net | N/A | N/A | N/A | advantage chevrolet of bolingbrook | null | 85,000-100,000
-clara | misuraca | linkedin.com/in/claramisuraca | clacla444@hotmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-isabelle | lam | linkedin.com/in/isabelle-athena-lam-61498847 | love_hitomi2004_81@hotmail.com | personal | N/A | N/A | pure group international | 59-65 queen south road | 55,000-70,000
-reparata | mazzola | linkedin.com/in/reparata-mazzola-8182bb8 | reparatamazzola@sbcglobal.net | personal | N/A | N/A | save the males | null | 85,000-100,000
-sandro | hofmann | linkedin.com/in/sandrohofmann | sandro.hofmann@sbb.ch | professional | sandro.hofmann@valiant.ch | N/A | valiant bank ag | null | 100,000-150,000
-andrew | moc | linkedin.com/in/andrewtmoc | amoc@clippers.com | professional | N/A | N/A | null | null | 85,000-100,000
-patrizia | di cioccio | linkedin.com/in/patriziadicioccio | redpatit@yahoo.com | personal | N/A | N/A | cecchini regazzola | null | 45,000-55,000
-alexandra | thebert | linkedin.com/in/alexandra-thebert-3a072928 | alexandra.thebert@gmx.de | personal | N/A | N/A | sg stern deutschland e.v. | null | 55,000-70,000
-netbiz | socialmedia | linkedin.com/in/netbiz-socialmedia-028a4453 | netbiz.socialmedia@netbiz.com | current_professional | netbiz.socialmedia@netbiz.com | N/A | netbiz systems pvt. ltd. | null | 85,000-100,000
-brooke | larsen | linkedin.com/in/brooke-larsen-4b82b736 | herathene@gmail.com | personal | brooke.larsen@foodforhealthinternational.com | N/A | food for health international | 825 east 800 north | 70,000-85,000
-aashay | gune | linkedin.com/in/aashay-gune-90109040 | gune.aashay@gmail.com | personal | aashay.gune@pratham.org | N/A | pratham | null | <20,000
+teresa | carfora | linkedin.com/in/teresa-carfora-168668a | teresa.carfora@gmail.com | personal | N/A | N/A | icanweb | null | 45,000-55,000francesco | esposito | linkedin.com/in/francesco-esposito-a4786029 | frasil13@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
+sallyann | harvey | linkedin.com/in/sallyann-harvey-19334643 | s.harvey@cqu.edu.au | professional | N/A | N/A | apikali | null | 85,000-100,000
+montse | esteban | linkedin.com/in/montseesteban | montse.esteban@hotmail.com | personal | N/A | N/A | ensenyament | null | 85,000-100,000
+mio | van der mei | linkedin.com/in/mio-van-der-mei-96a43028 | mio.vandermei@gmail.com | personal | N/A | N/A | the student hotel | null | 70,000-85,000
+bruce | gray | linkedin.com/in/brucegraycommunicator | grayb@soundtransit.org | current_professional | grayb@soundtransit.org | N/A | sound transit | 401 south jackson street | 85,000-100,000
+natacha | lin | linkedin.com/in/natacha-lin-78459517 | n4t-h@hotmail.fr | personal | N/A | N/A | stl paris | null | 55,000-70,000
+andreas | marcopoli | linkedin.com/in/andreasmarcopoli | andreas86m@hotmail.it | personal | N/A | N/A | zowart | null | 85,000-100,000
+julie | gettemeyer | linkedin.com/in/julianagettemeyer | jgranville@captiva-marketing.com | current_professional | jgranville@captiva-marketing.com | +13143780572 | captiva marketing | 10805 sunset office drive | 70,000-85,000
+kathrine | sebuco | linkedin.com/in/kathrine-joyce-sebuco-590b6432 | kathrine2886@yahoo.com | personal | kathrine@expresswaymusic.com | N/A | expressway music | 10 east 39th street | <20,000
