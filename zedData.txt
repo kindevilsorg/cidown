@@ -212,20 +212,13 @@ mathilde | kurtz | linkedin.com/in/mathilde-kurtz-4a800137 | mathildou82@msn.com
 gala | maldonado | linkedin.com/in/gala-maldonado-a60899b8 | galamaldonado@hotmail.com | personal | g.maldonado@pimod.com | N/A | pimod. | null | 85,000-100,000
 karlene | scarlett | linkedin.com/in/karlene-scarlett | karlenescarlett@zadv.com | professional | N/A | N/A | tradestation | null | 70,000-85,000
 dorotea | de vito | linkedin.com/in/doradevito | dora.devito@alice.it | N/A | N/A | N/A | shake up italia srl | null | 45,000-55,000
-mattia | guidi | linkedin.com/in/mattia-guidi-64554665 | mattia.guidi@espocartotec.com | current_professional | mattia.guidi@espocartotec.com | N/A | espo & cartotec | null | 45,000-55,000kimberline | alvares | linkedin.com/in/kimberline-alvares-6834302a | kimberline22@gmail.com | personal | N/A | N/A | timeline media private limited | null | <20,000
-raven | alston | linkedin.com/in/raven-alston-45603177 | ralston@maccosmetics.com | professional | N/A | +13018213450 | null | null | 100,000-150,000
-maie | adel | linkedin.com/in/maie-adel-264329a8 | maie.adel@inoutfurniture.com | current_professional | maie.adel@inoutfurniture.com | N/A | in&out furniture | null | <20,000
-nick | liolios | linkedin.com/in/nick-liolios-674523 | nick_liolios@yahoo.com | personal | N/A | N/A | documento media | null | 25,000-35,000
-monika | radomska | linkedin.com/in/monika-radomska-2a457187 | monika@gemaco-group.com | professional | N/A | N/A | nowa itaka sp. z o.o. | null | <20,000
-bridget | mcmahon | linkedin.com/in/mcmahonbridget | bridget@brandetize.com | current_professional | bridget@brandetize.com | N/A | brandetize | 2840 fifth avenue | 70,000-85,000
-adriana | miele | linkedin.com/in/adriana-miele-116b8139 | adrianamiele@libero.it | N/A | N/A | N/A | piemex.net | null | 45,000-55,000
-dika | lam | linkedin.com/in/dika-lam-1a7a805b | dika.lam@gmail.com | personal | N/A | N/A | frommermedia | null | 85,000-100,000
-monnel | espiritu | linkedin.com/in/monnel-espiritu-93528351 | monnel.espiritu@gmail.com | personal | N/A | N/A | go cruise and tours | null | <20,000
-brandon | fleshman | linkedin.com/in/brandonfleshman | brandon.fleshman@gmail.com | personal | N/A | +19168790362 | shutterfly, inc. | 2800 bridge parkway | 85,000-100,000
-chelsea | holifield | linkedin.com/in/chelsea-holifield | chholifield@gmail.com | personal | N/A | +17072545727 | wilbur labs | null | 85,000-100,000
-andreina | reina | linkedin.com/in/andreinagarciareina | andreinagarciareina@gmail.com | personal | N/A | N/A | media marketing | null | <20,000
-brittney | newstead | linkedin.com/in/brittneynewstead | brittneynewstead@gmail.com | personal | N/A | N/A | american express | 200 vesey street | 55,000-70,000
-naim | asad | linkedin.com/in/naim-asad-3b89b6115 | naim@boundless.net.ae | current_professional | naim@boundless.net.ae | N/A | boundless technologies fzco | null | 55,000-70,000
-rachel | d'almeida | linkedin.com/in/racheldalmeida-fr | rachel.dalmeida41@gmail.com | personal | N/A | N/A | caceis | null | 55,000-70,000
-aakanksha | bhatnagar | linkedin.com/in/aakankshabhatnagar | aakanksha.bhatnagar@prodigi.io | professional | N/A | N/A | do your thng | null | <20,000
-benjamin | genouvrier | linkedin.com/in/benjamingenouvrier | bgenouvrier@orange.fr | N/A | bgenouvrier@lafrancaise-group.com | N/A | la française group | null | 55,000-70,000
+mattia | guidi | linkedin.com/in/mattia-guidi-64554665 | mattia.guidi@espocartotec.com | current_professional | mattia.guidi@espocartotec.com | N/A | espo & cartotec | null | 45,000-55,000regine | bell | linkedin.com/in/reginebell | rbell@vanguard.edu | professional | N/A | +15624156618 | strut bridal salon | 542 west mcdowell road | 70,000-85,000
+jason | huang | linkedin.com/in/jason-huang-860922b | jasonh@tennis-warehouse.com | current_professional | jasonh@tennis-warehouse.com | N/A | tennis warehouse | 181 suburban road | 100,000-150,000
+nikita | petenko | linkedin.com/in/nikita-petenko-05a01010a | petenkonick@yandex.ru | personal | N/A | N/A | null | null | 25,000-35,000
+bianca | gerasia | linkedin.com/in/bianca-gerasia-5a389ab0 | bbdancerqueen@aol.com | personal | N/A | N/A | the glass camera | null | 100,000-150,000
+chermaine | samphire | linkedin.com/in/chermainesamphire | csamphire@youniqueproducts.com | professional | N/A | +447508455001 | sheffield hallam university | null | 55,000-70,000
+kayla | pickens | linkedin.com/in/kayla-pickens-2442128a | adtr.predators@gmail.com | personal | N/A | +17316972244 | top shelf productions ltd | p/o box 8257 | 70,000-85,000
+imelda | baluyot | linkedin.com/in/genyvb | genyvb@gmail.com | personal | N/A | N/A | apparel group | null | 55,000-70,000
+sami | al-mubarak | linkedin.com/in/samialmubarak | sami.al.mubarak@hotmail.com | personal | sami.al-mubarak@twofour54.com | N/A | twofour54 | null | 55,000-70,000
+karin | cuppens | linkedin.com/in/karincuppens | karin@punchline.be | current_professional | karin@punchline.be | N/A | punchline.be | null | 85,000-100,000
+vinita | soni | linkedin.com/in/vinitasoni91090 | soni@reiljp.com | professional | N/A | N/A | ava systems signals | null | <20,000
