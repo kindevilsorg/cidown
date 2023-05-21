@@ -1845,4 +1845,14 @@ jake | lloyd | linkedin.com/in/jakelloyd | jlloyd@americascores.org | profession
 filipe | alves | linkedin.com/in/filipe-alves-35766a70 | filipe.alves@benext.net | professional | N/A | N/A | reprise media | 100 west 33rd street | 25,000-35,000
 jennifer | hodgson | linkedin.com/in/jennifer-hodgson-88b27032 | jenn@yourlifemattersshow.com | professional | N/A | +18126147028 | street smart | null | 85,000-100,000
 marques | wooten | linkedin.com/in/marques-wooten-51896635 | marquesjae@gmail.com | personal | N/A | N/A | beta lambda chapter of alpha phi alpha fraternity | null | 70,000-85,000
-innova | oeste | linkedin.com/in/innova-oeste-a34baa38 | innova.oeste@gmail.com | personal | N/A | N/A | innova oeste | null | 35,000-45,000
+innova | oeste | linkedin.com/in/innova-oeste-a34baa38 | innova.oeste@gmail.com | personal | N/A | N/A | innova oeste | null | 35,000-45,000adriana | wardle | linkedin.com/in/adrianawardle | adrianawardle@zoeskitchen.com | professional | N/A | +14078033791 | justin alexander | null | 85,000-100,000
+maureen | kamischke | linkedin.com/in/maureen-kamischke-b9103626 | mkamischke@verizon.net | personal | maureen@hepb.org | N/A | hepatitis b foundation | 3805 old easton road | 85,000-100,000
+erica | rodriguez | linkedin.com/in/ericaangela | ericaangela@gmail.com | personal | N/A | N/A | h2o new media dubai | null | 70,000-85,000
+nuria | extremera | linkedin.com/in/nuriasanguinoextremera | nuriasanguinoextremera@gmail.com | personal | N/A | N/A | tooltyp | null | 35,000-45,000
+maría | lópez | linkedin.com/in/mcamorlopez | camor128@gmail.com | personal | N/A | N/A | ider cartagena | null | <20,000
+karen | akerman | linkedin.com/in/karenakerman | kakerman@amia.org.ar | professional | kakerman@falabella.com.ar | N/A | falabella argentina | null | <20,000
+rebecca | shires | linkedin.com/in/rebecca-shires-974536b9 | rebecca.shires@yell.com | professional | N/A | N/A | mainline menswear | null | 55,000-70,000
+dominika | prochazkova | linkedin.com/in/dominika-prochazkova-7b0514a4 | dominika.prochazkova@sap.com | professional | N/A | N/A | urlaubsbox travel company | null | 55,000-70,000
+ar.gergi | sessine | linkedin.com/in/ar-gergi-sessine-15548a29 | sgergi@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+ashleigh | soppet | linkedin.com/in/ashleigh-soppet | ashleigh.soppet@mhr.co.uk | professional | N/A | +447532266400 | people first | null | 55,000-70,000
+kenley | simon | linkedin.com/in/kenley-y-simon-a1a870128 | kenleysimon@gmail.com | personal | N/A | N/A | freaky juice | null | 70,000-85,000
