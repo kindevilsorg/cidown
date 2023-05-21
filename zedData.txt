@@ -200,14 +200,21 @@ erin | barbach | linkedin.com/in/erin-barbach-735065a | ebarbach@gmail.com | per
 sofía | fernández | linkedin.com/in/sofia-fernandez-copy | sofia.ferlop@gmail.com | personal | N/A | N/A | estratividad | null | 35,000-45,000
 julian | mwangi | linkedin.com/in/julian-mwangi-8441313b | julian.wachira@gmail.com | personal | N/A | N/A | digitone agency | null | <20,000
 volodymyr | petrenko | linkedin.com/in/qilinassmith | v.petrenko@lanet.ua | current_professional | v.petrenko@lanet.ua | N/A | lanet network | null | <20,000
-angela | mladenoska | linkedin.com/in/angela-mladenoska-8653198 | angelik82mk@yahoo.com | personal | N/A | N/A | moolay media | null | 85,000-100,000rocky | mcstone | linkedin.com/in/rocky-mcstone-51b52943 | rmcstone@esrock.com | current_professional | rmcstone@esrock.com | N/A | esrock partners | 60 north frontage road | 85,000-100,000
-andrea | patrulescu | linkedin.com/in/andrea-patrulescu-58993497 | andrea.patrulescu@anytimefitness.com | professional | N/A | N/A | boozebud | null | 70,000-85,000
-emma | kamhi | linkedin.com/in/emma-kamhi-b2a8b0b3 | ekamhi@skyesolutions.com | current_professional | ekamhi@skyesolutions.com | N/A | skye recruitment solutions | 600 cleveland street | 85,000-100,000
-barbara | gnägi | linkedin.com/in/barbara-gnägi-64687411 | babsg10@bluewin.ch | N/A | N/A | N/A | universität bern | null | 100,000-150,000
-saskia | kivi | linkedin.com/in/saskia-kivi-47036a106 | saskia.kivi@gmail.com | personal | N/A | N/A | elisa eesti as | null | 85,000-100,000
-shilpa | srivastava | linkedin.com/in/shilpa70 | shilpa70@gmail.com | personal | N/A | N/A | compare infobase limited | null | <20,000
-jules | pierson | linkedin.com/in/jules-pierson-253584b0 | jp@grenade-sparks.com | professional | N/A | N/A | bang bang management | null | 45,000-55,000
-olivia | lilley | linkedin.com/in/olivialilley | twentypens.orl@gmail.com | personal | N/A | N/A | willchill | null | 70,000-85,000
-radka | gottwaldová | linkedin.com/in/radkagottwaldova | razi@seznam.cz | personal | N/A | N/A | samsung electronics | null | 85,000-100,000
-justin | ferk | linkedin.com/in/justin-ferk-31859120 | j_ferk@yahoo.com | personal | N/A | +15613945349 | nkp medical marketing, inc. | 8929 south sepulveda boulevard | 70,000-85,000
-katie | brandt | linkedin.com/in/katie-brandt-conner | brandtkatherine@gmail.com | personal | N/A | N/A | thrivent financial | 625 fourth avenue south | 85,000-100,000
+angela | mladenoska | linkedin.com/in/angela-mladenoska-8653198 | angelik82mk@yahoo.com | personal | N/A | N/A | moolay media | null | 85,000-100,000andy | walker | linkedin.com/in/andywalkeruk | andywalker25@gmail.com | personal | andy.walker@origin-global.com | N/A | origin global | null | 55,000-70,000
+renata | agostini | linkedin.com/in/renata-agostini | renataagostinira@gmail.com | personal | N/A | N/A | hanger management | null | 70,000-85,000
+hannah | mcconaghy | linkedin.com/in/hannahmcconaghy | hannah.mcconaghy@gmail.com | personal | N/A | N/A | united way of greater atlanta | 40 courtland street northeast | 70,000-85,000
+aaron | joseph | linkedin.com/in/aaron-joseph-89790329 | the567@gmail.com | professional | N/A | N/A | indigenous community for leadership and development | null | 55,000-70,000
+mabelle | salces | linkedin.com/in/mabelle-salces-411b8739 | bellesalces@yahoo.com | personal | N/A | N/A | easyimarketing.com | null | <20,000
+jenna | toppin | linkedin.com/in/jenna-toppin-b951b111b | jennatoppin23@yahoo.com | personal | jenna@nowmediagroup.tv | +17606445452 | now media group | 3934 murphy canyon road | 85,000-100,000
+anna | trecca | linkedin.com/in/annatre | a_trecca@virgilio.it | personal | N/A | N/A | web | null | 45,000-55,000
+kyle | lawrence | linkedin.com/in/kyle-lawrence-427094110 | kyle.lawrence@memeburn.com | professional | N/A | N/A | m&c saatchi africa | null | <20,000
+anna | kovalenko | linkedin.com/in/anna-kovalenko-13139a25 | banana17@yandex.ru | personal | anna.kovalenko@grayling.com | N/A | grayling | null | <20,000
+davina | knippen | linkedin.com/in/davinabringewat | bringewat@mediaanalyzer.com | professional | d.knippen@zwilling.com | N/A | zwilling j.a. henckels ag | null | 70,000-85,000
+vandana | sachdeva | linkedin.com/in/vandanasachdeva24 | vandana249@gmail.com | personal | N/A | N/A | null | null | <20,000
+angelina | bruno | linkedin.com/in/angelina-bruno-14b42374 | angelina.bruno@techdata.com | professional | N/A | N/A | simply gluten-free | 1497 main street | 70,000-85,000
+joana | lamoso | linkedin.com/in/joanalamoso | joana.lamoso@braver.pt | current_professional | joana.lamoso@braver.pt | N/A | braver media group | null | 25,000-35,000
+kayleigh | burns | linkedin.com/in/kayleigh-burns-24327a31 | kburns@deloitte.com | professional | N/A | N/A | null | null | 85,000-100,000
+sarah | rayer | linkedin.com/in/sarahrayer | srayer@earthlink.net | personal | N/A | N/A | sarahrayer.com | null | 70,000-85,000
+fabi | borges | linkedin.com/in/fabiborges | fabiolaborges@gmail.com | personal | N/A | N/A | elite music studios | null | 85,000-100,000
+amber | brook | linkedin.com/in/amber-brook-b0366585 | abrook@caesars.com | current_professional | abrook@caesars.com | N/A | caesars palace | 3930 howard hughes parkway | 55,000-70,000
+valentina | vecchia | linkedin.com/in/valentina-vecchia-a934a828 | valentinapc.vv@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
