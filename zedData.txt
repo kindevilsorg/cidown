@@ -1163,4 +1163,12 @@ lorena | salvatore | linkedin.com/in/lorena-salvatore-3511733a | salvatore@negri
 melissa | mendoza | linkedin.com/in/melissa-mendoza | melmend674@gmail.com | personal | N/A | N/A | greenroom agency | 100 biscayne boulevard | 70,000-85,000
 manar | shashaty | linkedin.com/in/manar-shashaty-b13a2a158 | manar.shashaty@teqball.com | current_professional | manar.shashaty@teqball.com | N/A | teqball ltd. | null | 20,000-25,000
 brian | mahulette | linkedin.com/in/brian-mahulette-620b3324 | bssmahulette@hotmail.com | personal | brian@wannahaves.com | N/A | wannahaves | null | 70,000-85,000
-vincent | zappacosta | linkedin.com/in/vincent-zappacosta-07b69514 | nyc2suburbia@gmail.com | professional | N/A | N/A | null | null | 85,000-100,000
+vincent | zappacosta | linkedin.com/in/vincent-zappacosta-07b69514 | nyc2suburbia@gmail.com | professional | N/A | N/A | null | null | 85,000-100,000h | johnson | linkedin.com/in/h-charles-johnson-90911b10a | hjohnson@liquid-creative.com | professional | N/A | N/A | null | null | 85,000-100,000
+katelyn | thornton | linkedin.com/in/katelyn-thornton-73284346 | thorntonk@rushenterprises.com | professional | N/A | +13346365020 | the gents place | 10720 preston road | 70,000-85,000
+marissa | hyatt | linkedin.com/in/marissa-hyatt-47162865 | marissa.hyatt@gmail.com | personal | N/A | +16155961566 | michael hyatt & company | 4th avenue south | 70,000-85,000
+sapna | parihar | linkedin.com/in/sapna-parihar-68538a43 | parihar.sapna68@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+jennifer | aldridge | linkedin.com/in/jennifer-aldridge-862a8034 | jennifer.aldridge15@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+shayla | oates | linkedin.com/in/shayla-oates-85217bb2 | soates@enterprise.com | professional | N/A | N/A | egolf motors inc | 302 duncan hill road | 70,000-85,000
+claudio | galardini | linkedin.com/in/claudio-galardini-15414754 | claudio.galardini@aspers.co.uk | professional | N/A | N/A | null | null | 55,000-70,000
+michelle | penny | linkedin.com/in/michellepenny | grounded@groundedvertigo.co.uk | professional | N/A | +447541881990 | nadia and kaye | null | 55,000-70,000
+pamela | beeman | linkedin.com/in/pambeeman | dorrclan@charter.net | personal | N/A | N/A | mountmymonitor.com | null | 85,000-100,000
