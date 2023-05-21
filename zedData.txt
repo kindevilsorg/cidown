@@ -1109,4 +1109,12 @@ maitane | osuna | linkedin.com/in/maitaneosuna | maitane.osuna@spf.com | profess
 kara | poliskin | linkedin.com/in/karapoliskin | kara.poliskin@michaelkors.com | professional | N/A | +16102201883 | tommy john | null | 85,000-100,000
 julie | maloney | linkedin.com/in/julieannefiu | julie@momspective.com | professional | N/A | +17049999409 | dee fit & slay | null | 85,000-100,000
 paola | vagnozzi | linkedin.com/in/paola-vagnozzi | paolavagnozzi@libero.it | N/A | N/A | N/A | mobilesumisura | null | 45,000-55,000
-alaa | ahmed | linkedin.com/in/alaa-ahmed-3346b022 | alloa_esesmeralda91@yahoo.com | personal | N/A | N/A | null | null | <20,000
+alaa | ahmed | linkedin.com/in/alaa-ahmed-3346b022 | alloa_esesmeralda91@yahoo.com | personal | N/A | N/A | null | null | <20,000gabrielle | hurn | linkedin.com/in/gabrielle-hurn-00ab83117 | gabriellehurn@feref.com | professional | N/A | N/A | think jam | 100 bunhill row | 55,000-70,000
+marita | meyer | linkedin.com/in/marita-meyer-94681524 | marita.meyer@ow.ly | N/A | N/A | N/A | null | null | 85,000-100,000
+megan | kirby | linkedin.com/in/megan-kirby-b4bb4662 | mkirby@colum.edu | professional | N/A | +13129642178 | farrar, straus and giroux | null | 70,000-85,000
+gemma | tate | linkedin.com/in/gemma-tate-93457522 | gemma.tate@facerec.com | professional | N/A | N/A | social buzzing | 26 york street | 55,000-70,000
+joseph | maysky | linkedin.com/in/joseph-maysky-66b75931 | jmaysky@gmail.com | personal | N/A | N/A | united way's i want to work | null | 70,000-85,000
+pieter-jan | vandevelde | linkedin.com/in/pjvandevelde | pj.vandevelde@hotmail.com | personal | N/A | N/A | arpeggio communication | null | 70,000-85,000
+francesca | franchini | linkedin.com/in/francescafranchini00 | fren_f@alice.it | N/A | N/A | N/A | i.r. italiana riprografia s.r.l. | null | 45,000-55,000
+elena | guzzon | linkedin.com/in/elena-guzzon-41828932 | guzzonelena@libero.it | N/A | N/A | N/A | mowgli - time to evolve | 2021 bukit batok street | 70,000-85,000
+marianna | galfi | linkedin.com/in/marianna-galfi-26825117 | smartbarbie@sympatico.ca | N/A | N/A | N/A | lorennevin music | null | 55,000-70,000
