@@ -257,4 +257,20 @@ maria | venegas | linkedin.com/in/pazcastillo | pooonix@gmail.com | personal | N
 iris | sharon | linkedin.com/in/irissharon | iris.sharon@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
 sheriya | soni | linkedin.com/in/sheriya-soni-75672821 | sheriya.mad@gmail.com | personal | N/A | N/A | webbina | null | <20,000
 clarissa | flores | linkedin.com/in/floresclarissa | clarissa-flores@hotmail.com | personal | N/A | N/A | gardengrocer, inc | 16215 state route 50 | 85,000-100,000
-christina | parlin | linkedin.com/in/christina-parlin-795400111 | christina.parlin@readingpartners.org | professional | N/A | +18082825124 | hilopa'a family to family | null | 85,000-100,000
+christina | parlin | linkedin.com/in/christina-parlin-795400111 | christina.parlin@readingpartners.org | professional | N/A | +18082825124 | hilopa'a family to family | null | 85,000-100,000anna | de marco | linkedin.com/in/anna-maria-de-marco-15384b43 | annamaria.dmrc@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+kenny | perkins | linkedin.com/in/kennyperkins | kenny.perkins@smithoptics.com | current_professional | kenny.perkins@smithoptics.com | +15303065074 | smith optics | 220 southeast martin luther king jr boulevard | 85,000-100,000
+sandra | ebenau | linkedin.com/in/sandra-ebenau-109650119 | sandra.ebenau@tk.de | current_professional | sandra.ebenau@tk.de | N/A | techniker krankenkasse | null | 70,000-85,000
+kelsey | glein | linkedin.com/in/kaglein | kelsey.glein@gmail.com | personal | N/A | N/A | gabriel cosmetics inc. | 15324 northeast 92nd street | 85,000-100,000
+elisabetta | rolla | linkedin.com/in/elisabettarolla | elisabettam.rolla@outlook.it | N/A | N/A | N/A | innovea | null | 45,000-55,000
+rodrigo | pires | linkedin.com/in/rodrigo-pires-345b7a2b | rpires76@gmail.com | personal | rodrigopires@senado.gov.br | N/A | senado federal | null | <20,000
+irene | cisneros | linkedin.com/in/irene-vanessa-cisneros-b7579a30 | irenevanessacisneros@hotmail.com | personal | N/A | N/A | mia natural spa | null | <20,000
+ken | teevens | linkedin.com/in/ken-teevens-0b522591 | kenteevens@gmail.com | personal | N/A | N/A | rcc web media agency | 1195 equity drive | 85,000-100,000
+lauren | mahon | linkedin.com/in/lauren-mahon-6157a126 | lauren-mahon@hotmail.com | personal | lauren.mahon@radleyandco.com | +447960080078 | radley + co | null | 55,000-70,000
+montse | giné | linkedin.com/in/monsebonet | monse.bonet@gmail.com | personal | montse@doctormusic.com | N/A | doctor music concerts | null | 35,000-45,000
+anita | yeh | linkedin.com/in/anita-yeh-1bb61849 | anita.yt.yeh@gmail.com | personal | anita.yeh@ubs.com | N/A | ubs | null | 85,000-100,000
+rachael | maas | linkedin.com/in/rachaelmaas | rachael@feigleycommunications.com | current_professional | rachael@feigleycommunications.com | N/A | feigley communications | 8282 goodwood boulevard | 70,000-85,000
+ally | fisher | linkedin.com/in/ally-fisher-1ba10b110 | afisher@fresh.com | professional | N/A | +13055273328 | matchabar | null | 85,000-100,000
+hannah | mednick | linkedin.com/in/hannah-mednick-544524154 | hannahmednick@gmail.com | personal | N/A | +19494636733 | the cellar | null | 85,000-100,000
+johnathon | justice | linkedin.com/in/johnathonjustice | johnathon.justice@mslgroup.com | professional | N/A | +17065935445 | servpro industries, inc. | 801 industrial boulevard | 70,000-85,000
+inigo | hortelano | linkedin.com/in/inigohortelano | inigo.hortelano@hotmail.com | personal | N/A | N/A | instituto de investigaciones del sueño | null | 35,000-45,000
+elina | weizel | linkedin.com/in/elinaweizel | elinaweizel@gmx.de | personal | N/A | N/A | somengo gmbh | null | 55,000-70,000
