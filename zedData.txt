@@ -147,24 +147,12 @@ joseph | tran | linkedin.com/in/jttran | jtran@csrstaffing.com | professional | 
 martina | vecce | linkedin.com/in/martina-vecce-a248761a | tinetta83@hotmail.com | personal | N/A | N/A | ottica mugnai | null | 45,000-55,000
 santiago | gómez | linkedin.com/in/santiago-gómez-89600820 | santirg21@hotmail.com | personal | N/A | N/A | 25watts | null | 20,000-25,000
 babrik | kushwaha | linkedin.com/in/babrikkushwaha | babrik1093@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-baptiste | juguet | linkedin.com/in/juguetbaptiste | baptiste.juguet@ag2rlamondiale.fr | current_professional | baptiste.juguet@ag2rlamondiale.fr | N/A | ag2r la mondiale | null | 55,000-70,000olisa | adger | linkedin.com/in/olisaadger | oaadger@gmail.com | personal | N/A | N/A | almo nature spa | null | 70,000-85,000
-mallory | bennett | linkedin.com/in/mallory-bennett-83165b46 | mallorypbennett@gmail.com | personal | N/A | N/A | nc lumber and supply | 221 old dairy road | 70,000-85,000
-meagan | saunders | linkedin.com/in/meagan-saunders-28374a18 | meagan115@gmail.com | personal | N/A | N/A | urbanpxl_joburg | null | <20,000
-lacey | small | linkedin.com/in/laceysmall | lacey.small@nfm.com | professional | N/A | +18166688747 | grandscape | null | 85,000-100,000
-anya | zimonjic | linkedin.com/in/anya-zimonjic-a5a182130 | anya@happiestbaby.com | current_professional | anya@happiestbaby.com | N/A | happiest baby, inc. | 3115 south la cienega boulevard | 70,000-85,000
-marcelle | forsyth | linkedin.com/in/marcelle-forsyth-2b7ba141 | marcelleforsyth@gmail.com | personal | marcelle.forsyth@equinox.com | N/A | equinox | null | 85,000-100,000
-antonio | benforte | linkedin.com/in/antonio-benforte-838a175 | antoniobenforte@gmail.com | personal | N/A | N/A | ales arte lavoro e servizi s.p.a. | null | 45,000-55,000
-simon | oxenham | linkedin.com/in/simonoxenham | simon.w.o@gmail.com | personal | N/A | N/A | xcoins | null | 45,000-55,000
-lindsay | barton | linkedin.com/in/lindsaybarton | ljbarton@syr.edu | N/A | N/A | +19084057386 | the inquisitr news | null | 85,000-100,000
-ani | lomas | linkedin.com/in/atlmedia | contactatlmedia@gmail.com | personal | N/A | N/A | fables | null | 55,000-70,000
-bohdan | ostroskyy | linkedin.com/in/bohdan-ostrovskyy-4b4aaa40 | boghdanostrovskij@hotmail.it | personal | N/A | N/A | kiderwind | null | 45,000-55,000
-karzan | zemanson | linkedin.com/in/zemanson | kzkmail@gmail.com | personal | N/A | N/A | diamond way buddhist centers | null | 70,000-85,000
-armana | christianson | linkedin.com/in/armanachanel | armanachanel@gmail.com | personal | N/A | +14023217156 | dc centre | 11830 stonegate drive | 85,000-100,000
-tyrani | sanders | linkedin.com/in/tyrani-sanders-9abb43100 | tyrani@tellafirma.com | professional | N/A | N/A | null | null | 70,000-85,000
-leah | pough | linkedin.com/in/leah-pough-91b85aa3 | leahpough@gmail.com | personal | N/A | +13862165472 | the west volusia beacon | 110 west new york avenue | 70,000-85,000
-camille | hansart | linkedin.com/in/camille-hansart-3a9062115 | camille.hansart@heaven.fr | current_professional | camille.hansart@heaven.fr | N/A | heaven | null | 55,000-70,000
-alan | carroll | linkedin.com/in/alan-carroll-857b919a | alan@uber.com | professional | N/A | N/A | ac2 | null | 70,000-85,000
-krishna | patel | linkedin.com/in/krishna-patel-27699145 | kpatel21589@gmail.com | personal | N/A | +17142323837 | girlactik beauty | null | 70,000-85,000
-daryk | ganske | linkedin.com/in/darykganske | darykg@gmail.com | personal | daryk@wideopenmediagroup.com | N/A | wide open media group | 801 congress avenue | 85,000-100,000
-stephanie | rosenzweig | linkedin.com/in/stephanie-rosenzweig-99441175 | stephanie.rosenzweig@schaeffler.com | professional | N/A | N/A | eppendorf ag | null | 70,000-85,000
-colin | huber | linkedin.com/in/calloncolin | colin.huber@oregonstate.edu | professional | colin.huber@nfl.com | +15419905538 | national football league (nfl) | 345 park avenue | 85,000-100,000
+baptiste | juguet | linkedin.com/in/juguetbaptiste | baptiste.juguet@ag2rlamondiale.fr | current_professional | baptiste.juguet@ag2rlamondiale.fr | N/A | ag2r la mondiale | null | 55,000-70,000aakarsh | sharma | linkedin.com/in/aakarsh-sharma-05667949 | aakarsh.sharma@tgcampus.com | current_professional | aakarsh.sharma@tgcampus.com | N/A | tg campus | null | <20,000
+francisca | rojas | linkedin.com/in/lafranto | lafranto@gmail.com | personal | N/A | N/A | draw | null | 20,000-25,000
+barış | boduç | linkedin.com/in/barisboduc | barisboduc@gmail.com | personal | N/A | N/A | canyaş i̇leti̇şi̇m | null | <20,000
+marianela | castagna | linkedin.com/in/marianela-castagna-81140131 | mela1203@hotmail.com | personal | N/A | N/A | kananga viajes | null | <20,000
+martha | schoemaker | linkedin.com/in/martha-schoemaker-44088721 | martha@saleskracht.nl | professional | N/A | N/A | hammerfest | null | 55,000-70,000
+ailsa | sherrington | linkedin.com/in/ailsasherrington | ailsa@thenextweb.com | current_professional | ailsa@thenextweb.com | N/A | tnw | null | 70,000-85,000
+sunny | johannson | linkedin.com/in/sunny-johannson-16b3505a | sunnyj@demandplanning.net | current_professional | sunnyj@demandplanning.net | N/A | demand planning net | 26 henshaw street | 85,000-100,000
+jena | kuykendall | linkedin.com/in/jena-kuykendall-03006b83 | jena@dbsadvantage.com | current_professional | jena@dbsadvantage.com | N/A | dbsadvantage.com | 1120 north louisa avenue | 85,000-100,000
+vilja-roosa | juntunen | linkedin.com/in/vilja-roosa | vilja.juntunen@kielikone.fi | current_professional | vilja.juntunen@kielikone.fi | N/A | kielikone oy | null | 55,000-70,000
