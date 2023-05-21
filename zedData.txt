@@ -305,17 +305,15 @@ cyril | michel | linkedin.com/in/cyril-michel-1315634b | cmichel@groupeleader.co
 christian | paparello | linkedin.com/in/christian-emanuele-paparello-b8995b45 | paparellochristian@hotmail.it | personal | N/A | N/A | i.a.c.o.n | null | 45,000-55,000
 stefanie | buszynski | linkedin.com/in/stefaniebuszynski | stefbuszynski@hotmail.com | personal | N/A | N/A | harlequin | 22 adelaide street west | 55,000-70,000
 marielle | trinidad | linkedin.com/in/marielletrinidad | marielle.trinidad@gmail.com | personal | N/A | N/A | null | null | <20,000
-craig | whitney | linkedin.com/in/craigwhitney1966 | craig@touratech.co.uk | professional | N/A | N/A | null | null | 55,000-70,000lara | carrascosa | linkedin.com/in/laramacip | lara.macip@gmail.com | personal | N/A | N/A | festival arts d'estiu s.l. | null | 35,000-45,000
-helena | burson | linkedin.com/in/helena-burson-95421042 | hburson@bankersinsurance.com | professional | N/A | +17572151349 | ezverifi | null | 70,000-85,000
-jennifer | roche | linkedin.com/in/jenroche | jenroche@hotmail.com | personal | N/A | N/A | eumom | 12 prince of wales terrace | 85,000-100,000
-sarah | edwardes | linkedin.com/in/sarah-edwardes-6307046a | sarah.edwardes@kurtgeiger.com | professional | N/A | N/A | null | null | 85,000-100,000
-shannon | tremewen | linkedin.com/in/shannon-tremewen-09a70446 | shannon_tremewen@hotmail.com | personal | N/A | N/A | long table distillery ltd. | 1451 hornby street | 55,000-70,000
-tequa | green | linkedin.com/in/tequa-green-01ba8289 | tmgreen@ferrum.edu | N/A | tgreen@gcubedtechnology.com | N/A | g cubed technology inc. | null | 85,000-100,000
-jay | myhand | linkedin.com/in/jamahmyhand | jmyhand@directv.com | professional | N/A | N/A | discount divas | null | 85,000-100,000
-joy | dudley | linkedin.com/in/joyedudley | jdudley@wtoc.com | professional | N/A | N/A | 3116 digital | null | 70,000-85,000
-luke | kavanagh | linkedin.com/in/luke-kavanagh-21343996 | luke@archipro.co.nz | current_professional | luke@archipro.co.nz | N/A | archipro | 128 st georges bay road | 45,000-55,000
-jacinta | hunter | linkedin.com/in/jacintamaud | jacintamaud@hotmail.co.uk | personal | N/A | N/A | mact partners | 12a archer street | 55,000-70,000
-aniket | sawant | linkedin.com/in/aniket-sawant-0261ab6a | aniket@theglitch.in | professional | N/A | N/A | ideatelabs | null | <20,000
-james | flath | linkedin.com/in/james-flath-a89ba044 | jdf7324@truman.edu | professional | N/A | N/A | intouch solutions | 7045 college boulevard | 85,000-100,000
-donna | genaw | linkedin.com/in/donna-genaw-84300415 | dgenaw@heritage.com | professional | N/A | +13136907179 | ats advisors a cpa company | null | 85,000-100,000
-lisa | johansson | linkedin.com/in/lisa-johansson-986b98b | ldashiell@gmail.com | personal | N/A | N/A | all-in-one social media | null | 85,000-100,000
+craig | whitney | linkedin.com/in/craigwhitney1966 | craig@touratech.co.uk | professional | N/A | N/A | null | null | 55,000-70,000omololu | busari | linkedin.com/in/omololu-busari-235a3041 | olabako56@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+nichole | armstrong | linkedin.com/in/nicholeann | kazoo@sdf.lonestar.org | N/A | nichole.armstrong@merck.com | +12152455223 | merck | 2000 galloping hill road | 85,000-100,000
+angelica | orahood | linkedin.com/in/angelica-orahood | jel_girl2005@yahoo.com | personal | N/A | N/A | fletcher auto group | 5922 warden road | 85,000-100,000
+heather | sangria | linkedin.com/in/hsangria | heather.sangria@gmail.com | personal | heathersangria@newegg.com | +15627158041 | newegg | 16839 east gale avenue | 70,000-85,000
+besie | alvarado | linkedin.com/in/besie-alvarado-a1092139 | besiealvarado@hotmail.com | personal | balvarado@emisorasunidas.com | N/A | grupo emisoras unidas de guatemal | null | 85,000-100,000
+fatima | gomez | linkedin.com/in/timagstyle | fatimagomez2010@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+yasmine | muwahid | linkedin.com/in/yasmine-muwahid-01829520 | yasmine.muwahid@gmail.com | personal | N/A | N/A | livingroom communication | null | 45,000-55,000
+christopher | cargnello | linkedin.com/in/christopher-cargnello-4b133b40 | c.cargnello@gmail.com | personal | N/A | N/A | urban science family | null | 55,000-70,000
+marisa | quijano | linkedin.com/in/marisaquijano06 | mquijano@shipyard.com | professional | N/A | N/A | null | null | 70,000-85,000
+michelle | badiable | linkedin.com/in/michelle-badiable-08889915 | colin_mitchy@yahoo.com | personal | N/A | N/A | fil-am virtual services | null | <20,000
+emily | johnson | linkedin.com/in/emijohn | ejohnson@puroclean.com | professional | N/A | N/A | vivial | 160 inverness drive west | 70,000-85,000
+alicia | song | linkedin.com/in/aliciasong | alicia.song@rallyworldwide.com | professional | alicia.song@iprospect.com | N/A | iprospect | null | <20,000
