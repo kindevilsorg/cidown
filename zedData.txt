@@ -960,4 +960,14 @@ avile | njilo | linkedin.com/in/avile-njilo-62b341b0 | avile.njilo@saatchisynerg
 amanda | oleri | linkedin.com/in/amanda-oleri-56965612 | amanda.oleri@live.com | personal | N/A | +12017252757 | aparium hotel group | 833 west washington boulevard | 70,000-85,000
 alexmah | smedia | linkedin.com/in/alexmah-smedia-672a7343 | smedia.alexmah@gmail.com | personal | N/A | N/A | smedia technology sdn bhd | null | <20,000
 barbara | michaelson | linkedin.com/in/barbara-michaelson-74161313 | bjmichaelson@gmail.com | personal | N/A | N/A | burkholder construction | null | 85,000-100,000
-kim | norcross | linkedin.com/in/kim-norcross-388aa2100 | kim.norcross@powertochange.org | professional | N/A | +16043093398 | mason jar merchant | null | 55,000-70,000
+kim | norcross | linkedin.com/in/kim-norcross-388aa2100 | kim.norcross@powertochange.org | professional | N/A | +16043093398 | mason jar merchant | null | 55,000-70,000chelsea | scherer | linkedin.com/in/schererchelsea | scherer.chelsea@gmail.com | personal | N/A | +15026192440 | current360 | 1324 east washington street | 70,000-85,000
+sam | reddy | linkedin.com/in/samreddy7 | chinnu7l3@gmail.com | personal | N/A | N/A | happy nutritional life | null | <20,000
+kristen | broyles | linkedin.com/in/kristenbroyles | kmbroyle@indiana.edu | professional | N/A | +18479550700 | stantec | null | 70,000-85,000
+furkan | gül | linkedin.com/in/furkan-gül-360486103 | forzenon@hotmail.com | personal | N/A | N/A | keti(korea electronics technology institute) | null | <20,000
+pareena | arneja | linkedin.com/in/pareena-arneja-b95a96a2 | pareena.arneja@ibef.org | current_professional | pareena.arneja@ibef.org | N/A | india brand equity foundation (ibef) | null | <20,000
+fab | connect | linkedin.com/in/fab-lab-connect-3aa6b7167 | connect@fablabconnect.com | current_professional | connect@fablabconnect.com | N/A | fab lab connect | 137 montague street | 85,000-100,000
+mariana | miranda | linkedin.com/in/mariana-miranda-54a67829 | mariana__miranda@hotmail.com | personal | N/A | N/A | ibs info business solutions | null | <20,000
+courtney | overcash | linkedin.com/in/courtney-overcash-03675b35 | covercash1@student.gsu.edu | N/A | N/A | +14045141293 | village theatre | 303 front street north | 70,000-85,000
+bárbara | pérez | linkedin.com/in/barbaramontero | bm.p@hotmail.com | personal | N/A | N/A | casa del libro | null | 45,000-55,000
+weicheng | ding | linkedin.com/in/weicheng-ding-504898a7 | weicheng.ding@tbwachiat.com | professional | N/A | N/A | lost art magic | null | 85,000-100,000
+alyssia | avouac | linkedin.com/in/alyssia-avouac-b781848a | a-avouac@chu-montpellier.fr | professional | N/A | N/A | aurore boréale - social media marketing | null | 55,000-70,000
