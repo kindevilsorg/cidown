@@ -8,4 +8,14 @@ megan | ladouceur | linkedin.com/in/megan-ladouceur-bb49165a | meganladouceur@br
 alexandra | bretonnier | linkedin.com/in/alexandra-bretonnier-16874b41 | alexandra.bretonnier@gmail.com | personal | N/A | N/A | de'longhi | null | 55,000-70,000
 bob | schellens | linkedin.com/in/bobschellens | info@bobfm.nl | N/A | N/A | N/A | tiaff tilburg architectuur film festival | null | 70,000-85,000
 kristen | camden | linkedin.com/in/kristen-camden-4419671b | kcamden4@gmail.com | personal | N/A | N/A | riverworks marketing group | 500 notre dame avenue | 85,000-100,000
-nik | mcgarey | linkedin.com/in/nik-mcgarey-a72b2a92 | nik.mcgarey@gyges.org | N/A | N/A | N/A | null | null | 85,000-100,000
+nik | mcgarey | linkedin.com/in/nik-mcgarey-a72b2a92 | nik.mcgarey@gyges.org | N/A | N/A | N/A | null | null | 85,000-100,000amber | schaeffer | linkedin.com/in/amber-schaeffer-25391976 | amber.schaeffer@mlb.com | professional | aschaeffer@bluemercury.com | +12129317500 | bluemercury | 1010 wisconsin avenue northwest | 70,000-85,000
+socialmedia | markcoweb | linkedin.com/in/socialmedia-markcoweb-4975b97b | socialmedia@markcoweb.com | current_professional | socialmedia@markcoweb.com | N/A | marketing business consultants | null | 85,000-100,000
+adrian | aye-darko | linkedin.com/in/adrian-aye-darko-10966b16 | adrianayedarko@gmail.com | personal | N/A | +16617551808 | william hill | 1 bedford avenue | 70,000-85,000
+ryan | lindberg | linkedin.com/in/ryan-lindberg-29a88028 | asagemusic@hotmail.com | personal | N/A | N/A | strange music, inc | null | 85,000-100,000
+dominic | varden | linkedin.com/in/dominicvarden | dom@gosocialmarketing.co.uk | professional | N/A | +447980869123 | jampr ltd | 72 tib street | 55,000-70,000
+aline | lacerda | linkedin.com/in/aline-lacerda-97506819 | line.lacerda@gmail.com | personal | N/A | N/A | kuration | null | <20,000
+crissy | cochran | linkedin.com/in/crissycochran | ccochran@lightspeedsystems.com | current_professional | ccochran@lightspeedsystems.com | +16614727305 | lightspeed systems | 2500 bee cave road | 85,000-100,000
+janice | formichella | linkedin.com/in/janice-formichella | janice.formichella@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+zoe | williams | linkedin.com/in/zoe-williams-b2b25392 | zoe.williams@missguided.co.uk | professional | zoe.williams@boohoo.com | N/A | boohoo.com | 49-51 dale street | 55,000-70,000
+anna | esquerda | linkedin.com/in/annamateuesquerda | justsilence@hotmail.com | personal | N/A | N/A | allianz españa | null | 35,000-45,000
+marco | liberati | linkedin.com/in/marco-liberati | marcoliberati@gmail.com | personal | N/A | N/A | eligio torre office&showroom | null | 45,000-55,000
