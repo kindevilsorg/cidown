@@ -1620,15 +1620,18 @@ chiara | bertani | linkedin.com/in/chiara-bertani-24b548b3 | chiara@ma-tic.com |
 miriam | wang | linkedin.com/in/miriamtangen | miriam@smfbengine.com | professional | N/A | N/A | frelsesarmeen - the salvation army | null | 100,000-150,000
 chris | habel | linkedin.com/in/chris-habel-9a0866a4 | chris.habel@t-mobile.at | current_professional | chris.habel@t-mobile.at | N/A | t-mobile austria | null | 70,000-85,000
 justin | perry | linkedin.com/in/justin-perry-30ab2536 | bigbuzz0@gmail.com | personal | N/A | N/A | social media underdog | null | 85,000-100,000
-taline | vertians | linkedin.com/in/taline-vertians-30707747 | lunavive419@aol.com | personal | taline.vertians@sprocketmedia.com | N/A | sprocket media | 45 south arroyo parkway | 85,000-100,000christopher | dodd | linkedin.com/in/chrisdodd12209 | chris@doddworks.com | N/A | N/A | N/A | goldstein auto group | null | 70,000-85,000
-ilaria | fiocco | linkedin.com/in/ilaria-fiocco-583ab45a | ifiocco@deezer.com | professional | N/A | N/A | gigasweb srl | null | 35,000-45,000
-shanice | dover | linkedin.com/in/shanice-dover-24730486 | shanice.dover@realadventure.co.uk | professional | shanice@gal-dem.com | N/A | gal-dem.com | null | 55,000-70,000
-nicola | turner | linkedin.com/in/nicolaturner | nturner@uka.org.uk | N/A | N/A | N/A | manchester united | null | 55,000-70,000
-tikkie | walker | linkedin.com/in/tikkie-walker-a0b79598 | walkert@savannahstate.edu | current_professional | walkert@savannahstate.edu | N/A | savannah state university | 3219 college street | 85,000-100,000
-craig | desmarais | linkedin.com/in/craigdesmarais | craig.j.desmarais@gmail.com | personal | cdesmarais@gocollette.com | N/A | collette | 162 middle street | 85,000-100,000
-vivi | yang | linkedin.com/in/vivi-yang-2640234a | vivi.yang@havasmedia.com | professional | N/A | N/A | wunderman | 3 columbus circle | <20,000
-natalia | santos | linkedin.com/in/natalia-santos-94946034 | nataliaisantos@hotmail.com | personal | N/A | N/A | tienda online (en gestación) | null | 35,000-45,000
-marta | canal | linkedin.com/in/martamartinezcanal | info@lulamae.es | professional | N/A | N/A | autónomo | null | 35,000-45,000
-liz | gunty | linkedin.com/in/liz-gunty-05425992 | liz.gunty@alz.org | professional | N/A | +17086015116 | bradley university | null | 70,000-85,000
-laura | ferrer | linkedin.com/in/lauraferrer | lauf1985@gmail.com | personal | N/A | N/A | elbkind reply | null | 55,000-70,000
-melissa | shangraw | linkedin.com/in/melissa-shangraw-32398412 | mshangraw@excentus.com | current_professional | mshangraw@excentus.com | N/A | excentus | 14241 dallas parkway | 85,000-100,000
+taline | vertians | linkedin.com/in/taline-vertians-30707747 | lunavive419@aol.com | personal | taline.vertians@sprocketmedia.com | N/A | sprocket media | 45 south arroyo parkway | 85,000-100,000helen | grindrod | linkedin.com/in/helen-grindrod-977b7414 | helengrindrod@hotmail.co.uk | personal | N/A | N/A | vitality uk | 4th floor 70 gracechurch street | 55,000-70,000
+chris | perchatsch | linkedin.com/in/chrisperchatsch | cperchatsch@parkhurstdining.com | professional | N/A | +16306648946 | null | null | 85,000-100,000
+ashley | black | linkedin.com/in/ashley-black-323b63101 | ashley.black@beautyofblack.com | N/A | N/A | N/A | b.o.b.c channel ™ | null | 70,000-85,000
+karin | eicker | linkedin.com/in/karin-eicker-9254b796 | karin@liketh.co.za | professional | N/A | N/A | checkid | null | <20,000
+erich | tufte | linkedin.com/in/smdservices | erichtufte@gmail.com | personal | N/A | N/A | smd services | null | 70,000-85,000
+laura | welch | linkedin.com/in/laura-welch-9408b238 | lwelch@clmnorthwest.com | professional | lwelch@scentsy.com | +12088698681 | scentsy, inc. | 2901 east pine avenue | 85,000-100,000
+jenna | chamblee | linkedin.com/in/jenna-chamblee-8b28a181 | jchamblee@younglife.org | professional | N/A | +17196321625 | kannon's clothing | 435 daniels street | 70,000-85,000
+meg | green | linkedin.com/in/meg-green-b30519116 | meg.green@ogilvy.com.au | professional | N/A | N/A | coppafeel! | null | 55,000-70,000
+beth | harker | linkedin.com/in/beth-harker-8680352 | harker.b.1@pg.com | current_professional | harker.b.1@pg.com | N/A | procter & gamble | 2 p and g plaza | 85,000-100,000
+monica | watson | linkedin.com/in/monica-watson-18991536 | monica.watson@hotmail.co.uk | personal | N/A | +447850383277 | barclays | 1 churchill place | 55,000-70,000
+héloïse | benguigui | linkedin.com/in/héloïse-benguigui-a0553463 | heloise.benguigui@gmail.com | personal | N/A | N/A | sncf | null | 55,000-70,000
+brandy | forsman | linkedin.com/in/brandy-forsman-536571102 | brandy.forsman@dailymotion.com | current_professional | brandy.forsman@dailymotion.com | N/A | dailymotion | null | 85,000-100,000
+janos | matuschewski | linkedin.com/in/janosmatuschewski | janos@moviepilot.de | professional | N/A | N/A | red bull | null | 55,000-70,000
+renee | bugden | linkedin.com/in/reneebugden | superfox_888@hotmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+vanessa | nunes | linkedin.com/in/vanessanunesc | mynameisproject@gmail.com | personal | vanessa.nunes@stormcom.co.uk | N/A | storm communications | null | 55,000-70,000
