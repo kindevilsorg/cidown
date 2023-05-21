@@ -1597,9 +1597,27 @@ andie | moody | linkedin.com/in/andieroedermoody | armoody@northpark.edu | profe
 argiro | stavrakaki | linkedin.com/in/argiro-stavrakaki-5742251b | stavargy@gmail.com | personal | N/A | N/A | wines of crete | null | 25,000-35,000
 darbaz | dara | linkedin.com/in/darbaz-dara-a564908a | darbaz.dara@yougov.com | professional | N/A | N/A | null | null | 85,000-100,000
 siham | haddougui | linkedin.com/in/siham-haddougui-9a3b46b3 | shaddougui@royalairmaroc.com | current_professional | shaddougui@royalairmaroc.com | N/A | royal air maroc | null | <20,000
-leah | ison | linkedin.com/in/leahison | leahdi@shaw.ca | N/A | N/A | +17804053968 | prairie girl social | null | 55,000-70,000summer | pridemore | linkedin.com/in/spridemore | summer4789@gmail.com | personal | N/A | N/A | summer ashley | null | 70,000-85,000
-fahed | rahman | linkedin.com/in/fahed-rahman-82382410 | fahederahman@googlemail.com | personal | N/A | N/A | social media | null | 55,000-70,000
-atara | arbesfeld | linkedin.com/in/atara-arbesfeld | ataraarbesfeld@gmail.com | personal | N/A | +12125634000 | null | null | 85,000-100,000
-jordan | maloney | linkedin.com/in/jordanmaloney | jordan.maloney@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-bill | poplawski | linkedin.com/in/billpoplawski | bill_poplawski@hotmail.com | personal | N/A | N/A | twelfth avenue cuisine | null | 100,000-150,000
-atika | pratiwi | linkedin.com/in/atika-pratiwi-0229b574 | atika.pratiwi@havasdigital.com | professional | N/A | N/A | arya noble | null | <20,000
+leah | ison | linkedin.com/in/leahison | leahdi@shaw.ca | N/A | N/A | +17804053968 | prairie girl social | null | 55,000-70,000esté | katzman | linkedin.com/in/esté-katzman-49042519 | estekatzman@yahoo.com | personal | N/A | N/A | michael aquino racing | null | 85,000-100,000
+kim | vij | linkedin.com/in/kimvij | kimvijconsulting@gmail.com | personal | N/A | +13526423525 | wpbeginner | null | 70,000-85,000
+alina | robu | linkedin.com/in/alina-robu-8a721773 | alina@webtailors.sg | professional | N/A | N/A | mrm//mccann | 622 third avenue | <20,000
+shivali | shah | linkedin.com/in/shivali-shah-143672b3 | shivali.shah@endurance.com | professional | N/A | N/A | soulfull | null | <20,000
+kristina | radonjic | linkedin.com/in/kristina-radonjic-6ab24333 | k.radonjic@gmddoo.biz | N/A | N/A | N/A | null | null | 85,000-100,000
+sue | ferguson | linkedin.com/in/sjferguson | mail@sueferguson.co.uk | professional | N/A | N/A | null | null | 55,000-70,000
+felicity | higgins | linkedin.com/in/felicity-higgins-704b4199 | felicity.higgins@starmotorcars.com | current_professional | felicity.higgins@starmotorcars.com | N/A | star motor cars | 7000 katy road | 70,000-85,000
+jordan | kranick | linkedin.com/in/jordan-kranick-b02b7881 | jordan.kranick@tileshop.com | professional | N/A | +16513249408 | solve | null | 70,000-85,000
+kayla | hulen | linkedin.com/in/kaylahulen | kayla.hulen@gmail.com | personal | N/A | N/A | take this, inc. | null | 70,000-85,000
+jessica | tsang | linkedin.com/in/jessica-tsang16 | jessica.tsang@disneystore.com | professional | N/A | N/A | null | null | 85,000-100,000
+kamil | melcer | linkedin.com/in/kamilmelcer | k.melcer@uw.edu.pl | professional | N/A | N/A | goout | null | 20,000-25,000
+stéphanie | favier | linkedin.com/in/stephaniefavier | sfavier@agatha.fr | current_professional | sfavier@agatha.fr | N/A | agatha paris | null | 55,000-70,000anja | larsen | linkedin.com/in/anjalarsen | anjalarsen75@gmail.com | personal | N/A | N/A | dyreværnsforeningen kattens værn | null | 85,000-100,000
+matthew | floyd | linkedin.com/in/matthew-floyd-69bb6436 | mattfloyd84@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+jessica | de vries | linkedin.com/in/jessica-de-vries-6a17b943 | jbr.devries@hotmail.com | personal | N/A | N/A | xpozer bv | null | 55,000-70,000
+stephanie | veiga | linkedin.com/in/stephanie-g-veiga | s-veiga@hotmail.com | personal | N/A | N/A | knixwear | 70 claremont street | 55,000-70,000
+james | chadderton | linkedin.com/in/james-chadderton-2a219174 | james.chadderton@performgroup.com | professional | james.chadderton@dazn.com | N/A | dazn | 12 hammersmith grove | 55,000-70,000
+christina | adams | linkedin.com/in/christina-adams-26aa349a | christina.adams@cu.edu | N/A | N/A | N/A | null | null | 85,000-100,000
+bryan | silva | linkedin.com/in/silvabryan | bry25guy@gmail.com | personal | N/A | N/A | exite house | null | 85,000-100,000
+jawad | hussan | linkedin.com/in/azadlearning | jawadulhussan@hotmail.com | personal | N/A | N/A | null | null | <20,000
+nicole | platania | linkedin.com/in/nicole-platania-806359a2 | nicole.platania@gmail.com | personal | N/A | N/A | evanshardy+young | null | 70,000-85,000
+nuha | abu samak | linkedin.com/in/nuhasamak | nnn24sss@hotmail.com | personal | N/A | N/A | cheil worldwide | null | 70,000-85,000
+viktoria | semertzidou | linkedin.com/in/viktoria-semertzidou | vsemertzidoy@gmail.com | personal | N/A | N/A | gfy consulting | null | 55,000-70,000
+debbie | head | linkedin.com/in/debbiehead | djhead@bellsouth.net | personal | N/A | +17708453376 | etowah valley historical society inc | p/o box 1886 | 85,000-100,000
+kimberly | waring | linkedin.com/in/kimberly-waring-139a82109 | kimberly.waring@gyges.org | N/A | N/A | N/A | null | null | 100,000-150,000
