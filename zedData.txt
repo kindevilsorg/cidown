@@ -908,21 +908,30 @@ panagiotis | bourandas | linkedin.com/in/panagiotis-bourandas-650ab628 | bourand
 adarsh | pradhan | linkedin.com/in/adarsh-pradhan-25970136 | adarsh1948@gmail.com | personal | N/A | N/A | null | null | <20,000
 nene | nseabasi | linkedin.com/in/nene-nseabasi | nene.nseabasi@gmail.com | personal | N/A | N/A | crenov8 | null | <20,000
 chris | gallatin | linkedin.com/in/chris-gallatin-65610035 | cgallatin1@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-sofia | teixeira | linkedin.com/in/sofia-teixeira-277646178 | sofia@returningvideotapes.com | N/A | N/A | N/A | sportclasse | null | 25,000-35,000jane | arschavir | linkedin.com/in/jane-arschavir-92945839 | janewoolley@hotmail.com | personal | N/A | N/A | st james & emmanuel | 6 barlow moor road | 55,000-70,000
-deena | moskowitz | linkedin.com/in/deenamoskowitz | dcmoskow@gmail.com | personal | N/A | N/A | prima hotels israel | 75 allenby street | 55,000-70,000
-shari | walker | linkedin.com/in/shari-walker-2788b938 | shari@kseanwalker.com | N/A | N/A | N/A | showboxexpo | null | 70,000-85,000
-jeimie | franco | linkedin.com/in/jeimie-franco-542492137 | francojeimie@yahoo.com | personal | N/A | N/A | bks group (pty) limited | null | <20,000
-agnese | ndoj | linkedin.com/in/agnese-ndoj-173370b5 | agnese.ndoj@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-anne | corbeau | linkedin.com/in/anne-corbeau-6bb680ab | anne@storyboard-agency.com | current_professional | anne@storyboard-agency.com | N/A | storyboard amsterdam | null | 55,000-70,000
-sonja | reid | linkedin.com/in/sonja-reid-a9505423 | reid.sonja@gmail.com | personal | N/A | N/A | centre for urban innovation gaining ground | null | 55,000-70,000
-oğuz | tetik | linkedin.com/in/plusrulz | oktetikk@gmail.com | personal | N/A | N/A | vivi | 7700 falstaff road | <20,000ma-ann | pacion | linkedin.com/in/ma-ann-pacion | maann@taskus.com | professional | N/A | N/A | dr nikki goldstein sexologist & relationship expert | null | <20,000
-viera | rachmawati | linkedin.com/in/viera-rachmawati-61b61060 | viera.rachmawati@vads.co.id | professional | N/A | N/A | amanat institute | null | <20,000
-ashley | landers | linkedin.com/in/ashlanders | sfashlanders@yahoo.com | personal | N/A | +18179093559 | thin pig media | 14100 southeast 36th street | 70,000-85,000
-justin | dennis | linkedin.com/in/justin-dennis-b10665104 | justin@fanchants.com | current_professional | justin@fanchants.com | N/A | fanchants (.com) ltd | 279 high street | 55,000-70,000
-rafa | alsina | linkedin.com/in/rafa-roca-alsina-0b29532b | rufusroc@hotmail.com | personal | N/A | N/A | telefónica | null | 35,000-45,000
-sakina | atkins | linkedin.com/in/sakinaatkins | sakina.c@hotmail.com | personal | N/A | N/A | new south wales ice skating association | null | 70,000-85,000
-liz | noli-roberts | linkedin.com/in/liznoliroberts | liz@wellydesign.com | professional | N/A | N/A | ewe agency | null | 55,000-70,000
-anne | manaud | linkedin.com/in/anne-manaud-65915b42 | annemanaud@hotmail.fr | personal | N/A | N/A | auto-entrepreneur | null | 55,000-70,000
-zac | ansell | linkedin.com/in/zac-ansell-2741b343 | zac.ansell@hotmail.com | personal | N/A | +61418985211 | kustom foods melbourne | null | 70,000-85,000
-pantelis | chiotellis | linkedin.com/in/pantelischiotellis | pantelis9999@yahoo.com | personal | N/A | N/A | null | null | 70,000-85,000
-carmen | admiraal | linkedin.com/in/carmen-admiraal-17b10272 | carmen.admiraal@gmail.com | personal | N/A | N/A | doctors at soap | null | 55,000-70,000
+sofia | teixeira | linkedin.com/in/sofia-teixeira-277646178 | sofia@returningvideotapes.com | N/A | N/A | N/A | sportclasse | null | 25,000-35,000brent | hall | linkedin.com/in/brent-hall-5712b1b1 | bhall@pdc.edu | current_professional | bhall@pdc.edu | N/A | paul d. camp community college | null | 85,000-100,000
+catherine | van veen | linkedin.com/in/catherinevanveen | cmvx1@hotmail.com | personal | N/A | N/A | creative circle | 5900 wilshire boulevard | 85,000-100,000
+laura | michelacci | linkedin.com/in/laura-michelacci | lauramichelacci@gmail.com | personal | N/A | N/A | university of florence | null | 45,000-55,000
+fernando | de nitto | linkedin.com/in/fernandodenitto | fernandodenitto@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+stephanie | laning | linkedin.com/in/stephanie-laning-94397522 | justbnsocial@gmail.com | current_professional | justbnsocial@gmail.com | N/A | justbnsocial.com | null | 85,000-100,000
+adam | harris | linkedin.com/in/adam-harris-714a4129 | adamhharris@hotmail.com | personal | adam.harris@wellcare.com | N/A | wellcare health plans | null | 70,000-85,000
+christopher | rzasa | linkedin.com/in/christopher-rzasa-7b9994107 | crzasa@aol.com | personal | N/A | +12032607664 | grindtime sports | null | 85,000-100,000
+maxwell | collins | linkedin.com/in/maxwell-collins-584934104 | maxwell.collins@slcschools.org | professional | N/A | +18014721112 | black feather whiskey | 928 south main street | 85,000-100,000
+renate | deruma | linkedin.com/in/renatederuma | renate.deruma@gmail.com | personal | N/A | N/A | rigaloveletters | null | 85,000-100,000melanie | wimmer | linkedin.com/in/melanie-wimmer-5850b392 | m.wimmer@rewe-group.at | professional | N/A | N/A | amnesty international | 1 easton street | 55,000-70,000
+mafernanda | elizalde | linkedin.com/in/mafernanda-elizalde-39aa4047 | ma.fernanda_elizalde@hotmail.com | personal | N/A | N/A | relaciones publicas digitales | null | 85,000-100,000
+enrico | tagliapietra | linkedin.com/in/etagliapietra | enrico.tagliapietra@gmail.com | personal | N/A | N/A | university of padova | null | 45,000-55,000
+edianny | contreras | linkedin.com/in/edianny-libanesa-valdez-contreras-665420161 | libanesa.valdez@gmail.com | personal | N/A | N/A | prixet technology | null | 85,000-100,000
+daniel | coultas | linkedin.com/in/daniel-coultas-02a0b576 | daniel.coultas@jdplc.com | current_professional | daniel.coultas@jdplc.com | N/A | jd sports fashion plc | null | 55,000-70,000
+amanda | harris | linkedin.com/in/amanda-harris-14359039 | shmilgah@yahoo.com | personal | N/A | N/A | owner-the kids did it | null | 70,000-85,000
+elsa | todd | linkedin.com/in/elsatodd | elsa.todd@mytutorplace.com | professional | N/A | N/A | trinity united methodist church hackettstown | null | 70,000-85,000
+julia | gartsman | linkedin.com/in/julia-gartsman-8bb77a6b | julia@yannidesignstudio.com | professional | N/A | N/A | ella's bubbles, llc. | 2101 south carpenter street | 70,000-85,000
+guru | dallas | linkedin.com/in/seogurudallas | seogurudallas@gmail.com | personal | N/A | N/A | seo guru dallas | null | 85,000-100,000
+william | wilson | linkedin.com/in/williamcwilson2 | wilsonw21@gmail.com | personal | wwilson@roku.com | N/A | roku inc. | 1155 coleman avenue | 85,000-100,000
+gemma | macey | linkedin.com/in/gemma-macey-52428396 | gemma.macey@peldonrose.com | current_professional | gemma.macey@peldonrose.com | N/A | peldon rose | 26 worple road | 55,000-70,000
+ted | frias | linkedin.com/in/ted-amiel-frias-8a493570 | ted@wholedesignstudios.com | current_professional | ted@wholedesignstudios.com | N/A | whole design studios | null | <20,000
+taylor | harkins | linkedin.com/in/taylor-harkins-a3595531 | tharkins@bootbarn.com | professional | N/A | N/A | null | null | 85,000-100,000
+deven | kakkar | linkedin.com/in/devenrajkakkar | deven.kakkar@gmail.com | personal | N/A | N/A | baazi games | null | <20,000
+kelly | fentress | linkedin.com/in/kellyfentress | kfentress@sc.rr.com | N/A | N/A | +18439971004 | bucksville hall and thompson farm | null | 85,000-100,000
+sefa | durmaz | linkedin.com/in/sefa-durmaz-42832148 | sefadurmaz23@gmail.com | personal | N/A | N/A | liman kitap kahve | null | <20,000
+rafael | vazquez | linkedin.com/in/rafael-jose-vazquez-01bb603a | rafaelvasquez325@yahoo.com | personal | N/A | N/A | beast mode fitness | null | 70,000-85,000
+amanda | leonard | linkedin.com/in/amandaleonard2 | amanda.leonard@hotmail.co.uk | personal | N/A | N/A | dnata | null | 55,000-70,000
+sam | wells | linkedin.com/in/sam-wells-335a4b8 | sam.wells@mpbonline.org | professional | N/A | N/A | mississippi development authority | p/o box 849 | 85,000-100,000
