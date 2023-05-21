@@ -960,19 +960,19 @@ avile | njilo | linkedin.com/in/avile-njilo-62b341b0 | avile.njilo@saatchisynerg
 amanda | oleri | linkedin.com/in/amanda-oleri-56965612 | amanda.oleri@live.com | personal | N/A | +12017252757 | aparium hotel group | 833 west washington boulevard | 70,000-85,000
 alexmah | smedia | linkedin.com/in/alexmah-smedia-672a7343 | smedia.alexmah@gmail.com | personal | N/A | N/A | smedia technology sdn bhd | null | <20,000
 barbara | michaelson | linkedin.com/in/barbara-michaelson-74161313 | bjmichaelson@gmail.com | personal | N/A | N/A | burkholder construction | null | 85,000-100,000
-kim | norcross | linkedin.com/in/kim-norcross-388aa2100 | kim.norcross@powertochange.org | professional | N/A | +16043093398 | mason jar merchant | null | 55,000-70,000giorgio | ferrazzi | linkedin.com/in/giogiofer | giorgio.ferrazzi@gmail.com | personal | N/A | N/A | diocesi di alessandria | null | 45,000-55,000
-chelsea | nickerson | linkedin.com/in/chelseanickerson | ccnickerson26@gmail.com | personal | chelsea.nickerson@mybluprint.com | +16033219344 | bluprint | null | 85,000-100,000
-jane | neiman | linkedin.com/in/janeneiman | janecneiman@gmail.com | personal | N/A | N/A | outdoor voices | 1637 east 2nd street | 70,000-85,000
-ian | drake | linkedin.com/in/ian-drake-7109a05b | idrake@belhaven.edu | professional | N/A | N/A | certifiable studios | null | 85,000-100,000
-waleed | hassan | linkedin.com/in/it-waleed-hassan-8b0b7ba | it.hassan@gmail.com | personal | N/A | N/A | dar rewayah | null | 25,000-35,000
-evan | davis | linkedin.com/in/evan-davis-490b73a2 | evan.davis@bhmginc.com | professional | N/A | +18048944842 | eurpac service inc. | 101 merritt 7 corporate park | 70,000-85,000
-samantha | thompson | linkedin.com/in/samantha-thompson-6a267362 | thompsons@uwstout.edu | professional | N/A | N/A | university of wisconsin-eau claire | 105 garfield avenue | 85,000-100,000
-sugey | romo | linkedin.com/in/sugeyromo | sugey_romo@hotmail.com | personal | N/A | N/A | sbs facilitadores | null | <20,000
-rei | nishimoto | linkedin.com/in/reinishimoto | reinishimoto@yahoo.com | personal | N/A | +13106217980 | majik box pedals | null | 70,000-85,000
-jason | credo | linkedin.com/in/jasoncredo | darkriku26@yahoo.com | personal | N/A | +16613098755 | center for american progress | 1333 h street | 70,000-85,000
-cynthia | rivers-womack | linkedin.com/in/criverswomack | ctara2go@yahoo.com | personal | N/A | N/A | jacksonville army recruiting battalion | null | 70,000-85,000
-abdul | rahmat | linkedin.com/in/abdul-matean-rahmat-832bb637 | matean_hero@hotmail.com | personal | N/A | N/A | null | null | <20,000
-rachael | simmons | linkedin.com/in/rachael-simmons-a0b131134 | rsimmons@livingstonmutual.com | current_professional | rsimmons@livingstonmutual.com | N/A | livingston mutual insurance co | 2 north broad street | 85,000-100,000
-emily | mcclure | linkedin.com/in/emcclure | emily.mcclure@beamly.com | professional | N/A | +18654753612 | maesa group | 225 liberty street | 70,000-85,000
-megan | williams | linkedin.com/in/meganmansell | meganmansell@gmail.com | personal | megan@cannacraft.com | N/A | cannacraft | 2330 circadian way | 85,000-100,000
-simon | okelo | linkedin.com/in/simon-okelo-15383417 | jahvoh@gmail.com | personal | N/A | +12062463711 | antioch university | null | 70,000-85,000
+kim | norcross | linkedin.com/in/kim-norcross-388aa2100 | kim.norcross@powertochange.org | professional | N/A | +16043093398 | mason jar merchant | null | 55,000-70,000chelsea | scherer | linkedin.com/in/schererchelsea | scherer.chelsea@gmail.com | personal | N/A | +15026192440 | current360 | 1324 east washington street | 70,000-85,000
+sam | reddy | linkedin.com/in/samreddy7 | chinnu7l3@gmail.com | personal | N/A | N/A | happy nutritional life | null | <20,000
+kristen | broyles | linkedin.com/in/kristenbroyles | kmbroyle@indiana.edu | professional | N/A | +18479550700 | stantec | null | 70,000-85,000
+furkan | gül | linkedin.com/in/furkan-gül-360486103 | forzenon@hotmail.com | personal | N/A | N/A | keti(korea electronics technology institute) | null | <20,000
+pareena | arneja | linkedin.com/in/pareena-arneja-b95a96a2 | pareena.arneja@ibef.org | current_professional | pareena.arneja@ibef.org | N/A | india brand equity foundation (ibef) | null | <20,000
+fab | connect | linkedin.com/in/fab-lab-connect-3aa6b7167 | connect@fablabconnect.com | current_professional | connect@fablabconnect.com | N/A | fab lab connect | 137 montague street | 85,000-100,000
+mariana | miranda | linkedin.com/in/mariana-miranda-54a67829 | mariana__miranda@hotmail.com | personal | N/A | N/A | ibs info business solutions | null | <20,000
+courtney | overcash | linkedin.com/in/courtney-overcash-03675b35 | covercash1@student.gsu.edu | N/A | N/A | +14045141293 | village theatre | 303 front street north | 70,000-85,000
+bárbara | pérez | linkedin.com/in/barbaramontero | bm.p@hotmail.com | personal | N/A | N/A | casa del libro | null | 45,000-55,000
+weicheng | ding | linkedin.com/in/weicheng-ding-504898a7 | weicheng.ding@tbwachiat.com | professional | N/A | N/A | lost art magic | null | 85,000-100,000
+alyssia | avouac | linkedin.com/in/alyssia-avouac-b781848a | a-avouac@chu-montpellier.fr | professional | N/A | N/A | aurore boréale - social media marketing | null | 55,000-70,000molly | rod | linkedin.com/in/molly-rod-8433091a2 | molly.rod@sparkfoundryww.com | current_professional | molly.rod@sparkfoundryww.com | N/A | spark foundry | null | 85,000-100,000
+tushar | bhatnagar | linkedin.com/in/bhatnagartushar | tusharbhatnagar87@gmail.com | personal | N/A | N/A | designbuildsource | null | 70,000-85,000
+cheryl | toomey | linkedin.com/in/cheryl-toomey-6aa89854 | cheryl-toomey@utc.edu | professional | N/A | N/A | appliancepartspros.com | 19410 business ctr drive | 85,000-100,000
+ingrid | porto | linkedin.com/in/ingridporto | diporto12@hotmail.com | personal | N/A | N/A | null | null | <20,000
+jerry | akinsehinde | linkedin.com/in/jerry-akinsehinde-33b00241 | touchrate777@yahoo.co.uk | personal | N/A | N/A | touchrate communications | null | 85,000-100,000
+kaz | suzuki | linkedin.com/in/keizasuzuki | ksuzuki@utk.edu | N/A | kaz.suzuki@fbitn.com | N/A | farm bureau insurance of tennessee | 147 bear creek pike | 85,000-100,000
