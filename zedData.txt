@@ -95,36 +95,39 @@ david | hylton | linkedin.com/in/davidmhylton | dhylton@nbc12.com | professional
 deanna | rose | linkedin.com/in/deanna-rose-30639a6 | deannarose@journalist.com | personal | N/A | N/A | hay there social media | p/o box 1935 | 85,000-100,000
 julian | mccrann | linkedin.com/in/julian-mccrann-172aa9bb | julian.mccrann@roymorgan.com | current_professional | julian.mccrann@roymorgan.com | N/A | roy morgan research | null | 70,000-85,000
 senra | jose | linkedin.com/in/jose-manuel-varela-senra-20475938 | jmvsenra@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-eugene | festinolli | linkedin.com/in/eugene-festinolli-bb376929 | mlcvb@axiommediaservice.com | N/A | N/A | N/A | meadowland liberty cvb | null | 85,000-100,000paul | teston-vigne | linkedin.com/in/paul-teston-vigne-9758b776 | paul.teston-vigne@lanetscouade.com | current_professional | paul.teston-vigne@lanetscouade.com | N/A | la netscouade | null | 55,000-70,000
-jodie | sims | linkedin.com/in/jodie-sims-23579643 | jsims@festivalrepublic.com | professional | N/A | N/A | null | null | 55,000-70,000
-gina | mom | linkedin.com/in/ginamom | ginamom25@yahoo.com | personal | N/A | +13106899807 | josie maran cosmetics | 6165 santa monica boulevard | 70,000-85,000
-natasha | chomko | linkedin.com/in/natashachomko | tashisafish@hotmail.com | personal | N/A | +13016465159 | beyond dope productions | null | 70,000-85,000
-efrat | appleboim | linkedin.com/in/efratappleboim | efrata15@gmail.com | personal | N/A | N/A | sigma makeup | null | 55,000-70,000
-hippolyte | genest | linkedin.com/in/hippolytegenest | hippolyte.genest@sage.com | professional | N/A | N/A | lectra | null | 55,000-70,000
-divya | mulani | linkedin.com/in/divya-mulani-99a538151 | divyamulani7@gmail.com | personal | N/A | N/A | modi media | 3 columbus circle | <20,000
-jerry | holcomb | linkedin.com/in/jerry-holcomb-066a6928 | connectingthedotsmedia@gmail.com | current_professional | connectingthedotsmedia@gmail.com | N/A | connecting the dots media | null | 70,000-85,000
-argelia | corona | linkedin.com/in/argeliacorona | argeliacorona@gmail.com | personal | N/A | N/A | agencia montalvo | null | <20,000
-lauren | miner | linkedin.com/in/lauren-miner-a16a4154 | lauren@maxsold.com | professional | N/A | N/A | denta-match | 10 delisle avenue | 55,000-70,000
-sivan | yitzhak | linkedin.com/in/sivan-yitzhak-a3300330 | sivan.yitzhak@payoneer.com | professional | N/A | N/A | appsflyer | 85 medinat hayehudim street | 45,000-55,000
-edward | wroten | linkedin.com/in/edward-wroten-3051289a | ewroten@clb.org | professional | N/A | N/A | robin games | null | 70,000-85,000
-luis | del casar loranca | linkedin.com/in/luismigueldelcasar | luis.loranca@gmail.com | personal | N/A | N/A | meland | null | 35,000-45,000jeannie | hurtado | linkedin.com/in/jeannie-hurtado-b1b40216b | jhurtado@co.fresno.ca.us | professional | N/A | N/A | bold fiu | 11200 southwest 8 street | 70,000-85,000
-megan | hofferth | linkedin.com/in/megan-hofferth-2ba13857 | meganhofferth@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-rayar | cunha | linkedin.com/in/rayar | rayar.cunha@gmail.com | personal | N/A | N/A | esl - turtle entertainment | null | <20,000
-edward | rangsi | linkedin.com/in/edward-rangsi-5869433a | edward@isportconnect.com | professional | erangsi@fulhamfc.com | +447922846524 | fulham football club | null | 55,000-70,000
-merve | yavuz | linkedin.com/in/merve-yavuz-2963aa22 | mer-yavuz@hotmail.com | personal | N/A | N/A | null | null | <20,000
-jillian | wolpman | linkedin.com/in/jillianwolpman | jwolpman@austinsportscenter.com | professional | N/A | N/A | jw social by design | null | 70,000-85,000
-caitie | bowers | linkedin.com/in/caitie-bowers-1972753 | cbowers@magnetek.com | professional | N/A | +14144268801 | electric mirror, llc | 6101 associated boulevard | 85,000-100,000
-jessica | conway | linkedin.com/in/jessica-conway | jessica.conway@live.com | personal | N/A | N/A | the street theatre | null | 70,000-85,000
-keerthi | alokkan | linkedin.com/in/keerthi-alokkan-3ab979ba | keerthi@envertiz.com | current_professional | keerthi@envertiz.com | N/A | envertiz consultancy ltd | null | <20,000
-halie | sutton | linkedin.com/in/haliebsutton | hot_tea55@live.com | personal | N/A | N/A | chupacabra offroad | null | 70,000-85,000
-lauren | weber | linkedin.com/in/laurenmarieweber | lpanaretos@gmail.com | personal | lauren.weber@haytheresocialmedia.com | +15174045713 | hay there social media | p/o box 1935 | 70,000-85,000
-mira | vojinovic | linkedin.com/in/mira-vojinovic-2b70491a | vinogalnyc@gmail.com | personal | N/A | N/A | ultimate beverage challenge | 50 broadway | 85,000-100,000
-gülnem | akengin | linkedin.com/in/gülnem-akengin-a8862247 | gulnemce@mynet.com | N/A | N/A | N/A | null | null | <20,000
-jordan | jones | linkedin.com/in/jordan-jones-20384847 | jordanlaurencejones@gmail.com | personal | N/A | N/A | university of southern california | null | 70,000-85,000
-jason | rupert | linkedin.com/in/jason-rupert-93969010 | jason.cubanb@gmail.com | personal | N/A | +18503775144 | null | null | 85,000-100,000richard | bremner | linkedin.com/in/richard-bremner-8378ab5 | richard.bremner@barrheadtravel.co.uk | current_professional | richard.bremner@barrheadtravel.co.uk | N/A | barrhead travel group | 85 oswald street | 55,000-70,000
-rosa | rea | linkedin.com/in/rosa-maria-alva-rea-07637a30 | ralvarea@gmail.com | personal | N/A | N/A | otras miradas | null | <20,000
-sandra | liliana | linkedin.com/in/sandramag | sandra@sahara.is | current_professional | sandra@sahara.is | N/A | sahara | null | 85,000-100,000
-gilles | pfeiffer | linkedin.com/in/gillespfeiffer | gilles@pfeiffer.fr | professional | gilles@ruroc.com | N/A | ruroc | 2 barnett way | 55,000-70,000
-lena | neumann | linkedin.com/in/lena-neumann-1634b438 | lena.neumann@sma.de | professional | N/A | N/A | r+v versicherung | null | 70,000-85,000
-leni | wiltsie | linkedin.com/in/leniwiltsie | leniwiltsie821@aol.com | personal | N/A | +18603675905 | golden star theaters | null | 85,000-100,000
-christine | lewis | linkedin.com/in/christine-lewis-a3630727 | christine@nolimitsflp.com | professional | N/A | N/A | ism experts | null | 55,000-70,000
+eugene | festinolli | linkedin.com/in/eugene-festinolli-bb376929 | mlcvb@axiommediaservice.com | N/A | N/A | N/A | meadowland liberty cvb | null | 85,000-100,000vanessa | henne | linkedin.com/in/vanessa-henne-3b28648a | vhenne@aerotek.com | professional | N/A | N/A | llava social marketing | null | 85,000-100,000
+lauren | smith | linkedin.com/in/lauren-smith-463816a3 | dancelaurensing@gmail.com | personal | N/A | +16266648858 | los angeles bach festival | null | 70,000-85,000
+karen | mcnulty | linkedin.com/in/karenlmcnulty | karenmcnulty@sbcglobal.net | personal | N/A | N/A | danoukh and fields dental group | 125 strawberry hill avenue | 85,000-100,000
+erika | macchione | linkedin.com/in/erika-macchione-9437865a | erikamacchione@yahoo.com | personal | N/A | N/A | russell westbrook why not? foundation | null | 70,000-85,000
+nima | nakhshab | linkedin.com/in/neemz | nimadesign@me.com | personal | niman@realtyonegroup.com | +19493316557 | realty one group | 23811 aliso creek road | 85,000-100,000
+monica | brano | linkedin.com/in/branomonica | monica.brano@connexia.com | current_professional | monica.brano@connexia.com | N/A | connexia | null | 45,000-55,000
+kelly | machado | linkedin.com/in/kelly-machado-6b536aa5 | kelly_machado@icloud.com | personal | kelly@rnmarket.com | N/A | rn market | 112 south armenia avenue | 70,000-85,000
+domenico | antonacci | linkedin.com/in/domenicosergioantonacci | antonaccids@hotmail.it | personal | N/A | N/A | architetto libero professionista | null | 45,000-55,000
+wawrzyniec | ślusarczyk | linkedin.com/in/wawrzyniecslusarczyk | wawrzyniecslusarczyk@gmail.com | personal | N/A | N/A | we are creative labs | null | <20,000
+shruthi | lapp | linkedin.com/in/shruthilapp | shruthi@premierespeakers.com | professional | N/A | N/A | null | null | 70,000-85,000
+andrea | escalona | linkedin.com/in/aescalona92 | andreae92@gmail.com | personal | andrea@handledmedia.com | N/A | handled media | 78 southwest 7th street | 55,000-70,000
+jorden | montgomery | linkedin.com/in/jorden-montgomery-87438aa7 | jmontgomery@7-eleven.com | current_professional | jmontgomery@7-eleven.com | N/A | 7-eleven | 3200 hackberry road | 85,000-100,000
+yasaman | gheidi | linkedin.com/in/yasaman-gheidi-b1953a82 | yasaman.gheidi@gobaci.com | professional | N/A | N/A | null | null | 55,000-70,000
+sheila | faalasli | linkedin.com/in/sheilafaalasli | sheila13@vt.edu | professional | sfaalasli@npca.org | +15712429496 | national parks conservation association | 777 6th street | 70,000-85,000sam | filip | linkedin.com/in/sam-filip-7b1a2933 | samjfilip@gmail.com | personal | N/A | +18283034304 | mooer audio | null | <20,000
+natasha | william | linkedin.com/in/natasha-william-87716034 | h.anwar@apnsol.com | current_professional | h.anwar@apnsol.com | N/A | apnsol ltd | null | <20,000
+jerry | sanchez | linkedin.com/in/jerrysanchez1973 | sanchezjerry@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+leilani | b'smith | linkedin.com/in/leilani-b-smith-b97bb231 | lmb387@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000meagan | smith | linkedin.com/in/meaganssmith | meagan@marinmarketing.ca | professional | N/A | N/A | h2o digital marketing agency | 12285 yonge street | 55,000-70,000
+sarina | guevara | linkedin.com/in/sarinaguevara | sarina.guevara@gmail.com | personal | N/A | N/A | poppy social media | null | 85,000-100,000
+shaz | mukhtar | linkedin.com/in/shazfx | shazfx@gmail.com | personal | N/A | N/A | grab | null | <20,000
+charles | mousseigne | linkedin.com/in/cmousseigne | charles.mousseigne@gmail.com | personal | N/A | N/A | la chose | null | 55,000-70,000
+yamin | raj | linkedin.com/in/seoconsultantdelhi | yamim@rediffmail.com | personal | N/A | +919289974117 | oriental structural engineers | null | <20,000
+danyu | chen | linkedin.com/in/danyu-chen-4aa32882 | danyu.chen@iprospect.com | professional | N/A | N/A | null | null | <20,000
+e'niyah | wilson | linkedin.com/in/e-niyah-wilson-342b84119 | edwilson@berkeley.edu | professional | N/A | N/A | disability justice league bay area | null | 70,000-85,000
+bethany | lockerbie | linkedin.com/in/bethany-lockerbie-13ab1b56 | bethany.lockerbie@meclabs.com | professional | N/A | +17046588678 | allen tate company | 6700 fairview road | 70,000-85,000
+jasmin | sun | linkedin.com/in/jasminsun | jasminsun@mail.utexas.edu | N/A | N/A | +17132992266 | apple | 1 apple park way | 70,000-85,000
+leah | neira | linkedin.com/in/leah-neira-1b341079 | leah.neira@nokiantyres.com | professional | N/A | N/A | null | null | 70,000-85,000
+aleksandra | szysz | linkedin.com/in/aleksandraszysz | aleksandra.szysz@pmi.com | professional | N/A | N/A | saint body | null | 20,000-25,000
+ana | quiroz | linkedin.com/in/ana-alicia-luna-quiroz-2496912a | ana_luna@haygroup.com | professional | N/A | N/A | atomo interactive | null | <20,000
+sarah | militello | linkedin.com/in/sarahmilitello | sarahkathryn8807@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+robert | lubow | linkedin.com/in/robertilubow | robertilubow@gmail.com | personal | N/A | +15168674716 | hippo insurance | 150 forest avenue | 70,000-85,000
+brian | dickerman | linkedin.com/in/brian-dickerman-b4066161 | briandickerman@iheartmedia.com | current_professional | briandickerman@iheartmedia.com | N/A | iheartmedia | 200 east basse road | 85,000-100,000
+shubham | brahmbhatt | linkedin.com/in/shubham-brahmbhatt-54974445 | shubhambrahmbhatt@rocketmail.com | personal | N/A | N/A | null | null | <20,000
+miriam | isla | linkedin.com/in/miriam-isla-5a3725a3 | miriam.isla@ingrammicro.com | professional | N/A | N/A | null | null | <20,000
+kate | murphy | linkedin.com/in/murphykate23 | kmurph23@kent.edu | professional | katemurphy@gebencommunication.com | N/A | geben communication | 143 east main street | 70,000-85,000
+carly | woman | linkedin.com/in/carly-social-media-woman-291027104 | carly@bluebell-web-solutions.com | current_professional | carly@bluebell-web-solutions.com | N/A | bluebell web solutions | null | 55,000-70,000
+dako | koniashvili | linkedin.com/in/dako-koniashvili-34900144 | d.koniashvili@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
