@@ -905,10 +905,27 @@ lucia | falagan | linkedin.com/in/luciafalagan | luciafalagan@fab-social.com | c
 reginne | bondoc | linkedin.com/in/reginne-bondoc-02694b69 | bondocr@exchangebank.com | professional | N/A | +14153422418 | uchiwa ramen | null | 85,000-100,000
 mugambi | neville | linkedin.com/in/mugambi-neville-7447211a | nevillemugz@gmail.com | personal | N/A | N/A | sifasafi solutions | null | <20,000
 krystyna | krajevskaja | linkedin.com/in/krajkrys | krystyna.krajevskaja@danskebank.lt | professional | N/A | N/A | whatagraph.com | null | 85,000-100,000
-carme | munné | linkedin.com/in/carmecaralt | carmecaralt@gmail.com | personal | N/A | N/A | principios interactivos | null | 35,000-45,000teodora | franciskovic | linkedin.com/in/teodora-franciskovic-06251845 | teodorafranciskovic@gmail.com | personal | N/A | N/A | luna tbwa belgrade | null | <20,000
-juliane | kurr | linkedin.com/in/juliane-kurr-73388b61 | juliane.kurr@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-neelam | shukla | linkedin.com/in/neelam-shukla-25a3b516 | shukla.neelam@gmail.com | personal | N/A | N/A | india today | null | <20,000
-monika | larson | linkedin.com/in/monika-larson-a6b71b99 | monilarson@gmail.com | personal | N/A | +17077186776 | monika larson | null | 70,000-85,000
-giusi | nuzzi | linkedin.com/in/giusi-nuzzi-52992421 | info@spaziog.org | current_professional | info@spaziog.org | N/A | spazio g | null | 45,000-55,000
-aila | stefansdotter-franck | linkedin.com/in/aila-stefansdotter-franck-9533b315 | ailasf@hotmail.com | personal | N/A | +61478609266 | sports leagues | null | 70,000-85,000
-benji | domínguez | linkedin.com/in/benji-domínguez-b096a572 | bn.california@gmail.com | personal | N/A | N/A | comestibles aldor | null | <20,000
+carme | munné | linkedin.com/in/carmecaralt | carmecaralt@gmail.com | personal | N/A | N/A | principios interactivos | null | 35,000-45,000metz | miranda | linkedin.com/in/metz-miranda-41997877 | metzsmiranda@yahoo.com | personal | N/A | N/A | null | null | <20,000
+bianca | ferrari | linkedin.com/in/biancaferrari | bia.hvid@gmail.com | personal | N/A | N/A | leo burnett italia | null | 45,000-55,000
+jenny | ballin | linkedin.com/in/jenny-ballin-430344102 | jenny.ballin@stadium.se | current_professional | jenny.ballin@stadium.se | N/A | stadium | null | 85,000-100,000
+john | hays | linkedin.com/in/johnhays | jimmyolsen@yahoo.com | personal | N/A | +19726726856 | globe life | 3700 south stonebridge drive | 100,000-150,000
+kenzi | williamson | linkedin.com/in/kenzi-williamson-428834164 | kenziwilliamsonn@gmail.com | personal | N/A | +16619124153 | american kids sports center | 3622 allen road | 100,000-150,000
+justin | cross | linkedin.com/in/justin-cross-45450923 | justcross@gmail.com | personal | justin.cross@roberthalf.com | +19046357684 | robert half | 2884 sand hill road | 85,000-100,000
+marta | hidalgo | linkedin.com/in/hidalgomarta | martita_h@hotmail.com | personal | N/A | N/A | sapos y princesas | null | 35,000-45,000
+jessica | ivetich | linkedin.com/in/jessica-ivetich | jivetich@indiana.edu | professional | N/A | +12193788574 | vote.org | null | 70,000-85,000
+maclina | lopes | linkedin.com/in/maclina-lopes-5a92b649 | maculopes@gmail.com | personal | N/A | N/A | roche diagnostics india, neighbouring markets | null | <20,000
+dorottya | csak | linkedin.com/in/dorottyacsak | csakdorottya@yahoo.com | personal | N/A | N/A | eit digital | null | 20,000-25,000
+bethany | farr | linkedin.com/in/bethanyfarr | bfarr@oxfam.org.uk | professional | N/A | N/A | bethanyfarr.com | null | 55,000-70,000hayley | shanks | linkedin.com/in/hayleyshanks | heshanks@gmail.com | personal | hshanks@riester.com | N/A | riester | 3344 east camelback road | 70,000-85,000
+mariya | peynova | linkedin.com/in/mariya-peynova-7b11b195 | mpeynova@connect-distribution.co.uk | current_professional | mpeynova@connect-distribution.co.uk | N/A | connect distribution services ltd | null | 70,000-85,000
+shana | azeem | linkedin.com/in/shana-azeem-57004068 | shana.azeem@greatplacetowork.com | professional | N/A | N/A | odel plc | null | <20,000
+devon | riddick | linkedin.com/in/devon-riddick-2789b9b2 | driddick@urbanoutfitters.com | professional | N/A | N/A | null | null | 85,000-100,000
+erin | o'brien | linkedin.com/in/erinleeobrien | erin.obrien@me.com | personal | N/A | +15152318217 | visit omaha | 1001 farnam street | 85,000-100,000
+melissa | mellon | linkedin.com/in/melissa-mellon-1065441b | xlissa181x@hotmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+jacqueline | cirelli | linkedin.com/in/jacquelinecirelli | jackiecirelli@aol.com | personal | N/A | +16467600000 | citymd | null | 85,000-100,000
+alice | nibbi | linkedin.com/in/alice-nibbi-05a69414b | a.nibbi@armosia.com | current_professional | a.nibbi@armosia.com | N/A | armosia | null | 85,000-100,000
+carrie | hurst | linkedin.com/in/carrie-hurst-8284a323 | carriehurst@talktalk.net | N/A | N/A | N/A | nest | null | 55,000-70,000
+furkan | özcan | linkedin.com/in/furkan-özcan-5191b931 | herbeswolf@gmail.com | personal | N/A | N/A | özgür çalışan | null | <20,000
+lauren | anderson | linkedin.com/in/laurenfelix | lapetitefashionista@yahoo.com | professional | N/A | +17273660465 | lands' end | 5 lands end lane | 100,000-150,000
+anthony | taylor | linkedin.com/in/anthony-taylor-00733a86 | bigggybig@aol.com | personal | N/A | +14849193007 | madera kitchen | 1835 north cahuenga boulevard | 70,000-85,000
+shannon | lindsey | linkedin.com/in/smlindsey | ms.smlindsey@hotmail.com | personal | N/A | +18283334802 | designs with merit and search thruster | null | 70,000-85,000
+valentina | citati | linkedin.com/in/valentinacitati | valentina@you-n.com | professional | N/A | N/A | cultura lavoro | null | 45,000-55,000
