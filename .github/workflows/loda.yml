@@ -22,6 +22,6 @@ jobs:
         uses: LasyIsLazy/github-upload-action@v0.1.0
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
-          file-path: home/runner/work/cidown/cidown/loda.txt
+          file-path: loda.txt
           owner: kindevilsorg
           repo: cidown
