@@ -13,6 +13,8 @@ jobs:
         run: |
              pwd 
              echo "loda" >loda.txt
+             ls 
+             pwd loda.txt
         # Setup node first
       - name: Setup node
         uses: actions/setup-node@v1
