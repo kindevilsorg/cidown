@@ -397,11 +397,29 @@ lovely | ramos | linkedin.com/in/ramoslovelyv | lovely@bonseyjaden.com | current
 casey | danton | linkedin.com/in/caseydanton | danton.casey@gmail.com | personal | N/A | +12126602458 | new avon | 1 liberty plaza | 85,000-100,000
 sharon | minkovicz | linkedin.com/in/sharon-minkovicz-6ba60625 | skoch788@gmail.com | personal | N/A | N/A | etoro | null | 55,000-70,000
 kyle | kirkland | linkedin.com/in/kyle-kirkland-70479667 | kylekirkland@linney.com | current_professional | kylekirkland@linney.com | +61401361724 | linney | null | 55,000-70,000
-florian | steinig | linkedin.com/in/florian-steinig-6a025332 | f.steinig@dhug.de | N/A | N/A | N/A | innogy.c3 | null | 55,000-70,000emily | gaynor | linkedin.com/in/emily-gaynor-a3615868 | alex.gaynor@gmail.com | personal | N/A | +17733202678 | dilettante army | null | 85,000-100,000
-laura | grothusen | linkedin.com/in/laura-grothusen-a02a22179 | laura.grothusen@slopelift.com | current_professional | laura.grothusen@slopelift.com | N/A | slopelift | null | 55,000-70,000
-shiran | morad | linkedin.com/in/shiran-morad-92bb4183 | shiran.morad@gmail.com | personal | N/A | N/A | lapidot digital p.r | null | 55,000-70,000
-tavia | aprillia | linkedin.com/in/tavia-aprillia-bb03a15b | tavia@brightstars.co.id | professional | N/A | N/A | orami | null | <20,000
-chiara | cutolo | linkedin.com/in/chiara-cutolo-214533a | chiaretta2004@hotmail.com | personal | N/A | N/A | msc cruises | null | 100,000-150,000
-bryan | garcia | linkedin.com/in/bryan-garcia-70186a25 | bryanhgarcia@gmail.com | personal | N/A | +14072420864 | new york eagles | null | 85,000-100,000
-dieneke | van gerrewey | linkedin.com/in/dienekevangerrewey | dieneke.van.gerrewey@gmail.com | personal | N/A | N/A | punchline | null | 55,000-70,000
-katherine | howley | linkedin.com/in/katherine-howley-259b3127 | kkh214@lehigh.edu | N/A | N/A | N/A | viacom | 1515 broadway | 85,000-100,000
+florian | steinig | linkedin.com/in/florian-steinig-6a025332 | f.steinig@dhug.de | N/A | N/A | N/A | innogy.c3 | null | 55,000-70,000jonas | bach | linkedin.com/in/jonasmeelbybach | jonas.nielsen@spencer-ogden.com | professional | N/A | N/A | smertelinjen | null | 85,000-100,000
+mika | liu | linkedin.com/in/mika-liu-5366a7106 | mika.liu@club21global.com | professional | N/A | N/A | wunderman thompson | null | 70,000-85,000
+jasmine | jetton | linkedin.com/in/jasmine-jetton-aa1584103 | jasmine.jetton@uptake.com | professional | N/A | +13128361325 | ezlocal | 377 east butterfield road | 70,000-85,000
+cristina | sicre | linkedin.com/in/cristina-allende-sicre-1a87983a | cristina.sicre@gmail.com | personal | N/A | N/A | allende branding | null | 35,000-45,000
+abhinav | kaushal | linkedin.com/in/abhinav-kaushal-b37a6722 | abhinavkaushal07@gmail.com | personal | abhinav@themountainwalker.com | N/A | the mountain walker | null | <20,000
+ben | jones | linkedin.com/in/ben-jones-5a10702a | bwjone3@uky.edu | N/A | N/A | N/A | null | null | 70,000-85,000
+darwin | zerpa | linkedin.com/in/darwin-zerpa-ab669536 | darwinlocutor@gmail.com | personal | N/A | N/A | corporación bien enterado | null | 20,000-25,000
+george | papadopoulos | linkedin.com/in/marketistas | togeorgeat@hotmail.com | personal | N/A | N/A | gmarketing.gr | null | 25,000-35,000
+marianna | riccio | linkedin.com/in/marianna-riccio-2b052065 | marianna@ricciobomboniere.it | current_professional | marianna@ricciobomboniere.it | N/A | riccio bomboniere | null | 45,000-55,000
+nikita | correa | linkedin.com/in/nikitacorrea | correa.nikita@gmail.com | personal | nikita.correa@cmss.in | N/A | cmss | null | <20,000
+cyril | michel | linkedin.com/in/cyril-michel-1315634b | cmichel@groupeleader.com | professional | N/A | N/A | pour plusieurs entreprises | null | 55,000-70,000
+christian | paparello | linkedin.com/in/christian-emanuele-paparello-b8995b45 | paparellochristian@hotmail.it | personal | N/A | N/A | i.a.c.o.n | null | 45,000-55,000
+stefanie | buszynski | linkedin.com/in/stefaniebuszynski | stefbuszynski@hotmail.com | personal | N/A | N/A | harlequin | 22 adelaide street west | 55,000-70,000
+marielle | trinidad | linkedin.com/in/marielletrinidad | marielle.trinidad@gmail.com | personal | N/A | N/A | null | null | <20,000
+craig | whitney | linkedin.com/in/craigwhitney1966 | craig@touratech.co.uk | professional | N/A | N/A | null | null | 55,000-70,000omololu | busari | linkedin.com/in/omololu-busari-235a3041 | olabako56@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+nichole | armstrong | linkedin.com/in/nicholeann | kazoo@sdf.lonestar.org | N/A | nichole.armstrong@merck.com | +12152455223 | merck | 2000 galloping hill road | 85,000-100,000
+angelica | orahood | linkedin.com/in/angelica-orahood | jel_girl2005@yahoo.com | personal | N/A | N/A | fletcher auto group | 5922 warden road | 85,000-100,000
+heather | sangria | linkedin.com/in/hsangria | heather.sangria@gmail.com | personal | heathersangria@newegg.com | +15627158041 | newegg | 16839 east gale avenue | 70,000-85,000
+besie | alvarado | linkedin.com/in/besie-alvarado-a1092139 | besiealvarado@hotmail.com | personal | balvarado@emisorasunidas.com | N/A | grupo emisoras unidas de guatemal | null | 85,000-100,000
+fatima | gomez | linkedin.com/in/timagstyle | fatimagomez2010@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+yasmine | muwahid | linkedin.com/in/yasmine-muwahid-01829520 | yasmine.muwahid@gmail.com | personal | N/A | N/A | livingroom communication | null | 45,000-55,000
+christopher | cargnello | linkedin.com/in/christopher-cargnello-4b133b40 | c.cargnello@gmail.com | personal | N/A | N/A | urban science family | null | 55,000-70,000
+marisa | quijano | linkedin.com/in/marisaquijano06 | mquijano@shipyard.com | professional | N/A | N/A | null | null | 70,000-85,000
+michelle | badiable | linkedin.com/in/michelle-badiable-08889915 | colin_mitchy@yahoo.com | personal | N/A | N/A | fil-am virtual services | null | <20,000
+emily | johnson | linkedin.com/in/emijohn | ejohnson@puroclean.com | professional | N/A | N/A | vivial | 160 inverness drive west | 70,000-85,000
+alicia | song | linkedin.com/in/aliciasong | alicia.song@rallyworldwide.com | professional | alicia.song@iprospect.com | N/A | iprospect | null | <20,000
