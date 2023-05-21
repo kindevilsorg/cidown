@@ -95,4 +95,16 @@ david | hylton | linkedin.com/in/davidmhylton | dhylton@nbc12.com | professional
 deanna | rose | linkedin.com/in/deanna-rose-30639a6 | deannarose@journalist.com | personal | N/A | N/A | hay there social media | p/o box 1935 | 85,000-100,000
 julian | mccrann | linkedin.com/in/julian-mccrann-172aa9bb | julian.mccrann@roymorgan.com | current_professional | julian.mccrann@roymorgan.com | N/A | roy morgan research | null | 70,000-85,000
 senra | jose | linkedin.com/in/jose-manuel-varela-senra-20475938 | jmvsenra@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-eugene | festinolli | linkedin.com/in/eugene-festinolli-bb376929 | mlcvb@axiommediaservice.com | N/A | N/A | N/A | meadowland liberty cvb | null | 85,000-100,000
+eugene | festinolli | linkedin.com/in/eugene-festinolli-bb376929 | mlcvb@axiommediaservice.com | N/A | N/A | N/A | meadowland liberty cvb | null | 85,000-100,000paul | teston-vigne | linkedin.com/in/paul-teston-vigne-9758b776 | paul.teston-vigne@lanetscouade.com | current_professional | paul.teston-vigne@lanetscouade.com | N/A | la netscouade | null | 55,000-70,000
+jodie | sims | linkedin.com/in/jodie-sims-23579643 | jsims@festivalrepublic.com | professional | N/A | N/A | null | null | 55,000-70,000
+gina | mom | linkedin.com/in/ginamom | ginamom25@yahoo.com | personal | N/A | +13106899807 | josie maran cosmetics | 6165 santa monica boulevard | 70,000-85,000
+natasha | chomko | linkedin.com/in/natashachomko | tashisafish@hotmail.com | personal | N/A | +13016465159 | beyond dope productions | null | 70,000-85,000
+efrat | appleboim | linkedin.com/in/efratappleboim | efrata15@gmail.com | personal | N/A | N/A | sigma makeup | null | 55,000-70,000
+hippolyte | genest | linkedin.com/in/hippolytegenest | hippolyte.genest@sage.com | professional | N/A | N/A | lectra | null | 55,000-70,000
+divya | mulani | linkedin.com/in/divya-mulani-99a538151 | divyamulani7@gmail.com | personal | N/A | N/A | modi media | 3 columbus circle | <20,000
+jerry | holcomb | linkedin.com/in/jerry-holcomb-066a6928 | connectingthedotsmedia@gmail.com | current_professional | connectingthedotsmedia@gmail.com | N/A | connecting the dots media | null | 70,000-85,000
+argelia | corona | linkedin.com/in/argeliacorona | argeliacorona@gmail.com | personal | N/A | N/A | agencia montalvo | null | <20,000
+lauren | miner | linkedin.com/in/lauren-miner-a16a4154 | lauren@maxsold.com | professional | N/A | N/A | denta-match | 10 delisle avenue | 55,000-70,000
+sivan | yitzhak | linkedin.com/in/sivan-yitzhak-a3300330 | sivan.yitzhak@payoneer.com | professional | N/A | N/A | appsflyer | 85 medinat hayehudim street | 45,000-55,000
+edward | wroten | linkedin.com/in/edward-wroten-3051289a | ewroten@clb.org | professional | N/A | N/A | robin games | null | 70,000-85,000
+luis | del casar loranca | linkedin.com/in/luismigueldelcasar | luis.loranca@gmail.com | personal | N/A | N/A | meland | null | 35,000-45,000
