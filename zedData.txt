@@ -1463,15 +1463,11 @@ lauren | tasker | linkedin.com/in/lauren-tasker-322b5943 | lauren.t@peeptoeshoes
 giulia | labriola | linkedin.com/in/giulia-labriola-5268804a | giulia.labriola@gmail.com | personal | N/A | N/A | istituto per lo studio della psicoterapie | null | 45,000-55,000
 rugilė | ragauskytė | linkedin.com/in/rugilė-ragauskytė-60274b131 | rugilei@zebra.lt | N/A | N/A | N/A | idn home / uab "verslo procesas" | null | 70,000-85,000
 michelle | matheus | linkedin.com/in/mishmatheus | mishmatheus@gmail.com | personal | N/A | N/A | art basel | null | 85,000-100,000
-julie | rosa | linkedin.com/in/julie-rosa-01995931 | julie_rosa@discovery.com | professional | N/A | N/A | turnberry isle miami | 19999 west country club drive | 85,000-100,000hernan | iles | linkedin.com/in/hernan-iles-402b6048 | hernaniles@googlemail.com | personal | N/A | N/A | selbständig | null | 55,000-70,000
-caroline | cantrall | linkedin.com/in/caroline-cantrall-a1081971 | caroline@thedolab.com | professional | N/A | +19163671802 | monolink | null | 70,000-85,000
-katie | irvine | linkedin.com/in/katiekillmeyer | katie.killmeyer@alliedbarton.com | professional | N/A | N/A | pgt trucking | null | 85,000-100,000
-chelsea | torres | linkedin.com/in/chelseaboone | chelsea.boone@edweek.org | current_professional | chelsea.boone@edweek.org | N/A | education week - epe | 6935 arlington road | 85,000-100,000
-cindy | chou | linkedin.com/in/cindy-chou-78b41457 | cindy_chou@tjx.com | professional | N/A | +15627566977 | splendid, a contemporary lifestyle brand | 2 park avenue | 70,000-85,000
-kevin | rupp | linkedin.com/in/kevrupp | kevin.rupp@move.com | professional | N/A | N/A | maxon computer | null | 85,000-100,000
-komal | rana | linkedin.com/in/komal-rana-27991218 | komal_rana84@yahoo.com | personal | N/A | N/A | kyles collection limited | 100 green street | 55,000-70,000
-nicolas | raybaud | linkedin.com/in/nicolasraybaud | nicolas.raybaud@ocsport.com | professional | N/A | N/A | iswari superfoods portugal | null | 55,000-70,000
-maheanuu | allain | linkedin.com/in/maheanuu | maheanuu@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-christopher | booth | linkedin.com/in/boothchristophere | booth801@gmail.com | personal | N/A | N/A | smartfish group | 289 elm street | 70,000-85,000
-josh | polk | linkedin.com/in/joshpolk | polk@ee.net | N/A | jpolk@aep.com | +16145068400 | american electric power | 1 riverside plaza | 85,000-100,000
-anushka | coutinho | linkedin.com/in/anushka-coutinho-9728ab8a | anushka.coutinho@gmail.com | personal | N/A | N/A | timepiece360 | null | 55,000-70,000
+julie | rosa | linkedin.com/in/julie-rosa-01995931 | julie_rosa@discovery.com | professional | N/A | N/A | turnberry isle miami | 19999 west country club drive | 85,000-100,000antonio | mancino | linkedin.com/in/antonio-mancino-87313034 | tonymnc@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+annie | mashberg | linkedin.com/in/anniemashberg | annie_mashberg@emerson.edu | professional | annie@smallgreendoor.com | N/A | small green door | 2075 south atlantic boulevard | 85,000-100,000
+nikki | hoevenaars | linkedin.com/in/nikkihoevenaars | nikkihoevenaars@gmail.com | personal | n.hoevenaars@youngcapital.nl | N/A | youngcapital | null | 70,000-85,000
+rachele | zinzocchi | linkedin.com/in/rachelezinzocchi | rachelezinzocchi@gmail.com | personal | N/A | N/A | columella | null | 70,000-85,000
+kalyn | patrick | linkedin.com/in/kalyn-patrick-3a98809b | kalyn@nachodaddy.com | professional | N/A | N/A | mexican restaurants, inc. | 12000 aerospace avenue | 70,000-85,000
+vanessa | schneider | linkedin.com/in/vanessa-schneider | vanessa.schneider@fraserinstitute.org | professional | N/A | N/A | greater victoria housing society | null | 55,000-70,000
+claudia | sprakel | linkedin.com/in/claudia-sprakel-89b9a473 | claudia.sprakel@kamat.de | current_professional | claudia.sprakel@kamat.de | N/A | kamat gmbh & co. kg | null | 55,000-70,000
+danny | kidney | linkedin.com/in/danny-kidney-8188281a | dan_kidney2000@yahoo.com | personal | N/A | N/A | heskap | null | 70,000-85,000
