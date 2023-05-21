@@ -591,4 +591,19 @@ mark | gonzales | linkedin.com/in/mark-gonzales-297bb533 | onlinerepnow@gmail.co
 morgan | daddona | linkedin.com/in/morgandaddona | mdaddona@heihotels.com | current_professional | mdaddona@heihotels.com | N/A | hei hotels & resorts | 101 merritt 7 corporate park | 85,000-100,000
 sally | stenning | linkedin.com/in/sstenning | sally@spitfireaudio.com | current_professional | sally@spitfireaudio.com | N/A | spitfire audio | 5th floor 89 new bond street | 55,000-70,000
 taylor | jenkins | linkedin.com/in/taylor-jenkins-17a967b5 | taylor.jenkins@rescue.org | professional | N/A | N/A | crista ministries | 19303 fremont avenue north | 100,000-150,000
-shelby | anderson | linkedin.com/in/shelby-anderson-0059b212a | sanderson@cafezupas.com | current_professional | sanderson@cafezupas.com | N/A | cafe zupas | 460 west universal circle | 70,000-85,000
+shelby | anderson | linkedin.com/in/shelby-anderson-0059b212a | sanderson@cafezupas.com | current_professional | sanderson@cafezupas.com | N/A | cafe zupas | 460 west universal circle | 70,000-85,000prabanjan's | medialab | linkedin.com/in/prabanjan-s-medialab-15737749 | social@prabanjans.com | current_professional | social@prabanjans.com | N/A | prabanjan's | null | <20,000
+kristian | warburton | linkedin.com/in/kristian-warburton-9b81b926 | kristian.warburton@gmail.com | personal | kristian@altonmill.ca | N/A | alton development inc. - alton mill | 1402 queen street west village west | 55,000-70,000
+sean | gassaway | linkedin.com/in/sean-gassaway-26b99ba5 | sgassaway@progrexion.com | professional | N/A | N/A | green beanie catering | null | 70,000-85,000
+vadim | toumelin | linkedin.com/in/vadim-toumelin-33265389 | vadim.toumelin@gmail.com | personal | N/A | N/A | barry's bootcamp | 7373 beverly boulevard | 55,000-70,000
+ashley | calderon | linkedin.com/in/ashley-calderon-1a41a9a9 | ashley.calderon@tothenew.com | professional | N/A | N/A | confidential | null | 55,000-70,000
+jormall | jordan | linkedin.com/in/jormall-jordan-b1154235 | shadi.kassis@jordancentral.com | N/A | N/A | N/A | central ecommerce co. ltd. jormall | null | 85,000-100,000
+arshey | sethi | linkedin.com/in/arsheysethi | arshey.sethi@gmail.com | personal | N/A | N/A | accuride international inc. | 12311 shoemaker avenue | 85,000-100,000
+hannah | marshall | linkedin.com/in/hannah-marshall-05908340 | han_marshall@hotmail.co.uk | personal | hannah.marshall@delticgroup.co.uk | +447970395223 | the deltic group | null | 55,000-70,000
+nadine | ahya | linkedin.com/in/nadineahya | nharris@astute.com | professional | N/A | N/A | delasocial | null | 55,000-70,000
+sam | weston | linkedin.com/in/sam-weston-92438350 | sam.weston@puregym.com | professional | N/A | N/A | incredible content | null | 55,000-70,000
+paz | bernal | linkedin.com/in/paz-bernal-b837a137 | paz.bernal@gmail.com | personal | N/A | N/A | lafaro jazz institute-méxico | null | <20,000
+rana | aleissa | linkedin.com/in/rana-aleissa-667a2b30 | r-aleissa@hotmail.com | personal | N/A | N/A | ncp | null | 25,000-35,000
+lindsay | mcgowan | linkedin.com/in/lindsay-mcgowan-08825884 | _shockeychick614@att.net | personal | lmcgowan@coynepr.com | +18608994868 | coyne pr | 5 wood hollow road | 85,000-100,000
+lars | peeters | linkedin.com/in/lars-peeters-0878a740 | lars.peeters@conac.be | professional | N/A | N/A | null | null | 55,000-70,000
+kali | thomas | linkedin.com/in/kali-thomas-m-a-bcba-591b7456 | ilak630@att.net | personal | N/A | +13106501689 | jasmine funes for school board 2020 | null | 85,000-100,000
+katrina | kinder | linkedin.com/in/katrina-kinder-a8061533 | katrina@romanceanswers.com | N/A | N/A | +16624176751 | first & green | null | 70,000-85,000
