@@ -1620,4 +1620,15 @@ chiara | bertani | linkedin.com/in/chiara-bertani-24b548b3 | chiara@ma-tic.com |
 miriam | wang | linkedin.com/in/miriamtangen | miriam@smfbengine.com | professional | N/A | N/A | frelsesarmeen - the salvation army | null | 100,000-150,000
 chris | habel | linkedin.com/in/chris-habel-9a0866a4 | chris.habel@t-mobile.at | current_professional | chris.habel@t-mobile.at | N/A | t-mobile austria | null | 70,000-85,000
 justin | perry | linkedin.com/in/justin-perry-30ab2536 | bigbuzz0@gmail.com | personal | N/A | N/A | social media underdog | null | 85,000-100,000
-taline | vertians | linkedin.com/in/taline-vertians-30707747 | lunavive419@aol.com | personal | taline.vertians@sprocketmedia.com | N/A | sprocket media | 45 south arroyo parkway | 85,000-100,000
+taline | vertians | linkedin.com/in/taline-vertians-30707747 | lunavive419@aol.com | personal | taline.vertians@sprocketmedia.com | N/A | sprocket media | 45 south arroyo parkway | 85,000-100,000christopher | dodd | linkedin.com/in/chrisdodd12209 | chris@doddworks.com | N/A | N/A | N/A | goldstein auto group | null | 70,000-85,000
+ilaria | fiocco | linkedin.com/in/ilaria-fiocco-583ab45a | ifiocco@deezer.com | professional | N/A | N/A | gigasweb srl | null | 35,000-45,000
+shanice | dover | linkedin.com/in/shanice-dover-24730486 | shanice.dover@realadventure.co.uk | professional | shanice@gal-dem.com | N/A | gal-dem.com | null | 55,000-70,000
+nicola | turner | linkedin.com/in/nicolaturner | nturner@uka.org.uk | N/A | N/A | N/A | manchester united | null | 55,000-70,000
+tikkie | walker | linkedin.com/in/tikkie-walker-a0b79598 | walkert@savannahstate.edu | current_professional | walkert@savannahstate.edu | N/A | savannah state university | 3219 college street | 85,000-100,000
+craig | desmarais | linkedin.com/in/craigdesmarais | craig.j.desmarais@gmail.com | personal | cdesmarais@gocollette.com | N/A | collette | 162 middle street | 85,000-100,000
+vivi | yang | linkedin.com/in/vivi-yang-2640234a | vivi.yang@havasmedia.com | professional | N/A | N/A | wunderman | 3 columbus circle | <20,000
+natalia | santos | linkedin.com/in/natalia-santos-94946034 | nataliaisantos@hotmail.com | personal | N/A | N/A | tienda online (en gestación) | null | 35,000-45,000
+marta | canal | linkedin.com/in/martamartinezcanal | info@lulamae.es | professional | N/A | N/A | autónomo | null | 35,000-45,000
+liz | gunty | linkedin.com/in/liz-gunty-05425992 | liz.gunty@alz.org | professional | N/A | +17086015116 | bradley university | null | 70,000-85,000
+laura | ferrer | linkedin.com/in/lauraferrer | lauf1985@gmail.com | personal | N/A | N/A | elbkind reply | null | 55,000-70,000
+melissa | shangraw | linkedin.com/in/melissa-shangraw-32398412 | mshangraw@excentus.com | current_professional | mshangraw@excentus.com | N/A | excentus | 14241 dallas parkway | 85,000-100,000
