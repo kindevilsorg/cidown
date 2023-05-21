@@ -1634,18 +1634,23 @@ héloïse | benguigui | linkedin.com/in/héloïse-benguigui-a0553463 | heloise.b
 brandy | forsman | linkedin.com/in/brandy-forsman-536571102 | brandy.forsman@dailymotion.com | current_professional | brandy.forsman@dailymotion.com | N/A | dailymotion | null | 85,000-100,000
 janos | matuschewski | linkedin.com/in/janosmatuschewski | janos@moviepilot.de | professional | N/A | N/A | red bull | null | 55,000-70,000
 renee | bugden | linkedin.com/in/reneebugden | superfox_888@hotmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-vanessa | nunes | linkedin.com/in/vanessanunesc | mynameisproject@gmail.com | personal | vanessa.nunes@stormcom.co.uk | N/A | storm communications | null | 55,000-70,000erin | gistaro | linkedin.com/in/erin-gistaro-128b3b96 | eringistaro@verizon.net | personal | N/A | N/A | democratic legislative campaign committee | null | 70,000-85,000
-zuzile | marrengane | linkedin.com/in/zuzile-marrengane-bab43331 | zilemarrengane@gmail.com | personal | N/A | N/A | roadtrippers travel | null | <20,000
-martina | pasquale | linkedin.com/in/martina-pasquale-37833540 | martina.pasquale@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-daniele | tarozzi | linkedin.com/in/daniele-tarozzi-26b4465 | danieletarozzi@gmail.com | personal | daniele.tarozzi@comune.bologna.it | N/A | comune di bologna | null | 45,000-55,000
-gila | leipnik | linkedin.com/in/gila-leipnik-70a8a63b | leipnik_74@hotmail.com | personal | N/A | N/A | imp group | 2651 joseph howe drive | 45,000-55,000
-jessica | grant | linkedin.com/in/jessica-grant-ba586113b | jgrant@miyjcc.org | current_professional | jgrant@miyjcc.org | N/A | mid-island y jcc | null | 85,000-100,000
-terry | gau | linkedin.com/in/terry-gau-5b51ab13 | terry.gau@gmail.com | personal | N/A | +18043048379 | null | null | 85,000-100,000
-ilina | serafimova | linkedin.com/in/ilina-serafimova | ilina_serafimova@yahoo.com | personal | N/A | N/A | propace | null | 85,000-100,000
-julie | castillo | linkedin.com/in/julie-anne-castillo-a475b041 | julie@d-oz.com | professional | N/A | N/A | pepworldwide asia pte ltd | null | 70,000-85,000
-camilo | idárraga | linkedin.com/in/camilo-idárraga-486a21b8 | camilosqui98@hotmail.com | personal | N/A | N/A | compudemano | null | <20,000
-rebecca | mccomb | linkedin.com/in/rebeccamccombsocialmedia | rebecca@thinkdewinter.co.uk | professional | N/A | +447854007634 | profici | 20 chapel street | 55,000-70,000
-becca | brooks | linkedin.com/in/becca-brooks-47451124 | becca.brooks@okstate.edu | N/A | N/A | N/A | madison214 | null | 70,000-85,000
-luca | di renzo | linkedin.com/in/lucadirenzo | luca.direnzo@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
-yuki | martin | linkedin.com/in/yuki-martin | yukimartin@gmail.com | personal | N/A | N/A | pôle emploi | null | 55,000-70,000
-erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000
+vanessa | nunes | linkedin.com/in/vanessanunesc | mynameisproject@gmail.com | personal | vanessa.nunes@stormcom.co.uk | N/A | storm communications | null | 55,000-70,000emily | jackson | linkedin.com/in/emily-jackson-91a68117 | ejackson422@gmail.com | personal | N/A | +15628847640 | top practices | 12237 lost treasure avenue | 85,000-100,000
+jordan | bland | linkedin.com/in/jordan-bland-11579aa1 | jayblandy@gmail.com | personal | N/A | N/A | wheelhouse 20/20 | 12600 southwest 72nd avenue | 70,000-85,000
+daniele | magliocca | linkedin.com/in/danielemagliocca | mapep@hotmail.it | personal | N/A | N/A | proforma | 8800 east pleasant valley road | 45,000-55,000
+nate | bull | linkedin.com/in/nate-bull-b461861b0 | nateb@google.com | current_professional | nateb@google.com | N/A | google | 1600 amphitheatre parkway | 85,000-100,000
+silvana | cena | linkedin.com/in/silvanamaricelcena | maricel@link-b.com | current_professional | maricel@link-b.com | N/A | link-b | null | <20,000
+shilpa | suri | linkedin.com/in/shilpasuri25 | shilpasurirockz.258@gmail.com | personal | shilpa@nmsindia.org | N/A | neerja modi school | null | <20,000
+sally | moore | linkedin.com/in/sally-moore-59b77b9a | sally.moore@isentia.com | professional | N/A | N/A | reveal social | null | 70,000-85,000
+dainis | dembovskis | linkedin.com/in/dainis-dembovskis-302a3611b | dainis.dembovskis@bite.lv | current_professional | dainis.dembovskis@bite.lv | N/A | bite latvija | null | 85,000-100,000
+yara | asi | linkedin.com/in/dryaraasi | yara@ucf.edu | professional | N/A | N/A | palestinian american research center | null | 85,000-100,000
+estelle | oltra | linkedin.com/in/estelle-oltra-42200649 | estelle.oltra@creditmutuel.fr | current_professional | estelle.oltra@creditmutuel.fr | N/A | crédit mutuel | null | 55,000-70,000
+pippa | dean | linkedin.com/in/pippa-dean-87b544a7 | pdean@webershandwick.com | professional | N/A | N/A | skiddle | null | 55,000-70,000alyssa | gratkowski | linkedin.com/in/alyssa-gratkowski-31158138 | gratkowskia@beloit.edu | professional | N/A | N/A | celeb | null | 85,000-100,000
+amy | howes | linkedin.com/in/amy-howes | amy.howes.1@city.ac.uk | professional | N/A | N/A | royal shakespeare company | null | 55,000-70,000
+aaron | thomas | linkedin.com/in/atron | aron4588@gmail.com | personal | N/A | N/A | 1500ornothin | null | 85,000-100,000
+meagan | estep | linkedin.com/in/meagan-estep | meagan.estep@nga.gov | current_professional | meagan.estep@nga.gov | N/A | national gallery of art | null | 85,000-100,000
+sofia | medina | linkedin.com/in/medinasofia | sofia.medina@goaheadtours.com | professional | N/A | N/A | sunday riley | 4444 westheimer road | 70,000-85,000
+elliot | isles | linkedin.com/in/elliot-isles-84264484 | embisles@gmail.com | personal | N/A | +61430189063 | ladbible group | 20 dale street | 70,000-85,000
+lawrence | mutanhaurwa | linkedin.com/in/lawrence-mutanhaurwa-528a6440 | lawvibes@hotmail.com | personal | N/A | N/A | creating better futures | null | 85,000-100,000
+anica | padilla | linkedin.com/in/anica-padilla | anica@thedenverchannel.com | professional | N/A | +17202915015 | kcnc cbs denver | null | 70,000-85,000
+anas | lamby | linkedin.com/in/anas-lamby-29bb8875 | alamby@unither.com | current_professional | alamby@unither.com | N/A | united therapeutics corporation | 1040 spring street | 55,000-70,000
+katie | wilson | linkedin.com/in/katie-wilson-6b58a176 | katie.wilson@thebraintumourcharity.org | current_professional | katie.wilson@thebraintumourcharity.org | N/A | the brain tumour charity | 61-65 victoria road | 70,000-85,000
