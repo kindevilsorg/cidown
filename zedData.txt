@@ -100,22 +100,38 @@ david | zorrilla | linkedin.com/in/davidnaranjoz | contacto@david-naranjo.com | 
 josefina | salgado | linkedin.com/in/josefinasalgado | josefina.salgado@backstory.com.ar | current_professional | josefina.salgado@backstory.com.ar | N/A | backstory contenidos | null | <20,000
 jesse | fullen | linkedin.com/in/jesse-fullen-017b3b73 | jesse.fullen@logix.com | professional | N/A | N/A | run it up | null | 85,000-100,000
 jasmine | connolly | linkedin.com/in/jasmine-connolly-41602466 | jconnolly@bournemouth.ac.uk | professional | N/A | N/A | bournemouth daily echo | null | 55,000-70,000
-daniele | bidoggia | linkedin.com/in/danielebidoggia | daniele.bidoggia@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000mustseemustdo | guide | linkedin.com/in/mustseemustdo-travel-guide-ab564439 | tabitha@mustseemustdo.com | current_professional | tabitha@mustseemustdo.com | N/A | must see must do travel guide | null | 70,000-85,000
-beatriz | illanes | linkedin.com/in/beatrizillanes | kinderbeita@hotmail.com | personal | beatriz.illanes@valordeley.es | N/A | valor de ley | null | 35,000-45,000
-katie | fisher | linkedin.com/in/katie-fisher-2a211226 | syvgirl@gmail.com | personal | N/A | N/A | maverick saloon | null | 85,000-100,000
-patricia | fernandes | linkedin.com/in/patriciabfernandes | patriciafernandes@pepper.pt | current_professional | patriciafernandes@pepper.pt | N/A | pepper brand taste | null | 25,000-35,000
-nathan | inno | linkedin.com/in/nathan-inno-6b7830a8 | nathan.inno@ntti3.com | current_professional | nathan.inno@ntti3.com | N/A | keane | 1950 university avenue | 100,000-150,000
-mohamad | farrag | linkedin.com/in/mohamad-farrag-44a257a2 | mohamad.farrag@aa.com.tr | professional | N/A | N/A | null | null | <20,000
-kristin | gill | linkedin.com/in/kristin-gill-285805102 | krgill@ucsd.edu | professional | N/A | +14088577383 | null | null | 100,000-150,000
-matthew | malone | linkedin.com/in/matthew-malone-817a9658 | matthew@baileyspkgstore.com | N/A | N/A | N/A | mp entertainment | null | 70,000-85,000
-ilaria | strocchia | linkedin.com/in/ilaria-strocchia-318a6a3a | ilariast19@hotmail.it | personal | N/A | N/A | wavemaker italy | null | 45,000-55,000
-sarah | gaunt | linkedin.com/in/sarahgaunt90 | sarah.gaunt@btinternet.com | N/A | sarah.gaunt@nationaltrustjobs.org.uk | N/A | national trust | null | 55,000-70,000mustseemustdo | guide | linkedin.com/in/mustseemustdo-travel-guide-ab564439 | tabitha@mustseemustdo.com | current_professional | tabitha@mustseemustdo.com | N/A | must see must do travel guide | null | 70,000-85,000
-beatriz | illanes | linkedin.com/in/beatrizillanes | kinderbeita@hotmail.com | personal | beatriz.illanes@valordeley.es | N/A | valor de ley | null | 35,000-45,000
-katie | fisher | linkedin.com/in/katie-fisher-2a211226 | syvgirl@gmail.com | personal | N/A | N/A | maverick saloon | null | 85,000-100,000
-patricia | fernandes | linkedin.com/in/patriciabfernandes | patriciafernandes@pepper.pt | current_professional | patriciafernandes@pepper.pt | N/A | pepper brand taste | null | 25,000-35,000
-nathan | inno | linkedin.com/in/nathan-inno-6b7830a8 | nathan.inno@ntti3.com | current_professional | nathan.inno@ntti3.com | N/A | keane | 1950 university avenue | 100,000-150,000
-mohamad | farrag | linkedin.com/in/mohamad-farrag-44a257a2 | mohamad.farrag@aa.com.tr | professional | N/A | N/A | null | null | <20,000
-kristin | gill | linkedin.com/in/kristin-gill-285805102 | krgill@ucsd.edu | professional | N/A | +14088577383 | null | null | 100,000-150,000
-matthew | malone | linkedin.com/in/matthew-malone-817a9658 | matthew@baileyspkgstore.com | N/A | N/A | N/A | mp entertainment | null | 70,000-85,000
-ilaria | strocchia | linkedin.com/in/ilaria-strocchia-318a6a3a | ilariast19@hotmail.it | personal | N/A | N/A | wavemaker italy | null | 45,000-55,000
-sarah | gaunt | linkedin.com/in/sarahgaunt90 | sarah.gaunt@btinternet.com | N/A | sarah.gaunt@nationaltrustjobs.org.uk | N/A | national trust | null | 55,000-70,000
+daniele | bidoggia | linkedin.com/in/danielebidoggia | daniele.bidoggia@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000sharon | philip | linkedin.com/in/sharon-philip-04387668 | sharon.philip1991@gmail.com | personal | N/A | N/A | loyalty pet products | null | <20,000
+olalla | comellas | linkedin.com/in/olallach | olallach@gmail.com | personal | N/A | N/A | formacion web virtual | null | 45,000-55,000
+patricia | bustos | linkedin.com/in/pattybustos | pattybustos@gmail.com | personal | N/A | N/A | compass agencia | null | 20,000-25,000
+sandy | waterman | linkedin.com/in/sandy-waterman-2105a3b | s.notarangelo@btinternet.com | N/A | N/A | N/A | little wardrobe london | null | 55,000-70,000
+xavier | loor | linkedin.com/in/xavier-loor-45209826 | intergraf.xl@hotmail.com | personal | N/A | N/A | ninfa tour | null | 85,000-100,000
+douglas | fuerst | linkedin.com/in/douglas-fuerst-b611bb8 | djfuerstjr@gmail.com | personal | N/A | +12056135212 | cousin jacks pasty co. | null | 70,000-85,000
+salma | masrouri | linkedin.com/in/salmasrouri | salmasrouri@hotmail.com | personal | salma.masrouri@omantel.om | N/A | omantel | p/o box 789 | 100,000-150,000
+víctor | arguedas | linkedin.com/in/víctor-arias-arguedas-38b45420 | sinnombre87@hotmail.com | personal | N/A | N/A | vertice | null | <20,000
+laura | hierro | linkedin.com/in/laurafuenteshierro | laura@inficonglobal.es | current_professional | laura@inficonglobal.es | N/A | inficon global | null | 35,000-45,000
+kc | nwosu | linkedin.com/in/kcnwosu | knwosu9@gmail.com | personal | N/A | +19735928899 | game-u | null | 70,000-85,000
+federica | pauletto | linkedin.com/in/federica-pauletto-88500b130 | federica.pauletto@claim.it | current_professional | federica.pauletto@claim.it | N/A | claim.brandindustry | null | 45,000-55,000
+bailey | mobley | linkedin.com/in/jbaileymobley | bailey@socialhouseinc.com | professional | N/A | +16613138575 | guess?, inc. | 1444 south alameda street | 70,000-85,000
+anuj | tewari | linkedin.com/in/anujtewari02 | anuj.tewari02@gmail.com | personal | N/A | N/A | techugo | null | <20,000
+jordana | bichet | linkedin.com/in/jordana-bichet-62154639 | jbichet@olgraphics.com | N/A | N/A | N/A | ol products | null | 70,000-85,000
+daniela | prusina | linkedin.com/in/danielaprusina | dprusina@yahoo.com | personal | N/A | N/A | notabag | null | 55,000-70,000
+grace | harmon | linkedin.com/in/grace-harmon-0926383b | grace.harmon12@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+lindsay | miller | linkedin.com/in/lindsay-miller-50044540 | lindsaymiller555@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+perrine | bourson | linkedin.com/in/perrinebourson | perrine.bourson@gmail.com | personal | N/A | N/A | pineapple social | null | 70,000-85,000
+tony | kieraldo | linkedin.com/in/tonykieraldo | bababuffalo@gmail.com | personal | N/A | +19175731348 | youthisme | 1 hudson city centre | 85,000-100,000
+jade | wright | linkedin.com/in/jade-wright-81045b17 | jadewright1985@hotmail.co.uk | personal | N/A | N/A | null | null | 55,000-70,000
+sonia | markolf | linkedin.com/in/sonia-galve-markolf-349a831b | soniagalve@hotmail.com | personal | N/A | N/A | sensation apartments barcelona | null | 35,000-45,000jess | fawcett | linkedin.com/in/jess-fawcett-b3a04619 | vc_rox@hotmail.co.uk | personal | N/A | N/A | null | null | 55,000-70,000
+sidney | wing | linkedin.com/in/sidney-wing-3a1b54122 | sidney.wing@mad.digital | current_professional | sidney.wing@mad.digital | N/A | mad about digital | null | 85,000-100,000
+jessica | andry | linkedin.com/in/jessica-andry-32aa5818 | jessica.andry@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
+lara | sigrist | linkedin.com/in/larasigrist | lara.sigrist@publicispixelpark.de | current_professional | lara.sigrist@publicispixelpark.de | N/A | publicis pixelpark | null | 70,000-85,000
+mike | allende | linkedin.com/in/mike-allende-b2366a7 | mja31575@yahoo.com | personal | mike.allende@wa.gov | N/A | washington state department of transportation | 310 maple park | 85,000-100,000
+rebecca | ellis | linkedin.com/in/rebeccaellis90 | rellis@newswatchtv.com | current_professional | rellis@newswatchtv.com | +17034019332 | newswatch | 2611 jefferson highway | 70,000-85,000
+laura | hylton | linkedin.com/in/laurahyltonfrancecommunication | laura.hylton@hotmail.fr | personal | N/A | N/A | essilor | null | 55,000-70,000
+michael | lenhart | linkedin.com/in/michael-lenhart-a18a0022 | ml@michaellenhart.at | professional | N/A | N/A | social media consulting | null | 55,000-70,000
+brandon | johnson | linkedin.com/in/bjohnsonxar | 1994bmj@sbcglobal.net | personal | N/A | +15016128757 | emporium presents | null | 100,000-150,000
+mohammad | ahmer | linkedin.com/in/sapphiresolutionsmarketing | sapphiresolutions02@gmail.com | personal | N/A | N/A | sapphire solutions | null | <20,000
+catherine | cavallo | linkedin.com/in/catherine-cavallo-9b9a0a97 | catherine.cavallo@monash.edu | professional | catherine.cavallo@rememberthewild.org.au | +61413900167 | remember the wild | null | 70,000-85,000
+amanda | ruiz | linkedin.com/in/amandaruiz418 | amanda.ruiz@christmastreeshops.com | professional | N/A | N/A | be visible | null | 85,000-100,000
+daniela | fernández | linkedin.com/in/danielladaza | danydaza@hotmail.com | personal | N/A | N/A | compass group españa | null | 35,000-45,000
+lars | kattelmann | linkedin.com/in/lars-kattelmann-3b1438113 | lars.kattelmann@turner.com | professional | N/A | N/A | drillisch online ag | null | 55,000-70,000
+bj | shelton | linkedin.com/in/bj-shelton-90736723 | bjshelton@aarp.org | N/A | N/A | N/A | social media today, llc | 1575 eye street northwest | 85,000-100,000
