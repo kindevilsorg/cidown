@@ -1,12 +1,13 @@
-hello therei
-stevie | martin | linkedin.com/in/stevie-martin-75369329 | stevie.martin@vice.com | professional | N/A | N/A | emerald street | 26-34 emerald street | 55,000-70,000
-katie | gilgour | linkedin.com/in/katie-gilgour-91745797 | kgilgour@bn.com | professional | N/A | N/A | the teacup trail | null | 70,000-85,000
-gabriella | fratepietro | linkedin.com/in/gabriella-fratepietro-0a79233b | gabrifrate@hotmail.it | personal | N/A | N/A | atlantic sas | null | 85,000-100,000
-scottie | feng | linkedin.com/in/scottie-feng-3638a134 | scottie.feng@nurun.com | current_professional | scottie.feng@nurun.com | N/A | nurun | null | <20,000
-roger | meador | linkedin.com/in/roger-meador-41969324 | java6man@hotmail.com | personal | roger.meador@timeout.com | N/A | time out | 77 wicklow street | 70,000-85,000
-massimo | bertucci | linkedin.com/in/maxbertucci | maxbertucci@gmail.com | personal | N/A | N/A | iliad / free | null | 35,000-45,000
-rscc | joseph baranello | linkedin.com/in/joseph-baranello-rscc-cscs-usaw-fms-1a8a384b | joe@nativenationevents.org | professional | N/A | N/A | all in all the time foundation | null | 85,000-100,000
-tim | cate | linkedin.com/in/tim-ten-cate-426a3414 | timmy_greenday@hotmail.com | personal | N/A | N/A | canon nederland n.v. | null | 70,000-85,000
-zachary | knoll | linkedin.com/in/zachary-knoll-94716680 | zknoll2008@gmail.com | personal | zachary.knoll@verizon.com | N/A | verizon | 1 verizon way | 70,000-85,000
-reliance | mutual | linkedin.com/in/reliance-mutual-fund-78a9b936 | reliance.mf2010@gmail.com | personal | N/A | N/A | reliance mutual fund | null | <20,000
-leonor | sarango | linkedin.com/in/leonorcarrion | queescandaloreina@gmail.com | personal | N/A | N/A | null | null | 35,000-45,000
+
+dylan | schonfeldt | linkedin.com/in/dylan-schonfeldt-232105b6 | dylan.schonfeldt@gmail.com | personal | N/A | N/A | ascot pharmacy & diet clinic | null | <20,000
+andrea | zoia | linkedin.com/in/andrea-zoia-2a643325 | portofina@optusnet.com.au | current_professional | portofina@optusnet.com.au | N/A | portofina | null | 70,000-85,000
+ana | pereira | linkedin.com/in/ana-gabriela-pereira-66722145 | acostapereira@gmail.com | personal | N/A | N/A | minor hotels | null | 25,000-35,000
+erin | ernest | linkedin.com/in/erin-ernest-07525a11 | chesneyfan1@gmail.com | personal | N/A | N/A | independent contractor | null | 70,000-85,000
+ankit | kumar | linkedin.com/in/ankit-kumar-67753b98 | ankit.kumar@hkstrategies.com | professional | N/A | N/A | e-squared | null | <20,000
+elisa | rerolle | linkedin.com/in/elisa-rerolle-95411296 | ererolle@spoke-interactive.com | professional | N/A | +16505750690 | venturebeat | 500 sansome street | 85,000-100,000
+devy | cendana | linkedin.com/in/devy-cendana-b033a224 | devy.cendana@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+richard | bassinder | linkedin.com/in/richardbassinder | rich.bassinder@googlemail.com | personal | N/A | N/A | yorkshire building society group | null | 55,000-70,000
+diane | zeitoun | linkedin.com/in/diane-zeitoun-4b60a229 | d.zeitoun@mailistec.fr | N/A | diane.zeitoun@bnpparibas.com | N/A | bnp paribas real estate | null | 55,000-70,000
+ashley | jolicoeur | linkedin.com/in/ashley-jolicoeur-1121a446 | ashleymaryjolicoeur@gmail.com | personal | N/A | N/A | friends of bellingham public library | null | 70,000-85,000
+bethany | kline | linkedin.com/in/bethany-kline-05352b5b | bethany.kline@morgan.k12.ga.us | professional | N/A | N/A | adventurous | null | 70,000-85,000
+monika | matysiak | linkedin.com/in/monika-matysiak-a36679a5 | m.matysiak@insignia.pl | current_professional | m.matysiak@insignia.pl | N/A | insignia | null | 20,000-25,000
