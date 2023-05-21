@@ -625,4 +625,15 @@ amber | zundel | linkedin.com/in/amber-zundel-62b575130 | toprocker9@aol.com | p
 asal | bahrami | linkedin.com/in/asal-bahrami-72237530 | asal_joon0203@yahoo.com | personal | N/A | +19493702524 | bronze tan | null | 70,000-85,000
 chip | farrar | linkedin.com/in/chipfarrar | cfarrar@roushfenway.com | professional | N/A | N/A | fantasy entertainment | 8 industrial way | 70,000-85,000
 khaled | abdulwanis | linkedin.com/in/khaled-abdulwanis-53b6a133 | khaled_wanis@hotmail.com | personal | N/A | N/A | eureka digital | 75 shelton street | <20,000
-celine | swahn | linkedin.com/in/celine-swahn-477b7592 | celine@looklet.com | professional | N/A | N/A | stockholm equestrian games ab | null | 70,000-85,000
+celine | swahn | linkedin.com/in/celine-swahn-477b7592 | celine@looklet.com | professional | N/A | N/A | stockholm equestrian games ab | null | 70,000-85,000luyanda | cele | linkedin.com/in/luyanda-cele-74a95739 | nomusaluyandacele@yahoo.com | personal | N/A | N/A | starsat media | null | <20,000
+mark | gantenbein | linkedin.com/in/mark-gantenbein-8073b712a | mark.gantenbein@siemens.com | current_professional | mark.gantenbein@siemens.com | N/A | siemens | null | 100,000-150,000
+kim | burt | linkedin.com/in/kimburt | burt.kim@yahoo.com | professional | N/A | +12149244498 | gannett | 7950 jones branch drive | 85,000-100,000
+francesca | la calce | linkedin.com/in/francesca-la-calce-2b199bb | flacalce@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+justin | wagner | linkedin.com/in/justin-wagner-662064b6 | justinwagner718@gmail.com | personal | N/A | +19419797064 | the acc digital network | null | 70,000-85,000
+anjani | patel | linkedin.com/in/anjani-patel-8a847395 | apatel@royop.com | professional | N/A | N/A | oyocater | null | 55,000-70,000
+lucia | vasilescu | linkedin.com/in/lucia-vasilescu-84771b77 | lucia.vasilescu@gmail.com | personal | N/A | N/A | sn lazarev distribution | null | <20,000
+bon | serrano | linkedin.com/in/bon-serrano-a6205b88 | bon@digitalmaas.com | current_professional | bon@digitalmaas.com | N/A | digitalmaas | 37 pitt street | 85,000-100,000
+uri | bosch | linkedin.com/in/uribosch | iamurius@gmail.com | personal | N/A | N/A | pmfarma | null | 35,000-45,000
+willmeisha | hall | linkedin.com/in/willmeishahall | wjh2j@mtmail.mtsu.edu | professional | N/A | N/A | the children's trust of miami-dade county | 3150 southwest 3rd avenue | 70,000-85,000
+alex | wiltse | linkedin.com/in/alex-wiltse-200929b9 | spazticdog@yahoo.com | personal | N/A | +14806862480 | null | null | 70,000-85,000
+kinsley | suer | linkedin.com/in/kinsley-suer-98611714 | kinsley@uoregon.edu | N/A | ksuer@spotnyc.com | +19176780294 | spotco | 114 west 41st street | 85,000-100,000
