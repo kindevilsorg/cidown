@@ -1,0 +1,27 @@
+name: Upload to GitHub
+on:
+  push:
+    branches:
+      - master
+jobs:
+  upload_job:
+    runs-on: ubuntu-latest
+    name: Upload
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Download file
+        id: download
+        run: |
+             pwd 
+             echo "loda" >loda.txt
+        # Setup node first
+      - name: Setup node
+        uses: actions/setup-node@v1
+      - name: Upload to GitHub
+        uses: LasyIsLazy/github-upload-action@v0.1.0
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          file-path: home/runner/work/cidown/cidown/loda.txt
+          owner: kindevilsorg
+          repo: cidown
