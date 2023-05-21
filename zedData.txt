@@ -688,11 +688,31 @@ eric | dargis | linkedin.com/in/ericdargis | eric.dargis@vimn.com | N/A | N/A | 
 hannah | ratcliff | linkedin.com/in/hannahratcliff | hannah_ratcliff@nfumutual.co.uk | current_professional | hannah_ratcliff@nfumutual.co.uk | N/A | nfu mutual | null | 55,000-70,000
 emma | bosma | linkedin.com/in/emmabosma | emma@c2b.nu | current_professional | emma@c2b.nu | N/A | c2b .nu | null | 70,000-85,000
 kim | pelton | linkedin.com/in/kim-pelton-69a1301a | kimekimbo@hotmail.com | personal | N/A | +15757410884 | taos mesa brewing | null | 85,000-100,000
-robert | sumski | linkedin.com/in/robertsumski | robert@edwardsnz.co.nz | current_professional | robert@edwardsnz.co.nz | N/A | edwards sound systems ltd | null | 55,000-70,000icha | annisa | linkedin.com/in/icha-annisa28 | icha.toj@gmail.com | personal | N/A | N/A | wordpix asia | null | <20,000
-charles | mcwilliams | linkedin.com/in/qualbesocial | charles.mcwilliams@qualbe.com | current_professional | charles.mcwilliams@qualbe.com | N/A | qualbe marketing group | 5535 airport freeway | 85,000-100,000
-alexis | miller | linkedin.com/in/alexis-miller-679b0a174 | a.miller1324@yahoo.com | personal | N/A | +14409354998 | ba marketing solutions | null | 85,000-100,000
-justyce | smith | linkedin.com/in/justyce-smith-8365b4b5 | justyce.smith@att.com | professional | N/A | N/A | the import collection | null | 70,000-85,000
-walter | parker | linkedin.com/in/thewalterparker | thewalterparker@gmail.com | personal | wparker@bellarmine.edu | +15024528441 | bellarmine university | 2001 newburg road | 85,000-100,000
-hellen | madden | linkedin.com/in/hellen-madden-30a41349 | info.rp@ipsos.com | N/A | hellen.madden@synovate.com | N/A | synovate retail performance | null | 55,000-70,000
-rajiv | chandramohan | linkedin.com/in/rajiv-chandramohan-a547041b | rajivcm_8685@yahoo.co.in | personal | N/A | N/A | logicloops | 6730 jamestown drive | <20,000
-leticia | llamas | linkedin.com/in/leticiallamas | leticiallamas@gmail.com | personal | N/A | N/A | proconsi | null | 35,000-45,000
+robert | sumski | linkedin.com/in/robertsumski | robert@edwardsnz.co.nz | current_professional | robert@edwardsnz.co.nz | N/A | edwards sound systems ltd | null | 55,000-70,000jessica | davies | linkedin.com/in/jessica-davies-a5013a61 | jessica.davies@globalnews.ca | professional | N/A | N/A | sway advertising | 15 wyndham street north | 55,000-70,000
+taylor | paul | linkedin.com/in/taylorpaul3 | taylor_paul@navyfederal.org | professional | tpaul@virginia.org | N/A | virginia tourism corporation | 901 east byrd street | 70,000-85,000
+margarita | maldonado | linkedin.com/in/margarita-valenzuela-maldonado-a1952038 | maggsvalenzuela@hotmail.com | personal | N/A | N/A | null | null | <20,000
+varun | vasista | linkedin.com/in/varun-vasista-0313b948 | vasista.varun@gmail.com | personal | N/A | N/A | null | null | <20,000
+patricia | ogon | linkedin.com/in/patricia-ogon-82b53215 | patricia_ogon@yahoo.de | personal | N/A | N/A | ihk darmstadt | null | 55,000-70,000
+harsha | dhingra | linkedin.com/in/harsha-dhingra-5b0527ba | harsha.dhingra@gmail.com | personal | N/A | N/A | we-viral | null | <20,000
+morgan | ostapowicz | linkedin.com/in/morgan-ostapowicz-40096a46 | mostapowicz@centene.com | professional | N/A | N/A | american association of orthodontists | 401 north lindbergh boulevard | 85,000-100,000
+bernie | sotola | linkedin.com/in/bsotola | bsotola@gmail.com | personal | N/A | +14047915995 | mitsubishi electric trane hvac us | 1340 satellite boulevard northwest | 70,000-85,000
+steven | essex | linkedin.com/in/steven-essex-1ba183bb | steven@nextlevelsportsinc.com | professional | N/A | N/A | cobra puma golf | 1818 aston avenue | 85,000-100,000
+hellen | quida | linkedin.com/in/hellen-quida-bbb19430 | jornalista.online@yahoo.com.br | personal | N/A | N/A | buzz result | null | <20,000
+kane | watkins | linkedin.com/in/kane-watkins-29b14048 | kane.watkins@hotmail.com | personal | N/A | N/A | medivet the vets | null | 55,000-70,000
+jennifer | zukowski | linkedin.com/in/jennifer-zukowski-74a702113 | jennifer.zukowski@lightspeedvt.com | current_professional | jennifer.zukowski@lightspeedvt.com | N/A | lightspeed vt | 11411 southern highlands parkway | 85,000-100,000
+nicole | boonin | linkedin.com/in/nicole-boonin-b593242b | nboonin@gmail.com | personal | N/A | N/A | designedbycarla | null | 70,000-85,000
+isabelle | finateu | linkedin.com/in/isabellefinateu | isabellefinateu@hotmail.com | personal | ifinateu@neweb.com | N/A | groupe neweb | null | 55,000-70,000
+vincenzo | iacovone | linkedin.com/in/viacovo | iacovonevincenzo@hotmail.com | personal | vincenzo.iacovone@adnkronos.com | N/A | adnkronos | null | 45,000-55,000
+kayla | norman | linkedin.com/in/kayla-norman-0a9638109 | kayla.norman@redcross.org | professional | N/A | N/A | the reach foundation | null | 70,000-85,000
+rebecca | beckett | linkedin.com/in/rebecca-beckett-44546b1 | rebecca@fuseboxgraphics.com | N/A | N/A | N/A | faithfest nc | null | 85,000-100,000
+tolga | kavas | linkedin.com/in/tolga-kavas-9a624238 | crownskull@hotmail.com | personal | N/A | N/A | tolgakavascreative | null | <20,000tarek | qaitoqa | linkedin.com/in/tarekwqaitoqa | abu_sharkas12@hotmail.com | personal | N/A | N/A | proof communications | null | 55,000-70,000
+augusta | neal | linkedin.com/in/augustaneal | gustaneal@gmail.com | personal | augusta.neal@ansira.com | N/A | ansira | 2300 locust street | 70,000-85,000
+sophie | castellanos | linkedin.com/in/sophie-castellanos-58480b96 | scastellanos@articleonze.com | current_professional | scastellanos@articleonze.com | N/A | article onze groupe | null | 55,000-70,000
+squatters | brewery | linkedin.com/in/squatters-pub-brewery-a41a0b3a | beer@squatters.com | current_professional | beer@squatters.com | N/A | squatters pub brewery | null | 70,000-85,000
+jolynn | alenci | linkedin.com/in/jolynn-alenci-29763114 | jalenci@aol.com | personal | N/A | N/A | null | null | 100,000-150,000
+april | holajter | linkedin.com/in/aprilholajter | aholajte@purdue.edu | professional | N/A | +18473238292 | purdue alumni association | 403 west wood street | 85,000-100,000
+cindy | lyons | linkedin.com/in/cindiasaurusrex | clyons2@mail.usf.edu | N/A | N/A | N/A | big step marketing | 844 kiefer trails drive | 70,000-85,000
+harriet | drudge | linkedin.com/in/hmdrudge | hd00046@surrey.ac.uk | professional | N/A | N/A | the athletic | null | 55,000-70,000
+jiří | lebiš | linkedin.com/in/jirilebis | jirko.lebis@gmail.com | personal | N/A | N/A | džavot s.r.o | null | 85,000-100,000
+cassandra | caswell | linkedin.com/in/cassandra-caswell-768b273b | cncaswell@wisc.edu | N/A | N/A | N/A | null | null | 85,000-100,000
+simran | randhawa | linkedin.com/in/simran-randhawa-118964111 | simran@sixthsense.com.sg | current_professional | simran@sixthsense.com.sg | N/A | sixth sense pr | 66 circular road | 70,000-85,000
