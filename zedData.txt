@@ -532,32 +532,24 @@ jenna | courage | linkedin.com/in/jenna-courage-1268a497 | jcourage@cancer.ca | 
 alexandra | duncan | linkedin.com/in/alexandraduncansais | adunca14@live.johnshopkins.edu | N/A | N/A | N/A | swiss re | null | 100,000-150,000
 andrea | easley | linkedin.com/in/andreaeasley | andreae2010@gmail.com | personal | N/A | +12054477221 | ferrara candy company | 1 tower lane | 70,000-85,000
 anka | markovic | linkedin.com/in/anka-markovic-73704134 | ankamarkovic@yahoo.com | personal | anka.markovic@spark-integrated.rs | N/A | spark integrated d.o.o belgrade | null | <20,000
-danielle | mcclain | linkedin.com/in/daniellemcclain | dmcclain@argosy.edu | professional | N/A | +16128022595 | studio enterprise | 1201 west 5th street | 85,000-100,000scrivo | maria | linkedin.com/in/scrivo-maria-6808ba93 | scrivo.maria@fluor.com | professional | N/A | N/A | regione calabria | null | 45,000-55,000
-big | festa | linkedin.com/in/big-center-festa-b81b1433 | contato@bigcenterfesta.com.br | current_professional | contato@bigcenterfesta.com.br | N/A | big center festa | null | <20,000
-steven | simons | linkedin.com/in/steven-simons-95666824 | signal@tampabay.rr.com | personal | N/A | +13522280394 | citrus vettes & camaros car clun | null | 85,000-100,000
-jorge | reina | linkedin.com/in/jorge-reina-b06ab347 | irajorge@yahoo.com | personal | N/A | +17087432753 | jorge marketing | null | 70,000-85,000
-aline | fontoin | linkedin.com/in/aline-fontoin-b84428b4 | aline.fontoin@abscomaterials.com | N/A | N/A | N/A | plus que pro | null | 55,000-70,000
-pol | larrea | linkedin.com/in/larreapol | pol.larrea@vilynx.com | current_professional | pol.larrea@vilynx.com | N/A | vilynx | null | 35,000-45,000
-shivkumar | diwan | linkedin.com/in/shivkumar-diwan-16619463 | shivkumar.diwan@hku.nl | N/A | N/A | N/A | creatosaurus | null | <20,000
-marta | duda | linkedin.com/in/marta-duda-354a261a | marta_post@i.ua | N/A | N/A | N/A | salon ness | null | 55,000-70,000
-muhammad | ami | linkedin.com/in/muhammad-ami-6722747b | humbleperson@rocketmail.com | personal | N/A | N/A | the house of representatives, republic of indonesia (dpr ri) | null | <20,000
-coralie | lebeau | linkedin.com/in/coralie-lebeau-841a2364 | coralie.lebeau@campusfrance.org | professional | N/A | N/A | orange | null | 55,000-70,000
-maxy | jimenez | linkedin.com/in/maxy-jimenez-b9993bb1 | maxy.jimenez@gmail.com | personal | N/A | N/A | happy fix | null | 70,000-85,000marlis | wessels | linkedin.com/in/marlis-wessels-057b1843 | maliwes@web.de | personal | N/A | N/A | city-map fördeagentur | null | 55,000-70,000
-allison | torres | linkedin.com/in/allisondavis3912 | allison.davis@att.com | professional | N/A | N/A | blockade games, llc | 8520 allison point boulevard | 85,000-100,000
-christi | danielson | linkedin.com/in/christi-danielson-a8056831 | cdanielson@theromgroup.com | current_professional | cdanielson@theromgroup.com | N/A | the rom group | 3311 packerland drive | 85,000-100,000
-chelsea | goldberg | linkedin.com/in/chelseagoldberg | cgoldberg@starbucks.com | professional | N/A | N/A | williams lea | 2 leman street | 85,000-100,000
-mary | callahan | linkedin.com/in/missmarycallahan | marylesliecallahan@gmail.com | personal | N/A | +16505759857 | laduca shoes | 534 9th avenue | 100,000-150,000
-ana | rodríguez | linkedin.com/in/anarl | anifu@hotmail.com | personal | N/A | N/A | corporación | null | 85,000-100,000
-francis | ramos | linkedin.com/in/francisramos | francis.a.ramos@gmail.com | personal | francis.ramos@backstage.com | +16198133780 | backstage | 45 main street | 100,000-150,000
-hela | abassi | linkedin.com/in/hela-abassi-8ba95736 | abassih@state.gov | current_professional | abassih@state.gov | N/A | us embassy | 301 4th street southwest | 85,000-100,000
-tanvi | desai | linkedin.com/in/tanvi-desai-2022bb5b | tanvi@setuadvertising.com | current_professional | tanvi@setuadvertising.com | N/A | setu advertising | null | <20,000
-adam | bullas | linkedin.com/in/adambullas | adambunion@hotmail.com | personal | N/A | N/A | opace ltd. | 1 devon way | 55,000-70,000
-ashima | swami | linkedin.com/in/ashima-swami | ashima@23digital.com.au | current_professional | ashima@23digital.com.au | N/A | 23 digital | 61-63 wellington street street | 70,000-85,000
-eric | van der avoird | linkedin.com/in/ericvanderavoird | ericvanderavoird@hotmail.com | personal | N/A | N/A | klm | null | 70,000-85,000
-sean | kitt | linkedin.com/in/sean-kitt-41942a5 | sean.kitt@gmail.com | personal | N/A | +15167653736 | re-nuble | 157 columbus avenue | 85,000-100,000
-abraham | engel | linkedin.com/in/abrahamengel | abraham.engel8@gmail.com | personal | N/A | N/A | mentionone | null | 85,000-100,000
-arvin | putra | linkedin.com/in/matsumarudx | arvin@springfield.sch.id | professional | N/A | N/A | pt dekabe samudera luas | null | <20,000
-madelyn | skinner | linkedin.com/in/madelynskinner | mskinner@lionsgate.com | professional | N/A | +15626073358 | zillow group | null | 70,000-85,000
-mindaugas | datenis | linkedin.com/in/mindaugas-datenis-4a982995 | mindaugas.datenis@sebgroup.com | professional | N/A | N/A | null | null | 85,000-100,000
-allie | johnson | linkedin.com/in/johnsonallie | ajohnson@levistrauss.com | professional | N/A | +17067637379 | f. schumacher & co. | null | 85,000-100,000
-stéphane | mousset | linkedin.com/in/stephane-mousset | cavallu@free.fr | personal | N/A | N/A | la corse autrement | null | 55,000-70,000
+danielle | mcclain | linkedin.com/in/daniellemcclain | dmcclain@argosy.edu | professional | N/A | +16128022595 | studio enterprise | 1201 west 5th street | 85,000-100,000mark | de vivo | linkedin.com/in/mark-de-vivo-3443b245 | site4u2c@aol.com | personal | N/A | +18503219671 | the crystal ballroom | 1271 state road | 85,000-100,000
+vanessa | puga | linkedin.com/in/vanessapuga | vane.evpv@gmail.com | personal | N/A | N/A | oliver agency | 151 rosebery avenue | <20,000
+kara | wallace | linkedin.com/in/kara-wallace-a129665a | kwallace@amazon.com | current_professional | kwallace@amazon.com | N/A | amazon | 2127 7th avenue | 85,000-100,000
+christine | bass | linkedin.com/in/christine-bass-5951862b | cbass@wi.rr.com | N/A | N/A | +14145741770 | fetch magazine | null | 70,000-85,000
+dalal | alnasser | linkedin.com/in/dalal-alnasser-551a2618 | d_alnasser@yahoo.com | personal | N/A | N/A | red impact agency | null | 25,000-35,000
+anne | dimarakis | linkedin.com/in/anne-dimarakis-429100a2 | anne.dimarakis@telekom.com | professional | N/A | N/A | tic-pea | null | 55,000-70,000
+julie | deavoll | linkedin.com/in/julie-deavoll-05b70130 | julie.deavoll@gmail.com | personal | N/A | N/A | jpd enterprises | null | 55,000-70,000
+lance | biddle | linkedin.com/in/lance-biddle-37107135 | lbiddle@statewideprotection.net | professional | N/A | +19412098525 | null | null | 85,000-100,000
+hossam | ramadan | linkedin.com/in/hossam-ramadan-69773719 | ramadona.hossam@gmail.com | personal | N/A | N/A | el motaheda web | 2 mohamed moustafa hamam street | <20,000
+eva | pellizzari | linkedin.com/in/evapellizzari | darkeva19@gmail.com | personal | N/A | N/A | toicom srl | null | 45,000-55,000
+josé | castells | linkedin.com/in/josecastells | j_a_c78@yahoo.com.ar | personal | N/A | N/A | microelectronica componentes srl | null | <20,000
+stephen | pay | linkedin.com/in/stephen-pay-49031a93 | spay@oldnavy.com | professional | N/A | +14086008715 | null | null | 100,000-150,000
+koreen | trinos | linkedin.com/in/koreen-delos-trinos-5b7b196b | koreen@digitalfarm.ae | current_professional | koreen@digitalfarm.ae | N/A | digitalfarm.ae | null | 45,000-55,000
+carl | hagman | linkedin.com/in/carlvodder | carl.hagman@danskebank.com | professional | N/A | N/A | pfa pension | null | 85,000-100,000
+elisabeth | hale | linkedin.com/in/elisabeth-hale-32994649 | linearfilm@yahoo.com | personal | N/A | N/A | one stop hospitality, llc | 1001 a east harmony road | 85,000-100,000hannah | ramirez | linkedin.com/in/hannah-morris-ramirez-9627aa159 | hannah.ramirez@chatbooks.com | current_professional | hannah.ramirez@chatbooks.com | N/A | chatbooks | 382 park circle | 85,000-100,000
+tess | gionet | linkedin.com/in/tessgionet | tess@pulpandwire.com | current_professional | tess@pulpandwire.com | N/A | pulp + wire | 2 milk street | 70,000-85,000
+mark | talkington | linkedin.com/in/marktalkington | marktalkington@yahoo.com | personal | N/A | +17317361249 | patient care analytics | null | 70,000-85,000
+catalina | lovaglio | linkedin.com/in/catalina-lovaglio-54823895 | catalina.lovaglio@gmail.com | personal | N/A | N/A | ministerio de producción de la nación | null | 70,000-85,000
+roohollah | massoudi | linkedin.com/in/roohollahmassoudi | yoolla58@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
+rae-ann | gammon | linkedin.com/in/rae-ann-gammon-56623824 | raeanngammon@gmail.com | personal | N/A | N/A | the nomads hammock | null | 55,000-70,000
+ashley | chase | linkedin.com/in/ashleychasetv | albertchase@hotmail.com | personal | chase@rmu.edu | +14239261490 | robert morris university | null | 70,000-85,000
