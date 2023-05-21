@@ -1482,4 +1482,22 @@ kristin | janes | linkedin.com/in/kristinjanes | kristin.janes@manzellamarketing
 kathinka | prochotta | linkedin.com/in/kathinka-prochotta-2b087817 | lakathinka@gmx.de | personal | N/A | N/A | elbkind gmbh | null | 70,000-85,000
 ethel | eman | linkedin.com/in/ethel-eman-6b989327 | etheleman@gmail.com | personal | N/A | N/A | starpil italia | null | 45,000-55,000
 juan | pisonero | linkedin.com/in/juan-torregrosa-pisonero-b0a86216 | juantp08@gmail.com | personal | N/A | N/A | hellotalk | null | <20,000
-elena | bacciaglia | linkedin.com/in/elenabacciaglia | elena.bacciaglia@e3online.it | professional | N/A | N/A | digital automotive solutions s.r.l | null | 45,000-55,000
+elena | bacciaglia | linkedin.com/in/elenabacciaglia | elena.bacciaglia@e3online.it | professional | N/A | N/A | digital automotive solutions s.r.l | null | 45,000-55,000alek | kanellopoulos | linkedin.com/in/alekkanellopoulos | alek.kanel@gmail.com | personal | N/A | N/A | the crust pizza | null | 70,000-85,000
+megan | elms | linkedin.com/in/meganelms | melms@landmarkcinemas.com | professional | N/A | N/A | null | null | 55,000-70,000
+celena | javanbakht | linkedin.com/in/celena-javanbakht-7a506941 | celena@totaldermatology.com | current_professional | celena@totaldermatology.com | N/A | total dermatology | null | 85,000-100,000
+mirko | sergi | linkedin.com/in/mirkosergi | mirko@photograficlab.com | professional | N/A | N/A | photograficlab | null | 45,000-55,000
+ana | guerra | linkedin.com/in/anaguerrab | ana.guerra@engelvoelkers.com | current_professional | ana.guerra@engelvoelkers.com | N/A | engel & völkers españa | null | 35,000-45,000
+andrea | ramsteck | linkedin.com/in/andrea-ramsteck-97b13830 | andrea.ramsteck@arcor.de | personal | N/A | N/A | null | null | 55,000-70,000
+camille | bataille | linkedin.com/in/camille-bataille-00a77076 | camille.bataille@psa-peugeot-citroen.com | current_professional | camille.bataille@psa-peugeot-citroen.com | N/A | psa peugeot citroën | null | 100,000-150,000
+dustin | moore | linkedin.com/in/dustintylermoore | dustintylermoore@gmail.com | personal | N/A | N/A | bookmark content and communications | 1 st john south lane | 70,000-85,000
+nicoletta | minniti | linkedin.com/in/nicoletta-minniti-a7736431 | nicoletta.minniti@email.it | personal | N/A | N/A | null | null | 45,000-55,000
+anne | schade | linkedin.com/in/anne-schade-9aa99399 | anne.schade@henkel.com | current_professional | anne.schade@henkel.com | +19145341316 | henkel | null | 85,000-100,000
+pedro | luis | linkedin.com/in/lk-pedro-luis | pedro-luis@telecom.pt | professional | N/A | N/A | altice portugal | null | 25,000-35,000
+matteo | scannavini | linkedin.com/in/matteoscannavini | matteos@microsoft.com | professional | N/A | N/A | green man gaming | null | 55,000-70,000
+santosh | sharma | linkedin.com/in/santosh-sharma-b392882b | sonusimla@gmail.com | personal | N/A | N/A | india tv | null | <20,000
+olive | mckay | linkedin.com/in/olive-mckay-993988b3 | olive.mckay@littledogagency.com | current_professional | olive.mckay@littledogagency.com | N/A | little dog agency, inc. | 3850 bessemer road | 70,000-85,000
+joão | duarte | linkedin.com/in/jmdduarte | jmdduarte@gmail.com | personal | N/A | N/A | null | null | 25,000-35,000
+laura | melón | linkedin.com/in/laura-míguez-melón-13b10940 | 100081505@alumnos.uc3m.es | N/A | N/A | N/A | pixel and pixel | null | 35,000-45,000
+kristine | reynolds | linkedin.com/in/kristinereynolds2 | kreynolds@wayfair.com | professional | N/A | N/A | hornblower cruises and events | 3 the embarcadero | 70,000-85,000
+rachel | gulotta | linkedin.com/in/rachel-gulotta-a9009045 | rae82488@yahoo.com | personal | N/A | N/A | motomedia | null | 85,000-100,000
+christine | galante | linkedin.com/in/christinegalante | christine_galante@harvard.edu | professional | N/A | N/A | the hanover insurance group | null | 70,000-85,000
