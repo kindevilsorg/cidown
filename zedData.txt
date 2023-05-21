@@ -356,13 +356,17 @@ dilyana | tineva | linkedin.com/in/dilyana-tineva-a5ab7545 | dtineva@gmail.com |
 enrico | gatti | linkedin.com/in/enrico-gatti-b2a46911a | enrico.gatti@navacamicie.com | current_professional | enrico.gatti@navacamicie.com | N/A | country rose di nava daniela | null | 45,000-55,000
 vr-zone | com | linkedin.com/in/vrsocial | social@vrmedia.com.sg | current_professional | social@vrmedia.com.sg | N/A | vr media pte | null | 70,000-85,000
 vedant | goenka | linkedin.com/in/vedant-goenka-b72390102 | vedant.goenka@practo.com | professional | N/A | N/A | decathlon sports india | a2 bellary road | <20,000
-luzcristina | tovar | linkedin.com/in/luzcristina-tovar-marketing | luzcritov@gmail.com | personal | N/A | N/A | natural 4 life | null | <20,000valentina | ragno | linkedin.com/in/valentina-ragno-34571931 | valentina.ragno1@gmail.com | personal | N/A | N/A | rial visual | null | 45,000-55,000
-flora | ciccarelli | linkedin.com/in/flora-ciccarelli-47a38461 | flora.ciccarelli@goethe.de | professional | N/A | N/A | bebit | the creative digital company | null | 45,000-55,000
-abigail | hall | linkedin.com/in/abigail-hall-dm18 | abi@ryanfarndon.com | professional | N/A | N/A | very social | null | 55,000-70,000
-hailey | rasmussen | linkedin.com/in/hailey-rasmussen-a7549a39 | hailey.m.rasmussen@gmail.com | personal | N/A | +14354691315 | undercover mama | null | 70,000-85,000
-victor | moolman | linkedin.com/in/victor-moolman-144a348b | sock-puppet@live.co.za | N/A | N/A | N/A | goscor lift truck co | 10 neutron road | <20,000
-stephanie | vu | linkedin.com/in/stephanie-vu-265a67bb | stephanie@teezagency.com | current_professional | stephanie@teezagency.com | N/A | teez agency | 7900 alabama avenue | 70,000-85,000
-sylvia | kb | linkedin.com/in/thesocialclicks | social@thesocialclicks.com | current_professional | social@thesocialclicks.com | N/A | the social clicks | null | 70,000-85,000
-luis | dueñas | linkedin.com/in/luchopulido | albertmuska@hotmail.com | personal | N/A | N/A | instituto de desarrollo urbano | null | <20,000
-brian | waters | linkedin.com/in/brianhwaters | bwaters@address.com | personal | N/A | +14432265051 | christian memorial church | null | 70,000-85,000
-rohan | kokani | linkedin.com/in/rohan-kokani-4615875a | rohan.kokani@ebrandz.com | current_professional | rohan.kokani@ebrandz.com | N/A | ebrandz solutions pvt. ltd. | null | <20,000
+luzcristina | tovar | linkedin.com/in/luzcristina-tovar-marketing | luzcritov@gmail.com | personal | N/A | N/A | natural 4 life | null | <20,000julie | rebuzzi | linkedin.com/in/julie-rebuzzi-387a0aa2 | jrebuzzi@prismamedia.com | current_professional | jrebuzzi@prismamedia.com | N/A | prisma media | null | 55,000-70,000
+fatima | saldivar | linkedin.com/in/fatimasaldivar | fatima@talenthouse.com | professional | N/A | N/A | birdeye | null | 85,000-100,000
+barbara | arpa | linkedin.com/in/barbara-arpa-61158622 | barbara.arpa@fastwebnet.it | N/A | N/A | N/A | inno3 di netconsulting cube | null | 45,000-55,000
+kim | paschen | linkedin.com/in/kimpaschen | kimpaschen@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+victor | diakov | linkedin.com/in/victordiakov | victor@diakov.fr | N/A | victor.diakov@mondadori.fr | N/A | mondadori france | null | 45,000-55,000
+teresa | jung | linkedin.com/in/teresa-jung-b77176109 | teresa.jung@fischerappelt.de | current_professional | teresa.jung@fischerappelt.de | N/A | fischerappelt | null | 55,000-70,000
+marco | casciani | linkedin.com/in/marcocasciani | marco.x@fastwebnet.it | N/A | N/A | N/A | kirweb | null | 85,000-100,000
+darnell | brady | linkedin.com/in/darnell-brady-7b51b152 | darnell.brady@usafa.edu | professional | N/A | +19373213433 | jacksonville jaguars | 1 tiaa bank field drive | 70,000-85,000
+sharron | clayton | linkedin.com/in/sharron-clayton-b390328 | clayton.sharron@gmail.com | personal | N/A | N/A | investorintel | null | 70,000-85,000
+melinda | palmer | linkedin.com/in/melinda-palmer-63979722 | corey_melinda@hotmail.com | personal | N/A | N/A | spectrum computers of habersham | null | 70,000-85,000
+patrick | sworn | linkedin.com/in/patrick-sworn-4123a1112 | swornp@obu.edu | professional | N/A | +18705001464 | early learning center first baptist new orleans | null | 85,000-100,000
+stephanie | hendries | linkedin.com/in/stephanie-hendries-43b24312 | stephanie.hendries@salonbusiness.co.uk | professional | N/A | N/A | zpg plc | null | 55,000-70,000
+diani | gernandt | linkedin.com/in/diani-gernandt-32b38a22 | dianij2@yahoo.co.uk | personal | N/A | N/A | null | null | <20,000
+simon | briens | linkedin.com/in/simon-briens | simon.briens@credit-cooperatif.coop | professional | N/A | N/A | secours catholique-caritas france | null | 55,000-70,000
