@@ -1078,9 +1078,27 @@ jessica | fini | linkedin.com/in/jessica-fini310 | jess.fini@gmail.com | persona
 david | meye | linkedin.com/in/daviddmeye | daviddmeye@gmail.com | personal | N/A | +17024805320 | saving grace lutheran church | 10248 germantown road | 85,000-100,000
 hillary | greenwald | linkedin.com/in/hgreenwald | hillarygreenwald@gmail.com | personal | N/A | +12023211937 | down dog yoga | 1046 potomac street northwest | 70,000-85,000
 gennaro | scofano | linkedin.com/in/gennaro-scofano-62814240 | gennaroscofano@libero.it | N/A | N/A | N/A | web social agency | null | 45,000-55,000
-kiran | mehmood | linkedin.com/in/kiran-mehmood-a3269030 | kmehmood12@yahoo.com | personal | N/A | N/A | blue ice technologies | null | <20,000christina | scott | linkedin.com/in/customerservicewithasmile | christina@afltexas.com | professional | N/A | N/A | farmers insurance | 6301 owensmouth avenue | 85,000-100,000
-vicmoss | ibukun | linkedin.com/in/thevicmoss | callmeibk@gmail.com | personal | N/A | N/A | social media week lagos | null | <20,000
-tim | veerwater | linkedin.com/in/timveerwater | timveerwater@home.nl | N/A | N/A | N/A | rijksmuseum | null | 70,000-85,000
-rayan | sakr | linkedin.com/in/rayansakr | rayan.sakr@mindsharemena.com | current_professional | rayan.sakr@mindsharemena.com | N/A | mindshare mena | null | 85,000-100,000
-kristen | hastings | linkedin.com/in/kristen-hastings-967ba66 | hastings.kristen@gmail.com | personal | N/A | +13107173785 | rsa films | 42-44 beak street | 70,000-85,000
-karolina | czyczerska | linkedin.com/in/karolinaczyczerska | karolina.czyczerska@gmail.com | personal | N/A | N/A | null | null | 20,000-25,000
+kiran | mehmood | linkedin.com/in/kiran-mehmood-a3269030 | kmehmood12@yahoo.com | personal | N/A | N/A | blue ice technologies | null | <20,000pedro | gennai | linkedin.com/in/pedro-cesar-gennai-4b9b9742 | pedrogennai@hotmail.com | personal | N/A | N/A | adpower | null | 45,000-55,000
+pascale | brand | linkedin.com/in/pmbrand | pm.brand@yahoo.com | personal | N/A | N/A | twelve waves | null | 55,000-70,000
+kevin | meyer | linkedin.com/in/kevmeyer | kevin.meyer.hk@gmail.com | personal | kmeyer@climatmediaagency.com | N/A | climat media agency | null | 55,000-70,000
+sarah | katz | linkedin.com/in/sarahdkatz | sarahdkatz@gmail.com | personal | sarah.katz@macmillan.com | N/A | macmillan | 120 broadway | 85,000-100,000
+kirsten | burris | linkedin.com/in/kirsten-burris-72926458 | kirsten.burris@hsn.com | professional | N/A | +18133233043 | retro fitness | 43 county road | 85,000-100,000
+arrnell | gapusan | linkedin.com/in/arrnell-gapusan-7b036a112 | agapusan@michaelmanagement.com | current_professional | agapusan@michaelmanagement.com | N/A | michael management corporation | 54 west 40th street | <20,000
+thibault | gandon | linkedin.com/in/thibault-gandon | tg33150@yahoo.fr | personal | N/A | N/A | agence buzzwatch | null | 55,000-70,000
+ashley | bevans | linkedin.com/in/bevansashley | abevans@federalheath.com | professional | N/A | N/A | maesa group | 225 liberty street | 70,000-85,000
+eloah | van houcke | linkedin.com/in/eloahvanhoucke | eloah@hobbynote.com | current_professional | eloah@hobbynote.com | N/A | hobbynote | null | <20,000
+williams | quijano | linkedin.com/in/williams-quijano-09b88443 | rocky9510@hotmail.com | personal | N/A | N/A | sui-generis | null | 85,000-100,000
+loryn | weddle | linkedin.com/in/lorynweddle | loryn.weddle@gmail.com | personal | loryn.weddle@northparkcenter.com | N/A | northpark management company | 8687 north central expressway | 70,000-85,000
+gleidson | moreira | linkedin.com/in/gleidsong7 | g7ms@hotmail.com | professional | N/A | N/A | uniao dos municipios da bahia | null | <20,000george | wofford | linkedin.com/in/george-wofford-13394741 | thoriumsocial@gmail.com | personal | N/A | N/A | social-cindy.com | 1 toshiba laptop | 85,000-100,000
+nola | johnson | linkedin.com/in/nola-johnson-746a6987 | njohnson12@winona.edu | professional | N/A | +19529132756 | mchugh's public house | null | 85,000-100,000
+ilker | ayna | linkedin.com/in/ilkerayna | aynailker@yahoo.de | personal | N/A | N/A | selbststaendig | null | <20,000
+julia | fjortoft | linkedin.com/in/julia-fjortoft-85120899 | julia.fjortoft@gmail.com | personal | N/A | N/A | twist yoga llc | 17602 blue heron drive | 85,000-100,000
+emir | becirovic | linkedin.com/in/emir-becirovic-16363225 | emir.bechir@gmail.com | personal | N/A | N/A | facebook | 1 hacker way | <20,000
+kacey | reynolds | linkedin.com/in/kacey-reynolds-84081713 | kacey.reynolds@evereffect.com | current_professional | kacey.reynolds@evereffect.com | N/A | evereffect | 120 east market street | 85,000-100,000
+boyou | yang | linkedin.com/in/boyouyang | yepyvone@hotmail.com | personal | N/A | N/A | happy socks ab | null | 70,000-85,000
+mary | gillen | linkedin.com/in/mary-c-gillen | mary.c.gillen@gmail.com | personal | mgillen@wwd.com | +13477534843 | wwd | 475 5th avenue | 85,000-100,000
+norman | gerlach | linkedin.com/in/norman-gerlach-85664516 | webmaster@ps3-talk.de | professional | N/A | N/A | blumenfee ellen | null | 55,000-70,000
+anh | nguyen | linkedin.com/in/nguyentna | anh.nguyen@cigna.com | professional | N/A | N/A | sweeten | null | 70,000-85,000
+stavros | antoniou | linkedin.com/in/stavros-antoniou-6a8b26ba | santoniou@archons.org | current_professional | santoniou@archons.org | N/A | order of saint andrew, archons of the ecumenical patriarchate | 8 east 79th street | 70,000-85,000
+emily | beard | linkedin.com/in/emily-beard-40934164 | emilybeard123@pointloma.edu | professional | N/A | +19709884841 | bindle coffee | null | 70,000-85,000
+djordje | damjanovic | linkedin.com/in/djordje-damjanovic-662b8228 | ddamjanovic99@gmail.com | personal | N/A | N/A | ti consulting | null | <20,000
