@@ -1007,4 +1007,10 @@ ashley | solomon | linkedin.com/in/ashleysolomon93 | ashley.solomon@orthology.co
 ahmed | burhan | linkedin.com/in/ahmed-burhan-899621190 | ahmedforlinkedin2019@gmail.com | personal | N/A | N/A | jiasaz | null | 70,000-85,000
 jamie | hosie | linkedin.com/in/jamie-hosie-3a987449 | jamie.hosie@atpmedia.tv | current_professional | jamie.hosie@atpmedia.tv | N/A | atp media | null | 55,000-70,000
 kelly | kirwan | linkedin.com/in/kelly-kirwan-77b48235 | kkirwan@google.com | professional | N/A | N/A | segment | 100 california street | 85,000-100,000
-sarah | mctamney | linkedin.com/in/sarah-mctamney-135a8978 | smctamney@kindercare.com | professional | N/A | N/A | null | null | 85,000-100,000
+sarah | mctamney | linkedin.com/in/sarah-mctamney-135a8978 | smctamney@kindercare.com | professional | N/A | N/A | null | null | 85,000-100,000katie | belicose-koestner | linkedin.com/in/katie-belicose-koestner-0318261a | kbelicose@gmail.com | personal | N/A | N/A | jersey mike's subs | 2251 landmark place | 85,000-100,000
+stefanie | schuler | linkedin.com/in/stefanie-schuler-2a432a3b | stefanieschuler@gmx.net | personal | N/A | N/A | selbstständig | null | 55,000-70,000
+suzanne | mcdougall | linkedin.com/in/suzannegmcdougall | marmmoose@yahoo.co.uk | personal | N/A | N/A | another | null | 55,000-70,000
+irit | asraf | linkedin.com/in/irit-asraf-19545a40 | irit@2like.co.il | current_professional | irit@2like.co.il | N/A | 2like | null | 55,000-70,000
+joey | clarkson | linkedin.com/in/joey-clarkson-70a62344 | joeyclarksonmusic@gmail.com | personal | N/A | N/A | americana music association uk | null | 55,000-70,000
+beatrice | oppici | linkedin.com/in/beatrice-oppici | b.oppici@gmail.com | personal | N/A | N/A | habitant® | null | 45,000-55,000
+carlos | staengel | linkedin.com/in/carlos-staengel-719566a | carste@ciudad.com.ar | N/A | N/A | N/A | web ad argentina | null | <20,000
