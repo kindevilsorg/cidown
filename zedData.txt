@@ -186,16 +186,19 @@ cristina | sanford | linkedin.com/in/cristina-maio-sanford-18864324 | cristinama
 lauren | king | linkedin.com/in/lauren-c-king-9b2652101 | lauren.king@mirumagency.com | current_professional | lauren.king@mirumagency.com | N/A | mirum agency | 24 percy street | 70,000-85,000
 mirjam | lepp | linkedin.com/in/mirjamlepp | mirjam.lepp@clickandgrow.com | current_professional | mirjam.lepp@clickandgrow.com | N/A | click & grow | null | 55,000-70,000
 heidi | pashman | linkedin.com/in/heidipashman | heidipashman@gmail.com | personal | N/A | +18167288994 | mindbodygreen | null | 70,000-85,000
-valeria | zonin | linkedin.com/in/valeriazonin | valeria@jandr.it | professional | N/A | N/A | notorious agency | null | 45,000-55,000christiane | reppert | linkedin.com/in/christiane-reppert-528a90115 | christiane.reppert@uni-regensburg.de | professional | N/A | N/A | laurèl gmbh | null | 70,000-85,000
-samantha | simonds | linkedin.com/in/samantha-simonds-32b04ba7 | ssimonds@luckybrand.com | professional | N/A | +18185180763 | digital media management | 5670 wilshire boulevard | 70,000-85,000
-nicole | bertelli | linkedin.com/in/nicole-bertelli-780a6a9b | nicole.bertelli@gmail.com | personal | N/A | N/A | cristinaeffe | null | 45,000-55,000
-elizabeth | pla | linkedin.com/in/elizabeth-pla-80115a23 | elizabethpla@gmail.com | personal | N/A | N/A | prosthetic orthotic designs | null | 70,000-85,000
-bridget | raftery | linkedin.com/in/bridgetraftery | bridget.raftery@seattlechildrens.org | professional | N/A | N/A | vmg studios | 13228 northeast 20th street | 85,000-100,000
-bilal | haider | linkedin.com/in/bilal-haider-77b48915 | syed_bilal_haider@hotmail.com | personal | N/A | N/A | null | null | <20,000
-jiahn | kang | linkedin.com/in/jiahn-kang-210ba2154 | kngbrm@gmail.com | personal | N/A | N/A | brooklyn floral delight | null | 85,000-100,000
-estefania | catulo | linkedin.com/in/estefania-catulo-02862948 | estefacatulo@hotmail.com | personal | N/A | N/A | online travel | null | 20,000-25,000
-md.ashfak | sayed | linkedin.com/in/stbadhon | mdashfak.sayed@citycell.com | professional | N/A | N/A | rockhopper digital | null | <20,000
-david | whitely | linkedin.com/in/davidwhitely | david_whitely@lordandtaylor.com | professional | N/A | N/A | team epiphany | 1235 broadway | 70,000-85,000
-jessica | watson-galbraith | linkedin.com/in/jessica-watson-galbraith-aa500413 | jessyka_wg@yahoo.co.uk | personal | N/A | N/A | futurniture | null | 70,000-85,000
-hassan | sohaib | linkedin.com/in/hassan-sohaib-91b35818 | hassansohaib@hotmail.com | personal | hassan@khkmma.com | N/A | khk mma | null | <20,000
-matteo | zinanni | linkedin.com/in/matteozinanni | matt2011@rocketmail.com | personal | N/A | N/A | pegasus communications | null | 45,000-55,000
+valeria | zonin | linkedin.com/in/valeriazonin | valeria@jandr.it | professional | N/A | N/A | notorious agency | null | 45,000-55,000nick | gargiula | linkedin.com/in/nick-gargiula-012005118 | nick@deltaexteriorsstl.com | current_professional | nick@deltaexteriorsstl.com | N/A | delta exteriors | 8220 delmar boulevard | 70,000-85,000
+joseph | josephry | linkedin.com/in/joseph-josephry-4ab20747 | andrew@triplefourdesign.com | N/A | N/A | N/A | socialr | null | 70,000-85,000
+natalie | pflug | linkedin.com/in/nataliepflug | natalie.engelhardt@sycor.de | current_professional | natalie.engelhardt@sycor.de | N/A | sycor | null | 70,000-85,000
+katie | lenhart | linkedin.com/in/katie-lenhart | klenhart@kochcomm.com | professional | N/A | +14058154027 | central oklahoma federal credit union | null | 70,000-85,000
+jamin | washington | linkedin.com/in/jaminwashington | jaminwashington@gmail.com | personal | N/A | N/A | affordable health insurance agency | 7330 san pedro avenue | 85,000-100,000
+celinda | scott | linkedin.com/in/cmnichole | cscott@rivervalleycu.org | professional | N/A | +19378591970 | aliber's bridal shop | null | 70,000-85,000
+serena | lebessis | linkedin.com/in/serena-lebessis-bb851663 | serenalebessis@gmail.com | personal | N/A | N/A | sk intertainment, inc. | null | 85,000-100,000
+alessandra | vancheri | linkedin.com/in/alessandra-vancheri-3744ab82 | a.vancheri@inputidea.it | current_professional | a.vancheri@inputidea.it | N/A | input srl | null | 45,000-55,000
+jennifer | rock | linkedin.com/in/jenrock1 | jennifer.rock27@gmail.com | personal | N/A | +18184029441 | null | null | 85,000-100,000
+andrew | good | linkedin.com/in/awgood | andrewwilliamgood@gmail.com | personal | N/A | N/A | broadway's calling with lance roberts | null | 100,000-150,000
+eliud | rivera | linkedin.com/in/eliud-rivera-a55b9bb1 | erivera@bgca.org | professional | N/A | N/A | jabbolabs | null | 85,000-100,000
+mary | ossa | linkedin.com/in/mary-anna-ossa-5708b14 | maryanna24nc@yahoo.com | personal | N/A | N/A | ossa studio pllc | null | 70,000-85,000
+marian | oruña | linkedin.com/in/marian-abascal-oruña-3b802045 | marian_a@ono.com | N/A | N/A | N/A | social media | null | 35,000-45,000
+samantha | cummons | linkedin.com/in/samanthacummons | samantha.cummons@cbsradio.com | professional | N/A | N/A | valley forge tourism & convention board | 1000 first avenue | 85,000-100,000
+john | wright | linkedin.com/in/johnswright | jwright45a@yahoo.com | personal | N/A | +17577935812 | null | null | 85,000-100,000
+stefano | chiatto | linkedin.com/in/stelochiatto | stefano@befamily.it | current_professional | stefano@befamily.it | N/A | be.family | null | 45,000-55,000
