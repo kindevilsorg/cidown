@@ -167,14 +167,24 @@ md.ashfak | sayed | linkedin.com/in/stbadhon | mdashfak.sayed@citycell.com | pro
 david | whitely | linkedin.com/in/davidwhitely | david_whitely@lordandtaylor.com | professional | N/A | N/A | team epiphany | 1235 broadway | 70,000-85,000
 jessica | watson-galbraith | linkedin.com/in/jessica-watson-galbraith-aa500413 | jessyka_wg@yahoo.co.uk | personal | N/A | N/A | futurniture | null | 70,000-85,000
 hassan | sohaib | linkedin.com/in/hassan-sohaib-91b35818 | hassansohaib@hotmail.com | personal | hassan@khkmma.com | N/A | khk mma | null | <20,000
-matteo | zinanni | linkedin.com/in/matteozinanni | matt2011@rocketmail.com | personal | N/A | N/A | pegasus communications | null | 45,000-55,000yuna | shin | linkedin.com/in/1yunashin1 | yunaaaaa.s@hotmail.com | personal | N/A | N/A | mccormick & company | 24 schilling circle | 55,000-70,000
-steve | saul | linkedin.com/in/stephensaul | stvsaul@googlemail.com | personal | N/A | N/A | null | null | <20,000
-josh | crow | linkedin.com/in/nursecrow | joshcrow77@yahoo.com | personal | josh.crow@frontiermktg.com | +19404422932 | frontier marketing | 3204 long prairie road | 85,000-100,000
-florence | dillmann | linkedin.com/in/florencedillmann | florence.dillmann@gmail.com | personal | N/A | N/A | lorraine tourisme | null | 55,000-70,000
-brandon | wiley | linkedin.com/in/brandon-wiley-3a308a49 | brandonmichaelwiley@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-marnie | burt | linkedin.com/in/marnieburt | marnie.burt@weareinstrumental.com | professional | N/A | N/A | null | null | 55,000-70,000
-chase | spruiell | linkedin.com/in/chase-spruiell-39b7a514 | listentocds41@yahoo.com | personal | N/A | N/A | enigami systems | null | 70,000-85,000
-karly | shriver | linkedin.com/in/karlyshriver | karly.shriver@victoriassecret.com | professional | kshriver@optimizesocialmedia.net | N/A | optimize social media inc. | 1 imation way | 70,000-85,000
-ornella | vanni | linkedin.com/in/ornellapaturzovanni | ornella@liquidsound.com.ar | professional | N/A | N/A | null | null | 20,000-25,000
-vicki | trottier | linkedin.com/in/vickitrottier | vickitrottier@gmail.com | personal | N/A | N/A | community literacy of ontario | 80 bradford street | 55,000-70,000
-fabio | zagami | linkedin.com/in/fabio-zagami-638b899a | fabio.zagami@enel.com | professional | N/A | N/A | autonomo | null | 45,000-55,000
+matteo | zinanni | linkedin.com/in/matteozinanni | matt2011@rocketmail.com | personal | N/A | N/A | pegasus communications | null | 45,000-55,000olisa | adger | linkedin.com/in/olisaadger | oaadger@gmail.com | personal | N/A | N/A | almo nature spa | null | 70,000-85,000
+mallory | bennett | linkedin.com/in/mallory-bennett-83165b46 | mallorypbennett@gmail.com | personal | N/A | N/A | nc lumber and supply | 221 old dairy road | 70,000-85,000
+meagan | saunders | linkedin.com/in/meagan-saunders-28374a18 | meagan115@gmail.com | personal | N/A | N/A | urbanpxl_joburg | null | <20,000
+lacey | small | linkedin.com/in/laceysmall | lacey.small@nfm.com | professional | N/A | +18166688747 | grandscape | null | 85,000-100,000
+anya | zimonjic | linkedin.com/in/anya-zimonjic-a5a182130 | anya@happiestbaby.com | current_professional | anya@happiestbaby.com | N/A | happiest baby, inc. | 3115 south la cienega boulevard | 70,000-85,000
+marcelle | forsyth | linkedin.com/in/marcelle-forsyth-2b7ba141 | marcelleforsyth@gmail.com | personal | marcelle.forsyth@equinox.com | N/A | equinox | null | 85,000-100,000
+antonio | benforte | linkedin.com/in/antonio-benforte-838a175 | antoniobenforte@gmail.com | personal | N/A | N/A | ales arte lavoro e servizi s.p.a. | null | 45,000-55,000
+simon | oxenham | linkedin.com/in/simonoxenham | simon.w.o@gmail.com | personal | N/A | N/A | xcoins | null | 45,000-55,000
+lindsay | barton | linkedin.com/in/lindsaybarton | ljbarton@syr.edu | N/A | N/A | +19084057386 | the inquisitr news | null | 85,000-100,000
+ani | lomas | linkedin.com/in/atlmedia | contactatlmedia@gmail.com | personal | N/A | N/A | fables | null | 55,000-70,000
+bohdan | ostroskyy | linkedin.com/in/bohdan-ostrovskyy-4b4aaa40 | boghdanostrovskij@hotmail.it | personal | N/A | N/A | kiderwind | null | 45,000-55,000
+karzan | zemanson | linkedin.com/in/zemanson | kzkmail@gmail.com | personal | N/A | N/A | diamond way buddhist centers | null | 70,000-85,000
+armana | christianson | linkedin.com/in/armanachanel | armanachanel@gmail.com | personal | N/A | +14023217156 | dc centre | 11830 stonegate drive | 85,000-100,000
+tyrani | sanders | linkedin.com/in/tyrani-sanders-9abb43100 | tyrani@tellafirma.com | professional | N/A | N/A | null | null | 70,000-85,000
+leah | pough | linkedin.com/in/leah-pough-91b85aa3 | leahpough@gmail.com | personal | N/A | +13862165472 | the west volusia beacon | 110 west new york avenue | 70,000-85,000
+camille | hansart | linkedin.com/in/camille-hansart-3a9062115 | camille.hansart@heaven.fr | current_professional | camille.hansart@heaven.fr | N/A | heaven | null | 55,000-70,000
+alan | carroll | linkedin.com/in/alan-carroll-857b919a | alan@uber.com | professional | N/A | N/A | ac2 | null | 70,000-85,000
+krishna | patel | linkedin.com/in/krishna-patel-27699145 | kpatel21589@gmail.com | personal | N/A | +17142323837 | girlactik beauty | null | 70,000-85,000
+daryk | ganske | linkedin.com/in/darykganske | darykg@gmail.com | personal | daryk@wideopenmediagroup.com | N/A | wide open media group | 801 congress avenue | 85,000-100,000
+stephanie | rosenzweig | linkedin.com/in/stephanie-rosenzweig-99441175 | stephanie.rosenzweig@schaeffler.com | professional | N/A | N/A | eppendorf ag | null | 70,000-85,000
+colin | huber | linkedin.com/in/calloncolin | colin.huber@oregonstate.edu | professional | colin.huber@nfl.com | +15419905538 | national football league (nfl) | 345 park avenue | 85,000-100,000
