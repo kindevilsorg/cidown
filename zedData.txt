@@ -1150,4 +1150,13 @@ ali | fenwick | linkedin.com/in/alexandrafenwick | alexandrafenwick@yahoo.com | 
 annalisa | sorbi | linkedin.com/in/annalisa-sorbi-b9684b16 | annaliya@libero.it | N/A | N/A | N/A | cooperativa alba | null | 45,000-55,000
 justine | bondoc | linkedin.com/in/justinevbondoc | justine.bondoc@polarion.com | professional | N/A | N/A | siemens plm software | null | 85,000-100,000
 mohamed | sayed | linkedin.com/in/mohamed-sayed-1b30b1110 | msm0007@yahoo.com | personal | N/A | N/A | united tower group | null | 100,000-150,000
-jessey | njau | linkedin.com/in/jesseynjau | jessey.njau@mchizi.com | professional | N/A | N/A | chinawest filmmakers alliance | null | 55,000-70,000
+jessey | njau | linkedin.com/in/jesseynjau | jessey.njau@mchizi.com | professional | N/A | N/A | chinawest filmmakers alliance | null | 55,000-70,000juvenal | vargas | linkedin.com/in/juvenal-vargas-76850237 | juvenalprimero@hotmail.com | personal | N/A | N/A | social media digital | null | <20,000
+eric | newman | linkedin.com/in/eric-newman-05a42718 | eric.newman@corporatecompliance.org | current_professional | eric.newman@corporatecompliance.org | +19529880141 | society of corporate compliance and ethics (scce) | 6500 barrie road | 85,000-100,000
+quinn | carlton | linkedin.com/in/quinn-carlton-0412b783 | quinn@tabletopmediagroup.com | current_professional | quinn@tabletopmediagroup.com | N/A | tabletop media group | 170 sallie lou lane | 70,000-85,000
+francesca | knowles | linkedin.com/in/francescaknowles | francesca.marie@mac.com | personal | fknowles@codacorpusa.com | +17165502578 | coda corp usa | null | 85,000-100,000
+nicolas | rusques | linkedin.com/in/nicolasrusques | nicolas.rusques@gmail.com | personal | N/A | N/A | ministère de l'enseignement supérieur et de la recherche (france) | null | 55,000-70,000
+catherine | klaeren | linkedin.com/in/catherine-klaeren-40259496 | catherine.klaeren@googlemail.com | personal | N/A | N/A | beapp | null | 55,000-70,000
+jane | smith | linkedin.com/in/jane-smith-358a7748 | socialmedia@ipscorporation.ca | N/A | N/A | N/A | ips - invoice payment system corporation | 11-1535 meyerside drive | 55,000-70,000
+angela | wagner | linkedin.com/in/angela-wagner-49106438 | e-mas@vtxfree.ch | N/A | N/A | N/A | xeno com | null | 100,000-150,000
+bria | earls | linkedin.com/in/briaearls | bearls@bouncetv.com | current_professional | bearls@bouncetv.com | N/A | bounce tv | null | 85,000-100,000
+stephanie | allor | linkedin.com/in/stephanie-allor-72242b2b | smallor@oakland.edu | N/A | N/A | N/A | marketing associates | 777 woodward avenue | 70,000-85,000
