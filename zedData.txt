@@ -1653,4 +1653,12 @@ joanne | phillips | linkedin.com/in/joannephillipsindex | joannegphillips@google
 camille | lemesle | linkedin.com/in/camillelemesle | camille_lemesle@yahoo.fr | personal | N/A | N/A | null | null | 55,000-70,000
 cobain | vicious | linkedin.com/in/cobain-vicious-5aa7147a | cobain.vicious@gmail.com | personal | N/A | N/A | mipyme comunica | null | 20,000-25,000
 vandana | srivastawa | linkedin.com/in/vandanasriv | vandsriv@gmail.com | personal | N/A | N/A | india.com | null | <20,000
-marie | aaland | linkedin.com/in/marie-aaland-57a86a39 | fashionista@sketch-folio.com | current_professional | fashionista@sketch-folio.com | N/A | sketch-folio.com | null | 70,000-85,000
+marie | aaland | linkedin.com/in/marie-aaland-57a86a39 | fashionista@sketch-folio.com | current_professional | fashionista@sketch-folio.com | N/A | sketch-folio.com | null | 70,000-85,000laura | haass | linkedin.com/in/laura-haass-8b5a162b | laura.haass@kohler.com | professional | N/A | +19203766294 | epic year management | null | 70,000-85,000
+kyle | gottschalk | linkedin.com/in/kyle-gottschalk-6637b9187 | kgfootballman79@yahoo.com | personal | N/A | +13304214605 | merci | null | 70,000-85,000
+karyna | rashkovska | linkedin.com/in/rashkovskak | rashkovskayak@gmail.com | personal | N/A | N/A | bbdo ukraine | null | <20,000
+valentin | pommepuy | linkedin.com/in/vpommepuy | valentin.pommepuy@onprenduncafe.com | current_professional | valentin.pommepuy@onprenduncafe.com | N/A | on prend un café | null | 55,000-70,000
+fabian | krott | linkedin.com/in/fabian-krott-5b087792 | fabian.krott@luebbe.de | current_professional | fabian.krott@luebbe.de | N/A | bastei lübbe ag | null | 55,000-70,000
+ulrika | macgregor | linkedin.com/in/ulrikamacgregor | ulrika.macgregor@storaenso.com | current_professional | ulrika.macgregor@storaenso.com | N/A | stora enso | null | 85,000-100,000
+meghan | ritchey-wilson | linkedin.com/in/meghan-ritchey-wilson-b4b60640 | meghan@visualpoetrybymeghan.com | professional | N/A | N/A | fall river employee benefits | 2829 wyandot street | 70,000-85,000
+elizabeth | bar | linkedin.com/in/elizabeth-bar-03b75684 | elizabeth.bar@loreal.com | professional | elizabeth@janesmithagency.com | +19085667589 | jane smith agency | 584 broadway | 70,000-85,000
+piyush | singh | linkedin.com/in/piyushsingh450 | p.singh@markupdesigns.com | current_professional | p.singh@markupdesigns.com | N/A | markup designs | null | <20,000
