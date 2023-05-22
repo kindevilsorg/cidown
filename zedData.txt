@@ -296,4 +296,10 @@ apollo | sheila | linkedin.com/in/apollo-sheila-61195030 | mystysecrets@yahoo.co
 chloe | fries | linkedin.com/in/chloefries | chloe.fries@gmail.com | personal | N/A | N/A | cookit media | null | 70,000-85,000
 victoria | hart | linkedin.com/in/victoriaellehart | victoriaa_haart@hotmail.com | personal | N/A | N/A | victoria hart marketing | null | 55,000-70,000
 sofía | della bernardina | linkedin.com/in/sofiadellabernardina | sofis_db@hotmail.com | personal | N/A | N/A | infobae | null | <20,000
-georgia | gerokosta | linkedin.com/in/gerokostageorgia | gerokostageorgia@hotmail.com | personal | N/A | N/A | think plus advertising | null | 25,000-35,000
+georgia | gerokosta | linkedin.com/in/gerokostageorgia | gerokostageorgia@hotmail.com | personal | N/A | N/A | think plus advertising | null | 25,000-35,000simron | sahoo | linkedin.com/in/simron-sahoo-93a252a9 | ssahoo@luc.edu | professional | N/A | +13129157148 | null | null | 70,000-85,000
+bruno | grandis | linkedin.com/in/brunograndis | brunograndis@gmail.com | personal | N/A | N/A | webbiz.ie | null | <20,000
+genia | lyudmilov | linkedin.com/in/ylyudmilov | y.lyudmilov@gmail.com | personal | N/A | N/A | rue gilt groupe | 20 channel center street | 85,000-100,000
+varsha | gupta | linkedin.com/in/varsha-gupta-7577b53a | varshapoli@gmail.com | personal | N/A | N/A | network bug digital media management llp | null | <20,000
+zoyi | so | linkedin.com/in/zoyi-so | zoyi.so@gmail.com | personal | N/A | N/A | google | 1600 amphitheatre parkway | 55,000-70,000
+barbora | jurovcová | linkedin.com/in/barbora-jurovcová-a22817a5 | barbora.jurovcova@gmail.com | personal | N/A | N/A | elite solutions, s.r.o. | null | 85,000-100,000
+andrew | eardley | linkedin.com/in/andrew-eardley-282a9633 | ovaldata@gmail.com | personal | N/A | N/A | gvc ladbrokes coral | null | 85,000-100,000
