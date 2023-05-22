@@ -1181,4 +1181,12 @@ jean-renaud | xech | linkedin.com/in/jrxch | jrxech@mac.com | personal | N/A | N
 jorge | restrepo | linkedin.com/in/jorge-alberto-villegas-restrepo-0b5b2b47 | jorgv_137@hotmail.com | personal | N/A | N/A | marketing contact center | null | <20,000
 philip | caballes | linkedin.com/in/pcaballes | pccaballes@globetel.com.ph | N/A | N/A | N/A | globe telecom | null | <20,000
 habiba | kehinde | linkedin.com/in/habibakehinde | bibaumaru@hotmail.com | personal | N/A | N/A | h & s enterprises inc | null | 100,000-150,000
-brittney | gilbert | linkedin.com/in/brittneygilbert | brittney.g@gmail.com | personal | N/A | +15102606689 | franklin templeton investments | null | 85,000-100,000
+brittney | gilbert | linkedin.com/in/brittneygilbert | brittney.g@gmail.com | personal | N/A | +15102606689 | franklin templeton investments | null | 85,000-100,000daniel | white | linkedin.com/in/danielwwhite1 | dwhite2@samford.edu | professional | N/A | +12053836685 | worldsoccershop | null | 85,000-100,000
+maya | morales | linkedin.com/in/mayamorales | mayabmorales@gmail.com | personal | N/A | N/A | empower digital | null | 70,000-85,000
+tracy | sweeney | linkedin.com/in/tracy-sweeney-54074536 | tysweeney@hotmail.com | personal | tracy.sweeney@maryland.gov | N/A | maryland department of natural resources | 580 taylor avenue | 85,000-100,000
+m.veronica | tovar | linkedin.com/in/m-veronica-martinez-tovar-3b900b32 | veronicamartinez@libero.it | current_professional | veronicamartinez@libero.it | N/A | veronica martinez tovar consulenza grafica per social media | null | 45,000-55,000
+ji | park | linkedin.com/in/jhpark1 | jhp324@gmail.com | personal | N/A | +18586036170 | stella rising | 1221 post road east | 85,000-100,000
+jared | greenbaum | linkedin.com/in/jared-greenbaum-04a86622 | jaredg@knights.ucf.edu | professional | N/A | N/A | the ironman group | null | 70,000-85,000
+riasa | alumni | linkedin.com/in/riasa-alumni-27017b138 | riasa@richmond.ac.uk | current_professional | riasa@richmond.ac.uk | N/A | richmond the american international university in london | null | 55,000-70,000
+kristy | meyer | linkedin.com/in/meyerkristy | kmeyer@dylanscandybar.com | professional | N/A | +15617163205 | fontainebleau miami beach | 4441 collins avenue | 70,000-85,000
+darby | kendall | linkedin.com/in/darby-kendall-85b68491 | dkendall@starbucks.com | professional | N/A | +15127094916 | the soup peddler real food & juice bar | null | 70,000-85,000
