@@ -2778,4 +2778,17 @@ bex | davies | linkedin.com/in/bex-davies-b38b2127 | bex@salmonz.com | N/A | N/A
 lanette | higham | linkedin.com/in/lanette-higham-16a6bb22 | nettie3444@gmail.com | personal | N/A | N/A | media magnet | null | 85,000-100,000
 david | morie | linkedin.com/in/david-morie-2a73b777 | d.morie@airforce.com | current_professional | d.morie@airforce.com | N/A | united states air force | null | 55,000-70,000
 pervane | fikretli | linkedin.com/in/pervane-fikretli-76819b33 | qpervane@yahoo.com | personal | N/A | N/A | azza mémo'art | null | 85,000-100,000
-ryen | densmore | linkedin.com/in/ryen-densmore | ryend@damasjewellery.com | professional | N/A | N/A | fox + hound communications | null | 55,000-70,000
+ryen | densmore | linkedin.com/in/ryen-densmore | ryend@damasjewellery.com | professional | N/A | N/A | fox + hound communications | null | 55,000-70,000alejandra | vélez | linkedin.com/in/alejandra-taborda-vélez-43445931 | aleja96_4@hotmail.com | personal | N/A | N/A | xigna comunicación visual | null | <20,000
+andrea | sepiacci | linkedin.com/in/andrea-sepiacci | a.sepiacci@gmail.com | personal | N/A | N/A | cooksapp | null | 45,000-55,000
+juliana | menon | linkedin.com/in/juliana-menon | juliana@duostud.io | current_professional | juliana@duostud.io | N/A | duo studio | 25 opal crescent | 70,000-85,000
+paul | flaherty | linkedin.com/in/paulfrancisflaherty | paul.flaherty@mac.com | personal | N/A | N/A | madypro | null | 35,000-45,000
+holly | wahl | linkedin.com/in/holly-wahl-190a4871 | hwahl@cincinnatichildrens.org | professional | N/A | +15135694980 | cincinnati moms blog | 1082 white pine court | 70,000-85,000
+federica | comi | linkedin.com/in/federica-comi-a0563885 | federica.comi@kettydo.com | current_professional | federica.comi@kettydo.com | +447398028925 | kettydo+ | null | 45,000-55,000
+dani | izzie | linkedin.com/in/dani-schirmer | dani.schirmer@gmail.com | personal | N/A | N/A | spinergy, inc. | 1914 palomar oaks way | 85,000-100,000
+kristin | castro | linkedin.com/in/adhousemarketing | mail@adhousemarketing.com | current_professional | mail@adhousemarketing.com | +19857052630 | the ad house | 517 north columbia street | 85,000-100,000
+shruti | kothiwal | linkedin.com/in/shruti-kothiwal-02840216 | shrutikothiwal@gmail.com | personal | N/A | N/A | independent institute | 100 swan way | 85,000-100,000
+khaled | fouda | linkedin.com/in/khaled-fouda-b743106b | k.fouda@almasryalyoum.com | current_professional | k.fouda@almasryalyoum.com | N/A | almasry alyoum | null | <20,000
+catherine | blake | linkedin.com/in/catherine-blake-322503103 | catherine@servethecity.net | professional | N/A | N/A | spoon university | 9 lansdowne street | 70,000-85,000
+mai | daniel | linkedin.com/in/msmaidaniel | lifeent@ymail.com | personal | N/A | +13136151381 | null | null | 85,000-100,000
+cristina | nieto | linkedin.com/in/cristinarnieto | cristinagrnieto@gmail.com | personal | N/A | +17873073297 | warby parker | null | 100,000-150,000
+ethan | smith | linkedin.com/in/ethan-smith-2aa28764 | etlsmith7@gmail.com | personal | esmith@leoweekly.com | +15028959770 | leo weekly | 607 west main street | 70,000-85,000
