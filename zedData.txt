@@ -2458,4 +2458,12 @@ catherine | cavallo | linkedin.com/in/catherine-cavallo-9b9a0a97 | catherine.cav
 amanda | ruiz | linkedin.com/in/amandaruiz418 | amanda.ruiz@christmastreeshops.com | professional | N/A | N/A | be visible | null | 85,000-100,000
 daniela | fernández | linkedin.com/in/danielladaza | danydaza@hotmail.com | personal | N/A | N/A | compass group españa | null | 35,000-45,000
 lars | kattelmann | linkedin.com/in/lars-kattelmann-3b1438113 | lars.kattelmann@turner.com | professional | N/A | N/A | drillisch online ag | null | 55,000-70,000
-bj | shelton | linkedin.com/in/bj-shelton-90736723 | bjshelton@aarp.org | N/A | N/A | N/A | social media today, llc | 1575 eye street northwest | 85,000-100,000
+bj | shelton | linkedin.com/in/bj-shelton-90736723 | bjshelton@aarp.org | N/A | N/A | N/A | social media today, llc | 1575 eye street northwest | 85,000-100,000aakarsh | sharma | linkedin.com/in/aakarsh-sharma-05667949 | aakarsh.sharma@tgcampus.com | current_professional | aakarsh.sharma@tgcampus.com | N/A | tg campus | null | <20,000
+francisca | rojas | linkedin.com/in/lafranto | lafranto@gmail.com | personal | N/A | N/A | draw | null | 20,000-25,000
+barış | boduç | linkedin.com/in/barisboduc | barisboduc@gmail.com | personal | N/A | N/A | canyaş i̇leti̇şi̇m | null | <20,000
+marianela | castagna | linkedin.com/in/marianela-castagna-81140131 | mela1203@hotmail.com | personal | N/A | N/A | kananga viajes | null | <20,000
+martha | schoemaker | linkedin.com/in/martha-schoemaker-44088721 | martha@saleskracht.nl | professional | N/A | N/A | hammerfest | null | 55,000-70,000
+ailsa | sherrington | linkedin.com/in/ailsasherrington | ailsa@thenextweb.com | current_professional | ailsa@thenextweb.com | N/A | tnw | null | 70,000-85,000
+sunny | johannson | linkedin.com/in/sunny-johannson-16b3505a | sunnyj@demandplanning.net | current_professional | sunnyj@demandplanning.net | N/A | demand planning net | 26 henshaw street | 85,000-100,000
+jena | kuykendall | linkedin.com/in/jena-kuykendall-03006b83 | jena@dbsadvantage.com | current_professional | jena@dbsadvantage.com | N/A | dbsadvantage.com | 1120 north louisa avenue | 85,000-100,000
+vilja-roosa | juntunen | linkedin.com/in/vilja-roosa | vilja.juntunen@kielikone.fi | current_professional | vilja.juntunen@kielikone.fi | N/A | kielikone oy | null | 55,000-70,000
