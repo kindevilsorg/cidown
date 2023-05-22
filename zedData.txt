@@ -889,8 +889,14 @@ christina | scherer | linkedin.com/in/christina-scherer-41969549 | cscherer21@gm
 mark | stockamp | linkedin.com/in/mark-stockamp-a17987102 | mark.stockamp@brooksrunning.com | professional | N/A | N/A | footzone bend | null | 70,000-85,000
 ginger | blythin | linkedin.com/in/gingerb | ginger.blythin@gmail.com | personal | N/A | +19053595329 | danima creative group | null | 55,000-70,000
 chip | grimshaw | linkedin.com/in/chipgrimshaw | chip_grimshaw@andersonsinc.com | professional | N/A | +14199314839 | htmedia360 | 112 north detroit street | 70,000-85,000
-caitlin | gillespie | linkedin.com/in/caitlin-gillespie | cmgilles@wustl.edu | N/A | N/A | N/A | the young nonprofit professionals network of washington dc | null | 85,000-100,000sarah | maguire | linkedin.com/in/sarah-maguire-05339162 | sarah.w.maguire@gmail.com | personal | N/A | N/A | happiest baby, inc. | 3115 south la cienega boulevard | 70,000-85,000
-melissa | molejon | linkedin.com/in/melissamolejon | melissa@ipitimi.com | professional | N/A | N/A | content maximiser | null | <20,000
-antonella | semeraro | linkedin.com/in/semanto | semanto84@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-brooke | muller | linkedin.com/in/brooke-muller | bmuller@elon.edu | professional | N/A | N/A | w2o group | 50 francisco street | 100,000-150,000
-kimberly | tewalt | linkedin.com/in/kimberly-tewalt-8b685244 | kt81445@gmail.com | personal | N/A | N/A | coconis furniture inc | 4 south maysville avenue | 85,000-100,000
+caitlin | gillespie | linkedin.com/in/caitlin-gillespie | cmgilles@wustl.edu | N/A | N/A | N/A | the young nonprofit professionals network of washington dc | null | 85,000-100,000james | lacorte | linkedin.com/in/jameslacorte | jlacorte@gmail.com | personal | james.lacorte@bcbsnc.com | N/A | bcbsnc | 5901 chapel hill road | <20,000
+j.r | weigand | linkedin.com/in/jrweigand4 | jweigand@sageproducts.com | professional | N/A | N/A | two brothers brewing company | 30w315 calumet avenue | 85,000-100,000
+isabella | leclair | linkedin.com/in/isabella-leclair-9290a0112 | isabellaleclair@gmail.com | personal | N/A | +14014810461 | hercampus providence college | null | 85,000-100,000
+peter | mullan | linkedin.com/in/peter-mullan-685333112 | peterm@spotify.com | current_professional | peterm@spotify.com | N/A | spotify | null | 55,000-70,000
+derek | zhang | linkedin.com/in/derek-zhang-874b0730 | peterpan_yao@hotmail.com | personal | N/A | N/A | shell | null | 70,000-85,000
+vanessa | wiseman | linkedin.com/in/vanessa-wiseman-95617221 | vmspear@yahoo.com | personal | N/A | +18183076730 | tmz | null | 85,000-100,000
+david | schaub | linkedin.com/in/dschaub | davidschaub@tumblr.com | N/A | N/A | N/A | abbott | null | 55,000-70,000
+arnobi | de | linkedin.com/in/arnobide | arnobide4@gmail.com | personal | N/A | +13233569466 | null | null | <20,000
+emilie | legendre | linkedin.com/in/emilie-legendre-58715414 | emilie.legendre981@hotmail.fr | personal | N/A | N/A | bhv | null | 55,000-70,000
+jenny | morning | linkedin.com/in/jenny-morning | jenny.morning@ashurst.com | current_professional | jenny.morning@ashurst.com | N/A | ashurst | 1 duval square | 55,000-70,000
+sara | chessa | linkedin.com/in/sara-chessa-0047a717 | sarachessa@amm.unica.it | N/A | N/A | N/A | social click | null | 85,000-100,000
