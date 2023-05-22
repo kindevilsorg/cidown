@@ -187,17 +187,9 @@ raffael | neuhaus | linkedin.com/in/raffael-neuhaus | raffael.neuhaus@gmail.com 
 marsha | rose | linkedin.com/in/marsharose | marsharose@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
 alec | lichlyter | linkedin.com/in/alec-lichlyter-0112b257 | alichlyter@cityofmadison.com | current_professional | alichlyter@cityofmadison.com | N/A | city of madison | 210 martin luther king jr boulevard | 85,000-100,000
 sana | irfan | linkedin.com/in/sana-irfan-b91219a8 | sana@bugclipper.com | professional | N/A | N/A | promodome digital | null | 85,000-100,000
-santosh | maharaj | linkedin.com/in/santosh-maharaj-7024563b | santoshmaharaj02@yahoo.com | personal | N/A | N/A | bhakti marga south africa | null | <20,000debbi | fendrick | linkedin.com/in/debbi-fendrick-85126747 | debbifendmu@hotmail.com | personal | N/A | N/A | advmod | null | 85,000-100,000
-lauren | zentko | linkedin.com/in/laurenzentko | lzentko@kahnlucas.com | professional | N/A | +15183121648 | maesa group | 225 liberty street | 85,000-100,000
-susana | gonzález | linkedin.com/in/susana-gonzález-48411738 | susanag03@gmail.com | personal | N/A | N/A | the bean social media | null | <20,000
-katia | piva | linkedin.com/in/katia-piva | katia.piva@wuerth.it | current_professional | katia.piva@wuerth.it | N/A | würth italia | null | 45,000-55,000
-kira | quirk | linkedin.com/in/kira-quirk-24923632 | kira.quirk@gmail.com | personal | N/A | N/A | peach street distillers | 144 south kluge avenue | 70,000-85,000
-gazmend | berisha | linkedin.com/in/gazmend-berisha-323886184 | gazmend@metdaan.com | current_professional | gazmend@metdaan.com | N/A | metdaan | 15 prince south street | <20,000
-stu | cunliffe | linkedin.com/in/stu-cunliffe-20413227 | stu@cunliffesocialmedia.co.uk | current_professional | stu@cunliffesocialmedia.co.uk | N/A | cunliffe social media | null | 55,000-70,000
-kanisha | mcswain | linkedin.com/in/kanishakayki-mcswain-b91a0831 | kkmcswain@gmail.com | personal | N/A | N/A | the starr island group | null | 70,000-85,000
-patricio | vera | linkedin.com/in/cuak | patomaldonado_23@hotmail.com | personal | N/A | N/A | touché films | null | 85,000-100,000
-davrick | hayes | linkedin.com/in/davrick-hayes-9b0960a2 | davrick.hayes@gmail.com | personal | N/A | +15624408077 | null | null | 85,000-100,000
-pooja | shirke | linkedin.com/in/pooja-shirke-29a67318 | tamana@live.ca | N/A | N/A | N/A | null | null | 55,000-70,000
-mattia | lissi | linkedin.com/in/mattialissi | mattia.lissi@sitebysite.it | professional | N/A | N/A | cisalfa sport spa | null | 45,000-55,000
-camille | poignant | linkedin.com/in/camillepoignant | camille.poignant@hotmail.fr | personal | camille@supernatifs.com | N/A | supernatifs | null | 55,000-70,000
-federica | saccucci | linkedin.com/in/federicasaccucci | federica-3@hotmail.it | personal | N/A | N/A | null | null | 45,000-55,000
+santosh | maharaj | linkedin.com/in/santosh-maharaj-7024563b | santoshmaharaj02@yahoo.com | personal | N/A | N/A | bhakti marga south africa | null | <20,000francesca | tasselli | linkedin.com/in/francescatasselli80 | francescatasselli@gmail.com | personal | N/A | N/A | cna umbria | null | 45,000-55,000
+aakash | arun | linkedin.com/in/aakasharun | mr.aakasharun@gmail.com | personal | N/A | N/A | fusion corporate solutions pvt. ltd. | 7th floor vatika city point | <20,000
+kaitlin | mckenna | linkedin.com/in/kaitlinmckenna | kmckenna@millenniumweb.com | current_professional | kmckenna@millenniumweb.com | +15164573622 | millennium communications inc. | 6900 jericho tpke | 85,000-100,000
+alix | marfurt | linkedin.com/in/alix-marfurt-666556b3 | alix.marfurt@ubs.com | current_professional | alix.marfurt@ubs.com | N/A | ubs | null | 100,000-150,000
+shekhar | thakran | linkedin.com/in/shekhar-thakran-4297129b | shekhar.thakran@cogencis.com | professional | shekhar@91mobiles.com | N/A | 91mobiles | null | <20,000
+lorenzo | gennari | linkedin.com/in/lorenzo-gennari-35086b80 | lorenzo.gennari@alleanza.it | professional | N/A | N/A | ebrand s.r.l | null | 45,000-55,000
