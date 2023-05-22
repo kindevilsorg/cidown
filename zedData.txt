@@ -1467,12 +1467,12 @@ eric | espiritu | linkedin.com/in/eric-angelo-espiritu-3973801a | ericangelo@gma
 eston | dickinson | linkedin.com/in/eston-dickinson-3a173410b | estondickinson@gmail.com | personal | N/A | N/A | sonarch media | null | 70,000-85,000inbar | eshel | linkedin.com/in/inbar-eshel-87673324 | inbar_eshel@hotmail.com | personal | N/A | N/A | null | null | 55,000-70,000
 laura | shepherd | linkedin.com/in/laura-shepherd-627a95119 | sparklecutie880@yahoo.com | personal | N/A | +17704032693 | mt. bethel umc | 4385 lower roswell road | 85,000-100,000
 amahle | madlala | linkedin.com/in/amahle-madlala-68645a108 | amahle@ideaengineers.co.za | current_professional | amahle@ideaengineers.co.za | N/A | idea engineers | null | <20,000
-celina | cruz | linkedin.com/in/celina-cruz-5200a1b0 | ccruz@ibm.com | professional | N/A | N/A | overheat | 19 trolley square | <20,000gabrielle | haag | linkedin.com/in/gabriellehaag | gabrielle@slimgenics.com | current_professional | gabrielle@slimgenics.com | N/A | slimgenics | 6520 wadsworth boulevard | 85,000-100,000
-cheryl | simone-miller | linkedin.com/in/nuzgrrrl | simone-millerc@cbsnews.com | professional | N/A | N/A | null | null | 85,000-100,000
-darby | riales | linkedin.com/in/darbyriales | darbyriales@yahoo.com | personal | N/A | +15014724336 | darby doll | null | 85,000-100,000
-elisa | andreoli | linkedin.com/in/elisa-andreoli-9b0aaa8a | elisa.andreoli@zanox.com | professional | N/A | N/A | philips | null | 45,000-55,000
-michelle | mares | linkedin.com/in/michelle-mares-7b229831 | kailadorre@yahoo.com | personal | N/A | N/A | hawaii institute for human rights | null | 85,000-100,000
-marcello | marchesini | linkedin.com/in/marcello-marchesini-7793bbb5 | marchesinimarcello@msn.com | personal | N/A | N/A | premio areté | null | 45,000-55,000
-anthea | lau | linkedin.com/in/anthea-lau-33670634 | anthealau2000@yahoo.com.hk | personal | N/A | N/A | xiaomi technology | 68 qinghe middle street | 55,000-70,000
-angela | bellamy-wade | linkedin.com/in/angela-bellamy-wade-2b097515 | angelawade44@yahoo.com | personal | N/A | N/A | simply put social media | null | 85,000-100,000
-emilio | ferreyra | linkedin.com/in/emilioferreyra | emilioferreyra@cofa.org.ar | current_professional | emilioferreyra@cofa.org.ar | N/A | confederación farmacéutica argentina | null | <20,000
+celina | cruz | linkedin.com/in/celina-cruz-5200a1b0 | ccruz@ibm.com | professional | N/A | N/A | overheat | 19 trolley square | <20,000julie | weizmann | linkedin.com/in/julie-weizmann-44b71668 | julie@rad.co | professional | N/A | N/A | l'oréal | null | 55,000-70,000
+namra | sikander | linkedin.com/in/namra-sikander-27393340 | namra.sikander@arpatech.com | professional | N/A | N/A | teeli | 13 dockyard road | <20,000
+valeria | cammerata | linkedin.com/in/valeria-cammerata-631b2a116 | vcammerata@gmail.com | personal | N/A | N/A | wecanjob | null | 45,000-55,000
+nicole | spurr | linkedin.com/in/nicole-spurr-in-london | nicole@tnng.co.za | professional | N/A | N/A | creative space | null | 55,000-70,000
+titilope | okeyemi | linkedin.com/in/titilope-okeyemi-882b1044 | titilopez14@yahoo.com | personal | N/A | N/A | social media manager | null | <20,000
+heather | hennessy | linkedin.com/in/heatherhennessy18 | heather.hennessy@unilever.com | current_professional | heather.hennessy@unilever.com | N/A | unilever | null | 85,000-100,000
+carolyn | yee | linkedin.com/in/carolynsyee | littlemonkey53@yahoo.com | personal | N/A | +17143697543 | null | null | 85,000-100,000
+sara | perro | linkedin.com/in/saraperro | s.perro@edizionimorelli.it | professional | N/A | N/A | hangar re-inventare il futuro progetto dell'assessore alla cultura della regione piemonte | null | 45,000-55,000
+andrés | león | linkedin.com/in/andrés-león-25059024 | andresleot@gmail.com | personal | N/A | N/A | mrm//mccann spain | null | 35,000-45,000
