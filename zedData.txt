@@ -2879,4 +2879,11 @@ laura | arnold | linkedin.com/in/laurajarnold | larnold6811@gmail.com | personal
 stephanie | rosen | linkedin.com/in/stephanie-rosen-60717232 | skayrosen@gmail.com | personal | N/A | +17742320533 | erno laszlo | 129 west 29th street | 85,000-100,000
 erin | ansley | linkedin.com/in/erinfansley | eansley@hanleywood.com | professional | N/A | N/A | zovio | null | 70,000-85,000
 agata | bonaccorso | linkedin.com/in/agatabonaccorso | agata.bonaccorso@inwind.it | personal | N/A | N/A | sicula carni | null | 45,000-55,000
-manila | baldan | linkedin.com/in/manila-baldan-99925637 | manilabal@gmail.com | personal | N/A | N/A | tinyurlme | null | 45,000-55,000
+manila | baldan | linkedin.com/in/manila-baldan-99925637 | manilabal@gmail.com | personal | N/A | N/A | tinyurlme | null | 45,000-55,000tiffany | yamashita | linkedin.com/in/tiffanyyamashita | tiffyama@gmail.com | personal | N/A | +13237156193 | digital media management | 5670 wilshire boulevard | 70,000-85,000
+corbin | sharp | linkedin.com/in/corbinsharp | corbin.sharp@surveysampling.com | professional | N/A | +18014507370 | rool golf | null | 70,000-85,000
+tomás | oliveira | linkedin.com/in/tomasdesideriooliveira | comunicacao.premium@century21.pt | professional | N/A | N/A | sport lisboa e benfica | null | 25,000-35,000
+eric | dargis | linkedin.com/in/ericdargis | eric.dargis@vimn.com | N/A | N/A | N/A | digital media management | 5670 wilshire boulevard | 85,000-100,000
+hannah | ratcliff | linkedin.com/in/hannahratcliff | hannah_ratcliff@nfumutual.co.uk | current_professional | hannah_ratcliff@nfumutual.co.uk | N/A | nfu mutual | null | 55,000-70,000
+emma | bosma | linkedin.com/in/emmabosma | emma@c2b.nu | current_professional | emma@c2b.nu | N/A | c2b .nu | null | 70,000-85,000
+kim | pelton | linkedin.com/in/kim-pelton-69a1301a | kimekimbo@hotmail.com | personal | N/A | +15757410884 | taos mesa brewing | null | 85,000-100,000
+robert | sumski | linkedin.com/in/robertsumski | robert@edwardsnz.co.nz | current_professional | robert@edwardsnz.co.nz | N/A | edwards sound systems ltd | null | 55,000-70,000
