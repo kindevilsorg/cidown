@@ -24,4 +24,19 @@ pooja | vig | linkedin.com/in/poojavig | pooja.vig@revolveclothing.com | N/A | p
 alberto | muggeo | linkedin.com/in/albertomuggeo | alberto.muggeo@sun-times.it | current_professional | alberto.muggeo@sun-times.it | N/A | sun-times srl | null | 45,000-55,000
 tal | oringer | linkedin.com/in/tal-oringer-66882589 | tal@literally.media | current_professional | tal@literally.media | N/A | literally media | 61 greenpoint avenue | 55,000-70,000
 dheeraj | verma | linkedin.com/in/dheeraj-verma-363215138 | dheeraj@dakshinfo.com | current_professional | dheeraj@dakshinfo.com | N/A | daksh infosoft pvt ltd | 724 usha nagar extension | <20,000
-elodie | boullé | linkedin.com/in/elodie-boullé-84a28867 | elodie@mbm.net.nz | current_professional | elodie@mbm.net.nz | N/A | mbm | 317-319 new north road | 55,000-70,000
+elodie | boullé | linkedin.com/in/elodie-boullé-84a28867 | elodie@mbm.net.nz | current_professional | elodie@mbm.net.nz | N/A | mbm | 317-319 new north road | 55,000-70,000paul | kaminka | linkedin.com/in/paul-kaminka | paul@babaroro.co | current_professional | paul@babaroro.co | N/A | babaroro | null | 85,000-100,000
+dina | goparian | linkedin.com/in/dina-goparian-31802318 | agirlnamedgupe@yahoo.com | personal | N/A | +15084591502 | entrepreneur, real estate investor & marketing affiliate in the free enterprise market. | null | 85,000-100,000
+natasha | gildea | linkedin.com/in/natasha-gildea-47129b20 | natasha@northstateinsurance.com | N/A | N/A | N/A | alitura naturals | null | 70,000-85,000
+nicole | javines | linkedin.com/in/nicolejavines | shopherclothing@gmail.com | personal | N/A | N/A | nala the label | null | <20,000
+marvin | fernandez | linkedin.com/in/marvin-fernandez-881a3739 | marvinfernandez1@aol.co.uk | N/A | N/A | N/A | ikaroa | 100 pall mall | 55,000-70,000
+hannah | disney | linkedin.com/in/hannah-disney-ab2b7272 | hannah.disney@drivenbrands.com | professional | N/A | N/A | audible, inc. | null | 85,000-100,000
+francesca | tosi | linkedin.com/in/francescatosi88 | ftosi@google.com | professional | N/A | N/A | null | null | 45,000-55,000
+ryal | curtis | linkedin.com/in/ryalcurtis | ryalcurtis@gmail.com | personal | N/A | +19196219757 | bluecross blueshield of south carolina | 20 east at alpine road | 85,000-100,000
+harith | ramli | linkedin.com/in/harith-ramli-72451737 | hr205@live.mdx.ac.uk | professional | N/A | N/A | lnw asia | null | <20,000
+jacopo | casati | linkedin.com/in/jacopocasati | jacopo.casati@outune.net | professional | N/A | N/A | areaconcerti | null | 55,000-70,000
+tina | burr | linkedin.com/in/tinaburr | tina.burr@nielsen.com | current_professional | tina.burr@nielsen.com | N/A | nielsen | 85 broad street | 85,000-100,000
+liudmila | mazyarkina | linkedin.com/in/liudmila-mazyarkina-5585b430 | mazyarkina@mail.ru | personal | N/A | N/A | awoo lcc | null | <20,000
+lila | ench | linkedin.com/in/lila-ench-bb43aa45 | lilaench@msn.com | personal | N/A | N/A | better world tours | null | 85,000-100,000
+brianna | tabler | linkedin.com/in/brianna-tabler-b7511920 | btabler@christiecomm.com | N/A | N/A | N/A | crazy love ministries | null | 85,000-100,000
+rachel | landen | linkedin.com/in/landenrachel | relanden@gmail.com | personal | N/A | +12524323799 | cme group | 20 south wacker drive | 85,000-100,000
+carolina | taborda | linkedin.com/in/carolina-taborda-6b43763b | carolinatabord@gmail.com | personal | N/A | N/A | prosumia | null | <20,000
