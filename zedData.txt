@@ -1423,4 +1423,22 @@ raphaella | brice | linkedin.com/in/raphaella-brice-6a3057105 | bricer@mville.ed
 emanuele | larini | linkedin.com/in/emanuelelarini | elarini@libero.it | N/A | N/A | N/A | zeffirisereni | null | 45,000-55,000
 loup | lassinat-foubert | linkedin.com/in/loupl | alexleserveur@hotmail.fr | personal | N/A | N/A | ouest-france | null | 55,000-70,000
 trang | nguyen | linkedin.com/in/nguyenttrang | trang.nguyen@rti.com | professional | N/A | N/A | jan marini skin research | 5883 rue ferrari | 85,000-100,000
-lamine | mbaye | linkedin.com/in/lamineric | lamineric@gmail.com | personal | N/A | N/A | radisson blu hotel dakar sea plaza | null | 85,000-100,000
+lamine | mbaye | linkedin.com/in/lamineric | lamineric@gmail.com | personal | N/A | N/A | radisson blu hotel dakar sea plaza | null | 85,000-100,000niclas | gustafsson | linkedin.com/in/niclas-gustafsson-148a6045 | niclas@graciebarra.se | professional | N/A | N/A | gunnar dafgård ab | null | 85,000-100,000
+helen-clare | turnbull | linkedin.com/in/helenclareturnbullprofile | helen.turnbull@sofeminine.co.uk | professional | N/A | +447768619909 | news uk | 1 london bridge street | 55,000-70,000
+bianca | sewake | linkedin.com/in/bianca-sewake-96669572 | biancas@honolulumagazine.com | professional | N/A | +18082255423 | aqua-aston hospitality, an interval leisure group company | 2155 kalakaua avenue | 70,000-85,000
+catherine | harrison | linkedin.com/in/catherine-harrison-31714128 | loves2bsocial@yahoo.com | personal | N/A | N/A | let's get social | null | 85,000-100,000
+michela | rizzi | linkedin.com/in/michela-rizzi-33048636 | mik_sil@alice.it | N/A | N/A | N/A | kumusic musicaeparole expert taranto gruppo cavallo dada disco pub il caffè del mare club 73 | null | 45,000-55,000
+maret | põldveer-turay | linkedin.com/in/maret-põldveer-turay-1597083b | maret.poldveer@tallinnlv.ee | N/A | N/A | N/A | null | null | 85,000-100,000
+laurie | thomas | linkedin.com/in/laurie-thomas-10aa3b11 | beachy1t@mailcity.com | personal | N/A | +16309649864 | second chance with saving grace | null | 70,000-85,000
+angie | theva | linkedin.com/in/angiethevarajan | angie.thevarajan@mosaic.com | N/A | N/A | N/A | mary brown's famous chicken and taters | 100 renfrew drive | 55,000-70,000
+jose | cabezas | linkedin.com/in/jose-cabezas-88b83537 | pepe_cabezas82@hotmail.com | personal | N/A | N/A | get wet surf school | null | 70,000-85,000
+alexandria | turney | linkedin.com/in/alexandria-turney-32482567 | alexandria.turney@gmail.com | personal | N/A | N/A | lionsgate event center | 1055 south 112th street | 85,000-100,000
+carise | pernell | linkedin.com/in/carisepernell | carise.pernell@gmail.com | personal | N/A | +17706871026 | the disney fox | null | 85,000-100,000
+harriet | edgar | linkedin.com/in/harrietedgar | harriet_edgar@hotmail.com | personal | N/A | N/A | whiteoaks | null | 55,000-70,000
+debra | beck | linkedin.com/in/debra-beck-0025b023 | dbeck421@woh.rr.com | personal | N/A | N/A | revitalizemd med spa and laser center | null | 70,000-85,000
+daniele | pirola | linkedin.com/in/daniele-pirola-0b335832 | pirola.daniele@gmail.com | personal | N/A | N/A | r101 monradio | null | 45,000-55,000
+elizabeth | saari | linkedin.com/in/saarielizabeth | elizabeth@simplygluten-free.com | current_professional | elizabeth@simplygluten-free.com | +17274323193 | simply gluten-free | 1497 main street | 70,000-85,000
+kelsey | duggan | linkedin.com/in/kelsey-duggan-b7913835 | kelsa.duggan@gmail.com | personal | N/A | N/A | quantic school of business and technology | null | 85,000-100,000
+david | desue | linkedin.com/in/david-desue-5b8942a | ddesue@fsu.edu | professional | N/A | +18509337956 | corbec media, llc | null | 85,000-100,000
+erica | rossi | linkedin.com/in/erica-rossi-1b920892 | erica.rossi@aism.it | current_professional | erica.rossi@aism.it | N/A | aism onlus | null | 45,000-55,000
+jayne | gubler | linkedin.com/in/jayne-gubler-30667829 | moanasaves@gmail.com | professional | N/A | N/A | health unveiled | 662 east 500 north | 70,000-85,000
