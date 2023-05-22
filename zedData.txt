@@ -2849,4 +2849,17 @@ jacklyn | alward | linkedin.com/in/jacklyn-alward-a6024919 | jackiflemming@yahoo
 meghan | jahr | linkedin.com/in/meghan-jahr-ab595b19 | mjahr10@gmail.com | personal | meghan_jahr@neimanmarcus.com | N/A | neiman marcus | 1201 elm street | 85,000-100,000
 maria | d'alpuim | linkedin.com/in/mariadalpuim | mariadalpuim@gmail.com | personal | N/A | +447543290727 | null | null | 55,000-70,000
 peter | syravong | linkedin.com/in/petersyravong | psyravong@gmail.com | personal | N/A | +19164733442 | rastaclat | 4007 paramount boulevard | 70,000-85,000
-taylor | moody | linkedin.com/in/taylor-moody-a136853b | tmoody@ryerson.ca | N/A | taylor.moody@livenationentertainment.com | N/A | live nation entertainment | null | 55,000-70,000
+taylor | moody | linkedin.com/in/taylor-moody-a136853b | tmoody@ryerson.ca | N/A | taylor.moody@livenationentertainment.com | N/A | live nation entertainment | null | 55,000-70,000melanie | neilson | linkedin.com/in/melanie-neilson-96aa274 | melanie.neilson@premiers.qld.gov.au | professional | N/A | N/A | australian women in music awards | null | 70,000-85,000
+jack | gc | linkedin.com/in/jack-gc-7505a812 | joaquingratacoscirera@gmail.com | personal | N/A | N/A | radio x londres | null | 35,000-45,000
+danya | ronces | linkedin.com/in/danya-valeria-martínez-ronces-4b130298 | danya.ronces@gmail.com | personal | N/A | N/A | null | null | <20,000
+alexandr | ivakin | linkedin.com/in/aivakin | alexandr.ivakin@gmail.com | personal | N/A | N/A | amer sports corporation | null | <20,000
+jenny | watt | linkedin.com/in/jenny-watt | jennyvillacres@gmail.com | personal | N/A | +15404557564 | ubreakifix | 200 south orange avenue | 70,000-85,000
+kjell | coel | linkedin.com/in/kjell-coel-a365b76 | kjell.coel@bolero.be | professional | N/A | N/A | allianz | null | 55,000-70,000
+cally | guthrie | linkedin.com/in/cally-guthrie-21b379105 | callyguthrie@gmail.com | personal | N/A | N/A | acceptance insurance | 3813 green hills village drive | 85,000-100,000
+jennifer | lambert | linkedin.com/in/jennlambert | jennifer.lambert3@hotmail.com | personal | N/A | N/A | iron mountain | 1 federal street | 70,000-85,000
+edward | mcphee | linkedin.com/in/edwardmcphee11 | edwardmcphee11@gmail.com | personal | N/A | N/A | digital fix consulting | null | 70,000-85,000
+rui | quadrado | linkedin.com/in/rui-quadrado-1560967a | ruiquadrado@gliff.pt | current_professional | ruiquadrado@gliff.pt | N/A | gliff | null | 25,000-35,000
+joshua | meier | linkedin.com/in/joshua-meier-22a90441 | joshua-.-meier@hotmail.com | personal | N/A | N/A | calanda broncos | null | 100,000-150,000
+natalia | kijko | linkedin.com/in/natalia-kijko-205611bb | natalia.kijko@they.pl | current_professional | natalia.kijko@they.pl | N/A | they.pl digital marketing agency | null | <20,000
+caylee | ashwell | linkedin.com/in/cayleeashwell | caylee@besocialpr.com | professional | caylee.ashwell@fabfitfun.com | +18589453037 | fabfitfun | 360 north la cienega boulevard | 85,000-100,000
+leslie | harris | linkedin.com/in/leslie-harris-4a4b4230 | lharris0227@sbcglobal.net | personal | N/A | +19048603773 | stafftime | 7845 baymeadows way | 100,000-150,000
