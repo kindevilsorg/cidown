@@ -1570,12 +1570,25 @@ japo | parcero | linkedin.com/in/japo-parcero-968970141 | japo.parcero@gmail.com
 dmitriy | sys | linkedin.com/in/dmitriy-sys-6785982b | aisystems@ymail.com | personal | dmitriy.sys@psimetals.com | N/A | psi metals | null | 55,000-70,000
 amanda | grimes | linkedin.com/in/amanda-grimes-713083b6 | agrimes@arbor.edu | professional | N/A | +12316205384 | pathway community church | null | 85,000-100,000
 mikkel | ejlertsen | linkedin.com/in/ejlertsen | mikkel.e2@gmail.com | personal | N/A | N/A | aarhus university | null | 85,000-100,000
-nicolas | lachambre | linkedin.com/in/nicolaslachambre | nicolas.lachambre@gmail.com | personal | N/A | N/A | garmin france sas | null | 55,000-70,000abdulrahman | alnedawi | linkedin.com/in/abdulrahman-alnedawi-641633111 | a_alnedawi@yahoo.com | personal | N/A | N/A | click iraq | null | 70,000-85,000
-natalie | camunas | linkedin.com/in/natalie-camunas-81a2a534 | natalie@getfitgoplay.com | professional | N/A | +16262428564 | null | null | 85,000-100,000
-serenella | mele | linkedin.com/in/serenella-mele-22b7b226 | serenella.mele@valtur.it | professional | N/A | N/A | autonomo | null | 45,000-55,000
-vanessa | wall | linkedin.com/in/vanessa-mae-wall | dolphin654@verizon.net | personal | N/A | +17246012109 | l.s jewelers | null | 85,000-100,000
-candice | clem | linkedin.com/in/candiceclem | candice.clem@gmail.com | personal | N/A | +12068773150 | socialistics | 500 mercer street | 100,000-150,000
-sarah | kretzu | linkedin.com/in/sarahkretzu | skretzu@justfab.com | N/A | N/A | +18186385170 | boyish | null | 70,000-85,000
-lara | pearce | linkedin.com/in/lara-pearce-6aba1b56 | lpearce@meadowsfarms.com | current_professional | lpearce@meadowsfarms.com | N/A | meadows farms nursery | 43054 john mosby highway | 85,000-100,000
-jahmal | royster | linkedin.com/in/jahmalroyster | jahmal.royster@potbelly.com | professional | N/A | +13129510600 | jahmalsworld | null | 70,000-85,000
-katelyn | ward | linkedin.com/in/katelyn-ward-b1286983 | kward@fsu.edu | professional | N/A | N/A | trustworkz, inc. | 3101 cobb parkway | 70,000-85,000
+nicolas | lachambre | linkedin.com/in/nicolaslachambre | nicolas.lachambre@gmail.com | personal | N/A | N/A | garmin france sas | null | 55,000-70,000anthi | sasmatzoglou | linkedin.com/in/anthisasmatzoglou | anthi_sas@yahoo.gr | N/A | N/A | N/A | koolfly | null | 25,000-35,000
+megan | whiteside | linkedin.com/in/megan-whiteside-27b80647 | meganwhiteside@gmail.com | personal | megan@loveyourbrain.com | N/A | loveyourbrain | null | 70,000-85,000
+ginna | oksienik | linkedin.com/in/ginnao | oksienikg@centenarycollege.edu | professional | N/A | N/A | gray's watercolors | null | 85,000-100,000
+kunal | puri | linkedin.com/in/kunal-puri-84722b60 | kunal.puri@bestseller.com | professional | N/A | N/A | null | null | <20,000
+grace | myu | linkedin.com/in/gracemyu | grace.myu@gmail.com | personal | N/A | N/A | lila movementechnology | null | <20,000
+rasha | tabbaa | linkedin.com/in/rashatabbaa | rasha.tabbaa@gmail.com | personal | N/A | N/A | mms motors | null | 55,000-70,000
+vicky | liddle | linkedin.com/in/vicky-liddle-31b47a7a | vicky.liddle@holidaydiscountcentre.co.uk | current_professional | vicky.liddle@holidaydiscountcentre.co.uk | N/A | holiday discount centre | null | 55,000-70,000anna | sedolfsen | linkedin.com/in/annasedolfsen | annas@live.no | N/A | N/A | N/A | null | null | 100,000-150,000
+spencer | wong | linkedin.com/in/spencerswong | w_spencer@ymail.com | personal | N/A | +14156138800 | null | null | 85,000-100,000
+nickolas | erickson | linkedin.com/in/nickolas-erickson-715036156 | nickolas.erickson@sduniversitycenter.org | professional | N/A | N/A | exumbris international | null | 85,000-100,000
+chiara | rigoni | linkedin.com/in/chiararigoni | chiararigoni@gmail.com | personal | N/A | N/A | chiara rigoni | null | 55,000-70,000
+rudin | nursodik | linkedin.com/in/rudin-nursodik-8abab3164 | rudinnursodik@gmail.com | personal | N/A | N/A | cryptocurrency | null | <20,000
+nicole | piotrowska | linkedin.com/in/nicole-piotrowska-38b886115 | nicole.piotrowska@plodni.com | current_professional | nicole.piotrowska@plodni.com | N/A | płodni.com | null | <20,000
+maize | pyburn | linkedin.com/in/maize-pyburn-aa2566103 | mpyburn@frc.org | professional | N/A | +12023932100 | american family association | null | 85,000-100,000
+dga | viens | linkedin.com/in/viensveronique | veronique@pixelsetpaillettes.com | professional | dviens@highshare.com | N/A | highshare | 4000 st ambroise street | 55,000-70,000
+olga | jakubiak | linkedin.com/in/olga-jakubiak-46a9b214 | olga.jakubiak@gmail.com | personal | N/A | N/A | daftcode | null | <20,000
+shweta | jain | linkedin.com/in/shweta-jain-2a987062 | shweta.jain@cheersin.com | professional | N/A | N/A | parallel plaids uniforms private limited | null | <20,000
+matthew | rappaport | linkedin.com/in/matthewrappaport | nyactorm11@gmail.com | personal | N/A | +15168405734 | sirk productions | 10-11 46th avenue | 55,000-70,000
+ameer | shamsud-din | linkedin.com/in/ameer-shamsud-din-a2b939ab | ashamsud-din@mccpros.com | current_professional | ashamsud-din@mccpros.com | N/A | merino computer concepts | 1822 west kettleman lane | 85,000-100,000
+maria | krauß | linkedin.com/in/maria-krauß-37ab484a | m.krauß@immowelt.de | current_professional | m.krauß@immowelt.de | N/A | immowelt ag | null | 55,000-70,000
+shoshannah | coughlan | linkedin.com/in/shoshannah-coughlan-98735347 | shushanana@hotmail.com | personal | shoshannah@onefabday.com | N/A | one fab day | null | 70,000-85,000
+brittany | hans | linkedin.com/in/brittany-hans-b77360107 | brittany@fultongrace.com | current_professional | brittany@fultongrace.com | N/A | fulton grace realty | 1400 north milwaukee avenue | 70,000-85,000
+alexis | leon | linkedin.com/in/alexis-leon-514a5966 | aleon@ubti.com | professional | N/A | +13015197968 | vortexmsp | null | 70,000-85,000
