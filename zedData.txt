@@ -1910,4 +1910,13 @@ enrique | aguilar | linkedin.com/in/enrique-rios-aguilar-50215949 | eriosaguilar
 martina | isberg | linkedin.com/in/martinafrick | martinafrickisberg@gmail.com | personal | N/A | N/A | kth royal institute of technology | null | 70,000-85,000
 daniel | pultz | linkedin.com/in/daniel-pultz-26a37296 | daniel.pultz@usmc.mil | N/A | N/A | N/A | wrasslerap | null | 85,000-100,000
 avneet | kaur | linkedin.com/in/avneetk | avneet.libra@gmail.com | personal | N/A | N/A | wesimplifys | null | <20,000
-estefanía | montero | linkedin.com/in/estefcomuni | estefaniacomunicadora@gmail.com | personal | N/A | N/A | null | null | <20,000
+estefanía | montero | linkedin.com/in/estefcomuni | estefaniacomunicadora@gmail.com | personal | N/A | N/A | null | null | <20,000nicholas | benton | linkedin.com/in/nicholas-benton-98194527 | guhntrial@gmail.com | personal | N/A | N/A | dka design group | 4521 leavenworth street | 70,000-85,000
+beckie | turnbull | linkedin.com/in/beckie-turnbull-80563240 | beckieturnbull@hotmail.com | personal | beckie.turnbull@prettylittlething.com | N/A | prettylittlething.com | null | 55,000-70,000
+tommy | mcphail | linkedin.com/in/tommymcphail | manbuffetrecords@gmail.com | personal | N/A | N/A | everybody at once | 155 rivington street | 70,000-85,000
+megan | beadling | linkedin.com/in/megan-beadling-532291b0 | meganbeadling@gmail.com | personal | N/A | +12153608583 | jefferson & ridge | null | 70,000-85,000
+khrisya | nadira | linkedin.com/in/khrisya-nadira-b127b754 | khrisya.nadira@gmail.com | personal | N/A | N/A | capelladigicrats | null | <20,000
+helen | fina | linkedin.com/in/helen-fina-0286222a | hjbond@yahoo.co.uk | personal | N/A | N/A | null | null | 45,000-55,000
+dyan | cornacchio | linkedin.com/in/dyan-cornacchio-45861922 | d.cornacchio@americanconference.com | professional | N/A | N/A | sparks | 2828 charter road | 100,000-150,000
+nicole | nolen | linkedin.com/in/nicolesnolen | n.sabourin@yahoo.com | personal | nicole.sabourin@mecklenburgcountync.gov | N/A | mecklenburg county | 600 east 4th street | 70,000-85,000
+catherine | trainor | linkedin.com/in/catherine-trainor-47435227 | cctrainor@gmail.com | personal | N/A | N/A | salsa antarctica | null | 70,000-85,000
+verity | hyde | linkedin.com/in/verity-hyde-4a22a659 | vhyde@brayleino.co.uk | current_professional | vhyde@brayleino.co.uk | N/A | bray leino | null | 55,000-70,000
