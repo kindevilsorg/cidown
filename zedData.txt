@@ -2255,4 +2255,22 @@ jeannine | hegelbach | linkedin.com/in/jeannine-hegelbach-74422617 | supernovast
 jackie | kindall | linkedin.com/in/jackiekindall | jkindall@overstock.com | professional | N/A | N/A | yummly | 883 east san carlos avenue | 70,000-85,000
 giovanni | prattichizzo | linkedin.com/in/giovanniprattichizzo | giovanni.prattichizzo@uniroma1.it | professional | N/A | N/A | istat | null | <20,000
 stephanie | moh | linkedin.com/in/stephanie-moh | hello.stephaniemoh@gmail.com | personal | N/A | N/A | brckts | 10b trengganu street | 70,000-85,000
-vanessa | lustosa | linkedin.com/in/vanessalustosa | vlustosa@guydegrenne.fr | professional | N/A | N/A | bouygues energies & services | null | 55,000-70,000
+vanessa | lustosa | linkedin.com/in/vanessalustosa | vlustosa@guydegrenne.fr | professional | N/A | N/A | bouygues energies & services | null | 55,000-70,000anna | skrzeczkowska | linkedin.com/in/anna-skrzeczkowska-6aa19a32 | anna.skrzeczkowska@hochbahn.de | professional | N/A | N/A | lufthansa aviation training gmbh | null | 55,000-70,000
+ruby | syme | linkedin.com/in/ruby-syme-28a14466 | ruby.syme@backpackerdeals.com | current_professional | ruby.syme@backpackerdeals.com | N/A | backpacker deals limited | 20 queen street | 70,000-85,000
+dirk | heuwer | linkedin.com/in/dirk-heuwer-a513b02b | dirk.blauton@googlemail.com | personal | N/A | N/A | cyrano | null | 55,000-70,000
+jessie | bosley | linkedin.com/in/jessie-bosley | jbosley@sbcglobal.net | personal | N/A | +17703548832 | austere | null | 70,000-85,000
+amanda | montgomery | linkedin.com/in/amanda-montgomery-79597553 | amontgomery@hottopic.com | professional | amanda@alderbrookproperties.com | +12154505184 | alderbrook properties | null | 70,000-85,000
+charles | span | linkedin.com/in/charles-span-9a094146 | tangibletax@gmail.com | professional | N/A | N/A | tangible tax | null | 85,000-100,000
+angharad | daniels | linkedin.com/in/angharad-daniels-37ba1930 | adelle.dewitt27@gmail.com | personal | N/A | N/A | classic sovereign | null | 55,000-70,000
+arnaud | debet | linkedin.com/in/arnauddebet | arnaud.debet@konbini.com | current_professional | arnaud.debet@konbini.com | N/A | konbini | null | 55,000-70,000
+naama | vahab-daniel | linkedin.com/in/naama-vahab-daniel-7316b6102 | naama@economy.gov.il | current_professional | naama@economy.gov.il | N/A | ministry of economy and industry, israel | null | 55,000-70,000
+samantha | schatz | linkedin.com/in/samanthaschatz | sschatz@lagos.com | professional | N/A | N/A | neff rental | 3750 northwest 87th avenue | 70,000-85,000
+giulia | mulonia | linkedin.com/in/giulia-mulonia-8613a68a | giulia@nowfashion.com | current_professional | giulia@nowfashion.com | N/A | nowfashion | null | 45,000-55,000
+alexandra | robyck | linkedin.com/in/alexandra-robyck-35bab160 | aalolardz@gmail.com | personal | N/A | N/A | dana-farber cancer institute | 450 brookline avenue | 70,000-85,000
+julia | karlsson | linkedin.com/in/juliakarlsson | karlsson_j@subway.com | professional | N/A | N/A | ipiccolo ab | null | 70,000-85,000
+gioele | citton | linkedin.com/in/gioele-citton-76b14825 | cittongioele@gmail.com | personal | N/A | N/A | tasc.it | null | 45,000-55,000
+jonathan | franklin | linkedin.com/in/jonathan-franklin-8196101b | j.franklin86@hotmail.com | personal | N/A | N/A | metro bank (uk) | 1 southampton row | 55,000-70,000
+alex | gillman | linkedin.com/in/alex-gillman | alex@supportlafd.org | current_professional | alex@supportlafd.org | +15596399132 | los angeles fire department foundation | null | 85,000-100,000
+mirelle | shimonov | linkedin.com/in/mirelleshimonov | mshimonov@realinteractive.ca | current_professional | mshimonov@realinteractive.ca | N/A | real interactive | null | 55,000-70,000
+allie | dietz | linkedin.com/in/allie-dietz-44b759109 | alliedietzz@gmail.com | personal | N/A | +15406043853 | what's trending | 1617 cosmo street | 85,000-100,000
+german | mondragon | linkedin.com/in/german-mondragon-85a96430 | german.mondragon@ottomotores.com.mx | professional | N/A | N/A | ahkimpech | null | 20,000-25,000
