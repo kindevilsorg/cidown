@@ -1013,11 +1013,11 @@ johanna | krook | linkedin.com/in/johanna-krook-5a5358132 | johanna@eivyclothing
 erica | dufrene | linkedin.com/in/ericawdufrene | ericaw@cajundome.com | current_professional | ericaw@cajundome.com | +13373442179 | cajundome & convention center | 444 cajundome boulevard | 100,000-150,000
 natasha | salehi | linkedin.com/in/natasha-salehi-1a842946 | natasha.salehi@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
 emilie | ponthieu | linkedin.com/in/emilieponthieu | le_lay_emilie@hotmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-anne-marie | colant | linkedin.com/in/amcolant | acolant@ajga.org | professional | N/A | N/A | universal windows direct | 24801 rockside road | 70,000-85,000natalia | albertini | linkedin.com/in/natalia-albertini-18887b11a | nalbertini@entravision.com | current_professional | nalbertini@entravision.com | N/A | entravision communications | 2425 olympic boulevard | 20,000-25,000
-toyo | oeste | linkedin.com/in/toyo-oeste-b9b78144 | toyooeste1@gmail.com | personal | N/A | N/A | toyo oeste c.a | null | <20,000
-mascha | blender | linkedin.com/in/maschablender | maschab@wix.com | professional | N/A | N/A | null | null | 55,000-70,000
-gaelle | lints | linkedin.com/in/gaelle-lints-7306291b | gaellelints@yahoo.fr | personal | N/A | N/A | chm montalivet | null | 55,000-70,000
-katherine | lee | linkedin.com/in/katherine-lee-79892515 | katlee624@gmail.com | personal | N/A | N/A | henkel | null | 85,000-100,000
-isaac | casas | linkedin.com/in/isaac-casas-8a75b54 | isaachaus@hotmail.com | personal | N/A | N/A | karely envasos alimentaris | null | 35,000-45,000
-jermaine | stirtmire | linkedin.com/in/jermaine-stirtmire-1788b277 | jstirtmire@nbc29.com | professional | N/A | N/A | black beard labs | 200 south wayne avenue | 70,000-85,000
-alicia | mcmahan | linkedin.com/in/alicia-jo-mcmahan-98366011 | aliciaj.mcmahan@yahoo.com | personal | N/A | +18282083552 | mitchell county safe place | null | 70,000-85,000
+anne-marie | colant | linkedin.com/in/amcolant | acolant@ajga.org | professional | N/A | N/A | universal windows direct | 24801 rockside road | 70,000-85,000denean | dale | linkedin.com/in/denean-dale-a26a2788 | denean@bobdalegloves.com | current_professional | denean@bobdalegloves.com | +16043476495 | bob dale gloves & imports | null | 55,000-70,000
+suzanna | fletcher | linkedin.com/in/suzanna-fletcher-474a003a | suzannafletcher@hotmail.com | personal | N/A | +16618775780 | i-droid | null | 85,000-100,000
+matthew | doughty | linkedin.com/in/matthew-doughty-63858399 | matthew.doughty@northampton.ac.uk | current_professional | matthew.doughty@northampton.ac.uk | N/A | university of northampton | null | 55,000-70,000
+gaia | benedetti | linkedin.com/in/gaia-benedetti-596a3743 | gaia.benedetti@gmail.com | personal | N/A | N/A | gabetti milano brera corso magenta | null | 45,000-55,000
+chanel | bevis | linkedin.com/in/chanelbevis | chanelbevis@gmail.com | personal | N/A | N/A | international language coaching association | null | <20,000
+davide | borsani | linkedin.com/in/borsanidavide | davideborsani94@gmail.com | personal | davide.borsani@industriacreativa.eu | N/A | industria creativa | null | 45,000-55,000
+sonya | mcintyre | linkedin.com/in/sonya-mcintyre-wgtn | sonya@storypark.com | current_professional | sonya@storypark.com | N/A | storypark | 175 victoria street | 45,000-55,000
+javon | francis | linkedin.com/in/javon-francis-24554785 | javfrancis1@gmail.com | personal | N/A | N/A | nedbank | 135 rivonia road | <20,000
