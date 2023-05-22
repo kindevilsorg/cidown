@@ -787,4 +787,13 @@ john-paul | mackey | linkedin.com/in/johnpaulmackey | jpgenius2751@gmail.com | p
 emily | landa | linkedin.com/in/emilylanda | emily@sullivanvideo.net | professional | emily.landa@hydrostudios.com | N/A | hydro studios | 1811 centinela avenue | 100,000-150,000
 victoria | loreto | linkedin.com/in/victoria-loreto-54b1b7b6 | victoria.loreto@hotmail.fr | personal | vloreto@laprovence.com | N/A | la provence | null | 55,000-70,000
 sarah | kern | linkedin.com/in/sarahpkern | sarahpkern@gmail.com | personal | N/A | N/A | yves salomon fourrures | null | 55,000-70,000
-mario | spataro | linkedin.com/in/mario-spataro-67a6b934 | mariospataro@hotmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
+mario | spataro | linkedin.com/in/mario-spataro-67a6b934 | mariospataro@hotmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000imani | albert | linkedin.com/in/imanialbert | imani9@vt.edu | professional | N/A | +14438966177 | vmly&r | null | 85,000-100,000
+clint | barger | linkedin.com/in/clintrbarger | cbarg068@live.kutztown.edu | professional | N/A | N/A | s. clyde weaver inc. | 201 memory lane | 85,000-100,000
+lena | oakley | linkedin.com/in/lenaoakley | lenagoakley@gmail.com | personal | N/A | +14073995572 | wingard | 76 south laura street | 70,000-85,000
+bridget | caliento | linkedin.com/in/bridgetcaliento | bcaliento@aceendico.com | current_professional | bcaliento@aceendico.com | N/A | ace endico | 80 international boulevard | 85,000-100,000
+whitney | moore | linkedin.com/in/whitneysmoore | wmoore@teamwass.com | professional | N/A | N/A | digital media management | 5670 wilshire boulevard | 70,000-85,000
+cookie | leung | linkedin.com/in/cookie-leung-27530158 | cookie.leung@bloomandgrowasia.com | current_professional | cookie.leung@bloomandgrowasia.com | N/A | bloom & grow | 410 des voeux road west | 55,000-70,000
+lannette | price | linkedin.com/in/lannette-price-53569692 | lannette@resume.com | current_professional | lannette@resume.com | N/A | resume.com | 333 seymour street | 55,000-70,000
+rebecca | worcester | linkedin.com/in/rebeccawooch | rebecca.worcester@bellagurl.com | current_professional | rebecca.worcester@bellagurl.com | N/A | bg digital group | 809 arendell street | 85,000-100,000
+jessica | edward | linkedin.com/in/jessica-edward-0b599328 | jessicaedward16@yahoo.com | personal | N/A | N/A | jupiter markting | null | 85,000-100,000
+brooke | dunne | linkedin.com/in/brookedunne | brooke.dunne@gmail.com | personal | N/A | N/A | liquidlogic | null | 85,000-100,000
