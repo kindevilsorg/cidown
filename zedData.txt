@@ -1167,27 +1167,18 @@ april | macias | linkedin.com/in/aprildenisemacias | proggy9@yahoo.com | persona
 erin | siskind | linkedin.com/in/erinbyrne | esiskind@goldstar.com | current_professional | esiskind@goldstar.com | N/A | goldstar events, inc. | null | 70,000-85,000
 stathis | kalligeris | linkedin.com/in/stathisgr | blogakilicious@gmail.com | personal | N/A | N/A | webjar | null | 25,000-35,000
 pamela | christopher | linkedin.com/in/pamela-christopher-9bb80b28 | pamelacee@gmail.com | personal | N/A | N/A | backstage studio of dance | null | 100,000-150,000
-qais | qazaz | linkedin.com/in/qais-qazaz-4411052b | qaisqazaz@aol.com | personal | N/A | N/A | ismc ioftd | null | 85,000-100,000algeria | bennett | linkedin.com/in/algeria-bennett-8a79a39a | algeria.bennett@att.com | current_professional | algeria.bennett@att.com | N/A | at&t | 208 south akard street | 70,000-85,000
-vishakha | rajput | linkedin.com/in/vishakha-rajput-183094b8 | vishakha@eidoloncyber.com | current_professional | vishakha@eidoloncyber.com | N/A | eidolon design studio | null | <20,000
-hunter | braine | linkedin.com/in/hbraine | cbraine@rochester.rr.com | N/A | N/A | +15859789676 | immortals, llc | null | 70,000-85,000
-karen | mummert | linkedin.com/in/karen-mummert-b1a19645 | kmummert@weber-ins.com | current_professional | kmummert@weber-ins.com | +17174760620 | c a weber insurance agency | null | 85,000-100,000
-craig | hlavaty | linkedin.com/in/craig-hlavaty-022a11106 | craig.hlavaty@chron.com | professional | N/A | N/A | houston museum of natural science | 5555 hermann park drive | 70,000-85,000
-isabel | garcia | linkedin.com/in/isabelgarciaig | isabel@homesintrivalley.com | N/A | N/A | N/A | soledad garcia exp realty | null | 85,000-100,000
-tim | bossie | linkedin.com/in/tim-bossie-8a806532 | nlbctim@gmail.com | personal | N/A | +12074478565 | bionorthtx | 1400 civic place | 70,000-85,000
-emma | phelps | linkedin.com/in/emmajphelps | ephelps@glasses.com | professional | N/A | +18015402787 | mrm//mccann | 622 third avenue | 70,000-85,000
-dan | ngumbi | linkedin.com/in/dan-ngumbi-4811082b | smartriches@gmail.com | personal | N/A | N/A | danito promotions | null | <20,000
-alanna | smith | linkedin.com/in/alanna-smith-3916a2a7 | asmith@novaentertainment.com.au | professional | N/A | +61428243699 | style hutt | null | 70,000-85,000
-laura | cranfield | linkedin.com/in/lauracranfield | laura.cranfield@taxi.ca | professional | N/A | N/A | lush fresh handmade cosmetics north america | 8680 cambie street | 55,000-70,000
-tom | matrullo | linkedin.com/in/matrullo | matrullo@gmail.com | personal | N/A | N/A | citizens for sarasota | null | 85,000-100,000
-lauren | grant | linkedin.com/in/lauren-grant-73401737 | grantl@purdue.edu | N/A | N/A | +15029380194 | pastiche custom perfume | null | 70,000-85,000
-beyhan | yilmaz | linkedin.com/in/beyhan-birce-yilmaz-03529988 | beyhanyilmaz@kuarktek.com.tr | current_professional | beyhanyilmaz@kuarktek.com.tr | N/A | kuarktek | null | <20,000
-mai | mahfouz | linkedin.com/in/maimahfouz | eng_omo87@yahoo.com | personal | N/A | N/A | sa7afet welad elbald | null | <20,000
-elisabeth | vikanes | linkedin.com/in/elisabeth-bekken-vikanes-3b745426 | evikanes@gmail.com | personal | N/A | N/A | helly hansen | null | 100,000-150,000
-diego | avendaño | linkedin.com/in/diego-fernando-arboleda-avendaño-56b2792b | diegote-527@hotmail.com | personal | N/A | N/A | gabriel jaime rico | null | <20,000
-matias | petersen | linkedin.com/in/matiaskirsteinpetersen | matiaskp@outlook.dk | N/A | N/A | N/A | aalborg bibliotekerne | null | 70,000-85,000
-peter | milano | linkedin.com/in/peter-milano-2a7ab524 | yasuragipete@me.com | personal | N/A | +19146217668 | maryknoll fathers and brothers | 55 ryder road | 85,000-100,000
-vectore | comunicación | linkedin.com/in/vectorecm | vectore@vectore.es | current_professional | vectore@vectore.es | N/A | vectore, iniciativas de negocio | null | 20,000-25,000
-pierrick | aubert | linkedin.com/in/pierrick-aubert-93a58a18 | aubertpierrick@gmail.com | personal | N/A | N/A | la clusaz | null | 55,000-70,000
-samantha | hruz | linkedin.com/in/samantha-hruz-53a613b6 | shruz@ycp.edu | professional | N/A | N/A | null | null | 85,000-100,000
-zara | hopcroft | linkedin.com/in/zara-hopcroft-47999b31 | zarahopcroft@gmail.com | personal | N/A | N/A | nbn™ australia | null | 70,000-85,000
-danny | bernardo | linkedin.com/in/danny-bernardo-0a104223 | danny@dannybernardo.com | N/A | N/A | +17735622492 | revenue (ireland) | null | 70,000-85,000
+qais | qazaz | linkedin.com/in/qais-qazaz-4411052b | qaisqazaz@aol.com | personal | N/A | N/A | ismc ioftd | null | 85,000-100,000giulia | guastoni | linkedin.com/in/giulia-guastoni-15447782 | giulia.guastoni@connexia.com | current_professional | giulia.guastoni@connexia.com | N/A | connexia | null | 45,000-55,000
+azlan | sulaiman | linkedin.com/in/azlan-sulaiman-1856a6112 | azlan.sulaiman@smvgroup.com | N/A | N/A | N/A | edelman | 250 hudson street | <20,000
+jean | zevallos | linkedin.com/in/jean-zevallos-65a8a821 | jeancar21@hotmail.com | personal | N/A | N/A | fuerza aérea del perú | null | <20,000
+julie | lebihain | linkedin.com/in/julie-lebihain | jlebihain@nexity.fr | current_professional | jlebihain@nexity.fr | N/A | nexity | null | 55,000-70,000
+kat | roberts | linkedin.com/in/kat-roberts-0829146b | kat.roberts@edelman.com | professional | N/A | N/A | nando's australia | null | 70,000-85,000
+ellen | christiansen | linkedin.com/in/ellenflynnchristiansen | ellchristiansen17@gmail.com | personal | N/A | N/A | fusion therapy | null | 70,000-85,000
+olivia | morrow | linkedin.com/in/olivia-morrow-14a11727 | b1_liv@hotmail.com | personal | N/A | N/A | the beach people | null | 70,000-85,000
+suzi | robinson | linkedin.com/in/suzithewriter | suzi@atlas.co.uk | N/A | N/A | N/A | betty knits | null | 55,000-70,000
+maureen | beck | linkedin.com/in/maureenebeck | maureen.beck@eldowalls.com | current_professional | maureen.beck@eldowalls.com | N/A | eldorado climbing walls | 1835 38th street | 85,000-100,000
+annette | polis | linkedin.com/in/annettepolis | eb.annette@gmail.com | personal | N/A | N/A | siliconera | null | 70,000-85,000
+jean-renaud | xech | linkedin.com/in/jrxch | jrxech@mac.com | personal | N/A | N/A | toulouse métropole | null | 55,000-70,000
+jorge | restrepo | linkedin.com/in/jorge-alberto-villegas-restrepo-0b5b2b47 | jorgv_137@hotmail.com | personal | N/A | N/A | marketing contact center | null | <20,000
+philip | caballes | linkedin.com/in/pcaballes | pccaballes@globetel.com.ph | N/A | N/A | N/A | globe telecom | null | <20,000
+habiba | kehinde | linkedin.com/in/habibakehinde | bibaumaru@hotmail.com | personal | N/A | N/A | h & s enterprises inc | null | 100,000-150,000
+brittney | gilbert | linkedin.com/in/brittneygilbert | brittney.g@gmail.com | personal | N/A | +15102606689 | franklin templeton investments | null | 85,000-100,000
