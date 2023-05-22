@@ -1215,30 +1215,24 @@ micaela | kolischer | linkedin.com/in/micaela-kolischer | m.kolischer@pimod.com 
 green | ecosystem | linkedin.com/in/green-ecosystem-793ab5a7 | openagriculture@gmail.com | personal | N/A | N/A | green ecosystem | null | <20,000
 leica | specialist | linkedin.com/in/leica-specialist-3a2b4644 | admin.social@leica-geosystems.com | current_professional | admin.social@leica-geosystems.com | N/A | leica geosystems | null | 100,000-150,000
 brandy | jeppesen | linkedin.com/in/brandy-jeppesen-404ab567 | brandy_jeppesen@belk.com | professional | N/A | N/A | hbl productions | null | 70,000-85,000
-santosh | regalla | linkedin.com/in/santosh-regalla-569a8944 | santosh.regalla889@gmail.com | personal | N/A | N/A | political edge | null | <20,000dominique | aspinall | linkedin.com/in/dominiqueaspinall | aspinalld@frenchconnection.com | professional | N/A | N/A | pangaia | null | 55,000-70,000
-farnell | newton | linkedin.com/in/farnellnewton | fathead_97266@yahoo.com | personal | N/A | +15039972071 | wlcr.io | null | 85,000-100,000
-mar | sánchez | linkedin.com/in/marrasconsanchez | marrsanchez@gmail.com | personal | N/A | N/A | monkey week | null | 35,000-45,000
-hanna | erixson | linkedin.com/in/hanna-erixson-4a2b17a5 | hanna.erixson@akestamholst.se | current_professional | hanna.erixson@akestamholst.se | N/A | åkestam holst | null | 70,000-85,000
-cecilia | uranga | linkedin.com/in/cecilia-uranga-0499271b | chulatu@yahoo.com | personal | N/A | N/A | social media manager | null | 70,000-85,000
-maddy | apple | linkedin.com/in/maddy-apple | madeline.apple@gmail.com | personal | N/A | +15613019738 | hall of frames | 4710 east thunderbird road | 70,000-85,000
-saurabh | omer | linkedin.com/in/saurabhomer | omersaurabh@gmail.com | personal | N/A | N/A | social media marketing | null | <20,000
-heather | histed | linkedin.com/in/heather-histed-9735bb133 | heather@pledgecents.com | current_professional | heather@pledgecents.com | N/A | pledgecents | 2401 walnut street | 85,000-100,000
-zobi | naqshband | linkedin.com/in/zobi | zobi.naqshband@gmail.com | personal | N/A | N/A | fine the agency | 7120 rafael ridge way | 85,000-100,000
-sorber | velazquez | linkedin.com/in/sorber-velazquez-b9306134 | bigsorber@hotmail.com | personal | N/A | N/A | independiente | null | 85,000-100,000
-marine | vieux | linkedin.com/in/marine-vieux-26847629 | mvtatoo@yahoo.fr | personal | N/A | N/A | citizaction | null | 55,000-70,000
-aleshia | green | linkedin.com/in/socializedcontent | argreen25@gmail.com | personal | N/A | +16157663298 | http://www.socializedcontent.com | null | 70,000-85,000
-roberto | de orruño salazar | linkedin.com/in/roberto-ortiz-de-orruño-salazar-22159a46 | rsalazar@xt.pgm.telecinco.es | N/A | N/A | N/A | la fábrica de la tele | null | 35,000-45,000
-mathias | danielsen | linkedin.com/in/mathiasdanielsen | mathiasdanielsen89@gmail.com | personal | N/A | N/A | jyllands-posten | null | 70,000-85,000anoosha | suleman | linkedin.com/in/anoosha-suleman-130714bb | anoosha.suleman@summitbank.com.pk | professional | N/A | N/A | null | null | <20,000
-ashli | lomeli | linkedin.com/in/ashli-lomeli-183b83132 | 1businesslomeli@gmail.com | personal | N/A | +17609831020 | null | null | 85,000-100,000
-lucas | floyd | linkedin.com/in/floydlucas | lucas.c.floyd@gmail.com | personal | N/A | N/A | american giant | 161 natoma street | 85,000-100,000
-sydni | ham | linkedin.com/in/sydnimyers | sydni.ham@edelman.com | professional | N/A | N/A | null | null | 85,000-100,000
-susan | nichols | linkedin.com/in/susan-nichols-47607b12 | susanrnichols@gmail.com | personal | N/A | N/A | give inkind | null | 100,000-150,000
-jesica | lascorz | linkedin.com/in/jesica-lascorz-54193153 | jlascorz@ribeiro.com.ar | current_professional | jlascorz@ribeiro.com.ar | N/A | ribeiro sa | null | 20,000-25,000
-beatriz | lobo | linkedin.com/in/beatrizlobof | hello@beatrizlobo.com | N/A | N/A | N/A | null | null | 25,000-35,000
-james | de moss | linkedin.com/in/james-de-moss-6072923b | jdemoss1@my.apsu.edu | professional | N/A | N/A | tempest tattoo studio | null | 70,000-85,000
-bas | geerdink | linkedin.com/in/basgeerdink | basgeerdink@gmail.com | personal | N/A | N/A | endemol shine nederland | null | 70,000-85,000
-jake | lloyd | linkedin.com/in/jakelloyd | jlloyd@americascores.org | professional | N/A | N/A | the news literacy project | null | 70,000-85,000
-filipe | alves | linkedin.com/in/filipe-alves-35766a70 | filipe.alves@benext.net | professional | N/A | N/A | reprise media | 100 west 33rd street | 25,000-35,000
-jennifer | hodgson | linkedin.com/in/jennifer-hodgson-88b27032 | jenn@yourlifemattersshow.com | professional | N/A | +18126147028 | street smart | null | 85,000-100,000
-marques | wooten | linkedin.com/in/marques-wooten-51896635 | marquesjae@gmail.com | personal | N/A | N/A | beta lambda chapter of alpha phi alpha fraternity | null | 70,000-85,000
-innova | oeste | linkedin.com/in/innova-oeste-a34baa38 | innova.oeste@gmail.com | personal | N/A | N/A | innova oeste | null | 35,000-45,000
+santosh | regalla | linkedin.com/in/santosh-regalla-569a8944 | santosh.regalla889@gmail.com | personal | N/A | N/A | political edge | null | <20,000maria | barillaro | linkedin.com/in/maria-barillaro-8a7b0b36 | mariabarillaro@hotmail.com | personal | N/A | N/A | carte blanche media | null | 55,000-70,000
+tania | croda | linkedin.com/in/taniacroda | tcroda@buffalowildwings.com | professional | N/A | N/A | amalgama art | null | 55,000-70,000
+matthew | preston | linkedin.com/in/matthew-preston-bab41679 | mpreston@groupon.com | professional | N/A | +19018333364 | sb nation | 1201 connecticut avenue northwest | 70,000-85,000
+kayla | sanchez | linkedin.com/in/kayla-sanchez-66b71538 | iam4everhischild@yahoo.com | personal | N/A | N/A | bizz.net | null | 85,000-100,000
+neha | gupta | linkedin.com/in/nehagupta87 | ngupta07@hotmail.com | personal | N/A | N/A | network rail | null | 55,000-70,000
+ana | dzulkefdi | linkedin.com/in/ana-dzulkefdi-creativeagency | ana.dzulkefdi@gmail.com | personal | N/A | N/A | mmw | mixmediaworx | null | 100,000-150,000
+inna | kakoian | linkedin.com/in/innakakoian | innakakoian@gmail.com | personal | N/A | N/A | hot yoga wellness international | null | 55,000-70,000
+melinda | linton | linkedin.com/in/melindalinton | miss_henson@yahoo.com | personal | N/A | +12403709020 | social shine agency | null | 70,000-85,000
+terri | coad | linkedin.com/in/terri-coad-a18a827a | terri.coad@phdmedia.com | current_professional | terri.coad@phdmedia.com | N/A | phd | 5 north crescent | 70,000-85,000
+sandrine | layet | linkedin.com/in/sandrinelayet | sandrinelayet@homair.com | current_professional | sandrinelayet@homair.com | N/A | homair | null | 85,000-100,000
+russell | alford | linkedin.com/in/russell-james-alford-28294021 | ralford@itvstudios.com | professional | N/A | +447752095665 | null | null | 85,000-100,000adriana | wardle | linkedin.com/in/adrianawardle | adrianawardle@zoeskitchen.com | professional | N/A | +14078033791 | justin alexander | null | 85,000-100,000
+maureen | kamischke | linkedin.com/in/maureen-kamischke-b9103626 | mkamischke@verizon.net | personal | maureen@hepb.org | N/A | hepatitis b foundation | 3805 old easton road | 85,000-100,000
+erica | rodriguez | linkedin.com/in/ericaangela | ericaangela@gmail.com | personal | N/A | N/A | h2o new media dubai | null | 70,000-85,000
+nuria | extremera | linkedin.com/in/nuriasanguinoextremera | nuriasanguinoextremera@gmail.com | personal | N/A | N/A | tooltyp | null | 35,000-45,000
+maría | lópez | linkedin.com/in/mcamorlopez | camor128@gmail.com | personal | N/A | N/A | ider cartagena | null | <20,000
+karen | akerman | linkedin.com/in/karenakerman | kakerman@amia.org.ar | professional | kakerman@falabella.com.ar | N/A | falabella argentina | null | <20,000
+rebecca | shires | linkedin.com/in/rebecca-shires-974536b9 | rebecca.shires@yell.com | professional | N/A | N/A | mainline menswear | null | 55,000-70,000
+dominika | prochazkova | linkedin.com/in/dominika-prochazkova-7b0514a4 | dominika.prochazkova@sap.com | professional | N/A | N/A | urlaubsbox travel company | null | 55,000-70,000
+ar.gergi | sessine | linkedin.com/in/ar-gergi-sessine-15548a29 | sgergi@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+ashleigh | soppet | linkedin.com/in/ashleigh-soppet | ashleigh.soppet@mhr.co.uk | professional | N/A | +447532266400 | people first | null | 55,000-70,000
+kenley | simon | linkedin.com/in/kenley-y-simon-a1a870128 | kenleysimon@gmail.com | personal | N/A | N/A | freaky juice | null | 70,000-85,000
