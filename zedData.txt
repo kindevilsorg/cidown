@@ -588,13 +588,13 @@ inga | lukoseviciute | linkedin.com/in/inga-lukoseviciute-48b38928 | inga@stelne
 adrienn | bata | linkedin.com/in/adrienn-bata-816949105 | adrienn.bata@cnd.com | professional | N/A | N/A | null | null | 20,000-25,000
 magda | arvelos | linkedin.com/in/magda-arvelos-7b579233 | maguibonnet@yahoo.com.br | personal | N/A | N/A | brand lovers - creative studio | null | 85,000-100,000
 luisa | matias | linkedin.com/in/luisasacchettimatias | luisamatias@yahoo.com | personal | N/A | N/A | social media manager seeks new challenges in dk | null | 25,000-35,000
-charlotte | rex | linkedin.com/in/charlotte-rex-48227a49 | cr@intersport.dk | current_professional | cr@intersport.dk | N/A | intersport danmark a/s | null | 85,000-100,000olivia | cartwright | linkedin.com/in/olivia-cartwright-bb44656b | olivia@radiancecleanse.com | current_professional | olivia@radiancecleanse.com | N/A | radiance cleanse | null | 55,000-70,000
-romane | donato | linkedin.com/in/romane-donato-3a2a6a88 | romaned@skechers.com | professional | N/A | N/A | agence nocta | null | 55,000-70,000
-david | zimek | linkedin.com/in/david-zimek-600b8538 | dzimek@spartans.ut.edu | N/A | N/A | N/A | cbs international business school | null | 55,000-70,000
-anna | guglielmi | linkedin.com/in/annaguglielmi | anna.guglielmi@amref.it | current_professional | anna.guglielmi@amref.it | N/A | amref health africa - italia | null | 45,000-55,000
-alisha | henson | linkedin.com/in/alisha-henson-45a8701b | alishahenson09@yahoo.com | personal | N/A | +19724311122 | micro market media | null | 85,000-100,000
-stroescu | irina | linkedin.com/in/inagyosocialmedia | inna_1688@yahoo.com | personal | N/A | N/A | paidsocialmediajobs.com | null | <20,000
-christine | bluwan | linkedin.com/in/christine-bluwan-052ba23b | bluwansocialmedia@gmail.com | personal | N/A | N/A | bluwan | null | 55,000-70,000
-summer | swee-singh | linkedin.com/in/summersweesingh | sswee-singh@berkeley.edu | N/A | N/A | N/A | university of rock | null | 85,000-100,000
-delf | plamenco | linkedin.com/in/delf-plamenco-203b6123 | delf23is@gmail.com | personal | N/A | N/A | donco kids | null | 85,000-100,000
-jerry | gray | linkedin.com/in/geraldgray | jerry@iow.se | professional | N/A | N/A | xfball ab | null | 70,000-85,000
+charlotte | rex | linkedin.com/in/charlotte-rex-48227a49 | cr@intersport.dk | current_professional | cr@intersport.dk | N/A | intersport danmark a/s | null | 85,000-100,000cherry | ko | linkedin.com/in/cherryko7j9 | cherry.ko@marriott.com | professional | N/A | N/A | null | null | 70,000-85,000
+dexter-lee | maglalang | linkedin.com/in/dexterleemaglalang | mr.dexterlee@y7mail.com | N/A | N/A | N/A | ultima social | null | 70,000-85,000
+travis | garlick | linkedin.com/in/travis-garlick-86901329 | travisgbpi@gmail.com | personal | N/A | N/A | bpi dental | null | 70,000-85,000
+unni | christiansen | linkedin.com/in/unnibogh | unnibogh@gmail.com | personal | N/A | N/A | copenhagen games | null | 85,000-100,000
+erin | taylor-horton | linkedin.com/in/erin-taylor-horton-1562236 | erinlouiset@gmail.com | personal | N/A | N/A | orca triathlon | null | 55,000-70,000
+katrine | møller | linkedin.com/in/katrine-amalie-møller-47916059 | katrineamaliemp@gmail.com | personal | N/A | N/A | gubi | null | 85,000-100,000
+rogério | rodrigues | linkedin.com/in/rogeriolrodrigues | rlr2607@hotmail.com | personal | N/A | N/A | autônomo | null | <20,000
+carmen | paradise | linkedin.com/in/carmen-paradise-aa17aba | carmen.paradise@gmail.com | personal | N/A | N/A | travel portland | 100 south west main street | 85,000-100,000
+laura | villa | linkedin.com/in/laura-villa-910a8137 | lauravillat@gmail.com | personal | N/A | N/A | fundacion nueva democracia | null | 85,000-100,000
+debby | chiang | linkedin.com/in/debby-chiang-71a9018 | chiang.debby@gmail.com | personal | N/A | N/A | art box | null | 70,000-85,000
