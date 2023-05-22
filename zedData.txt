@@ -1570,4 +1570,10 @@ japo | parcero | linkedin.com/in/japo-parcero-968970141 | japo.parcero@gmail.com
 dmitriy | sys | linkedin.com/in/dmitriy-sys-6785982b | aisystems@ymail.com | personal | dmitriy.sys@psimetals.com | N/A | psi metals | null | 55,000-70,000
 amanda | grimes | linkedin.com/in/amanda-grimes-713083b6 | agrimes@arbor.edu | professional | N/A | +12316205384 | pathway community church | null | 85,000-100,000
 mikkel | ejlertsen | linkedin.com/in/ejlertsen | mikkel.e2@gmail.com | personal | N/A | N/A | aarhus university | null | 85,000-100,000
-nicolas | lachambre | linkedin.com/in/nicolaslachambre | nicolas.lachambre@gmail.com | personal | N/A | N/A | garmin france sas | null | 55,000-70,000
+nicolas | lachambre | linkedin.com/in/nicolaslachambre | nicolas.lachambre@gmail.com | personal | N/A | N/A | garmin france sas | null | 55,000-70,000anthi | sasmatzoglou | linkedin.com/in/anthisasmatzoglou | anthi_sas@yahoo.gr | N/A | N/A | N/A | koolfly | null | 25,000-35,000
+megan | whiteside | linkedin.com/in/megan-whiteside-27b80647 | meganwhiteside@gmail.com | personal | megan@loveyourbrain.com | N/A | loveyourbrain | null | 70,000-85,000
+ginna | oksienik | linkedin.com/in/ginnao | oksienikg@centenarycollege.edu | professional | N/A | N/A | gray's watercolors | null | 85,000-100,000
+kunal | puri | linkedin.com/in/kunal-puri-84722b60 | kunal.puri@bestseller.com | professional | N/A | N/A | null | null | <20,000
+grace | myu | linkedin.com/in/gracemyu | grace.myu@gmail.com | personal | N/A | N/A | lila movementechnology | null | <20,000
+rasha | tabbaa | linkedin.com/in/rashatabbaa | rasha.tabbaa@gmail.com | personal | N/A | N/A | mms motors | null | 55,000-70,000
+vicky | liddle | linkedin.com/in/vicky-liddle-31b47a7a | vicky.liddle@holidaydiscountcentre.co.uk | current_professional | vicky.liddle@holidaydiscountcentre.co.uk | N/A | holiday discount centre | null | 55,000-70,000
