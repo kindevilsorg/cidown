@@ -1215,4 +1215,17 @@ micaela | kolischer | linkedin.com/in/micaela-kolischer | m.kolischer@pimod.com 
 green | ecosystem | linkedin.com/in/green-ecosystem-793ab5a7 | openagriculture@gmail.com | personal | N/A | N/A | green ecosystem | null | <20,000
 leica | specialist | linkedin.com/in/leica-specialist-3a2b4644 | admin.social@leica-geosystems.com | current_professional | admin.social@leica-geosystems.com | N/A | leica geosystems | null | 100,000-150,000
 brandy | jeppesen | linkedin.com/in/brandy-jeppesen-404ab567 | brandy_jeppesen@belk.com | professional | N/A | N/A | hbl productions | null | 70,000-85,000
-santosh | regalla | linkedin.com/in/santosh-regalla-569a8944 | santosh.regalla889@gmail.com | personal | N/A | N/A | political edge | null | <20,000
+santosh | regalla | linkedin.com/in/santosh-regalla-569a8944 | santosh.regalla889@gmail.com | personal | N/A | N/A | political edge | null | <20,000dominique | aspinall | linkedin.com/in/dominiqueaspinall | aspinalld@frenchconnection.com | professional | N/A | N/A | pangaia | null | 55,000-70,000
+farnell | newton | linkedin.com/in/farnellnewton | fathead_97266@yahoo.com | personal | N/A | +15039972071 | wlcr.io | null | 85,000-100,000
+mar | sánchez | linkedin.com/in/marrasconsanchez | marrsanchez@gmail.com | personal | N/A | N/A | monkey week | null | 35,000-45,000
+hanna | erixson | linkedin.com/in/hanna-erixson-4a2b17a5 | hanna.erixson@akestamholst.se | current_professional | hanna.erixson@akestamholst.se | N/A | åkestam holst | null | 70,000-85,000
+cecilia | uranga | linkedin.com/in/cecilia-uranga-0499271b | chulatu@yahoo.com | personal | N/A | N/A | social media manager | null | 70,000-85,000
+maddy | apple | linkedin.com/in/maddy-apple | madeline.apple@gmail.com | personal | N/A | +15613019738 | hall of frames | 4710 east thunderbird road | 70,000-85,000
+saurabh | omer | linkedin.com/in/saurabhomer | omersaurabh@gmail.com | personal | N/A | N/A | social media marketing | null | <20,000
+heather | histed | linkedin.com/in/heather-histed-9735bb133 | heather@pledgecents.com | current_professional | heather@pledgecents.com | N/A | pledgecents | 2401 walnut street | 85,000-100,000
+zobi | naqshband | linkedin.com/in/zobi | zobi.naqshband@gmail.com | personal | N/A | N/A | fine the agency | 7120 rafael ridge way | 85,000-100,000
+sorber | velazquez | linkedin.com/in/sorber-velazquez-b9306134 | bigsorber@hotmail.com | personal | N/A | N/A | independiente | null | 85,000-100,000
+marine | vieux | linkedin.com/in/marine-vieux-26847629 | mvtatoo@yahoo.fr | personal | N/A | N/A | citizaction | null | 55,000-70,000
+aleshia | green | linkedin.com/in/socializedcontent | argreen25@gmail.com | personal | N/A | +16157663298 | http://www.socializedcontent.com | null | 70,000-85,000
+roberto | de orruño salazar | linkedin.com/in/roberto-ortiz-de-orruño-salazar-22159a46 | rsalazar@xt.pgm.telecinco.es | N/A | N/A | N/A | la fábrica de la tele | null | 35,000-45,000
+mathias | danielsen | linkedin.com/in/mathiasdanielsen | mathiasdanielsen89@gmail.com | personal | N/A | N/A | jyllands-posten | null | 70,000-85,000
