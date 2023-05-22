@@ -162,10 +162,23 @@ fatemeh | nazarian | linkedin.com/in/fatemeh-nazarian-3a73b24b | fatemeh.nazaria
 lauren | rachel | linkedin.com/in/laurenrachel | lauren.rachel@boardroomsalon.com | professional | N/A | N/A | bartaco | 1 willet avenue | 70,000-85,000
 melissa | wone | linkedin.com/in/melissa-wone-67842510a | melissa.wone@greenstone.com.au | current_professional | melissa.wone@greenstone.com.au | N/A | greenstone financial services | null | 70,000-85,000
 samia | rachid | linkedin.com/in/samia-rachid-b6486581 | samia.rachid@orange.com | current_professional | samia.rachid@orange.com | N/A | orange | null | 55,000-70,000
-claire | matz | linkedin.com/in/clairematz | clairematz@gmail.com | personal | N/A | +17137875369 | groupe edh efap icart efj | null | 55,000-70,000jennifer | miller | linkedin.com/in/jennifer-miller-406b64123 | jennifer@blockfolio.com | current_professional | jennifer@blockfolio.com | N/A | blockfolio | 1337 3rd street | 70,000-85,000
-kate | chawansky | linkedin.com/in/katechawansky | kchawansky@ups.com | professional | N/A | +15025548123 | licensure exams inc. | 724 bonita drive | 85,000-100,000
-alana | deacon | linkedin.com/in/alana-deacon-97030762 | alana.deacon@mylayby.com | professional | N/A | N/A | loaded gun social | null | 70,000-85,000
-michael | york | linkedin.com/in/michael-york-35910035 | mike@dwxpo.com | N/A | N/A | N/A | eldorado resorts, inc. | 100 west liberty street | 70,000-85,000
-amanda | mcgee | linkedin.com/in/amandammcgee | manda@ammcgee.net | professional | N/A | +17064026027 | splash kitchens & baths | null | 85,000-100,000
-comunicacion | viral | linkedin.com/in/comunicacion-viral-b10a9424 | info@cviral.com.ar | current_professional | info@cviral.com.ar | N/A | comunicacion viral | null | <20,000
-akshay | shah | linkedin.com/in/akshayshah98 | aks_shah_98@yahoo.com | personal | N/A | N/A | i marketing services | null | <20,000
+claire | matz | linkedin.com/in/clairematz | clairematz@gmail.com | personal | N/A | +17137875369 | groupe edh efap icart efj | null | 55,000-70,000grace | macdonald | linkedin.com/in/grace-macdonald-948386a1 | gmacdonald@cpventura.com | current_professional | gmacdonald@cpventura.com | N/A | crowne plaza ventura beach hotel | 450 east harbor boulevard | 100,000-150,000
+jen | angkahan | linkedin.com/in/jenangkahan | jenjenangkahan@gmail.com | personal | N/A | +18057205251 | norman's rare guitars | null | 85,000-100,000
+jake | williams | linkedin.com/in/jake-williams-0b829b8b | jakew@grovemedical.com | current_professional | jakew@grovemedical.com | N/A | grove medical, inc. | 1089 park west boulevard | 70,000-85,000
+khelef | rashid | linkedin.com/in/khelef-rashid-686737a8 | khelef.rashid@saharamedia.co.tz | professional | N/A | N/A | null | null | 85,000-100,000
+vanessa | horner | linkedin.com/in/vanessahorner | vnessa.nicole@gmail.com | personal | N/A | N/A | casey lee creative | null | 70,000-85,000
+alda | tan | linkedin.com/in/alda-tan-b0658643 | alda.tan.work@gmail.com | personal | N/A | N/A | streetdeal malaysia | null | <20,000
+eric | gomez | linkedin.com/in/ericgome | gomezer23@gmail.com | personal | eric.gomez@joybird.com | +16264823536 | joybird | null | 70,000-85,000
+alessandra | penzo | linkedin.com/in/alessandra-penzo-0b164047 | arch.alessandrapenzo@gmail.com | personal | N/A | N/A | clodia piscina | null | 45,000-55,000
+denhery | olguin | linkedin.com/in/denhery-olguin-0ab323118 | demigodofqueen@yahoo.com | personal | N/A | N/A | animation for adults | null | 85,000-100,000
+isabella | vinsonhaler | linkedin.com/in/isabella-vinsonhaler-958b70a4 | isabella.vinsonhaler@colorado.edu | professional | N/A | N/A | extract labs | null | 85,000-100,000
+joshua | kelly | linkedin.com/in/joshua-kelly-aba4aaa4 | joshua.kelly@wwe.com | professional | N/A | N/A | sigma health services | null | 70,000-85,000
+tobias | knieling | linkedin.com/in/tobias-knieling-554044a | tobias.knieling@siemens.com | current_professional | tobias.knieling@siemens.com | N/A | siemens | null | 70,000-85,000
+carrie | chen | linkedin.com/in/carrie-chen-85779833 | chen.carrie.yuqian@gmail.com | personal | N/A | N/A | westwell lab | null | <20,000
+christina | riley | linkedin.com/in/xtinariley | xtina.riley@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+will | harris | linkedin.com/in/wilharr | will@realthread.com | professional | N/A | +14076211662 | sketch | null | 70,000-85,000
+alternate | cbd | linkedin.com/in/alternate-medical-thc-and-cbd-health-92961412b | social@alternatemedical.com | current_professional | social@alternatemedical.com | N/A | alternate medical media | 106 west 32nd street | 85,000-100,000
+joe | bailey | linkedin.com/in/joe-bailey-29a2b32a | joebaileymusic@gmail.com | personal | N/A | N/A | livemusic.fm | null | 55,000-70,000
+betsy | kash | linkedin.com/in/betsykash | betsy.kash@golfchannel.com | professional | N/A | N/A | marketing professional | null | 70,000-85,000
+chase | long | linkedin.com/in/chaselong | clong@nexstar.tv | professional | clong@nutrabolt.com | N/A | nutrabolt | 4407 monterey oaks boulevard | 70,000-85,000
+carolina | betancur | linkedin.com/in/carolina-betancur-18ab042a | carito10co@hotmail.com | personal | N/A | N/A | null | null | <20,000
