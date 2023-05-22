@@ -1921,4 +1921,16 @@ nik | shelton | linkedin.com/in/nik-shelton-0a683395 | nshelton@anglianwater.co.
 kimberly | updike | linkedin.com/in/kimberly-updike-b84375a8 | kupdike@redmangousa.com | professional | N/A | +16316157909 | plato's closet | null | 70,000-85,000
 cheryl | siegel | linkedin.com/in/cheryl-siegel-94bb383 | cdsiegel@gmail.com | personal | N/A | N/A | mit opencourseware | 77 massachusetts avenue | 85,000-100,000
 silvia | gottardi | linkedin.com/in/silviagottardi | silvia.gottardi@top1eventi.it | N/A | N/A | N/A | fondazione il lazzaretto | null | 45,000-55,000
-ana | cadavid | linkedin.com/in/ana-maría-cadavid-16b55838 | anamorada88@hotmail.com | personal | N/A | N/A | ncg producciones | null | <20,000
+ana | cadavid | linkedin.com/in/ana-maría-cadavid-16b55838 | anamorada88@hotmail.com | personal | N/A | N/A | ncg producciones | null | <20,000carla | suárez | linkedin.com/in/carla-michelle-ferreira-suárez-28674331 | cferreirasuarez@gmail.com | personal | N/A | N/A | piiragua shop | null | 85,000-100,000
+kayla | thornton | linkedin.com/in/kayla-thornton-ba8127183 | kcthorns@gmail.com | personal | N/A | N/A | kayla thornton | null | 85,000-100,000
+allison | cintins | linkedin.com/in/allison-suzanne-cintins | acintins@gmail.com | personal | N/A | N/A | maslo jewelry | null | 70,000-85,000
+kate | beland | linkedin.com/in/kate-beland-62068269 | kate@seacoastsportsclubs.com | professional | N/A | N/A | gunstock ski club | null | 85,000-100,000
+sweet | reyes | linkedin.com/in/sweet-reyes-3916b928 | reyessweetmylyn@gmail.com | personal | N/A | N/A | odesk | 901 marshall street | <20,000
+taylor | blanchett | linkedin.com/in/taylor-blanchett-81353086 | tblanchett@blanchettneon.com | professional | N/A | N/A | alberta sign association | null | 55,000-70,000
+kelly | cochran | linkedin.com/in/kellydcochran | kellyd.cochran@gmail.com | personal | N/A | N/A | team kitty | null | 85,000-100,000
+gustaf | widegård | linkedin.com/in/gustaf-widegård-1567b536 | gwidegard@gmail.com | personal | N/A | N/A | diskrimineringsombudsmannen, do | null | 70,000-85,000
+cole | chapman | linkedin.com/in/cole-chapman-a5844530 | colelchapman@gmail.com | personal | N/A | +14156520185 | san francisco chronicle | 901 mission street | 70,000-85,000
+lorena | cordero | linkedin.com/in/lorena-cordero-63540110b | lorena.cordero@therealreal.com | professional | N/A | N/A | glam seamless hair extensions | null | 85,000-100,000
+laura | stepanauskaite | linkedin.com/in/laura-stepanauskaite | laura@inbox.lt | N/A | N/A | N/A | integrity pr | null | 70,000-85,000
+carla | kassab | linkedin.com/in/carlaginakassab | carlakassab@gmail.com | personal | N/A | +61439731018 | ucidity | 93 102 miller street | 70,000-85,000
+vladimir | smolyakov | linkedin.com/in/vladsmolyakov | vladimir.smolyakov@vivifyideas.com | current_professional | vladimir.smolyakov@vivifyideas.com | N/A | vivify ideas | null | <20,000
