@@ -619,14 +619,14 @@ jessica | brand | linkedin.com/in/jessicalbrand | uhjbrand@gmail.com | personal 
 lily | feldman | linkedin.com/in/lily-feldman | needscafeen220@gmail.com | personal | N/A | +13016520089 | love surf yoga | null | 70,000-85,000
 jessica | singletary | linkedin.com/in/jessica-singletary-085316115 | jsingletary@apple.com | current_professional | jsingletary@apple.com | N/A | apple | 1 apple park way | 85,000-100,000
 baili | morrison | linkedin.com/in/baili-morrison-a332147a | bailim@tiresfirst.com | current_professional | bailim@tiresfirst.com | N/A | tires first | null | 70,000-85,000
-lindsey | grohoski | linkedin.com/in/lindseygrohoski | azprincess625@aol.com | personal | N/A | +14802923920 | riot hospitality group | null | 70,000-85,000rita | monaritamedia | linkedin.com/in/monaritamedia | emeraldinvestmentsllc@gmail.com | personal | N/A | N/A | monaritamedia.com | null | 85,000-100,000
-samantha | martinez | linkedin.com/in/samantha-martinez-59386651 | samantha.martinez@tijuanaflats.com | professional | N/A | N/A | destination resorts vail by destination hotels & resorts | null | 85,000-100,000
-jasmin | sanchez | linkedin.com/in/jfsanchez3 | jsanchez@humanscale.com | current_professional | jsanchez@humanscale.com | +12125322754 | humanscale | null | 85,000-100,000
-alberto | carmone | linkedin.com/in/albertocarmone | alberto.carmone@hotmail.com | personal | N/A | N/A | fioravanti motors - pick-up e auto americane | null | 45,000-55,000
-caitlin | maggs | linkedin.com/in/caitlinmaggs | caitlin.maggs@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-hannah | patel | linkedin.com/in/hannah-patel-5723447b | hannah.patel@sjsu.edu | professional | N/A | N/A | full service internet marketing firm | 560 west winchester boulevard | 70,000-85,000
-jackee | arce | linkedin.com/in/jackeewrites | jarce@mcbeard.com | professional | jackee@artimegroup.com | N/A | artime group | null | 70,000-85,000
-becky | warren | linkedin.com/in/becky-warren-bb611323 | theipadbaby@gmail.com | personal | N/A | N/A | porky’s comics | null | 70,000-85,000
-anissa | debaa | linkedin.com/in/anissa-debaa-6564049 | anissade@gmail.com | personal | N/A | N/A | elois assurances | null | 55,000-70,000
-jenny | weese | linkedin.com/in/jenny-weese-6317a064 | jenny.weese@cbexchange.com | N/A | jenny.weese@cbcadvisors.com | +18014554853 | cbc advisors | 6550 south millrock drive | 85,000-100,000
-chris | white | linkedin.com/in/chris-white-209952100 | chriswhite10@hotmail.com | personal | N/A | +61416460913 | illfonic | null | 85,000-100,000
+lindsey | grohoski | linkedin.com/in/lindseygrohoski | azprincess625@aol.com | personal | N/A | +14802923920 | riot hospitality group | null | 70,000-85,000abhijay | gadai | linkedin.com/in/abhijay-gadai-a44850171 | abhijaygadai0@gmail.com | personal | N/A | N/A | null | null | <20,000
+vivien | trapenard | linkedin.com/in/vivien-trapenard-5a314761 | vivien.trapenard@comexposium.com | professional | N/A | N/A | bpifrance | 1 rue jeanne d arcade | 55,000-70,000
+eliana | facci | linkedin.com/in/elianafacci | eliana@jandr.it | current_professional | eliana@jandr.it | N/A | j&r web communication | null | 45,000-55,000
+florian | peyron | linkedin.com/in/florian-peyron-a39702a5 | florian.peyron@ionis-group.com | current_professional | florian.peyron@ionis-group.com | N/A | ionis education group | null | 55,000-70,000
+shivani | lalan | linkedin.com/in/shivani-lalan-7b9043165 | shivanilalan@hotmail.com | personal | N/A | N/A | shreni samudaya | 18th main | <20,000
+ghaly | swann | linkedin.com/in/ghaly-swann-067a67116 | ghaly.swann@btcbahamas.com | current_professional | ghaly.swann@btcbahamas.com | N/A | bahamas telecommunications company ltd. | null | 85,000-100,000
+jillian | fontaine | linkedin.com/in/fontainejillian | jillian.fontaine@yahoo.com | personal | N/A | N/A | riester | 3344 east camelback road | 70,000-85,000
+rosanna | longobardi | linkedin.com/in/rosanna-longobardi-6a849648 | rosanna.longobardi@alice.it | N/A | N/A | N/A | null | null | 45,000-55,000
+laura | zea | linkedin.com/in/laurazeal | laura@growproexperience.com | current_professional | laura@growproexperience.com | N/A | growpro experience | null | <20,000
+karina | lizarde | linkedin.com/in/karina-lizarde-00067b70 | klizarde@ipn.mx | professional | klizarde@puntoasterisco.com | N/A | puntoasterisco | null | <20,000
+sam | german | linkedin.com/in/sam-german-3b1845b9 | sgerman@stance.com | professional | N/A | N/A | null | null | 85,000-100,000
