@@ -1967,4 +1967,15 @@ nicolás | viaño | linkedin.com/in/nicolasviaño | contact@nicolasviano.com | N
 svetlana | sokhina | linkedin.com/in/svetlana-sokhina-00bb6016 | svetlana_sohina@mail.ru | personal | N/A | N/A | ньютон, pr агентство | null | <20,000
 molly | martin | linkedin.com/in/mollymahar | mmahar@brockwhite.com | professional | N/A | N/A | prestige beverage group | 2300 pilot knob road | 85,000-100,000
 lin | klaamas | linkedin.com/in/lin-klaamas-56509219 | lin.klaamas@hotmail.com | personal | N/A | N/A | lin's media management | null | 70,000-85,000
-adriana | rodriguez | linkedin.com/in/adriana-rodriguez-ab5b442b | adrianarelated@gmail.com | personal | N/A | N/A | the media engagers/media loop | null | 85,000-100,000
+adriana | rodriguez | linkedin.com/in/adriana-rodriguez-ab5b442b | adrianarelated@gmail.com | personal | N/A | N/A | the media engagers/media loop | null | 85,000-100,000burhan | selmani | linkedin.com/in/burhanselmani | b.selmanii@hotmail.com | personal | N/A | N/A | cute cats kittens | null | 85,000-100,000
+mahwish | waheed | linkedin.com/in/mahwish-waheed-28571911 | mahwishw@gmail.com | personal | N/A | N/A | free-lance consultant | null | 70,000-85,000
+kimmy | lavoie | linkedin.com/in/kimmy-lavoie-0777b742 | kalahanace@hotmail.com | personal | N/A | N/A | lavoie family sugarhouse | null | 70,000-85,000
+raffaella | alfredi | linkedin.com/in/raffaella-alfredi-00584a40 | ralfredi@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
+luisa | beil | linkedin.com/in/luisa-beil-030a9447 | edgaaradkins@gmail.com | personal | N/A | N/A | atlantic northern | null | 85,000-100,000
+zahra | hussain | linkedin.com/in/zahrahussain | zahra.hussain@rocketmail.com | personal | N/A | N/A | landry's restaurants | 1510 west loop | 70,000-85,000
+raquel | cabrera | linkedin.com/in/raquel-cabrera-091a3821 | raqscab@gmail.com | personal | rcabrera@pureformulas.com | +17868971703 | pureformulas.com | 11800 northwest 102 road | 70,000-85,000
+khadijah | amin | linkedin.com/in/khadijahdowidar | khadijah.dowidar@andalusiagroup.net | professional | N/A | N/A | ntam tech | null | <20,000
+andrew | todd | linkedin.com/in/andrewmtodd | andrew.todd@usu.edu | professional | atodd@extraspace.com | +18019277459 | extra space storage | 2795 east cottonwood parkway | 85,000-100,000
+nathan | woodfield | linkedin.com/in/nathan-woodfield-76509862 | nathan.woodfield@yahoo.com | personal | N/A | +15018311463 | designloyal | null | 70,000-85,000
+lacey | perryman | linkedin.com/in/lacey-perryman-331a97100 | lacey.perryman@t-mobile.com | current_professional | lacey.perryman@t-mobile.com | N/A | t-mobile | 12920 southeast 38th street | 85,000-100,000
+stephanie | hernandez | linkedin.com/in/stephanie-hernandez-889900b1 | shdez_92@yahoo.com | personal | N/A | N/A | univision communications inc. | 605 third avenue | 85,000-100,000
