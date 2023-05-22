@@ -9,4 +9,16 @@ cindy | lyons | linkedin.com/in/cindiasaurusrex | clyons2@mail.usf.edu | N/A | N
 harriet | drudge | linkedin.com/in/hmdrudge | hd00046@surrey.ac.uk | professional | N/A | N/A | the athletic | null | 55,000-70,000
 jiří | lebiš | linkedin.com/in/jirilebis | jirko.lebis@gmail.com | personal | N/A | N/A | džavot s.r.o | null | 85,000-100,000
 cassandra | caswell | linkedin.com/in/cassandra-caswell-768b273b | cncaswell@wisc.edu | N/A | N/A | N/A | null | null | 85,000-100,000
-simran | randhawa | linkedin.com/in/simran-randhawa-118964111 | simran@sixthsense.com.sg | current_professional | simran@sixthsense.com.sg | N/A | sixth sense pr | 66 circular road | 70,000-85,000
+simran | randhawa | linkedin.com/in/simran-randhawa-118964111 | simran@sixthsense.com.sg | current_professional | simran@sixthsense.com.sg | N/A | sixth sense pr | 66 circular road | 70,000-85,000kara | jilek | linkedin.com/in/karajilek | karamcfarland@gmail.com | personal | N/A | N/A | american academy of dermatology | 9500 bryn mawr avenue | 100,000-150,000
+kristen | parker | linkedin.com/in/kristen-parker-61061662 | kristen.parker88@gmail.com | personal | N/A | N/A | spacenk | 11-20 capper street | 55,000-70,000
+sanjay | shrestha | linkedin.com/in/sanjay-shrestha-66990948 | sun-j@live.com | personal | N/A | N/A | leva source | null | 85,000-100,000
+barbara | horvat | linkedin.com/in/barbara-horvat-a332541b | shadow-passion@hotmail.com | personal | N/A | N/A | 4 islands | null | <20,000
+kritiya | somboonkulavudi | linkedin.com/in/kritiya-somboonkulavudi-51b5907 | gift_email@hotmail.com | personal | N/A | N/A | phoinikas | null | <20,000
+rachel | dillahunt | linkedin.com/in/racheldillahunt | rachel.dillahunt@gmail.com | personal | N/A | N/A | that place on main | null | 70,000-85,000
+stefano | bernardeschi | linkedin.com/in/bernardeschi | bernardeschi@gmail.com | personal | N/A | N/A | mediaset | null | 45,000-55,000
+anuradha | kaul | linkedin.com/in/anuradha-kaul-8bb7a824 | anuradha.kaul@gmail.com | personal | N/A | N/A | myntra | null | <20,000
+laura | galip | linkedin.com/in/laura-galip-58a429a0 | laura-galip@web.de | personal | N/A | N/A | edelgrün | null | 55,000-70,000
+shadab | malik | linkedin.com/in/shadabmalik | kingofthefriends99@hotmail.com | personal | N/A | N/A | whm global | null | 55,000-70,000
+gianmarco | diorio | linkedin.com/in/gianmarco-diorio-5abb286a | gianmarco@birradelborgo.it | current_professional | gianmarco@birradelborgo.it | N/A | birra del borgo | null | 45,000-55,000
+robbie | hoover | linkedin.com/in/robbiehoover | rdh2n3@mail.missouri.edu | professional | N/A | +13126745315 | dfw marriott hotel & golf club | 3300 championship parkway | 85,000-100,000
+danae | istari | linkedin.com/in/danae-istari-33900124 | istaridanae@hotmail.com | personal | N/A | N/A | webquitecto | null | <20,000
