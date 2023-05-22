@@ -1306,17 +1306,24 @@ ilaria | pierannunzio | linkedin.com/in/ilapier | ilapier@gmail.com | personal |
 violetta | gruosi | linkedin.com/in/violetta-winkworth-gruosi-57317839 | violettapb@hotmail.com | personal | N/A | N/A | de grisogono | null | 55,000-70,000
 liz | davis | linkedin.com/in/liz-davis-08468847 | lizedavis42@yahoo.com | personal | N/A | N/A | mcgirr enterprises | 201 south lakeline boulevard | 70,000-85,000
 melis | ayas | linkedin.com/in/melis-ayas-0b0a22100 | melisayss@gmail.com | personal | N/A | N/A | taximpro creative media | null | <20,000
-gurol | asansu | linkedin.com/in/gurol-asansu-b2952918 | asansug@hotmail.com | personal | N/A | N/A | universal chine | null | <20,000jeremy | juhasz | linkedin.com/in/jeremyjuhasz | jeremy.juhasz@gmail.com | personal | N/A | +17165482399 | cookerly public relations | 3424 peachtree road northeast | 100,000-150,000
-dylan | decker | linkedin.com/in/dylanjeffdecker | ddecker@surfline.com | current_professional | ddecker@surfline.com | N/A | surfline wavetrak, inc. | 300 pacific coast highway | 100,000-150,000
-glenn | shealy | linkedin.com/in/gshealy | glenn.shealy@goarmy.com | professional | N/A | N/A | action pawn | null | 85,000-100,000
-aravinda | raj | linkedin.com/in/arvindraj04 | aravindaraj1@gmail.com | personal | N/A | N/A | sahoo web solutions | null | <20,000
-brad | haller | linkedin.com/in/haller4me | bradhaller@gmail.com | personal | brad.haller@mercy.net | N/A | mercy | 15740 south outer forty road | 85,000-100,000
-michele | de simone | linkedin.com/in/michele-de-simone-36a7164b | micheledesimone@ied.edu | current_professional | micheledesimone@ied.edu | N/A | ied istituto europeo di design | null | 45,000-55,000
-jonathan | pendergrass | linkedin.com/in/jonathan-pendergrass-9928547 | jinthemad@gmail.com | personal | N/A | +13234045084 | paleo foundation | 4652 viaduct marina | 100,000-150,000
-carolyn | gressman | linkedin.com/in/carolyngressman | cgressman@gmail.com | personal | N/A | +13056309075 | spaderma | 1133 west armitage avenue | 70,000-85,000
-medeline | gabriel | linkedin.com/in/medeline-gabriel-55491947 | madeline.gbrl@gmail.com | personal | N/A | N/A | on the grid social | null | 70,000-85,000
-kayan | paiva | linkedin.com/in/kayan-paiva-7479408b | kayan.paiva@gmail.com | personal | N/A | +19054413248 | maddox media | 501 brock street south | 55,000-70,000
-mary | armeni | linkedin.com/in/mary-armeni-28054335 | armenimary@gmail.com | personal | N/A | N/A | flipped horizons | null | 25,000-35,000
-paula | berlowitz | linkedin.com/in/paulaberlowitz | paulaberlowitz@gmail.com | personal | N/A | +15198986913 | null | null | 55,000-70,000
-bryana | curry | linkedin.com/in/bryanac | bryana.curry@gmail.com | personal | N/A | N/A | fka brands ltd | null | 85,000-100,000
-melissa | jeffcoat | linkedin.com/in/melissa-jeffcoat-758b6b35 | melissa@melissaarlenaphotography.com | professional | N/A | +15403070233 | quinns goldsmith inc | p/o box 605 | 85,000-100,000
+gurol | asansu | linkedin.com/in/gurol-asansu-b2952918 | asansug@hotmail.com | personal | N/A | N/A | universal chine | null | <20,000huma | khan | linkedin.com/in/huma-khan-87301a11 | mizh2004@yahoo.com | personal | N/A | N/A | ninja marketing consultants llc | null | 70,000-85,000
+clara | palacios | linkedin.com/in/clara-gil-palacios | claragil87@gmail.com | personal | N/A | N/A | null | null | 20,000-25,000
+ani | young | linkedin.com/in/aniyoung | aniyoung@umail.iu.edu | N/A | N/A | N/A | enlivant | null | 70,000-85,000
+dileep | tejwanee | linkedin.com/in/dileep-tejwanee-033a2622 | dileeptejwani@gmail.com | personal | N/A | N/A | neel kala developers kanpur | null | <20,000
+alina | agafiței | linkedin.com/in/alina-agafiței-43351576 | m3_alina_m3@yahoo.com | personal | N/A | N/A | null | null | <20,000
+erin | gross | linkedin.com/in/erin-gross-4089236a | erin@fangirlish.com | professional | N/A | N/A | frayed pages media | null | 85,000-100,000
+aileen | taylor | linkedin.com/in/socialmediaagainandagain | aileentaylor22-socialmanager@yahoo.co.uk | personal | N/A | N/A | social media management | null | 55,000-70,000
+carolina | chau | linkedin.com/in/chaucarolina | carolinchauvega@gmail.com | personal | carolina.chau@raicestexas.org | N/A | refugee and immigrant center for education and legal services (raices) | 1305 north flores street | 85,000-100,000
+kevin | fong | linkedin.com/in/kevin-fong-370970114 | kevin.fong@vch.ca | professional | N/A | N/A | instagram | p/o box 77421 | 55,000-70,000
+edgardo | pianezzi | linkedin.com/in/edgardo-pianezzi | pianezzi@kyplon.com | current_professional | pianezzi@kyplon.com | N/A | kyplon | null | 45,000-55,000
+denis | failly | linkedin.com/in/denisfailly | dfailly@yahoo.fr | personal | N/A | N/A | null | null | 55,000-70,000
+louie | smith | linkedin.com/in/louie-smith-425a31110 | louie@46mile.com | current_professional | louie@46mile.com | N/A | 46mile | part of hearst corporation | 901 mission street | 85,000-100,000
+lisa | lewin | linkedin.com/in/lewinlisa | lisalewin@optonline.net | personal | N/A | +12038030497 | precision medicine group | null | 85,000-100,000
+mario | scalise | linkedin.com/in/mario-scalise-43a40364 | mario.scalise@abramo.com | professional | N/A | N/A | null | null | 45,000-55,000
+pietro | magnoli | linkedin.com/in/pietro-magnoli | pietro.magnoli@gmail.com | personal | N/A | N/A | red bull | null | 45,000-55,000
+colby | strunk | linkedin.com/in/colby-strunk-a12831a6 | colby.strunk@usplabsdirect.com | professional | N/A | +15037246038 | kabuki strength | 14350 southeast industrial way | 85,000-100,000faisal | alhanaya | linkedin.com/in/faisal-alhanaya-762a24b2 | falhanaya@rotanagroup.net | current_professional | falhanaya@rotanagroup.net | N/A | rotana media group | null | 25,000-35,000
+eric | fidani | linkedin.com/in/eric-fidani-17a502103 | eric.fidani@kaporal.com | professional | N/A | N/A | null | null | 55,000-70,000
+leslie | finney | linkedin.com/in/lesliefinney | leslie@billdanceoutdoors.com | current_professional | leslie@billdanceoutdoors.com | N/A | bill dance outdoors | null | 85,000-100,000
+collyn | kulow | linkedin.com/in/collyn-kulow-463b1942 | kulowcollyn@yahoo.com | personal | N/A | N/A | null | null | 70,000-85,000
+nicole | reilly | linkedin.com/in/nicole-reilly-892a6057 | nicole.reilly@pilotflyingj.com | professional | N/A | N/A | frontrunner professional | 6a clarence street | 55,000-70,000
+carlos | staengel | linkedin.com/in/carlos-staengel-5a1207a | cstaengel@tallerimagen.com.ar | professional | N/A | N/A | web ad argentina | null | <20,000
