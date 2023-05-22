@@ -1207,4 +1207,21 @@ michael | oliveira | linkedin.com/in/michael-oliveira-0203a62a | michael.a.olive
 juan | herrera | linkedin.com/in/obyjuan | juan@juan-herrera.net | N/A | juan.h@cymax.com | N/A | cymax group | 4170 still creek drive | 55,000-70,000
 ashley | laderer | linkedin.com/in/ashleyladerer | ashley@renttherunway.com | professional | N/A | +15168162943 | null | null | 85,000-100,000
 paulette | jones | linkedin.com/in/jonespaulette | paulette.carter@georgia.gov | professional | N/A | N/A | carl ware | null | 85,000-100,000
-autumn | albers | linkedin.com/in/autumnalbers | autumnalbers@yahoo.com | personal | N/A | +13207610555 | purple prairie botanicals | 21515 19th avenue east | 85,000-100,000
+autumn | albers | linkedin.com/in/autumnalbers | autumnalbers@yahoo.com | personal | N/A | +13207610555 | purple prairie botanicals | 21515 19th avenue east | 85,000-100,000rahel | fankhauser | linkedin.com/in/rahel-fankhauser-719551b3 | rahel.fankhauser@ubs.com | current_professional | rahel.fankhauser@ubs.com | N/A | ubs | null | 100,000-150,000
+duncan | sibbald | linkedin.com/in/duncan-sibbald-9bb46413 | duncan@beyonddesign.co.uk | professional | N/A | N/A | physiotherapy audit ltd | 145 st john street | 55,000-70,000
+phillip | gottdenker | linkedin.com/in/phillipgottdenker | pag262007@yahoo.com | personal | N/A | N/A | down home property management | 1305 cleveland avenue | 85,000-100,000
+tatiana | kuzakova | linkedin.com/in/tatiana-kuzakova-476604116 | tatiana.kuzakova@usi.ch | professional | N/A | N/A | null | null | 100,000-150,000
+hannah | montgomery | linkedin.com/in/hannah-montgomery-57416060 | hannah.montgomery@pertemps.co.uk | current_professional | hannah.montgomery@pertemps.co.uk | N/A | pertemps network group | null | 55,000-70,000
+shreyas | dilip | linkedin.com/in/shreyas-dilip-81505b91 | shreyas@thebravenewworld.com | current_professional | shreyas@thebravenewworld.com | N/A | brave new world communications pvt ltd | null | <20,000
+kathryn | sutton | linkedin.com/in/kathrynlsutton | kat.sutton88@googlemail.com | personal | kathryn.sutton@schroders.com | N/A | schroders | 1 london wall place | 55,000-70,000
+whitney | head | linkedin.com/in/whitney-head-15409676 | head_w@subway.com | professional | N/A | N/A | null | null | 85,000-100,000
+al | afnan | linkedin.com/in/al-afnan-9a5428115 | al.afnan@gmail.com | personal | N/A | N/A | social media examiner | 13025 danielson street | <20,000
+caterina | musazzi | linkedin.com/in/caterina-musazzi-b3bb8433 | caterina.musazzi@gmail.com | personal | N/A | N/A | studio enrici domini | null | 45,000-55,000
+tyler | paget | linkedin.com/in/tylerpaget | mxtyler4@aol.com | personal | N/A | +14082188683 | pollen | 3 loughborough street | 85,000-100,000
+eliud | luther | linkedin.com/in/eliud-luther-241361143 | eliud.luther40@gmail.com | personal | N/A | N/A | blaze consulting | null | <20,000
+martin | guillochon | linkedin.com/in/martin-guillochon-65159313 | martin.guillochon@gmail.com | personal | martin@loisirsencheres.com | N/A | loisirs enchères | null | 55,000-70,000
+ilaria | corazza | linkedin.com/in/ilaria-corazza-09bb9245 | c.ila.89@hotmail.it | personal | N/A | N/A | null | null | 45,000-55,000
+emily | jacobson | linkedin.com/in/emily-jacobson-7b7169182 | erjacobson2200@gmail.com | personal | N/A | +18327970869 | impro theatre | null | 85,000-100,000
+brenda | bourg | linkedin.com/in/brenda-bourg-39739518 | brenda.bourg@gmail.com | personal | N/A | +15105587500 | null | null | 85,000-100,000
+vitor | selli | linkedin.com/in/vitorselli | vitor.selli@edelmansignifica.com | professional | N/A | N/A | wallop group | 30 churchill place | 55,000-70,000
+caitlin | johnson | linkedin.com/in/cjohnson540 | caitlin@dropshiplifestyle.com | current_professional | caitlin@dropshiplifestyle.com | +15403923976 | drop ship lifestyle | 3101 bee caves road | 85,000-100,000
