@@ -1737,4 +1737,16 @@ daniel | khong | linkedin.com/in/daniel-khong | daniel.khong25@gmail.com | perso
 vlad | iosipescu | linkedin.com/in/vladiosipescu | al_iosipescu@yahoo.com | personal | vlad.iosipescu@kubisinteractive.com | N/A | kubis interactive | null | <20,000
 leticia | martín | linkedin.com/in/letiaguado | letiaguado@hotmail.com | personal | N/A | N/A | grupo wdi | null | 35,000-45,000
 kismat | shrestha | linkedin.com/in/kismat-shrestha-241b57188 | kismatshrestha42@gmail.com | personal | N/A | N/A | ad mission international | null | 85,000-100,000
-horacio | salazar | linkedin.com/in/horaciosalazar | horacio.salazar@gmail.com | personal | N/A | N/A | grupo milenio sa | null | <20,000
+horacio | salazar | linkedin.com/in/horaciosalazar | horacio.salazar@gmail.com | personal | N/A | N/A | grupo milenio sa | null | <20,000sergey | frolov | linkedin.com/in/sergey-frolov-29a14539 | sergey.froloff@gmail.com | personal | N/A | N/A | actis® wunderman | null | <20,000
+anne-alexia | louarn | linkedin.com/in/anne-alexia-louarn-08633630 | annealexia.louarn@gmail.com | personal | N/A | N/A | mrm//mccann | 622 third avenue | 55,000-70,000
+priyanka | reddy | linkedin.com/in/priyanka-reddy-29505574 | reddypriyanka@chinthalagroup.com | current_professional | reddypriyanka@chinthalagroup.com | N/A | chinthala group | 19th main | <20,000
+katherine | banks | linkedin.com/in/travelinggreek | kat@thetravelinggreek.com | professional | N/A | N/A | otter.ai | null | 85,000-100,000
+ayunda | prameswari | linkedin.com/in/ayunda-prameswari-54551148 | ayundaphamzah@yahoo.com | personal | N/A | N/A | kudo - pt kudo teknologi indonesia | null | <20,000
+kei | akoi | linkedin.com/in/kei-akoi-a6b38431 | kei.akoi@gmail.com | personal | N/A | N/A | byu living legends | null | 70,000-85,000
+mauricio | castrillo | linkedin.com/in/mauriciocastrillo | mjcasure@gmail.com | personal | N/A | N/A | facultad de odontología ucr | null | <20,000
+giovanni | paini | linkedin.com/in/giovanni-paini-16823182 | giovanni.paini@cusmilano.it | professional | N/A | N/A | consorzio vero volley | null | 45,000-55,000
+gosiame | ntshole | linkedin.com/in/gosiame-ntshole-9b75803a | gntshole@gmail.com | personal | N/A | N/A | ogilvy & mather | null | <20,000
+martina | serafin | linkedin.com/in/martina-serafin-8903843a | marty.serafin@gmail.com | personal | N/A | N/A | digitalmind srl | null | 45,000-55,000
+miriam | carbone | linkedin.com/in/miriam-carbone-90ab7345 | miriam.carbone@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+kyle | campbell | linkedin.com/in/kyle-campbell🔥-25017023 | kyle.campbell.nw@gmail.com | personal | N/A | N/A | keen | 515 northwest 13th avenue | 70,000-85,000
+edward | fuller | linkedin.com/in/edward-fuller | edward22fuller@googlemail.com | personal | edward@massimpressions.com | N/A | mass impressions ltd | 267 banbury road | 55,000-70,000
