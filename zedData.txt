@@ -2627,11 +2627,15 @@ francesco | del franco | linkedin.com/in/francescodelfranco | francesco.delfranc
 erin | rich | linkedin.com/in/erincrich | erich@nordicnaturals.com | professional | N/A | N/A | null | null | 85,000-100,000
 cecilia | lupano | linkedin.com/in/cecilialupano | sici1983@hotmail.com | personal | cecilia.lupano@iaki.it | N/A | iaki | null | 45,000-55,000
 elodie | nunn | linkedin.com/in/elodie-roux-15915681 | elodie@hertfordmedia.co.uk | current_professional | elodie@hertfordmedia.co.uk | N/A | hertford media ltd | 2 eastbourne terrace | 85,000-100,000
-juliette | millet | linkedin.com/in/juliette-millet-67576094 | jmillet@customary.fr | current_professional | jmillet@customary.fr | N/A | customr group (customary, reachr, youzr) | null | 55,000-70,000andrea | howard | linkedin.com/in/andreabrenemanhoward | andrea@kellyskids.com | professional | N/A | N/A | kendra scott | 3800 north lamar boulevard | 85,000-100,000
-gisle | levang | linkedin.com/in/ghl85 | gisle.levang@gmail.com | personal | N/A | N/A | ice.net | null | 100,000-150,000
-paulina | rivera | linkedin.com/in/paulinarivera | pr@raya.cl | professional | N/A | N/A | agencia land | null | 20,000-25,000
-jessica | ronan | linkedin.com/in/jessica-ronan-34320153 | jronan@woocom.com.au | current_professional | jronan@woocom.com.au | N/A | woocom | 3 owen place | 85,000-100,000
-david | armstrong | linkedin.com/in/david-armstrong-9bb58444 | strongarmmashups@gmail.com | personal | N/A | N/A | axos bank | 4350 la jolla village drive | 85,000-100,000
-matt | dean | linkedin.com/in/matt-dean-910b4a3b | masterhulkmatt@gmail.com | personal | N/A | N/A | social solutions | 10801-2 north mopac expressway | 55,000-70,000
-cynthia | berman | linkedin.com/in/cynthia-berman-6b205111 | thiab1010@aol.com | personal | N/A | +13107174448 | cynthia berman | null | 85,000-100,000
-isaac | nunn | linkedin.com/in/isaac-nunn-73186a110 | isaac@styleadvertising.com | professional | N/A | +13347509259 | null | null | 55,000-70,000
+juliette | millet | linkedin.com/in/juliette-millet-67576094 | jmillet@customary.fr | current_professional | jmillet@customary.fr | N/A | customr group (customary, reachr, youzr) | null | 55,000-70,000jyaer | lewis | linkedin.com/in/jyaer-lewis-731193120 | jyaerlewis79@gmail.com | personal | N/A | +19082307958 | def pen | null | 85,000-100,000
+rachel | rademacher | linkedin.com/in/rachel-rademacher-06718570 | rademacherr@shmc.org | professional | N/A | N/A | null | null | 85,000-100,000
+winfred | abba | ng.linkedin.com/in/winfred-abba-63581a40 | winfredabba@yahoo.com | personal | N/A | N/A | acken technologies & services | null | <20,000
+christine | bumatay | linkedin.com/in/christine-bumatay-a970b1a6 | cbumatay@sfmoma.org | professional | N/A | +15102899894 | little passports | 282 2nd street | 70,000-85,000
+andrea | borraccino | linkedin.com/in/andreaborraccino | preso.blu@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
+brittainy | kelley | linkedin.com/in/brittainy-kelley-1846456b | brittainy.kelley@klipsch.com | current_professional | brittainy.kelley@klipsch.com | +13172603394 | klipsch group, inc. | 3502 woodview trace | 100,000-150,000
+adriana | sierra | linkedin.com/in/adriana-rodríguez-sierra-75034523 | adrianarayones@gmail.com | personal | N/A | N/A | omd colombia | null | <20,000
+lovely | ramos | linkedin.com/in/ramoslovelyv | lovely@bonseyjaden.com | current_professional | lovely@bonseyjaden.com | N/A | bonsey jaden | 19 carpenter street | <20,000
+casey | danton | linkedin.com/in/caseydanton | danton.casey@gmail.com | personal | N/A | +12126602458 | new avon | 1 liberty plaza | 85,000-100,000
+sharon | minkovicz | linkedin.com/in/sharon-minkovicz-6ba60625 | skoch788@gmail.com | personal | N/A | N/A | etoro | null | 55,000-70,000
+kyle | kirkland | linkedin.com/in/kyle-kirkland-70479667 | kylekirkland@linney.com | current_professional | kylekirkland@linney.com | +61401361724 | linney | null | 55,000-70,000
+florian | steinig | linkedin.com/in/florian-steinig-6a025332 | f.steinig@dhug.de | N/A | N/A | N/A | innogy.c3 | null | 55,000-70,000
