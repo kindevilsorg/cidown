@@ -2326,4 +2326,13 @@ chloe | parker | linkedin.com/in/chloeparker1 | chloe@augustasportscouncil.org |
 deeran | enjergholi | linkedin.com/in/deeran | denjergholi@thenuancegroup.com | professional | N/A | N/A | nestlé | null | 100,000-150,000
 tomas | costa | linkedin.com/in/tomas-costa-96667123 | tomas.e.costa@gmail.com | personal | N/A | N/A | fruta digital | null | <20,000
 laurie | stepp | linkedin.com/in/lauriestepp | laurie.stepp@gmail.com | personal | N/A | N/A | curator the museum journal | null | 85,000-100,000
-jonathan | westbrook | linkedin.com/in/jonathan-westbrook-63192248 | nerddy980@yahoo.com | personal | N/A | N/A | myurbanspot.com | null | 70,000-85,000
+jonathan | westbrook | linkedin.com/in/jonathan-westbrook-63192248 | nerddy980@yahoo.com | personal | N/A | N/A | myurbanspot.com | null | 70,000-85,000kareemagdy | muneim | linkedin.com/in/kareemagdy | m.kareemagdy@gmail.com | personal | N/A | N/A | enactus helwan university | null | <20,000
+julia | guardiola | linkedin.com/in/julia-guardiola-9095a664 | j.mercedes08@yahoo.com | personal | N/A | +15174900475 | vi peel | null | 85,000-100,000
+karianne | dixon | linkedin.com/in/kariannedixon | karianne.dixon@belmont.edu | professional | karianne.dixon@vanderbilt.edu | +13152433384 | vanderbilt university | 2525 west end avenue | 70,000-85,000
+esther | amsallem | linkedin.com/in/esther-amsallem-98a86063 | esther@hotels-attitude.com | current_professional | esther@hotels-attitude.com | N/A | attitude hotels | null | 55,000-70,000
+katie | fisher | linkedin.com/in/fisherkatie | katiefish.007girl@hotmail.com | personal | N/A | +17026266264 | tipsy elves | 1041 market street | 70,000-85,000
+alberto | romualdo | linkedin.com/in/alberto-h-romualdo-a7304429 | ebetoh@hotmail.com | personal | N/A | N/A | bero photography | null | 55,000-70,000
+amy | lingobardo | linkedin.com/in/amylingobardo | alingobardo@tcmedc.org | N/A | N/A | N/A | keen bean design | null | 85,000-100,000
+amanda | lienemann | linkedin.com/in/amanda-lienemann-a2a36529 | amanda.lienemann@gmail.com | personal | N/A | N/A | hubbard interactive | null | 70,000-85,000
+cara | o'neil | linkedin.com/in/caraoneil | cara.e.oneil@gmail.com | personal | N/A | N/A | dark horse comics | 10956 southeast main street | 85,000-100,000
+harriet | adkin | linkedin.com/in/harrietadkin | harriet@flashmat.co.uk | current_professional | harriet@flashmat.co.uk | N/A | flashmat uk | null | 55,000-70,000
