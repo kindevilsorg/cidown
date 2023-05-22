@@ -855,4 +855,17 @@ david | liao | linkedin.com/in/davidliao90 | david.liao@sonydadc.com | professio
 lily | heise | linkedin.com/in/lily-heise-4166a62 | lilyheise@yahoo.com | personal | N/A | N/A | null | null | 45,000-55,000
 devin | mcnulty | linkedin.com/in/devin-mcnulty-211a8163 | devin@truegault.com | professional | N/A | N/A | independence realty trust inc (irt) | 1835 market street | 85,000-100,000
 maddie | prahm | linkedin.com/in/maddiemayer | maddie.prahm@gmail.com | personal | N/A | +19493656842 | goldenvoice | null | 85,000-100,000
-charlotte | ermeneux | linkedin.com/in/charlotte-ermeneux-476352107 | c.ermeneux@kingcom.fr | professional | N/A | N/A | esv digital | null | 55,000-70,000
+charlotte | ermeneux | linkedin.com/in/charlotte-ermeneux-476352107 | c.ermeneux@kingcom.fr | professional | N/A | N/A | esv digital | null | 55,000-70,000victoria | gibson | linkedin.com/in/victoria-gibson-22241699 | victoria.gibson@leonardo.com | professional | N/A | N/A | eatertainment hospitality inc | 29 booth avenue | 55,000-70,000
+gabi | schachat | linkedin.com/in/gabi-schachat-35b042b1 | gabi.schachat@memoglobal.com | professional | N/A | N/A | thunda | null | 45,000-55,000
+aaron | clark | linkedin.com/in/aaron-clark-83398489 | aclark@ameren.com | professional | N/A | N/A | tier 1 concealed | null | 70,000-85,000
+anisha | chhabriya | linkedin.com/in/anisha-chhabriya-97133b19 | anishakodwani@gmail.com | personal | N/A | N/A | software developers india | null | <20,000
+zechariah | mcbryde | linkedin.com/in/zechariah-mcbryde-9747391a | zechariah.mcbryde@gmail.com | personal | N/A | N/A | southpaws of nashville | null | 70,000-85,000
+victoria | leone | linkedin.com/in/victoria-leone | victoria@miracle10.com | current_professional | victoria@miracle10.com | N/A | miracle 10 cosmetics inc. | 310 north queen street | 55,000-70,000
+amandine | maguer | linkedin.com/in/amandinemaguer | amandinemaguer@gmail.com | personal | N/A | N/A | collectif cosme | null | 55,000-70,000
+esha | mittal | linkedin.com/in/mittal-esha | mittalesha295@gmail.com | personal | N/A | N/A | roi mantra inc. | 8330 lyndon b johnson freeway | <20,000
+samara | thiessen | linkedin.com/in/samara-thiessen-1a48a764 | samara.thiessen@ottawa.ca | professional | N/A | N/A | two pennies | 78 george street | 55,000-70,000
+fredrik | karlsson | linkedin.com/in/borgenfreddan | fredrik.karlsson@ostkraft.se | N/A | fredrik.karlsson@bixia.se | N/A | bixia ab | null | 85,000-100,000
+hannah | douglas | linkedin.com/in/hannahtravels | hmd3466@gmail.com | personal | N/A | N/A | hera aviation group | null | 100,000-150,000
+linn | greibert | linkedin.com/in/linn-greibert-82039160 | linn.greibert@eleven.se | current_professional | linn.greibert@eleven.se | N/A | eleven ab | null | 70,000-85,000
+alex | watt | linkedin.com/in/alex-watt-6b3b7128 | the_voodoo_child@hotmail.com | personal | N/A | N/A | thg ingenuity | null | 55,000-70,000
+amanda | ippolito | linkedin.com/in/amanda-ippolito-63739127 | aji392@gmail.com | personal | amanda@lauralhome.com | N/A | laural home | null | 85,000-100,000
