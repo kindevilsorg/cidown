@@ -1232,14 +1232,11 @@ sheila | mccarthy | linkedin.com/in/sheila-mccarthy-04223b42 | sheila@dumpyoursa
 antonio | deckler | linkedin.com/in/antonio-moreno-deckler-254b9636 | amorenode@navantia.es | current_professional | amorenode@navantia.es | N/A | navantia s.a. | null | 35,000-45,000
 néstor | martos | linkedin.com/in/néstor-josé-sáez-martos-3212272a | nestorjosesaez@gmail.com | personal | N/A | N/A | fx interactive | null | 35,000-45,000
 hilde | sande | linkedin.com/in/hilde-sande-062873181 | hilde.sande@noroff.no | current_professional | hilde.sande@noroff.no | N/A | noroff | null | 100,000-150,000
-bopha | hul | linkedin.com/in/bophahl | bopha@dastmalchi.com | professional | N/A | N/A | boss babe | 12655 west jefferson boulevard | 70,000-85,000shepherd | chabata | linkedin.com/in/shepherdchabata | mylettaz@yahoo.com | personal | N/A | N/A | battle of the chefs africa | 46 mount pleasant drive | 85,000-100,000
-david | calpe | linkedin.com/in/david-calpe-44b84a37 | david_calpe@hotmail.com | personal | N/A | N/A | artimedia barcelona | null | 35,000-45,000
-josé | barros | linkedin.com/in/josepedrobarros | jbarros@tintas2000.pt | current_professional | jbarros@tintas2000.pt | N/A | tintas 2000 | null | 25,000-35,000
-noah | gault | linkedin.com/in/noah-gault-61595647 | noah.gault@gmail.com | personal | N/A | N/A | soundboard | 750 woodlands parkway | 85,000-100,000
-briana | maxwell | linkedin.com/in/brianamaxwell | bmaxwell3@ufl.edu | N/A | N/A | +19043159898 | usssa | null | 85,000-100,000
-carlos | rabassa | linkedin.com/in/crullan | crullanrabassa@gmail.com | personal | N/A | N/A | european parliament | null | 55,000-70,000
-james | clark | linkedin.com/in/jimjandango | jaclark258@me.com | personal | N/A | N/A | southeastern grocers | 8928 prominence parkway | 85,000-100,000
-joanna | ashmead | linkedin.com/in/joanna-ashmead-94aa5ba | jo.ashmead@gmail.com | personal | ja@novozymes.com | N/A | novozymes | null | 70,000-85,000
-crystal | carrazco | linkedin.com/in/crystalcarrazco | crystalcarrazco@gmail.com | personal | N/A | +13125237853 | american library association | 225 north michigan avenue | 85,000-100,000
-kimberly | thompson | linkedin.com/in/kimberly-thompson-33a151140 | kdthompson.ca@gmail.com | personal | N/A | +15304489074 | sound image productions | 23529 connecticut street | 85,000-100,000
-brendon | o'malley | linkedin.com/in/brendonomalley | omalley.brendon@gmail.com | personal | N/A | N/A | rentpath | 950 east paces ferry road | 70,000-85,000
+bopha | hul | linkedin.com/in/bophahl | bopha@dastmalchi.com | professional | N/A | N/A | boss babe | 12655 west jefferson boulevard | 70,000-85,000arjana | van berkel | linkedin.com/in/arjanavanberkel | arjana_vb@hotmail.com | personal | N/A | N/A | achtung! amsterdam | null | 70,000-85,000
+irene | muller | linkedin.com/in/irene-muller-68259926 | irene@tripledotmedia.com | current_professional | irene@tripledotmedia.com | N/A | tripledotmedia | null | <20,000
+clara | morell | linkedin.com/in/marketingcomunicacionmodaied | clara.morell@maje.com | professional | clara@laconicum.com | N/A | laconicum | null | 35,000-45,000
+brittany | graham | linkedin.com/in/grahambrittany | brittanyjgraham2@gmail.com | personal | N/A | +16613139043 | cbc cleaning and restoration, inc | 25042 anza drive | 85,000-100,000
+charmi | shah | linkedin.com/in/shahcharmi28 | charms74@gmail.com | personal | N/A | N/A | bbh india | null | <20,000
+nicole | abea | linkedin.com/in/nicole-abea-a18479a4 | nicoleabeadesign@gmail.com | personal | N/A | +19099381372 | hopeless records | null | 85,000-100,000
+eugene | klopper | linkedin.com/in/eugene-klopper-ii-b3129638 | eugeneklopper@gmail.com | personal | N/A | N/A | wunderman thompson south africa | 7 federal avenue | <20,000
+yuval | sasson | linkedin.com/in/yuval-sasson-604a23111 | yuv.sass@gmail.com | personal | N/A | N/A | zarmon group | null | 45,000-55,000
