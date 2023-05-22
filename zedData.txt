@@ -748,28 +748,24 @@ francisco | júnior | linkedin.com/in/francisco-paiva-júnior-66721443 | paiva.p
 tiffany | irene | linkedin.com/in/irenetiffanyresume | tiffanyirene8@gmail.com | personal | N/A | +14047217121 | null | null | 85,000-100,000
 courtney | coats | linkedin.com/in/courtneycoatstopini | ctopini@gmail.com | personal | N/A | N/A | hallaron advertising agency | 2002 timberloch place | 70,000-85,000
 lari | umeno | linkedin.com/in/lariumeno | lari.umeno@gmail.com | personal | N/A | N/A | loud pack zack | null | <20,000
-fabio | mencocco | linkedin.com/in/fabio-mencocco-75aa6b22 | fmencocco@gmail.com | personal | N/A | N/A | bemorelab agenzia pubblicitaria | null | 45,000-55,000carla | iadecola | linkedin.com/in/carla-iadecola-639a4514 | lotty119@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
-clare | hatcher | linkedin.com/in/clarehatcher1 | m.hatcher2@umiami.edu | N/A | N/A | +17173993110 | yes! communities | 5050 south syracuse street | 70,000-85,000
-sara | cardinali | linkedin.com/in/sara-cardinali-12984010b | saracardinali@godigitalsrl.it | current_professional | saracardinali@godigitalsrl.it | N/A | godigital srl | null | 45,000-55,000
-marie | mikols | linkedin.com/in/marie-mikols-738bb694 | mmikols@lvzoo.org | current_professional | mmikols@lvzoo.org | N/A | lehigh valley zoo | null | 85,000-100,000
-nicolas | mary | linkedin.com/in/social-media-manag3r | n.mary@kingcom.fr | professional | N/A | N/A | le groupe la poste | null | 55,000-70,000
-anissa | djamai | linkedin.com/in/anissa-djamai-094748111 | anissa.djamai@ecoledesparents.be | professional | N/A | N/A | heetch | null | 85,000-100,000
-kelly | mahoney | linkedin.com/in/kellyjanowski | kellyjanowski@gmail.com | personal | N/A | N/A | comptia | 3500 lacey road | 85,000-100,000
-catherine | flanigan | linkedin.com/in/catherine-flanigan-856454a3 | catherine.flanigan@sheridancollege.ca | professional | N/A | +14162763041 | gritty guru company | null | 55,000-70,000
-hayley | sakae | linkedin.com/in/hayleysakae | hsakae@ripcurl.com | professional | N/A | N/A | amplitude | null | 70,000-85,000
-audrey | errickson | linkedin.com/in/audrey-errickson-b001b634 | smilinsun11@yahoo.com | personal | N/A | N/A | merchandising matters | null | 85,000-100,000
-rossella | tassone | linkedin.com/in/rossella-tassone-292236115 | rossella.tassone@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
-elphas | njagi | linkedin.com/in/elphas-njagi-8a8a6648 | njaimweben@yahoo.com | personal | N/A | N/A | null | null | <20,000carlos | garrido | linkedin.com/in/carlos-garrido-37248544 | carlos.cgr@gmail.com | personal | N/A | N/A | stm motocicletas | null | 45,000-55,000
-shantal | disla | linkedin.com/in/shantal-disla-06886843 | sdisla7@gmail.com | personal | N/A | N/A | liga de béisbol profesional de la república dominicana lidom | null | 85,000-100,000
-alex | fusi | linkedin.com/in/alex-fusi-a82b14107 | alex@rankexecutives.com | current_professional | alex@rankexecutives.com | N/A | rank executives | 241 bellagio circle | 70,000-85,000
-maria | nisa | linkedin.com/in/marianisa | mnisa@mariabarcelona.com | current_professional | mnisa@mariabarcelona.com | N/A | maria barcelona | null | 35,000-45,000
-maria | sorrentino | linkedin.com/in/maria-paola-sorrentino-17843b38 | turismo@sorrentinovini.com | professional | N/A | N/A | azienda vinicola sorrentino | null | 45,000-55,000
-christian | stricker | linkedin.com/in/christian-stricker-68738655 | andystricker@hotmail.com | personal | N/A | +15038128665 | null | null | 85,000-100,000
-ulyana | zvereva | linkedin.com/in/uzvereva | uzvereva@gmail.com | personal | N/A | N/A | grape advertising agency | null | <20,000
-ophélie | luciano | linkedin.com/in/ophélie-luciano-09809311 | ophelieluciano@hotmail.com | personal | N/A | N/A | letec | null | 70,000-85,000
-elisabetta | fregonese | linkedin.com/in/elisabettafregonese | e.fregonese@hotmail.it | personal | N/A | N/A | null | null | 45,000-55,000
-donnacha | kenny | linkedin.com/in/donnacha-kenny | donnacha13@gmail.com | personal | N/A | N/A | vtech & leapfrog | null | 85,000-100,000
-cara | carter-mcdonald | linkedin.com/in/cara-carter-mcdonald-53505585 | cara.carter-mcdonald@scala.com | professional | N/A | N/A | ringwood health clinic ltd | null | 55,000-70,000
-jenna | millemann | linkedin.com/in/jenna-millemann-5949a75 | jenna@echosports.com | N/A | N/A | N/A | viator | 360 3rd street | 70,000-85,000
-mayoli | weidelich | linkedin.com/in/mayoliweidelich | mayoli_weidelich@toyota.com | professional | mayoli.weidelich@cma.ca | +16473909546 | md financial management | gestion financière md | 1870 alta vista drive | 55,000-70,000
-ashley | rogers | linkedin.com/in/arogers84 | ashleyrogers@lrec.org | N/A | N/A | N/A | alert 360 | 2448 east 81st street south | 85,000-100,000
+fabio | mencocco | linkedin.com/in/fabio-mencocco-75aa6b22 | fmencocco@gmail.com | personal | N/A | N/A | bemorelab agenzia pubblicitaria | null | 45,000-55,000romain | menard | linkedin.com/in/romainmenard | romain-menard.1@hotmail.fr | personal | romain.menard@bnpparibas.com | N/A | bnp paribas | null | 55,000-70,000
+mia | neagle | linkedin.com/in/mia-neagle-68a35841 | mia.neagle@warbyparker.com | professional | N/A | N/A | google | 1600 amphitheatre parkway | 100,000-150,000
+dmytriv | stanislav | linkedin.com/in/dmytriv-stanislav-209994114 | dmytriv.stanislav@gmail.com | personal | N/A | N/A | null | null | <20,000
+paola | de bonis | linkedin.com/in/paola-de-bonis-667a24165 | paola@muchcolours.com | current_professional | paola@muchcolours.com | N/A | muchcolours | null | 45,000-55,000
+jasmine | johnson | linkedin.com/in/jasmine-johnson-566312103 | jasmine.johnson@cbsradio.com | professional | N/A | N/A | campuspeak, inc. | 4613 north university drive | 70,000-85,000
+lauren | stiles | linkedin.com/in/laurencstiles | laurenthestiles@gmail.com | personal | lauren@adbuy.com | N/A | adbuy | p/o box 79468 | 70,000-85,000
+samantha | martin | linkedin.com/in/samantha-martin-376aa7a2 | smartin@pennapowers.com | professional | N/A | N/A | usana health sciences | 3838 west parkway boulevard | 70,000-85,000
+beatrice | nencha | linkedin.com/in/beatrice-nencha-91133325 | nencha@libero.it | N/A | N/A | N/A | borri books | null | 45,000-55,000
+kim | lues | linkedin.com/in/kim-lues-1125b635 | kimbersly@gmail.com | personal | N/A | N/A | new dawn manuals ltd. | 1444 lake michigan crescent southeast | 55,000-70,000
+helen | perlegos | linkedin.com/in/helen-perlegos-137a4616 | helen@edacafe.com | current_professional | helen@edacafe.com | N/A | eda cafe | 496 salmar avenue | 85,000-100,000
+pierre-yves | leveaux | linkedin.com/in/pyleveaux | pierre-yves.leveaux@tipik.eu | current_professional | pierre-yves.leveaux@tipik.eu | N/A | tipik | null | 55,000-70,000
+panji | firmansyah | linkedin.com/in/eunjie | panji_firmansyah@yahoo.co.id | N/A | N/A | N/A | antheus indonesia organizer | null | <20,000
+aaron | kendall | linkedin.com/in/aaron-kendall-34a183101 | aaron.kendall@friedmanshome.com | professional | aaron@allpryme.com | +17073387279 | pryme group, llc | null | 85,000-100,000margo | showers | linkedin.com/in/margo-showers-0a53623 | margoshowers@hotmail.com | personal | margo@steppingstories.com | +14157138429 | stepping stories | 12242 business park drive | 70,000-85,000
+deborah | sitbon | linkedin.com/in/deborah-sitbon-1949b49 | deborahs359@hotmail.com | personal | N/A | N/A | decorasol | null | 55,000-70,000
+erich | donaldson | linkedin.com/in/sermonsdomain | sermonsdomain@gmail.com | professional | N/A | N/A | visionary music group | null | 85,000-100,000
+erica | lonabaugh | linkedin.com/in/erica-lonabaugh-5b109b49 | erica@relate24.com | professional | N/A | N/A | country visions cooperative | 709 mill street | 85,000-100,000
+melissa | mitchell | linkedin.com/in/melissamitchell | sippycupmom@gmail.com | professional | N/A | N/A | cambrick yard | null | 85,000-100,000
+marcos | montiel | linkedin.com/in/marcos-bruno-montiel-45038b18 | marcosbrunomontiel@gmail.com | personal | N/A | N/A | el tribuno | null | <20,000
+amanda | prince | linkedin.com/in/amanda-prince-494a2392 | aprince2o12@gmail.com | personal | amanda@americommarketing.com | +14097285335 | americom marketing lp | 2615 calder avenue | 70,000-85,000
+megan | pinckney | linkedin.com/in/megan-pinckney-56a06393 | pinckney@sc.edu | professional | N/A | N/A | pinck strategies | null | 70,000-85,000
+ishita | nag | linkedin.com/in/ishitanag | isabella.nag@gmail.com | personal | N/A | N/A | aakash educational services limited | null | <20,000
