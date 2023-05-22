@@ -1014,4 +1014,18 @@ sally | moore | linkedin.com/in/sally-moore-59b77b9a | sally.moore@isentia.com |
 dainis | dembovskis | linkedin.com/in/dainis-dembovskis-302a3611b | dainis.dembovskis@bite.lv | current_professional | dainis.dembovskis@bite.lv | N/A | bite latvija | null | 85,000-100,000
 yara | asi | linkedin.com/in/dryaraasi | yara@ucf.edu | professional | N/A | N/A | palestinian american research center | null | 85,000-100,000
 estelle | oltra | linkedin.com/in/estelle-oltra-42200649 | estelle.oltra@creditmutuel.fr | current_professional | estelle.oltra@creditmutuel.fr | N/A | crédit mutuel | null | 55,000-70,000
-pippa | dean | linkedin.com/in/pippa-dean-87b544a7 | pdean@webershandwick.com | professional | N/A | N/A | skiddle | null | 55,000-70,000
+pippa | dean | linkedin.com/in/pippa-dean-87b544a7 | pdean@webershandwick.com | professional | N/A | N/A | skiddle | null | 55,000-70,000erin | gistaro | linkedin.com/in/erin-gistaro-128b3b96 | eringistaro@verizon.net | personal | N/A | N/A | democratic legislative campaign committee | null | 70,000-85,000
+zuzile | marrengane | linkedin.com/in/zuzile-marrengane-bab43331 | zilemarrengane@gmail.com | personal | N/A | N/A | roadtrippers travel | null | <20,000
+martina | pasquale | linkedin.com/in/martina-pasquale-37833540 | martina.pasquale@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
+daniele | tarozzi | linkedin.com/in/daniele-tarozzi-26b4465 | danieletarozzi@gmail.com | personal | daniele.tarozzi@comune.bologna.it | N/A | comune di bologna | null | 45,000-55,000
+gila | leipnik | linkedin.com/in/gila-leipnik-70a8a63b | leipnik_74@hotmail.com | personal | N/A | N/A | imp group | 2651 joseph howe drive | 45,000-55,000
+jessica | grant | linkedin.com/in/jessica-grant-ba586113b | jgrant@miyjcc.org | current_professional | jgrant@miyjcc.org | N/A | mid-island y jcc | null | 85,000-100,000
+terry | gau | linkedin.com/in/terry-gau-5b51ab13 | terry.gau@gmail.com | personal | N/A | +18043048379 | null | null | 85,000-100,000
+ilina | serafimova | linkedin.com/in/ilina-serafimova | ilina_serafimova@yahoo.com | personal | N/A | N/A | propace | null | 85,000-100,000
+julie | castillo | linkedin.com/in/julie-anne-castillo-a475b041 | julie@d-oz.com | professional | N/A | N/A | pepworldwide asia pte ltd | null | 70,000-85,000
+camilo | idárraga | linkedin.com/in/camilo-idárraga-486a21b8 | camilosqui98@hotmail.com | personal | N/A | N/A | compudemano | null | <20,000
+rebecca | mccomb | linkedin.com/in/rebeccamccombsocialmedia | rebecca@thinkdewinter.co.uk | professional | N/A | +447854007634 | profici | 20 chapel street | 55,000-70,000
+becca | brooks | linkedin.com/in/becca-brooks-47451124 | becca.brooks@okstate.edu | N/A | N/A | N/A | madison214 | null | 70,000-85,000
+luca | di renzo | linkedin.com/in/lucadirenzo | luca.direnzo@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
+yuki | martin | linkedin.com/in/yuki-martin | yukimartin@gmail.com | personal | N/A | N/A | pôle emploi | null | 55,000-70,000
+erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000
