@@ -51,11 +51,23 @@ daniel | flay | linkedin.com/in/danflay | daniel.flay@thefashiondigital.com | cu
 nichole | smith | linkedin.com/in/smithnicholemarie | hotcoal777@aol.com | personal | N/A | N/A | inner city youth orchestra of los angeles (icyola) | null | 70,000-85,000
 drew | gilroy | linkedin.com/in/drew-gilroy-2aa09326 | drew33333@hotmail.com | personal | N/A | N/A | social media | null | <20,000
 cindy | bui | linkedin.com/in/cindy-bui-520422102 | bui@natexo.com | professional | N/A | N/A | matériel sncf | null | 55,000-70,000
-gabriela | turzi | linkedin.com/in/gabrielaturzi | gturzi222@gmail.com | personal | gabriela@arpaasociados.com | N/A | arpa asociados sa | null | 20,000-25,000of | knoxville | linkedin.com/in/tnriverboat | anjie@tnriverboat.com | current_professional | anjie@tnriverboat.com | N/A | tennessee riverboat company | null | 85,000-100,000
-valentina | raso | linkedin.com/in/valentina-raso-1b072270 | valentinaraso1994@gmail.com | personal | N/A | N/A | verona social | null | 45,000-55,000
-stefano | panato | linkedin.com/in/stef3112 | stefano.panato@lidl.it | current_professional | stefano.panato@lidl.it | N/A | lidl italia | null | 45,000-55,000
-sarah | sheppard | linkedin.com/in/sarah-sheppard-b097b325 | sarahmsheppard@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
-lalit | sengupta | linkedin.com/in/lalit-sengupta-8a135796 | lalit.sengupta@gmail.com | personal | N/A | N/A | greaves cotton limited | null | <20,000
-grace | zubairu | linkedin.com/in/grace-samira-zubairu-9ba52927 | samiragz@yahoo.com | personal | N/A | N/A | sameezub | null | 70,000-85,000
-gerry | sung | linkedin.com/in/gerrysung | gsung604@gmail.com | personal | N/A | N/A | black strathcona | null | 55,000-70,000
-radu | dobrostomat | linkedin.com/in/radudobrostomat | radu.dobrostomat@gmail.com | personal | radu@blueline.md | N/A | blueline srl | null | 85,000-100,000
+gabriela | turzi | linkedin.com/in/gabrielaturzi | gturzi222@gmail.com | personal | gabriela@arpaasociados.com | N/A | arpa asociados sa | null | 20,000-25,000clarisse | mouillon | linkedin.com/in/clarissemouillon | clarisse.mouillon@aufeminin.com | professional | N/A | N/A | sncf gares & connexions | null | 45,000-55,000
+nathaniel | mayo | linkedin.com/in/nathaniel-mayo-83941924 | a654910@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+harte | hanks | linkedin.com/in/hhsocial | harte.hanks@hartehanks.com | current_professional | harte.hanks@hartehanks.com | N/A | harte hanks | 9601 mcallister freeway | 85,000-100,000
+paul | macmahon | linkedin.com/in/paul-macmahon-bb716634 | paul.macmahon@youthmusic.org.uk | professional | p.macmahon@battersea.org.uk | N/A | battersea dogs & cats home | 4 battersea park road | 55,000-70,000
+tania | rahman | linkedin.com/in/taniatrahman | taniarahman201@gmail.com | personal | N/A | +13473207101 | yext | 61 9th avenue | 55,000-70,000
+veronica | berselli | linkedin.com/in/veronicaberselli | veronicaberselli@gmail.com | personal | N/A | N/A | me stesso | null | 45,000-55,000
+taylor | favre | linkedin.com/in/taylor-favre-888a5022 | mcog85@gmail.com | personal | N/A | N/A | anmark | null | 85,000-100,000
+jamel | coles | linkedin.com/in/jamel-coles-01640164 | jamel.coles@verizon.com | current_professional | jamel.coles@verizon.com | N/A | verizon | 1 verizon way | 70,000-85,000
+jemma | moran | linkedin.com/in/jemma-moran-65033440 | jemma.moran@rivercottage.net | professional | jemma@organictradeboard.co.uk | N/A | uk organic trade board | null | 55,000-70,000
+leisha-mae | telles | linkedin.com/in/leisha-mae-telles-91b87222 | lmtelles@asu.edu | N/A | N/A | N/A | do it yesterday | null | 70,000-85,000rozzy | middleton | linkedin.com/in/rozzy-middleton-49133713 | rozzymiddleton@gmail.com | personal | N/A | +447833141585 | art dubai | null | 55,000-70,000
+samer | ahmed | linkedin.com/in/samer-ahmed-4158605b | samer@allainet.com | professional | N/A | N/A | null | null | <20,000
+joana | marques | linkedin.com/in/joana-marques-07658317 | maldonado.joana@gmail.com | personal | N/A | N/A | havas media portugal | null | 25,000-35,000
+ashley | williams | linkedin.com/in/ashley-williams-97185823 | ashwill88@gmail.com | personal | awilliams@etnainteractive.com | N/A | etna interactive | 709 fiero lane | 100,000-150,000
+donna | lakinger | linkedin.com/in/donna-lakinger-1173332b | donnalakinger@yahoo.com | personal | N/A | N/A | shine | null | 85,000-100,000
+margherita | gaddoni | linkedin.com/in/margherita-gaddoni-296622a6 | margherita.gaddoni@alpitour.it | professional | N/A | N/A | parlor | null | 45,000-55,000
+brandon | henriksen | linkedin.com/in/brandon-henriksen-5a675647 | skinslip@gmail.com | personal | N/A | +18056371850 | g33k-e.com | null | 85,000-100,000
+sarah | case-upton | linkedin.com/in/sarah-case-upton-07b88119 | upton79@hotmail.com | personal | N/A | N/A | promos | null | 55,000-70,000
+matt | struck | linkedin.com/in/mattstruck | matthewstruck@flash.net | N/A | N/A | +13038758926 | cowboys for trump | null | 85,000-100,000
+alysan | sherota | linkedin.com/in/alysan-sherota-8982a624 | asherota@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+sarah | alo | linkedin.com/in/sarahalo | sarahjoalo@gmail.com | personal | N/A | N/A | menace web series | null | 85,000-100,000
