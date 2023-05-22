@@ -1784,4 +1784,14 @@ sarah | masters | linkedin.com/in/sarah-masters-3b58b429 | sjkmasters@gmail.com 
 julia | hellmich | linkedin.com/in/julia-hellmich-979a798a | hellmich@elbkind.de | current_professional | hellmich@elbkind.de | N/A | elbkind gmbh | null | 55,000-70,000
 emilie | idengren | linkedin.com/in/emiliehoasidengren | emilie@vayagroup.se | professional | N/A | N/A | null | null | 70,000-85,000
 john | christensen | linkedin.com/in/john-christensen-32941a29 | boondocksfuncenter@gmail.com | personal | N/A | N/A | furmedia | null | 70,000-85,000
-ryan | wentz | linkedin.com/in/ryan-wentz-15994a76 | ryan.wentz@watsi.org | professional | N/A | N/A | codepink | null | 70,000-85,000
+ryan | wentz | linkedin.com/in/ryan-wentz-15994a76 | ryan.wentz@watsi.org | professional | N/A | N/A | codepink | null | 70,000-85,000roxane | lossy | linkedin.com/in/roxane-lossy | roxane.lossy@extreme.fr | current_professional | roxane.lossy@extreme.fr | N/A | extreme agency | null | 55,000-70,000
+victoria | li | linkedin.com/in/victoriaus | vli@proshares.com | professional | N/A | +12404976400 | dynamo technologies, llc | 1951 kidwell drive | 70,000-85,000
+anna | martulli | linkedin.com/in/anna-grazia-martulli-08b9b825 | annagraziam73@hotmail.com | personal | N/A | N/A | struttura assicurazioni | null | 45,000-55,000
+madisyn | mckee | linkedin.com/in/madisyn-mckee | mmckee@iaclarington.com | professional | N/A | N/A | workopolis | null | 55,000-70,000
+mort | jenkins | linkedin.com/in/mort-jenkins-71007654 | mort@integrissecurity.com | current_professional | mort@integrissecurity.com | N/A | integris security | null | 85,000-100,000
+binta | lamothe | linkedin.com/in/bintalamothe | binta.lamothe@earls.ca | current_professional | binta.lamothe@earls.ca | N/A | earls kitchen + bar | 425 carrall street | 55,000-70,000
+gina | mom | linkedin.com/in/gina-mom-225b0574 | gina.mom@buzzsmith.com | current_professional | gina.mom@buzzsmith.com | N/A | buzzsmith marketing | null | 85,000-100,000
+anna | zuener | linkedin.com/in/anna-zuener-a6251549 | editor@pilates-pro.com | current_professional | editor@pilates-pro.com | N/A | power pilates | null | 85,000-100,000
+keara | gross | linkedin.com/in/keara-gross-083980a5 | lsgross@mchsi.com | personal | N/A | +15634492975 | fusion aveda salon and spa | null | 85,000-100,000
+onelio | master | linkedin.com/in/onelio-master-04216849 | facebook@onelio.de | current_professional | facebook@onelio.de | N/A | onelio werbeagentur gmbh | null | 55,000-70,000
+ian | king | linkedin.com/in/ian-king-6a687865 | iangkingiv@gmail.com | personal | N/A | +18058868907 | page youth center | null | 85,000-100,000
