@@ -981,4 +981,16 @@ nicole | platania | linkedin.com/in/nicole-platania-806359a2 | nicole.platania@g
 nuha | abu samak | linkedin.com/in/nuhasamak | nnn24sss@hotmail.com | personal | N/A | N/A | cheil worldwide | null | 70,000-85,000
 viktoria | semertzidou | linkedin.com/in/viktoria-semertzidou | vsemertzidoy@gmail.com | personal | N/A | N/A | gfy consulting | null | 55,000-70,000
 debbie | head | linkedin.com/in/debbiehead | djhead@bellsouth.net | personal | N/A | +17708453376 | etowah valley historical society inc | p/o box 1886 | 85,000-100,000
-kimberly | waring | linkedin.com/in/kimberly-waring-139a82109 | kimberly.waring@gyges.org | N/A | N/A | N/A | null | null | 100,000-150,000
+kimberly | waring | linkedin.com/in/kimberly-waring-139a82109 | kimberly.waring@gyges.org | N/A | N/A | N/A | null | null | 100,000-150,000rosie | shelley | linkedin.com/in/rosieshelley | r-shelley@hotmail.co.uk | personal | r.shelley@surrey.ac.uk | N/A | university of surrey | null | 55,000-70,000
+alessandro | mantovan | linkedin.com/in/alessandromantovan | aleds03@yahoo.it | personal | N/A | N/A | associazione mondo eventi | null | 45,000-55,000
+alexus | prawn | linkedin.com/in/alexus-prawn-2aba3276 | simon@make-it-rain.co.uk | N/A | alexus_prawn@mckinsey.com | N/A | mckinsey & company | null | 55,000-70,000
+edit | szalánszki | linkedin.com/in/mizughi | editszalanszki@gmail.com | personal | N/A | N/A | null | null | 20,000-25,000
+marina | cito | linkedin.com/in/marina-cito-a1190233 | marina.cito@libero.it | N/A | N/A | N/A | fradi brand | null | 35,000-45,000
+zainab | almadhlouh | linkedin.com/in/zainab-almadhlouh-142875136 | zainab.almadhlouh@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+silvia | bruni | linkedin.com/in/silvia-bruni-80a1b0a | si.bruni@gmail.com | personal | N/A | N/A | me stesso | null | 45,000-55,000
+aria | hamidnia | linkedin.com/in/aria-hamidnia-31038233 | aria897@gmail.com | personal | N/A | +18582105542 | pcm capital | null | 85,000-100,000
+luis | lopez | linkedin.com/in/luis-lopez-745b4639 | luisferlg14@hotmail.com | personal | N/A | N/A | olaplex honduras | null | 85,000-100,000
+lamirault | fabrice | linkedin.com/in/fabricelamirault | fabrice.lamirault@gmail.com | personal | N/A | N/A | banque populaire | null | 55,000-70,000
+hillary | hogard | linkedin.com/in/hillaryhogard | hillary.hogard@narrativemediagroup.com | current_professional | hillary.hogard@narrativemediagroup.com | N/A | the narrative group | 32 avenue of the americas | 85,000-100,000
+charlotte | thompson | linkedin.com/in/charlotte-thompson-5076581b | contact@lipglossiping.com | professional | N/A | N/A | stickleback games | null | 55,000-70,000
+bojana | bosanac | linkedin.com/in/bojana-bosanac-634100113 | bojana.bosanac@telekom.rs | professional | N/A | N/A | fk crvena zvezda | null | <20,000
