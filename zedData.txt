@@ -1,9 +1,12 @@
 
-icha | annisa | linkedin.com/in/icha-annisa28 | icha.toj@gmail.com | personal | N/A | N/A | wordpix asia | null | <20,000
-charles | mcwilliams | linkedin.com/in/qualbesocial | charles.mcwilliams@qualbe.com | current_professional | charles.mcwilliams@qualbe.com | N/A | qualbe marketing group | 5535 airport freeway | 85,000-100,000
-alexis | miller | linkedin.com/in/alexis-miller-679b0a174 | a.miller1324@yahoo.com | personal | N/A | +14409354998 | ba marketing solutions | null | 85,000-100,000
-justyce | smith | linkedin.com/in/justyce-smith-8365b4b5 | justyce.smith@att.com | professional | N/A | N/A | the import collection | null | 70,000-85,000
-walter | parker | linkedin.com/in/thewalterparker | thewalterparker@gmail.com | personal | wparker@bellarmine.edu | +15024528441 | bellarmine university | 2001 newburg road | 85,000-100,000
-hellen | madden | linkedin.com/in/hellen-madden-30a41349 | info.rp@ipsos.com | N/A | hellen.madden@synovate.com | N/A | synovate retail performance | null | 55,000-70,000
-rajiv | chandramohan | linkedin.com/in/rajiv-chandramohan-a547041b | rajivcm_8685@yahoo.co.in | personal | N/A | N/A | logicloops | 6730 jamestown drive | <20,000
-leticia | llamas | linkedin.com/in/leticiallamas | leticiallamas@gmail.com | personal | N/A | N/A | proconsi | null | 35,000-45,000
+tarek | qaitoqa | linkedin.com/in/tarekwqaitoqa | abu_sharkas12@hotmail.com | personal | N/A | N/A | proof communications | null | 55,000-70,000
+augusta | neal | linkedin.com/in/augustaneal | gustaneal@gmail.com | personal | augusta.neal@ansira.com | N/A | ansira | 2300 locust street | 70,000-85,000
+sophie | castellanos | linkedin.com/in/sophie-castellanos-58480b96 | scastellanos@articleonze.com | current_professional | scastellanos@articleonze.com | N/A | article onze groupe | null | 55,000-70,000
+squatters | brewery | linkedin.com/in/squatters-pub-brewery-a41a0b3a | beer@squatters.com | current_professional | beer@squatters.com | N/A | squatters pub brewery | null | 70,000-85,000
+jolynn | alenci | linkedin.com/in/jolynn-alenci-29763114 | jalenci@aol.com | personal | N/A | N/A | null | null | 100,000-150,000
+april | holajter | linkedin.com/in/aprilholajter | aholajte@purdue.edu | professional | N/A | +18473238292 | purdue alumni association | 403 west wood street | 85,000-100,000
+cindy | lyons | linkedin.com/in/cindiasaurusrex | clyons2@mail.usf.edu | N/A | N/A | N/A | big step marketing | 844 kiefer trails drive | 70,000-85,000
+harriet | drudge | linkedin.com/in/hmdrudge | hd00046@surrey.ac.uk | professional | N/A | N/A | the athletic | null | 55,000-70,000
+jiří | lebiš | linkedin.com/in/jirilebis | jirko.lebis@gmail.com | personal | N/A | N/A | džavot s.r.o | null | 85,000-100,000
+cassandra | caswell | linkedin.com/in/cassandra-caswell-768b273b | cncaswell@wisc.edu | N/A | N/A | N/A | null | null | 85,000-100,000
+simran | randhawa | linkedin.com/in/simran-randhawa-118964111 | simran@sixthsense.com.sg | current_professional | simran@sixthsense.com.sg | N/A | sixth sense pr | 66 circular road | 70,000-85,000
