@@ -1524,20 +1524,22 @@ malvika | mathur | linkedin.com/in/malvika-mathur-511751116 | malvika.mathur@sma
 jamie-lee | conway | linkedin.com/in/jamie-lee-conway-42955a16 | jamie-lee.conway@border.gov.au | professional | N/A | N/A | australian government | null | 70,000-85,000
 allison | knoll | linkedin.com/in/allisonknoll | allison@pioneerworks.org | professional | N/A | N/A | the shed | null | 70,000-85,000
 véronique | page | linkedin.com/in/veroniquepage | veronique.page@hotmail.fr | personal | N/A | N/A | dcns | null | 55,000-70,000
-maría | del rosario maldonado | linkedin.com/in/maria-del-rosario-maldonado | mariadelrosario.m@hotmail.com | personal | N/A | N/A | click marketing digital | null | 20,000-25,000mary | lemanski | linkedin.com/in/marylemanski | painted421@aol.com | professional | N/A | +16023698678 | democratic party of dupage county | 1000-7 rohlwing road | 85,000-100,000
-shelley | davis | linkedin.com/in/shelley-berman-davis-b073b420 | greenladyelf@aol.com | personal | N/A | N/A | wego unlimited | p/o box 43113 | 85,000-100,000
-holli | sampson | linkedin.com/in/holli-sampson-4152b396 | hsampson@uidaho.edu | current_professional | hsampson@uidaho.edu | +12088821320 | university of idaho | 709 deakin avenue | 70,000-85,000
-katy | ferrari | linkedin.com/in/katy-ferrari-b5818924 | katyferrari@hotmail.com | personal | N/A | N/A | disco bar ashby | null | 55,000-70,000
-sheri | richardson | linkedin.com/in/sheri-richardson-73bb3246 | sar80@sbcglobal.net | personal | N/A | N/A | beita group (real estate) | null | 70,000-85,000
-tucker | travis | linkedin.com/in/tucker-travis-23113548 | tatravis@uark.edu | professional | N/A | N/A | neighborhood goods | null | 70,000-85,000
-julia | guseva | linkedin.com/in/julia-guseva-489a102b | bkrulez7885@yahoo.com | personal | julia@sandlotsportsnyc.com | +16469192220 | sandlot sports nyc | 310 west 95th street | 85,000-100,000
-jennifer | nollette | linkedin.com/in/jennifernollette10 | nollettej@mpcc.edu | professional | N/A | +14026760736 | sandhill social | null | 70,000-85,000
-charlotte | horobin | linkedin.com/in/charlottehorobin | charlotte.h@shakespearesglobe.com | current_professional | charlotte.h@shakespearesglobe.com | +447979193279 | shakespeare's globe | 21 new globe walk | 55,000-70,000
-ben | berry | linkedin.com/in/ben-berry-a2475439 | bberry@finishline.com | professional | N/A | N/A | new heights youth, inc. | 50 a east 118th street | 85,000-100,000
-gwakisa | augustine | linkedin.com/in/gwakisa-augustine-65564663 | gwakisa.augustine@gmail.com | personal | N/A | N/A | jp decaux | null | 70,000-85,000
-anna | wappenhans | linkedin.com/in/anna-wappenhans-59049979 | anna.wappenhans@gmail.com | personal | anna.wappenhans@esl-education.org | N/A | esl education s.a | null | 35,000-45,000
-cyn | johnson | linkedin.com/in/cyn-johnson-b0927043 | cyn_johnson21@hotmail.com | personal | N/A | N/A | the online media agency | null | 70,000-85,000
-ralph | li | linkedin.com/in/ralphli | ralphli301@gmail.com | personal | ralph.li@ubtrobot.com | N/A | ubtech robotics | null | 70,000-85,000
-cheyenne | robertson | linkedin.com/in/cheyennerobertson | cheyenne.robertson@gmail.com | personal | crobertson@americanchocolatedesigns.com | N/A | american chocolate designs | 11940 alpharetta highway | 85,000-100,000
-duncan | goodwin | linkedin.com/in/duncan-goodwin-b7951a53 | duncan_goodwin@condenast.com | professional | N/A | N/A | keith mcnally restaurant group | null | 100,000-150,000
-jaded | kimiko | linkedin.com/in/jadedkitty | jadedkitty@gmail.com | personal | N/A | N/A | daryl's place | null | 70,000-85,000
+maría | del rosario maldonado | linkedin.com/in/maria-del-rosario-maldonado | mariadelrosario.m@hotmail.com | personal | N/A | N/A | click marketing digital | null | 20,000-25,000maider | duque | linkedin.com/in/maiderandolloduque | maiderandollo@gmail.com | personal | N/A | N/A | atrevia | null | 35,000-45,000
+ariela | moyal | linkedin.com/in/amoyal | moyalariela@gmail.com | personal | N/A | +15148278114 | merchant north | null | 55,000-70,000
+elvira | iñesta | linkedin.com/in/elviraalmodovar | elvira.almodovar@gmail.com | personal | N/A | N/A | visitelche | null | 35,000-45,000
+valentina | magagni | linkedin.com/in/valentina-magagni-88573219 | truffaldina@hotmail.it | personal | N/A | N/A | tarchini foxtown sa | null | 45,000-55,000
+aparna | mulberry | linkedin.com/in/aparna-mulberry-09463129 | racingstar108@yahoo.com | personal | N/A | +16083939304 | woman unruled | null | 70,000-85,000
+alexis | hanna | linkedin.com/in/alexis-hanna-53630296 | alexis.hanna@att.com | current_professional | alexis.hanna@att.com | N/A | at&t | 208 south akard street | 85,000-100,000
+teresa | merkl | linkedin.com/in/teresa-merkl | teresa.merkl@uni-hohenheim.de | professional | N/A | N/A | rewe markt | null | 70,000-85,000
+gamze | katranci | linkedin.com/in/gamze-katranci-a446a82b | gamze.katranci@ozsut.com.tr | current_professional | gamze.katranci@ozsut.com.tr | N/A | özsüt | null | <20,000
+adriana | suska | linkedin.com/in/adrianasuska | adriana.suska@gmail.com | personal | N/A | N/A | svengali communications | null | 85,000-100,000
+juliette | couturier | linkedin.com/in/juliette-couturier-06aa2365 | juliettecouturier@hotmail.fr | personal | N/A | N/A | vinified | null | 85,000-100,000
+christopher | isagi | linkedin.com/in/christopher-isagi-46a46640 | cchampme@yahoo.com | personal | N/A | N/A | zetaweb nigeria | null | <20,000
+amber | soukup | linkedin.com/in/amber-soukup-10bab110a | amber@clientsi.com | current_professional | amber@clientsi.com | N/A | client solution innovations | 47 clairedan drive | 70,000-85,000
+carlos | oliveira | linkedin.com/in/carlos-oliveira-a44666b0 | carlos.oliveira@arvatoservices.com | current_professional | carlos.oliveira@arvatoservices.com | N/A | arvato services | null | 55,000-70,000
+debbie | nob | linkedin.com/in/cyths | cythsnob@gmail.com | personal | N/A | N/A | white knight digital | 480 queen street | <20,000
+alison | tirrell | linkedin.com/in/alison-tirrell-0297436 | alisontirrell@gmail.com | personal | N/A | +15512080168 | key west photography festival | null | 70,000-85,000
+mandy | long | linkedin.com/in/mandy-long-b353947 | mandylong@mac.com | personal | N/A | N/A | house of social | null | 70,000-85,000
+zach | gayner | linkedin.com/in/zach-gayner-21343b73 | gaynerz@gmail.com | personal | N/A | N/A | roar digital | 210 hudson court | 85,000-100,000
+jack | london | linkedin.com/in/jack-london-8b762436 | tmc_dt@hotmail.co.uk | personal | N/A | N/A | so cool social media | null | 55,000-70,000
+boledi | makofane | linkedin.com/in/boledi-makofane-38332217 | boledi.makofane@gmail.com | personal | N/A | N/A | jacaranda 94.2 | null | <20,000
