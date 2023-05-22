@@ -1847,4 +1847,13 @@ zakaria | genius | linkedin.com/in/zakaria-abdul-hakim-genius-58973011a | zakari
 magdalena | solomon-kantek | linkedin.com/in/magdalena-solomon-kantek-506aabb0 | magdalena.solomon-kantek@landisgyr.com | professional | N/A | N/A | lena solomon | null | 55,000-70,000
 cvexpres | servicios | linkedin.com/in/cvexpres | profesor@cvexpres.com | current_professional | profesor@cvexpres.com | N/A | cvexpres | null | 35,000-45,000
 julian | hammer | linkedin.com/in/julian-hammer-aa8457105 | julian.hammer@hws.edu | N/A | N/A | +16172330046 | hammer architects | 21 bishop richard allen drive | 70,000-85,000
-peter | dimitrakopoulos | linkedin.com/in/peter-dimitrakopoulos-6ab8792a | peter@dean-kelly.com | professional | N/A | N/A | rainbow media/wetv and wedding central | null | 85,000-100,000
+peter | dimitrakopoulos | linkedin.com/in/peter-dimitrakopoulos-6ab8792a | peter@dean-kelly.com | professional | N/A | N/A | rainbow media/wetv and wedding central | null | 85,000-100,000melanie | garza | linkedin.com/in/melanie-garza | mgarza@ohl.es | professional | N/A | N/A | anton&wolf | null | 35,000-45,000
+ryan | nash | linkedin.com/in/ryan-patrick-nash | redplumber@verizon.net | personal | N/A | +16097521534 | small talk media | null | 85,000-100,000
+benjamyn | rees | linkedin.com/in/benjamyn-rees-4b89b217 | benjamynrees@yahoo.co.uk | personal | N/A | N/A | thunder laser uk | null | 55,000-70,000
+maritza | cardenas | linkedin.com/in/maritza-cardenas-12866b50 | maritza_cardenas@toyota.com | professional | N/A | +13104272703 | ultra mobile | null | 85,000-100,000
+sandra | andersen | linkedin.com/in/sandravivi | sandra.vivi.andersen@gmail.com | personal | N/A | N/A | star digital agency | 140 sukhumvit road | 100,000-150,000
+michel | bi | linkedin.com/in/michel-dje-bi-329b9526 | djebi_michel@yahoo.fr | personal | N/A | N/A | voodoo group | null | 85,000-100,000
+philip | taddeo | linkedin.com/in/philiptaddeo | philip.taddeo@sprint.com | professional | N/A | N/A | red roof inn | 7815 walton parkway | 70,000-85,000
+sylvie | provan | linkedin.com/in/sylvie-provan-00153a13 | sylvie.provan@gmail.com | personal | N/A | N/A | 21st century leaders foundation | null | 55,000-70,000
+shirley | manansala | linkedin.com/in/shirley-joy-manansala-0xx021572 | joymitch_babe@yahoo.com | personal | shirley@smartsites.com | N/A | smartsites | 45 eisenhower drive | 85,000-100,000
+gilina | mcbride | linkedin.com/in/gilinamcbride | gilinamcbride@gmail.com | personal | N/A | N/A | iresponze | 60 pointe circle | 85,000-100,000
