@@ -1628,16 +1628,10 @@ anton | bal | linkedin.com/in/anton-bal-4695962b | amustb@gmail.com | personal |
 rebecca | bachurski | linkedin.com/in/rebecca-bachurski-7a352866 | rebecca.bachurski@aholdusa.com | professional | N/A | N/A | philly esports | 1500 market street | 70,000-85,000
 jason | weaver | linkedin.com/in/jason-weaver-b1469146 | jason3074@yahoo.co.uk | personal | N/A | N/A | social media expect store | null | 55,000-70,000
 sheila | ghaibi | linkedin.com/in/sheilaghaibi | sghaibi@rei.com | professional | N/A | N/A | t-mobile | 12920 southeast 38th street | 100,000-150,000
-lisa | raz | linkedin.com/in/lisaraz | lisa@elementor.com | current_professional | lisa@elementor.com | N/A | elementor | null | 45,000-55,000molly | kipnis | linkedin.com/in/molly-kipnis-ba2064110 | mkipnis@crateandbarrel.com | professional | N/A | N/A | activecampaign | 1 north dearborn | 70,000-85,000
-alison | roncin | linkedin.com/in/alisonroncinjohnson | alison@immersionactive.com | professional | N/A | +13016319277 | riverspring health featuring the hebrew home at riverdale | 5901 palisade avenue | 55,000-70,000
-karla | fung | linkedin.com/in/karlafung | kwfung@gmail.com | personal | N/A | N/A | uc davis | 1 shields avenue | 70,000-85,000
-agnetha | berg | linkedin.com/in/agnethaberg | agnetha.berg@gmail.com | personal | N/A | N/A | home interiør | null | 100,000-150,000
-andrew | nodell | linkedin.com/in/andrew-nodell-85191493 | anodell@nypost.com | professional | N/A | +12129308500 | christie's | 8 king street | 85,000-100,000
-jeff | harris | linkedin.com/in/bonnie309 | avgd40@dsl.pipex.com | N/A | N/A | N/A | jeff-harris.co.uk | null | 55,000-70,000
-tester | mctester | linkedin.com/in/tester-mctester-22174832 | likeduh234@gmail.com | personal | N/A | N/A | test test test | null | 70,000-85,000
-marina | milicic | linkedin.com/in/marina-milicic | marina.milicic@b92.net | professional | marina.milicic@reversinglabs.com | N/A | reversinglabs | 222 3rd street | <20,000
-sarah | grimstone | linkedin.com/in/sarah-grimstone-1495bb66 | sarah.grimstone@iheartradio.com | professional | N/A | N/A | karralyka | null | 70,000-85,000
-tatum | lewis | linkedin.com/in/tatumlewis | tlewis@anthropologie.com | professional | N/A | N/A | true north social | 5855 green valley circle | 70,000-85,000
-itzel | pimentel | linkedin.com/in/itzel-pimentel-765b7154 | itzel.pimentel@wellsfargo.com | professional | N/A | N/A | null | null | 85,000-100,000
-kendall | bird | linkedin.com/in/kdbird | kendall.bird@collegiseducation.com | professional | N/A | N/A | dky | 6009 penn avenue south | 85,000-100,000
-parkroyal | yangon | linkedin.com/in/parkroyalygn | parkroyal.ygn@gmail.com | personal | N/A | N/A | parkroyal yangon | null | 85,000-100,000
+lisa | raz | linkedin.com/in/lisaraz | lisa@elementor.com | current_professional | lisa@elementor.com | N/A | elementor | null | 45,000-55,000simona | armenio | linkedin.com/in/simona-armenio-10b02627 | s.armenio@inovaos.it | N/A | N/A | N/A | b-selling | null | 45,000-55,000
+jeff | penner | linkedin.com/in/jeff-penner-80bb4710 | basil_ofbaker_st@hotmail.com | personal | jpenner@activeco.com | N/A | activeco technology management | 551 sherling place | 70,000-85,000
+mirko | jacono | linkedin.com/in/mirko-jacono-45331736 | meekron@gmail.com | personal | N/A | N/A | noienergia | null | 45,000-55,000
+lindsay | strannigan | linkedin.com/in/lindsaystrannigan | lindsay.strannigan@gmail.com | personal | N/A | +15038587700 | oregon fruit products llc | 3180 22nd street southeast | 70,000-85,000
+hernan | carlisky | linkedin.com/in/hernan-carlisky-38b868a1 | hernan@baguacenter.com | professional | N/A | N/A | reliable research laboratory | null | 70,000-85,000
+david | brossard | linkedin.com/in/dbrossard | brosdav@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+ishita | shah | linkedin.com/in/ishita-shah-581b56b | i.shah91@gmail.com | personal | N/A | N/A | lean in kolkata | null | <20,000
