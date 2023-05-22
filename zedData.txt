@@ -2006,11 +2006,11 @@ lena | nussbaum | linkedin.com/in/lena-hannah-nussbaum-75986688 | lena@theshiton
 alexandra | patinotis | linkedin.com/in/alexandra-patinotis-7aa52b42 | alexandras740@msn.com | personal | N/A | N/A | glam raider | null | 70,000-85,000
 poetry | diantina | linkedin.com/in/poetrycitraresmidiantina | poetryshtar@gmail.com | personal | N/A | N/A | soliditas indonesia | null | <20,000
 catherine | maynes | linkedin.com/in/catherine-suzanne-maynes-67a09418 | cs_maynes@sbcglobal.net | personal | N/A | N/A | null | null | 85,000-100,000
-bryan | diffenderfer | linkedin.com/in/bryan-diffenderfer-75695362 | bryan.diffenderfer@interlinebrands.com | professional | N/A | +19043846530 | www.ashledonielle.com | null | 85,000-100,000rhyll | davis | linkedin.com/in/rhyll-davis-48832b38 | rhylldavis@btinternet.com | N/A | N/A | N/A | cooloola bay bulletin | null | 70,000-85,000
-yifat | orbach | linkedin.com/in/yifat-orbach-4230a3110 | yifat.orbach@zap360.co.il | professional | N/A | N/A | catchup calendar inc. | null | 55,000-70,000
-nikki | black | linkedin.com/in/nikki-black-a7063698 | nblack@argosy.edu | current_professional | nblack@argosy.edu | N/A | argosy university | null | 85,000-100,000
-jentry | larsen | linkedin.com/in/jentryjodavis | jentry.larsen@intermountainhealthcare.org | professional | N/A | N/A | intermountain healthcare | 5245 south college drive | 85,000-100,000
-becky | edwards | linkedin.com/in/beckyledwards | becky.edwards@atkinsglobal.com | professional | becky.edwards@manpowergroup.com | N/A | manpowergroup | 100 manpower place | 55,000-70,000
-melissa | batista | linkedin.com/in/melissa-batista-650b312b | melissa.batista@uconn.edu | N/A | N/A | N/A | muni insurance | null | 85,000-100,000
-gloria | ortiz | linkedin.com/in/glomarketing | gloria.ortiz@aboutarc.com | professional | N/A | +13032910222 | null | null | 70,000-85,000
-sofie | vandewiele | linkedin.com/in/sofie-vandewiele-a788923 | sofie_tlc@yahoo.com | personal | N/A | N/A | here we are global | null | 70,000-85,000
+bryan | diffenderfer | linkedin.com/in/bryan-diffenderfer-75695362 | bryan.diffenderfer@interlinebrands.com | professional | N/A | +19043846530 | www.ashledonielle.com | null | 85,000-100,000marc | bos | linkedin.com/in/marcbos24 | marc.bos24@gmail.com | personal | N/A | N/A | stichting hoezo/expreszo | null | 70,000-85,000
+sierra | britton | linkedin.com/in/sierra-britton-7810662a | sierrabritton@yahoo.com | personal | N/A | N/A | forcechange | null | 85,000-100,000
+marguerite | buckley | linkedin.com/in/marguerite-buckley-a7731811 | mlbuckleyres@yahoo.com | personal | N/A | +17042813319 | null | null | 70,000-85,000
+angel | rojas | linkedin.com/in/angel-rojas-160b90a3 | angel@uguetomarketing.com | current_professional | angel@uguetomarketing.com | N/A | ugueto marketing + entertainment | 11632 100th avenue northeast | 20,000-25,000
+callum | sanderson | linkedin.com/in/callumsanderson | cpsanderson@hotmail.co.uk | personal | N/A | N/A | uk finance | 1 angel court | 55,000-70,000
+victor | verriere | linkedin.com/in/victor-verriere-2729a4ba | vverriere@onzeair.com | current_professional | vverriere@onzeair.com | N/A | on ze air | null | 55,000-70,000
+ellie | meyer | linkedin.com/in/elliemeyer | ellie@incrediblemarketing.com | current_professional | ellie@incrediblemarketing.com | N/A | incredible marketing | 25361 commercentre drive | 85,000-100,000
+clémence | roux | linkedin.com/in/rouxclemence3 | clem.roux@yahoo.fr | personal | roux@synchrone.fr | N/A | synchrone fr | null | 55,000-70,000
