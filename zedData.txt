@@ -1944,13 +1944,27 @@ carlotta | petti | linkedin.com/in/carlotta-petti-145a0527 | carlottapetti@yahoo
 ankit | mistry | linkedin.com/in/ankit-mistry-71802945 | vankit1523@yahoo.com | personal | N/A | N/A | iandme media | null | <20,000
 alice | huy | linkedin.com/in/alicehuy | a_iceye@msn.com | personal | N/A | N/A | webedia | null | 55,000-70,000
 maud | colemont | linkedin.com/in/maud-colemont-79b29884 | maud.colemont@justagency.eu | current_professional | maud.colemont@justagency.eu | N/A | pivott | null | 55,000-70,000
-veronica | cocetta | linkedin.com/in/veronica-cocetta-37318b120 | veronica.cocetta@edu.escpeurope.eu | professional | N/A | N/A | escp luxury society | null | 55,000-70,000natalie | calderon | linkedin.com/in/natalie-calderon-80aa1b5b | leslieni863@gmail.com | personal | N/A | N/A | pelipost | 1228 east 7th avenue | 70,000-85,000
-nadia | guinci | linkedin.com/in/nadia-guinci-30b20927 | nguinci@gmail.com | personal | N/A | N/A | redtag.ca & itravel2000.com | null | 55,000-70,000
-francesca | jaconelli | linkedin.com/in/francesca-jaconelli-b15892100 | francesca.jaconelli@matchesfashion.com | professional | N/A | N/A | adam&eveddb | 12 bishops bridge road | 55,000-70,000
-isabela | rosin | linkedin.com/in/isabela-moreno-rosin-6804664a | isabela.rosin@gmail.com | personal | N/A | N/A | oracle | 500 oracle parkway | <20,000
-nourine | muhammad | linkedin.com/in/nourine-muhamed | nourinesaleh@gmail.com | personal | N/A | N/A | medianature | null | <20,000
-onuchukwu | chigozie | linkedin.com/in/onuchukwu-chigozie | chigoziemmasichukwu@yahoo.com | personal | N/A | N/A | null | null | <20,000
-marta | sallemi | linkedin.com/in/martasallemi | sallemimarta@gmail.com | personal | N/A | N/A | the boozer british pub | null | <20,000
-louise | conley | linkedin.com/in/luluconley | loucon8@gmail.com | personal | N/A | +17143257697 | tom sizemore | null | 85,000-100,000
-cristiane | ferle | linkedin.com/in/cristiane-marques-ferle-1b665b | cferle@yahoo.com.br | personal | N/A | N/A | mei free-lancer | null | <20,000
-esteban | chamas | linkedin.com/in/esteban-chamas-6b187330 | thecherkis@hotmail.com | personal | N/A | N/A | bloom energy | 4353 north 1st street | <20,000
+veronica | cocetta | linkedin.com/in/veronica-cocetta-37318b120 | veronica.cocetta@edu.escpeurope.eu | professional | N/A | N/A | escp luxury society | null | 55,000-70,000olga | kozitska | linkedin.com/in/olgakozitska | okozitsk@ryerson.ca | professional | N/A | N/A | askfortask inc. | null | 55,000-70,000
+ricky | georges | linkedin.com/in/ricky-georges-14a3872a | rygxl@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+chris | taylor | linkedin.com/in/chrisdtaylor | chris.taylor@circlesocial.com | professional | chris.taylor@marcustheatres.com | N/A | marcus theatres | 100 east wisconsin avenue | 70,000-85,000
+seda | atici | linkedin.com/in/sedaatici | sedaatici@hotmail.com | personal | N/A | N/A | gaziantep metropolitan municipality | null | <20,000
+amelia | roucel | linkedin.com/in/amelia-roucel-84ba2944 | amelia.roucel@ralphlauren.com | professional | N/A | N/A | fred paris | null | 55,000-70,000
+kristy | frenken-francis | linkedin.com/in/kristy-frenken-francis | kfrenken-francis@indigo.ca | N/A | N/A | +16046138744 | joni™ | null | 55,000-70,000
+amanda | corman | linkedin.com/in/amanda-corman | amanda@symphonigroup.com | professional | amanda.corman@iqor.com | N/A | iqor | 1 progress plaza | 70,000-85,000
+vicki | marziale | linkedin.com/in/victoriamarziale | vickim@lotus823.com | professional | vicki@netwaveinteractive.com | +17322120823 | netwave interactive | 600 bay avenue | 85,000-100,000
+brian | nicoletti | linkedin.com/in/brianselfgrowth | brianselfgrowth@gmail.com | personal | N/A | N/A | self improvement online | null | 85,000-100,000
+jessie | andrews | linkedin.com/in/jessieandrews | jessieandrews@greeneking.co.uk | current_professional | jessieandrews@greeneking.co.uk | N/A | greene king | null | 85,000-100,000
+lena | authmann | linkedin.com/in/lena-authmann-9baa46113 | lena.authmann@vetevo.de | current_professional | lena.authmann@vetevo.de | N/A | vetevo gmbh | null | 55,000-70,000alisa | duenas | linkedin.com/in/alisa-duenas-9236963b | alisathayne@yahoo.com | personal | N/A | +15305928415 | bedrock markets inc | 2540 zanella way | 85,000-100,000
+katy | spence | linkedin.com/in/katy-spence-96b24a43 | hello@candyflossmedia.co.uk | N/A | N/A | N/A | linear signs and graphics | null | 55,000-70,000
+oana | iacob | linkedin.com/in/oana-iacob-b313b544 | uana.iacob@yahoo.com | personal | N/A | N/A | null | null | <20,000
+neus | sellés | linkedin.com/in/neusv | neusvs1@gmail.com | personal | N/A | N/A | push & pull agency | null | 35,000-45,000
+leanne | smith | linkedin.com/in/leannes | leannesmith52@yahoo.com | personal | N/A | N/A | one media | null | 70,000-85,000
+alisa | blagodarnaia | linkedin.com/in/blagodarnaia | alisablagodarnaia@hotmail.com | personal | N/A | N/A | marriott vacations worldwide corporation | null | 85,000-100,000
+jianwei | zeng | linkedin.com/in/jianwei-zeng-b5418b81 | calmhawk919@gmail.com | personal | jzeng@wef.org | N/A | water environment federation | 601 wythe street | <20,000
+jack | gow | linkedin.com/in/jack-gow-509a3b129 | jack.gow@cancer.org.au | current_professional | jack.gow@cancer.org.au | +61431314584 | cancer council australia | null | 70,000-85,000
+akhil | koul | linkedin.com/in/akhil-koul-2952713a | akhilkoul143@gmail.com | personal | N/A | N/A | sewa international | null | <20,000
+nicolás | viaño | linkedin.com/in/nicolasviaño | contact@nicolasviano.com | N/A | N/A | N/A | lagardère sports | 80 victoria street | 35,000-45,000
+svetlana | sokhina | linkedin.com/in/svetlana-sokhina-00bb6016 | svetlana_sohina@mail.ru | personal | N/A | N/A | ньютон, pr агентство | null | <20,000
+molly | martin | linkedin.com/in/mollymahar | mmahar@brockwhite.com | professional | N/A | N/A | prestige beverage group | 2300 pilot knob road | 85,000-100,000
+lin | klaamas | linkedin.com/in/lin-klaamas-56509219 | lin.klaamas@hotmail.com | personal | N/A | N/A | lin's media management | null | 70,000-85,000
+adriana | rodriguez | linkedin.com/in/adriana-rodriguez-ab5b442b | adrianarelated@gmail.com | personal | N/A | N/A | the media engagers/media loop | null | 85,000-100,000
