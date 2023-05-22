@@ -1028,4 +1028,13 @@ rebecca | mccomb | linkedin.com/in/rebeccamccombsocialmedia | rebecca@thinkdewin
 becca | brooks | linkedin.com/in/becca-brooks-47451124 | becca.brooks@okstate.edu | N/A | N/A | N/A | madison214 | null | 70,000-85,000
 luca | di renzo | linkedin.com/in/lucadirenzo | luca.direnzo@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
 yuki | martin | linkedin.com/in/yuki-martin | yukimartin@gmail.com | personal | N/A | N/A | pôle emploi | null | 55,000-70,000
-erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000
+erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000alyssa | gratkowski | linkedin.com/in/alyssa-gratkowski-31158138 | gratkowskia@beloit.edu | professional | N/A | N/A | celeb | null | 85,000-100,000
+amy | howes | linkedin.com/in/amy-howes | amy.howes.1@city.ac.uk | professional | N/A | N/A | royal shakespeare company | null | 55,000-70,000
+aaron | thomas | linkedin.com/in/atron | aron4588@gmail.com | personal | N/A | N/A | 1500ornothin | null | 85,000-100,000
+meagan | estep | linkedin.com/in/meagan-estep | meagan.estep@nga.gov | current_professional | meagan.estep@nga.gov | N/A | national gallery of art | null | 85,000-100,000
+sofia | medina | linkedin.com/in/medinasofia | sofia.medina@goaheadtours.com | professional | N/A | N/A | sunday riley | 4444 westheimer road | 70,000-85,000
+elliot | isles | linkedin.com/in/elliot-isles-84264484 | embisles@gmail.com | personal | N/A | +61430189063 | ladbible group | 20 dale street | 70,000-85,000
+lawrence | mutanhaurwa | linkedin.com/in/lawrence-mutanhaurwa-528a6440 | lawvibes@hotmail.com | personal | N/A | N/A | creating better futures | null | 85,000-100,000
+anica | padilla | linkedin.com/in/anica-padilla | anica@thedenverchannel.com | professional | N/A | +17202915015 | kcnc cbs denver | null | 70,000-85,000
+anas | lamby | linkedin.com/in/anas-lamby-29bb8875 | alamby@unither.com | current_professional | alamby@unither.com | N/A | united therapeutics corporation | 1040 spring street | 55,000-70,000
+katie | wilson | linkedin.com/in/katie-wilson-6b58a176 | katie.wilson@thebraintumourcharity.org | current_professional | katie.wilson@thebraintumourcharity.org | N/A | the brain tumour charity | 61-65 victoria road | 70,000-85,000
