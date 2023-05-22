@@ -773,17 +773,18 @@ katherine | cerrone | linkedin.com/in/katherinecerrone | katherine_cerrone@choic
 tom | wisniewski | linkedin.com/in/thomaswisniewski | thomasjwisniewski@gmail.com | personal | N/A | N/A | oxford brookes university rugby football club | null | 55,000-70,000
 michelle | jensen | linkedin.com/in/socialcopter | socialcopter@gmail.com | current_professional | socialcopter@gmail.com | N/A | socialcopter | null | 85,000-100,000
 maria | pakhyu | linkedin.com/in/maria-pakhyu-233482127 | maria.pakhyu@fischerappelt.de | current_professional | maria.pakhyu@fischerappelt.de | N/A | fischerappelt | null | 70,000-85,000
-jelani | newell | linkedin.com/in/jelani-newell-8490b3191 | jnewell2020@gmail.com | personal | N/A | N/A | open spaces landscape and arboricultural consultants limited | null | 55,000-70,000viviana | salinas | linkedin.com/in/viviana-sanchez-salinas | vivisanchez81@hotmail.com | personal | N/A | N/A | cheil argentina s.a. | null | <20,000
-james | durbin | linkedin.com/in/james-durbin-58313145 | adam.robinson@fcer.com | current_professional | adam.robinson@fcer.com | N/A | first choice emergency room | 2941 lake vista drive | 100,000-150,000
-vica | schipor-doroftei | linkedin.com/in/vioricaschipor | vioricaschipor@gmail.com | personal | N/A | N/A | null | null | <20,000
-elisa | neubauer | linkedin.com/in/elisa-neubauer-b2028354 | elisa.neubauer@eex.com | current_professional | elisa.neubauer@eex.com | N/A | european energy exchange ag | null | 70,000-85,000
-donna | baxter | linkedin.com/in/donna-baxter-32152447 | crisndon@bigpond.net.au | personal | N/A | N/A | fynmark | null | 70,000-85,000
-adi | rony | linkedin.com/in/adi-rony-5a890321 | adi.rony@gmail.com | personal | N/A | N/A | flourish creations | null | 70,000-85,000
-jeff | macgonigle | linkedin.com/in/jeff-macgonigle-3543253a | jeffmacuk@yahoo.co.uk | personal | N/A | N/A | null | null | 55,000-70,000
-jessica | moriarty | linkedin.com/in/jessicahmoriarty | jessica@labmpls.com | professional | N/A | N/A | null | null | 85,000-100,000
-alexandra | simon | linkedin.com/in/alexandra-simon-9ba9633b | alexandra9988@gmail.com | personal | N/A | N/A | miss millennia magazine llc | null | 85,000-100,000
-nancy | phatsaphaphone | linkedin.com/in/nancy-phatsaphaphone-a3711415 | pinkcrocpurse@hotmail.com | personal | N/A | N/A | cineplex entertainment | 1303 yonge street | 55,000-70,000
-lavinia | caradonna | linkedin.com/in/laviniamc | lavinia.caradonna@gmail.com | personal | N/A | N/A | scuola internazionale di comics milano | null | 45,000-55,000
-lauren | kinney | linkedin.com/in/lkinney7 | lauren.kinney@gmail.com | personal | N/A | +18182619013 | los angeles review of books | 6671 sunset boulevard | 85,000-100,000
-elisa | yngwe | linkedin.com/in/elisa-yngwe-a5361b55 | elisa.yngwe@nordiskfilm.com | current_professional | elisa.yngwe@nordiskfilm.com | N/A | nordisk film | null | 70,000-85,000
-camilo | brun | linkedin.com/in/camilo-brun-6060a744 | iank6@hotmail.com | personal | N/A | N/A | c.i graficas colorama s.a.s | null | <20,000
+jelani | newell | linkedin.com/in/jelani-newell-8490b3191 | jnewell2020@gmail.com | personal | N/A | N/A | open spaces landscape and arboricultural consultants limited | null | 55,000-70,000annemarie | moltz | linkedin.com/in/annemarie-moltz-049b27b5 | annemarie.moltz@teambank.de | professional | N/A | N/A | easy credit | null | 70,000-85,000
+sarah | lewkowicz | linkedin.com/in/sarah-lewk-ecommgirl | slewkowicz@hotmail.com | personal | N/A | N/A | debello llc | 9877 chapman avenue | 70,000-85,000
+linda | brown | linkedin.com/in/linda-brown-aa7b5414 | lindash896@hotmail.com | personal | linda.brown@sse.com | N/A | sse plc | 200 dunkeld road | 55,000-70,000
+rita | mendoza | linkedin.com/in/rferrer | rcfm73@gmail.com | personal | N/A | N/A | bodyboard pro festival 2014 copacantv | null | <20,000
+martina | albani | linkedin.com/in/martinaalbani | neysi@hotmail.it | personal | N/A | N/A | centro morphè | null | 45,000-55,000
+chloe | rager | linkedin.com/in/chloe-rager-50882b128 | chloe@smartgraft.com | current_professional | chloe@smartgraft.com | N/A | smartgraft by vision medical, inc. | null | 70,000-85,000
+terence | keaser | linkedin.com/in/terencekeaser | keaser@wave96.net | professional | N/A | N/A | pla-mor lanes | 225 east hardin street | 85,000-100,000
+yilsed | machado | linkedin.com/in/yilsed-machado-b7b17019 | yilm3@hotmail.com | personal | N/A | N/A | clínicas dorsia | null | 35,000-45,000
+bonte | minnema | linkedin.com/in/bonteminnema | bminnema@gmail.com | personal | N/A | +16472232819 | crispin digital | null | 55,000-70,000
+oe | socialmedia | linkedin.com/in/oe-socialmedia-b0b393181 | socialmedia@orange-element.com | current_professional | socialmedia@orange-element.com | N/A | orange element | 509 south exeter | 85,000-100,000
+john-paul | mackey | linkedin.com/in/johnpaulmackey | jpgenius2751@gmail.com | personal | N/A | +14155044428 | eu4ic | null | 70,000-85,000
+emily | landa | linkedin.com/in/emilylanda | emily@sullivanvideo.net | professional | emily.landa@hydrostudios.com | N/A | hydro studios | 1811 centinela avenue | 100,000-150,000
+victoria | loreto | linkedin.com/in/victoria-loreto-54b1b7b6 | victoria.loreto@hotmail.fr | personal | vloreto@laprovence.com | N/A | la provence | null | 55,000-70,000
+sarah | kern | linkedin.com/in/sarahpkern | sarahpkern@gmail.com | personal | N/A | N/A | yves salomon fourrures | null | 55,000-70,000
+mario | spataro | linkedin.com/in/mario-spataro-67a6b934 | mariospataro@hotmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
