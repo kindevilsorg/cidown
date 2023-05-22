@@ -1127,4 +1127,20 @@ lavan | hakim | linkedin.com/in/lavan-hakim-74a49b6a | lavan.hakim@telenor.se | 
 niraj | bagade | linkedin.com/in/niraj-bagade-40349321 | bagade.niraj@gmail.com | personal | N/A | N/A | null | null | <20,000
 dg | manager | linkedin.com/in/dgmanager | dg.manager@gmail.com | personal | N/A | N/A | the dg group | null | 70,000-85,000
 nika | kadunc | linkedin.com/in/nika-kadunc-5a955547 | nika.kadunc@gmail.com | personal | N/A | N/A | statistical office of the republic of slovenia | null | 85,000-100,000
-ayanna | roach | linkedin.com/in/ayanna-roach-a229a138 | ayannasr@gmail.com | personal | N/A | N/A | untapped media management | null | 70,000-85,000
+ayanna | roach | linkedin.com/in/ayanna-roach-a229a138 | ayannasr@gmail.com | personal | N/A | N/A | untapped media management | null | 70,000-85,000phoebe | lebrecht | linkedin.com/in/phoebe-lebrecht-6884b25a | phoebe@gocardless.com | current_professional | phoebe@gocardless.com | +447762170407 | gocardless | null | 55,000-70,000
+alice | biolcati | linkedin.com/in/alice-biolcati-7b8811109 | abiolcati@freelancer.com | N/A | N/A | N/A | null | null | 45,000-55,000
+joelle | bonifacio | linkedin.com/in/joellesteffenbonifacio | jms18uga@gmail.com | personal | N/A | +19206982163 | null | null | 85,000-100,000
+lindsey | barry | linkedin.com/in/lindseybarry | miss_linds8706@hotmail.com | personal | N/A | +15095996024 | null | null | 85,000-100,000
+keslee | kerby | linkedin.com/in/keslee-kerby-52051a49 | ker11011@byui.edu | professional | N/A | N/A | stewarts lawn and pest | 391 south vineyard road | 70,000-85,000
+sarah | kader | linkedin.com/in/sarahkader | kader.sarah@gmail.com | personal | N/A | N/A | new york university | null | 85,000-100,000
+marlou | rozeboom | linkedin.com/in/marlou-rozeboom-9b594044 | m.rozeboom@live.nl | N/A | N/A | N/A | sportvibes | null | 70,000-85,000
+alessandra | ponti | linkedin.com/in/alessandraponti | aleponti@hotmail.com | personal | N/A | N/A | consulenza | null | 45,000-55,000
+mario | marin | linkedin.com/in/mario-marin-6aa5a416 | mmarinphotography@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+victor | cordier | linkedin.com/in/victor-cordier-70b77610a | victor.cordier@gl-events.com | professional | N/A | N/A | tequilarapido | null | 55,000-70,000
+chris | van rensburg | linkedin.com/in/chrisjansevanrensburg | chrisjansevrensburg@gmail.com | personal | N/A | N/A | black snow digital | null | <20,000
+hanne | volkaerts | linkedin.com/in/hanne-volkaerts | hvolkaerts@daltonagency.com | current_professional | hvolkaerts@daltonagency.com | +19046092457 | dalton agency | 140 west monroe | 85,000-100,000
+anuja | goyal | linkedin.com/in/anuja-goyal-1223a049 | anujagoyal89@yahoo.co.in | personal | N/A | N/A | honor nepal | null | <20,000
+kelly | phillips | linkedin.com/in/phillipskelly | emailkellyphillips@gmail.com | personal | N/A | +16615994132 | null | null | 70,000-85,000
+comunicación | inbani | linkedin.com/in/comunicación-inbani-06099073 | comunicacion.inbani@gmail.com | personal | N/A | N/A | inbani | p/o box i | 35,000-45,000
+axelle | maringe | linkedin.com/in/axelle-maringe-71222369 | axelle.maringe@iscom.fr | professional | N/A | N/A | prisma media | null | 55,000-70,000
+john | mulligan | linkedin.com/in/john-mulligan-8b078924 | jpmull@mac.com | personal | john.mulligan@sanofi.com | +18604908262 | sanofi | null | 85,000-100,000
