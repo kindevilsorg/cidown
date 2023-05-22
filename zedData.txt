@@ -2701,4 +2701,13 @@ andrew | handley | linkedin.com/in/andrew-handley-a3398a2b | handleynation@yahoo
 rachel | macdonald | linkedin.com/in/rachel-macdonald-50771a78 | rmacdonald@hpb.com | professional | N/A | N/A | personal evolution | null | 70,000-85,000
 louise | o'shea | linkedin.com/in/louise-o-shea-a490081a | savegingers@gmail.com | personal | loshea@une.edu | N/A | university of new england | 11 hills beach road | 70,000-85,000
 katlyn | gambill | linkedin.com/in/katlyngambill | njdevils02@cox.net | personal | N/A | +14804446845 | los angeles kings | 555 north nash street | 70,000-85,000
-hannah | young | linkedin.com/in/hannah-young-7b05615b | hannah.young@danone.com | current_professional | hannah.young@danone.com | +447900262477 | danone | null | 55,000-70,000
+hannah | young | linkedin.com/in/hannah-young-7b05615b | hannah.young@danone.com | current_professional | hannah.young@danone.com | +447900262477 | danone | null | 55,000-70,000valentina | ragno | linkedin.com/in/valentina-ragno-34571931 | valentina.ragno1@gmail.com | personal | N/A | N/A | rial visual | null | 45,000-55,000
+flora | ciccarelli | linkedin.com/in/flora-ciccarelli-47a38461 | flora.ciccarelli@goethe.de | professional | N/A | N/A | bebit | the creative digital company | null | 45,000-55,000
+abigail | hall | linkedin.com/in/abigail-hall-dm18 | abi@ryanfarndon.com | professional | N/A | N/A | very social | null | 55,000-70,000
+hailey | rasmussen | linkedin.com/in/hailey-rasmussen-a7549a39 | hailey.m.rasmussen@gmail.com | personal | N/A | +14354691315 | undercover mama | null | 70,000-85,000
+victor | moolman | linkedin.com/in/victor-moolman-144a348b | sock-puppet@live.co.za | N/A | N/A | N/A | goscor lift truck co | 10 neutron road | <20,000
+stephanie | vu | linkedin.com/in/stephanie-vu-265a67bb | stephanie@teezagency.com | current_professional | stephanie@teezagency.com | N/A | teez agency | 7900 alabama avenue | 70,000-85,000
+sylvia | kb | linkedin.com/in/thesocialclicks | social@thesocialclicks.com | current_professional | social@thesocialclicks.com | N/A | the social clicks | null | 70,000-85,000
+luis | dueñas | linkedin.com/in/luchopulido | albertmuska@hotmail.com | personal | N/A | N/A | instituto de desarrollo urbano | null | <20,000
+brian | waters | linkedin.com/in/brianhwaters | bwaters@address.com | personal | N/A | +14432265051 | christian memorial church | null | 70,000-85,000
+rohan | kokani | linkedin.com/in/rohan-kokani-4615875a | rohan.kokani@ebrandz.com | current_professional | rohan.kokani@ebrandz.com | N/A | ebrandz solutions pvt. ltd. | null | <20,000
