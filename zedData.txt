@@ -2688,4 +2688,15 @@ erin | rubach | linkedin.com/in/erin-rubach-a006929 | langer103@msn.com | person
 henry | palmer | linkedin.com/in/henrypalmer | djhenroc@mac.com | personal | N/A | N/A | noisefloor productions | null | 70,000-85,000
 r | wood | linkedin.com/in/ekitzel-wood | ekitzel@gmail.com | personal | N/A | +18013584382 | korn ferry | null | 70,000-85,000
 tim | watkins | linkedin.com/in/tim-watkins-32568b36 | t.watkinsdolley@gmail.com | personal | t.watkins@reading.ac.uk | N/A | university of reading | null | 55,000-70,000
-richa | arora | linkedin.com/in/richa-arora-28439042 | richa.15.arora@gmail.com | personal | N/A | N/A | mixorg | null | <20,000
+richa | arora | linkedin.com/in/richa-arora-28439042 | richa.15.arora@gmail.com | personal | N/A | N/A | mixorg | null | <20,000patrick | mcsweeney | linkedin.com/in/mcsweeneypatrick | patrick.mcsweeney@movember.com | professional | N/A | N/A | three. | 20 grenfell road | 55,000-70,000
+giovanna | durelli | linkedin.com/in/giovanna-durelli-1519082b | giovanna.durelli@gmail.com | personal | N/A | N/A | dms ristorazione | null | 45,000-55,000
+jennifer | castiglione | linkedin.com/in/jennifercastiglione | jennifer.castiglione@fronteralondon.com | professional | N/A | +17277763706 | four seasons hotels and resorts | 1165 leslie street | 55,000-70,000
+nessa | dinneen | linkedin.com/in/nessa-dinneen-326a6bb0 | nessa.dinneen@thisisglobal.com | professional | N/A | N/A | studyclix | null | 70,000-85,000
+katharina | peschl | linkedin.com/in/katharinapeschl | k.peschl@billa.at | current_professional | k.peschl@billa.at | N/A | billa | null | 55,000-70,000
+miranda | head | linkedin.com/in/miranda-head-902b848b | headm@cofc.edu | professional | N/A | +12143363900 | floqast | 14721 califa street | 85,000-100,000
+nallyve | de leon | linkedin.com/in/nallyve-de-leon-95935291 | nallyve.de.leon@gmail.com | personal | N/A | N/A | softline solutions | 3212 honolulu avenue | 85,000-100,000
+dilyana | tineva | linkedin.com/in/dilyana-tineva-a5ab7545 | dtineva@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+enrico | gatti | linkedin.com/in/enrico-gatti-b2a46911a | enrico.gatti@navacamicie.com | current_professional | enrico.gatti@navacamicie.com | N/A | country rose di nava daniela | null | 45,000-55,000
+vr-zone | com | linkedin.com/in/vrsocial | social@vrmedia.com.sg | current_professional | social@vrmedia.com.sg | N/A | vr media pte | null | 70,000-85,000
+vedant | goenka | linkedin.com/in/vedant-goenka-b72390102 | vedant.goenka@practo.com | professional | N/A | N/A | decathlon sports india | a2 bellary road | <20,000
+luzcristina | tovar | linkedin.com/in/luzcristina-tovar-marketing | luzcritov@gmail.com | personal | N/A | N/A | natural 4 life | null | <20,000
