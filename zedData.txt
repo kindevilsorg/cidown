@@ -1028,13 +1028,16 @@ rebecca | mccomb | linkedin.com/in/rebeccamccombsocialmedia | rebecca@thinkdewin
 becca | brooks | linkedin.com/in/becca-brooks-47451124 | becca.brooks@okstate.edu | N/A | N/A | N/A | madison214 | null | 70,000-85,000
 luca | di renzo | linkedin.com/in/lucadirenzo | luca.direnzo@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
 yuki | martin | linkedin.com/in/yuki-martin | yukimartin@gmail.com | personal | N/A | N/A | pôle emploi | null | 55,000-70,000
-erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000alyssa | gratkowski | linkedin.com/in/alyssa-gratkowski-31158138 | gratkowskia@beloit.edu | professional | N/A | N/A | celeb | null | 85,000-100,000
-amy | howes | linkedin.com/in/amy-howes | amy.howes.1@city.ac.uk | professional | N/A | N/A | royal shakespeare company | null | 55,000-70,000
-aaron | thomas | linkedin.com/in/atron | aron4588@gmail.com | personal | N/A | N/A | 1500ornothin | null | 85,000-100,000
-meagan | estep | linkedin.com/in/meagan-estep | meagan.estep@nga.gov | current_professional | meagan.estep@nga.gov | N/A | national gallery of art | null | 85,000-100,000
-sofia | medina | linkedin.com/in/medinasofia | sofia.medina@goaheadtours.com | professional | N/A | N/A | sunday riley | 4444 westheimer road | 70,000-85,000
-elliot | isles | linkedin.com/in/elliot-isles-84264484 | embisles@gmail.com | personal | N/A | +61430189063 | ladbible group | 20 dale street | 70,000-85,000
-lawrence | mutanhaurwa | linkedin.com/in/lawrence-mutanhaurwa-528a6440 | lawvibes@hotmail.com | personal | N/A | N/A | creating better futures | null | 85,000-100,000
-anica | padilla | linkedin.com/in/anica-padilla | anica@thedenverchannel.com | professional | N/A | +17202915015 | kcnc cbs denver | null | 70,000-85,000
-anas | lamby | linkedin.com/in/anas-lamby-29bb8875 | alamby@unither.com | current_professional | alamby@unither.com | N/A | united therapeutics corporation | 1040 spring street | 55,000-70,000
-katie | wilson | linkedin.com/in/katie-wilson-6b58a176 | katie.wilson@thebraintumourcharity.org | current_professional | katie.wilson@thebraintumourcharity.org | N/A | the brain tumour charity | 61-65 victoria road | 70,000-85,000
+erin | dunne | linkedin.com/in/erin-dunne-60a54a116 | edunne@udel.edu | professional | N/A | N/A | nbc sports philadelphia | 3601 south broad street | 85,000-100,000janelle | haegert | linkedin.com/in/janelle-haegert-0b84a680 | jhaegert@starbucks.com | professional | N/A | N/A | cima enterprises | null | 70,000-85,000
+david | lowe | linkedin.com/in/davidlowe7 | davlowe7@bu.edu | professional | N/A | N/A | unique threads | null | 70,000-85,000
+jennifer | esposito | linkedin.com/in/jennifer-esposito-17941413a | jenniferesposito@flashtaxnj.com | current_professional | jenniferesposito@flashtaxnj.com | N/A | flash tax | 900 route 168 | 85,000-100,000
+khrisna | ditama | linkedin.com/in/khrisna-ditama-23b4a3a5 | pictographyservices@gmail.com | personal | N/A | N/A | null | null | <20,000
+jovanny | canizares | linkedin.com/in/jovannycanizares | jcanizares@sobro.org | current_professional | jcanizares@sobro.org | N/A | south bronx overall economic development corporation (sobro) | null | 55,000-70,000
+anthony | amrich | linkedin.com/in/anthony-amrich-a727a185 | tony@virginamerica.com | current_professional | tony@virginamerica.com | N/A | virgin america | 555 airport boulevard | 85,000-100,000
+karina | shadeed | linkedin.com/in/karinashadeed | karina.shadeed@gmail.com | personal | N/A | +13059050829 | miami dade college | 300 northeast 2nd avenue | 85,000-100,000
+svetlana | mitrovic | linkedin.com/in/svetlana-mitrovic-b104bb34 | svetle_mitrovic@hotmail.com | personal | N/A | N/A | hotel fedora riccione | null | 55,000-70,000
+william | tharp | linkedin.com/in/william-tharp-224117b4 | tharpw@winthrop.edu | professional | N/A | +18037922306 | charlotte motor speedway | 5555 concord parkway south | 70,000-85,000
+socialmedia | dli | linkedin.com/in/socialmedia-dli-861302a8 | s.dli@dlismile.it | current_professional | s.dli@dlismile.it | N/A | dli spa - the smile company of ict | null | 45,000-55,000
+robert | wylie | linkedin.com/in/robert-wylie-1633259a | robert@g2esports.com | current_professional | robert@g2esports.com | N/A | g2 esports | null | 55,000-70,000
+jessica | mercredi | linkedin.com/in/jessica-mercredi-66331521 | jessicalmercredi@gmail.com | personal | N/A | N/A | tails.com | null | 55,000-70,000
+james | mcmanus | linkedin.com/in/mrjamesmcmanus | jamesmcmanus95@live.co | N/A | N/A | +447801586269 | rainy city agency | null | 55,000-70,000
