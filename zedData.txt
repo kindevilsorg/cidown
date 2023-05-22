@@ -1441,14 +1441,15 @@ elizabeth | saari | linkedin.com/in/saarielizabeth | elizabeth@simplygluten-free
 kelsey | duggan | linkedin.com/in/kelsey-duggan-b7913835 | kelsa.duggan@gmail.com | personal | N/A | N/A | quantic school of business and technology | null | 85,000-100,000
 david | desue | linkedin.com/in/david-desue-5b8942a | ddesue@fsu.edu | professional | N/A | +18509337956 | corbec media, llc | null | 85,000-100,000
 erica | rossi | linkedin.com/in/erica-rossi-1b920892 | erica.rossi@aism.it | current_professional | erica.rossi@aism.it | N/A | aism onlus | null | 45,000-55,000
-jayne | gubler | linkedin.com/in/jayne-gubler-30667829 | moanasaves@gmail.com | professional | N/A | N/A | health unveiled | 662 east 500 north | 70,000-85,000cristiana | faria | linkedin.com/in/cristianafaria | cristiana.faria@gmail.com | personal | N/A | N/A | brandstory - marketing digital, social media. | null | 25,000-35,000
-jimmie | brewer | linkedin.com/in/jimmie-brewer-3536616 | purplehaze1100@yahoo.com | personal | N/A | +18137525179 | null | null | 85,000-100,000
-hunter | skipworth | linkedin.com/in/hunter-skipworth-2b4846131 | hunter.skipworth@mclaren.com | current_professional | hunter.skipworth@mclaren.com | N/A | mclaren automotive ltd | null | 55,000-70,000
-sarah | hoski | linkedin.com/in/sarah-hoski-517339a9 | shoski@dom360.com | professional | N/A | N/A | épatage | p/o box 171 | 70,000-85,000
-maimuna | irmal | linkedin.com/in/maimuna-irmal-41758a53 | maimuna.irmal@gmail.com | personal | N/A | N/A | somali society university of westminster | null | 55,000-70,000
-katie | gamboz | linkedin.com/in/katiegamboz | katie@helixcommerce.com | N/A | N/A | N/A | linea intima | null | 55,000-70,000
-bilal | nasr | linkedin.com/in/bilalnasr | bilalnr@gmail.com | personal | N/A | N/A | tv channel "ukraine" | 4 geroev kosmosa street | <20,000
-connie | fan | linkedin.com/in/cfan95 | cfan95@gmail.com | personal | N/A | +16267598927 | a.kartel | null | 70,000-85,000
-mary | brady | linkedin.com/in/mary-brady-b2913342 | maryfayebrady@gmail.com | personal | N/A | +19548306542 | null | null | 70,000-85,000
-veronika | tomanova | linkedin.com/in/veronika-tomanova-a07a5137 | veronika.journalist@gmail.com | personal | N/A | N/A | airbus | null | 55,000-70,000
-eliza | ryall | linkedin.com/in/eliza-ryall-40521230 | elizaryall@hotmail.com | personal | N/A | N/A | napier city business | null | 55,000-70,000
+jayne | gubler | linkedin.com/in/jayne-gubler-30667829 | moanasaves@gmail.com | professional | N/A | N/A | health unveiled | 662 east 500 north | 70,000-85,000andrew | krech | linkedin.com/in/andrew-krech | akrech@elon.edu | current_professional | akrech@elon.edu | N/A | elon university | 100 campus drive | 70,000-85,000
+daniela | colella | linkedin.com/in/daniela-colella | dani_elaa@hotmail.com | personal | daniela.colella@csi-net.it | N/A | csi - centro sportivo italiano | null | 85,000-100,000
+stine | hornbeck | linkedin.com/in/stine-hornbeck-19b35069 | stine.hornbeck@nordiskfilm.com | current_professional | stine.hornbeck@nordiskfilm.com | N/A | nordisk film | null | 70,000-85,000
+rob | hollis | linkedin.com/in/rob-hollis-471125a5 | rob.hollis@mod.uk | current_professional | rob.hollis@mod.uk | N/A | british army | null | 55,000-70,000
+morganne | faust | linkedin.com/in/morgannefaust | morganne@muttsandco.com | professional | N/A | N/A | null | null | 70,000-85,000
+iain | mckinnell | linkedin.com/in/iain-mckinnell-b250b045 | hkgaelic@yahoo.co.uk | personal | N/A | N/A | xiaomi technology | 68 qinghe middle street | <20,000
+jasmira | bhabra | linkedin.com/in/jasmira-bhabra-66b867131 | jasmira@tank2create.co.uk | current_professional | jasmira@tank2create.co.uk | N/A | tank2create | 3 4 twyford place | 55,000-70,000
+madeleine | foster | linkedin.com/in/madeleine-foster-08343069 | madeleinefoster@gmail.com | personal | madeleine.foster@corepoweryoga.com | +17037275213 | corepower yoga | null | 85,000-100,000
+katelyn | hall | linkedin.com/in/katelyn-hall-751a4b112 | katelyn.hall@suunto.com | current_professional | katelyn.hall@suunto.com | N/A | suunto | null | 70,000-85,000
+ben | hervey-murray | linkedin.com/in/ben-hervey-murray-6250748 | benjamin.h.murray@gmail.com | personal | N/A | N/A | the thrive programme | null | 70,000-85,000
+sam | robinson | linkedin.com/in/sam-robinson-737420137 | sam.robinson@vitaledigital.co.uk | current_professional | sam.robinson@vitaledigital.co.uk | N/A | vitale digital | 30 churchill square | 55,000-70,000
+marco | betti | linkedin.com/in/marcobetti89 | m.betti@live.it | N/A | N/A | N/A | pokerstars | null | 85,000-100,000
