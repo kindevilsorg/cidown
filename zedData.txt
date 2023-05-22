@@ -721,4 +721,21 @@ pearl | boltman | linkedin.com/in/pearl-boltman-16bbb52b | 207040494@cput.ac.za 
 heba | bassily | linkedin.com/in/heba-bassily-19199826 | hebabassily@yahoo.com | personal | N/A | N/A | free lance | null | <20,000
 martin-sean | horrigan | linkedin.com/in/martin-sean-horrigan | martin-sean.horrigan@uwe.ac.uk | professional | N/A | N/A | straycatart | null | 55,000-70,000
 erin | woods | linkedin.com/in/erin-woods-72a70047 | erin@apearinapeacoat.com | N/A | N/A | N/A | q44 theatre | 1 st heliers street | 70,000-85,000
-moriah | miller | linkedin.com/in/moriah-miller-3a5a3155 | moriah.miller@bluemagnetinteractive.com | professional | N/A | +13125156505 | hyatt hotels corporation | 71 south wacker | 85,000-100,000
+moriah | miller | linkedin.com/in/moriah-miller-3a5a3155 | moriah.miller@bluemagnetinteractive.com | professional | N/A | +13125156505 | hyatt hotels corporation | 71 south wacker | 85,000-100,000lavinia | sfetcu | linkedin.com/in/lavinia-sfetcu-6a03a76a | lavinia.sfetcu@gmail.com | personal | N/A | N/A | visssual | null | <20,000
+mae | carpenter | linkedin.com/in/mae-carpenter-184240119 | mcarpenter@mediaspectrum.net | current_professional | mcarpenter@mediaspectrum.net | N/A | mediaspectrum, inc. | 1688 meridian avenue | 70,000-85,000
+ori | rotem | linkedin.com/in/ori-rotem-00606833 | orotem@redmatch.com | N/A | N/A | N/A | callisto worldwide connectivity | null | 55,000-70,000
+vishal | fortune | linkedin.com/in/vishal-fortune-9a30979b | vishal@fortunerealtech.com | current_professional | vishal@fortunerealtech.com | N/A | fortune real tech india pvt ltd. | null | <20,000
+jack | marsh | linkedin.com/in/jack-marsh-07878531 | jackatepotatos@hotmail.co.uk | personal | N/A | N/A | popup business school | 21 market place | 55,000-70,000
+tiffany | schleigh | linkedin.com/in/tiffany-schleigh-246a3551 | tiffany.schleigh@gmail.com | personal | N/A | +16466064618 | t schreiber studio | null | 85,000-100,000
+nicolas | balazard | linkedin.com/in/nicolas-balazard | nbalazard@paypal.com | professional | N/A | N/A | indépendant | null | 55,000-70,000
+paola | scanga | linkedin.com/in/paola-scanga-59a27550 | paola@fegroup.it | professional | N/A | N/A | tartufi and friends london | null | 55,000-70,000
+lotti | haxell | linkedin.com/in/lottihaxell | lottihaxell@me.com | personal | N/A | N/A | premier model management ltd | 40-42 parker street | 55,000-70,000
+denise | sharp | linkedin.com/in/denisesharp | dsharp@huizenga.nova.edu | professional | N/A | N/A | memorial healthcare system | 4320 sheridan street | 70,000-85,000
+mayra | leal | linkedin.com/in/mayra-leal-hireme | mayrajanetleal@yahoo.com | personal | N/A | N/A | immordl | null | 85,000-100,000
+ryan | kenny | linkedin.com/in/ryan-kenny-63588714 | moceanpictures@hotmail.com | professional | N/A | N/A | rapid media | 40 commercial road | 70,000-85,000
+tyler | birschbach | linkedin.com/in/tylerbirschbach | tyler@loveyourmelon.com | professional | N/A | N/A | minnesota røkkr wise ventures esports | null | 70,000-85,000
+mikkel | andersen | linkedin.com/in/andersenmikkel | skrivtilmikkel@hotmail.com | personal | N/A | N/A | radio4 | null | 70,000-85,000
+savita | joshi | linkedin.com/in/savita-sharma-joshi-187254b | capricos1@yahoo.com | personal | N/A | N/A | festivalofindiaottawa.org | null | 55,000-70,000
+mariame | wone | linkedin.com/in/mariame-wone-26881395 | mwone@allafrica.com | current_professional | mwone@allafrica.com | N/A | allafrica global media | 920 m street southeast | 85,000-100,000
+mikol | menato | linkedin.com/in/mikol-piccardo-menato-5823055 | mikol.piccardomenato@gmail.com | personal | N/A | N/A | gtm batiment | null | 70,000-85,000
+melanie | ingram | linkedin.com/in/melanie-ingram | mingram@mooreandscarry.com | professional | N/A | N/A | orangetheory fitness | 6000 broken sound parkway northwest | 70,000-85,000
