@@ -2044,19 +2044,26 @@ jahzeel | piocnacia | linkedin.com/in/jahzeel-mae-piocnacia-67626342 | jahzmie@g
 thabang | senona | linkedin.com/in/thabang-senona-210050114 | thabang@amokdigital.co.za | current_professional | thabang@amokdigital.co.za | N/A | amok digital | 37 bath avenue | <20,000
 jonathan | smith | linkedin.com/in/jonathan-smith-aa256644 | jonathan@vanwrite.com | current_professional | jonathan@vanwrite.com | N/A | vanwrite writing consultants, llc | null | 85,000-100,000
 elisabetta | cappellin | linkedin.com/in/elisabetta-cappellin-096248b9 | elisabetta.cappellin@uniroma3.it | professional | N/A | N/A | imago artis travel | null | 45,000-55,000
-jenna | kelly | linkedin.com/in/jenna-kelly-447272113 | jenna.kelly@conversationlab.com | current_professional | jenna.kelly@conversationlab.com | N/A | conversation lab | null | <20,000abraham | navarro | linkedin.com/in/abraham-navarro-4393991b | warpendreack@hotmail.com | personal | N/A | N/A | null | null | <20,000
-amy | clay | linkedin.com/in/amy-clay-66a598160 | amy@railspur.ca | current_professional | amy@railspur.ca | N/A | railspur social marketing | null | 55,000-70,000
-desiree | rodriguez | linkedin.com/in/rodriguezdesiree | desireerod14@bellsouth.net | personal | N/A | N/A | chenmed | 1395 northwest 167th street | 85,000-100,000
-pablo | olivares | linkedin.com/in/pabloramirezolivares | agosto85@gmail.com | personal | N/A | N/A | panisello comunicaciones | null | 20,000-25,000
-mitchel | meighen | linkedin.com/in/mitchel-meighen | meighenm@fairviewschools.org | professional | N/A | N/A | row house | 17877 von karman avenue | 85,000-100,000
-antonio | pasolini | linkedin.com/in/antoniopasolini | apasolini@gmail.com | personal | N/A | N/A | viviane mosé | null | <20,000
-renee | saludares | linkedin.com/in/renee-saludares-58900919 | renee_salas@yahoo.com | personal | N/A | N/A | home based office | null | <20,000
-gayle | cunningham | linkedin.com/in/gayle-cunningham-4b569a42 | gayleandchad@yahoo.com | personal | N/A | N/A | cool socials | null | 70,000-85,000
-tamara | cabrero | linkedin.com/in/tamaracabrero | tamcabrero@gmail.com | personal | N/A | N/A | cleaner tails | null | 85,000-100,000vianca | nepomuceno | linkedin.com/in/viancanepomuceno | vn.careeravenue@gmail.com | personal | N/A | N/A | propa consultancy | null | <20,000
-serena | sang | linkedin.com/in/serena-sang-261b0930 | ssy1227@163.com | personal | serena.sang@sony.com | N/A | sony | null | <20,000
-ibrahim | abdelgawad | linkedin.com/in/ibrahim-abdelgawad-b7316018b | ibrahimabdelgawad03@gmail.com | personal | N/A | N/A | viola tv animation studio | null | <20,000
-amy | o'brien | linkedin.com/in/amy-o-brien-b41b2394 | amyo@blackwoods.com | professional | N/A | +12187241612 | null | null | 70,000-85,000
-hüseyin | karakocaoğlu | linkedin.com/in/huseyinkarakocaoglu | kfygfb_roa@hotmail.com | personal | N/A | N/A | koray candemir | null | <20,000
-laura | birch | linkedin.com/in/laura-birch-65a4a593 | laura.birch@barclays.com | current_professional | laura.birch@barclays.com | N/A | barclays | 1 churchill place | 55,000-70,000
-katona | carol | linkedin.com/in/katona-tiberiu-carol-65117623 | tiberiucarolkatona@yahoo.com | personal | N/A | N/A | independent product manager and consultant | null | <20,000
-steffanie | van gaever | linkedin.com/in/steffanie-van-gaever-651692b5 | steffanie@thinktomorrow.be | current_professional | steffanie@thinktomorrow.be | N/A | think tomorrow | null | 55,000-70,000
+jenna | kelly | linkedin.com/in/jenna-kelly-447272113 | jenna.kelly@conversationlab.com | current_professional | jenna.kelly@conversationlab.com | N/A | conversation lab | null | <20,000jonathan | ntsiful | linkedin.com/in/jonathan-kwesi-ntsiful-ab6bab30 | jillothan@yahoo.com | personal | N/A | N/A | genie intel | null | 100,000-150,000
+vladimir | kursov | linkedin.com/in/vladimir-kursov-45044425 | moymail@mail.ru | personal | N/A | N/A | hungry boys | null | <20,000
+mae | cherise mingus | linkedin.com/in/cherisemingus | cmingus@sctd.edu | professional | N/A | N/A | production simple concerts and events | null | 85,000-100,000
+fran | white | linkedin.com/in/franwhite | franwhite@kc.rr.com | professional | N/A | N/A | null | null | 85,000-100,000
+carly | mccarthy | linkedin.com/in/carly-mccarthy-74b13651 | carly.mccarthy@cbsradio.com | professional | carly.mccarthy@ucf.edu | N/A | university of central florida | 4000 central florida boulevard | 85,000-100,000
+david | humpolík | linkedin.com/in/humpolik | david.humpolik@gmail.com | personal | N/A | N/A | rebelbean | null | 70,000-85,000
+emanuel | godina | linkedin.com/in/emanuel-godina-889434116 | emanuel.godina@gmail.com | personal | N/A | N/A | conservaco, llc | 18004 sky park circle | 85,000-100,000
+luigi | la porta | linkedin.com/in/luigilp86 | luigilp86@gmail.com | personal | N/A | N/A | viralbeat | null | 45,000-55,000
+olivier | bensoussan | linkedin.com/in/olivierbensoussan | club@olivierb.net | N/A | N/A | N/A | groupement d'employeurs gers en gascogne | null | 55,000-70,000
+shelly | turner | linkedin.com/in/shelly-turner-176b329b | shelly@enlightenmentmedia.com | current_professional | shelly@enlightenmentmedia.com | N/A | enlightenment media, inc. | null | 70,000-85,000
+mary | weider | linkedin.com/in/mary-weider-75a46b86 | mary@mayfieldsportsmarketing.com | professional | N/A | N/A | kimberly-clark | 351 phelps drive | 70,000-85,000
+septa | arif | linkedin.com/in/septa-arif-55314746 | laki_laki2412@yahoo.com | personal | N/A | N/A | isobar | 20 triton square | <20,000adele | iasimone | linkedin.com/in/adele-iasimone | iasimonea@hotmail.com | personal | N/A | N/A | libero professionista settore digitale e comunicazione | null | 45,000-55,000
+aner | dhimitri | linkedin.com/in/aner-dhimitri-b3a65b1a8 | aner@anergroup.com | current_professional | aner@anergroup.com | N/A | aner group, inc. | 30497 canwood street | <20,000
+jennifer | reif | linkedin.com/in/jennifer-reif-99002369 | jennifer.reif@lohmann-tapes.com | current_professional | jennifer.reif@lohmann-tapes.com | N/A | lohmann gmbh & co. kg | null | 70,000-85,000
+yuliia | ivanchuk | linkedin.com/in/yuliia-ivanchuk-795948105 | yivanchuk@4teco.com | N/A | yi@4tegroup.com | N/A | forte group inc. | 333 west wacker drive | <20,000
+lauren | fudale | linkedin.com/in/lauren-fudale-3870a951 | lauren@cmmpr.com | professional | N/A | +13038274309 | sleepovation | null | 70,000-85,000
+jing | shi | linkedin.com/in/jing-shi-3b496840 | jshijing@gmail.com | personal | jing.shi@net-a-porter.com | N/A | the net-a-porter group | 1 the village | <20,000
+fabrizio | cucciniello | linkedin.com/in/fabrizio-cucciniello | fabrizio.special@live.it | N/A | N/A | N/A | reprise italy | null | 45,000-55,000
+kepha | ngugi | linkedin.com/in/kepha-ngugi-8b473054 | kepha.ngugi@gmail.com | personal | N/A | N/A | tsavo | null | <20,000
+karolina | kumor | linkedin.com/in/karolina-kumor | karolina.kumor@morebananas.pl | current_professional | karolina.kumor@morebananas.pl | N/A | more bananas | null | <20,000
+alessandra | benucci | linkedin.com/in/alessandra-benucci | ale.benucci87@gmail.com | personal | N/A | N/A | s-mart distribution | null | 45,000-55,000
+rachel | dankof | linkedin.com/in/racheldankof | rachdankof@gmail.com | personal | N/A | N/A | socialseo inc | 5475 mark dabling boulevard | 70,000-85,000
+ivana | damnjanovic | linkedin.com/in/ivana-damnjanovic-6962a021 | damnjanovic.ivana@gmail.com | personal | N/A | N/A | null | null | <20,000
