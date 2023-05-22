@@ -2862,4 +2862,15 @@ rui | quadrado | linkedin.com/in/rui-quadrado-1560967a | ruiquadrado@gliff.pt | 
 joshua | meier | linkedin.com/in/joshua-meier-22a90441 | joshua-.-meier@hotmail.com | personal | N/A | N/A | calanda broncos | null | 100,000-150,000
 natalia | kijko | linkedin.com/in/natalia-kijko-205611bb | natalia.kijko@they.pl | current_professional | natalia.kijko@they.pl | N/A | they.pl digital marketing agency | null | <20,000
 caylee | ashwell | linkedin.com/in/cayleeashwell | caylee@besocialpr.com | professional | caylee.ashwell@fabfitfun.com | +18589453037 | fabfitfun | 360 north la cienega boulevard | 85,000-100,000
-leslie | harris | linkedin.com/in/leslie-harris-4a4b4230 | lharris0227@sbcglobal.net | personal | N/A | +19048603773 | stafftime | 7845 baymeadows way | 100,000-150,000
+leslie | harris | linkedin.com/in/leslie-harris-4a4b4230 | lharris0227@sbcglobal.net | personal | N/A | +19048603773 | stafftime | 7845 baymeadows way | 100,000-150,000juliana | costa | linkedin.com/in/juliana-costa-54b12742 | juliana3562@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+vincent | ascolese | linkedin.com/in/vincentascolese | vincent@jaymiescotto.com | professional | N/A | +12018390177 | south state bank | 520 gervais street | 70,000-85,000
+ricardo | lopez | linkedin.com/in/ricardo-lópez-b611a333 | startingl_182@hotmail.com | personal | N/A | N/A | grupo martí | null | <20,000
+parisa | pourhabib | linkedin.com/in/parisapourhabib | parisa.pourhabib@grammarly.com | current_professional | parisa.pourhabib@grammarly.com | +13102923300 | grammarly | 548 market street | 70,000-85,000
+urko | gonzález | linkedin.com/in/urkocombarrogonzalez | urko.gonzalez@gmail.com | personal | N/A | N/A | el secreto digital | null | 35,000-45,000
+saskia | gottschalk | linkedin.com/in/saskia-gottschalk-8600008a | saskia.gottschalk@gmx.de | personal | saskia.gottschalk@jimdo.com | N/A | jimdo | null | 55,000-70,000
+onyekachi | nwanokwu | linkedin.com/in/onyekachi-nwanokwu-35211864 | onyekachi.nwanokwu@topshop.com | professional | N/A | N/A | caa-gbg global brand management group | 1032a southern terrace | 55,000-70,000
+theresia | windberg | linkedin.com/in/theresia-windberg-39b49973 | theresia.windberg@biotechusa.com | current_professional | theresia.windberg@biotechusa.com | N/A | biotech usa | null | 70,000-85,000
+avalon | cole | linkedin.com/in/avalon-cole-92983b46 | avalon_cole@hotmail.com | personal | N/A | N/A | men at work communications | null | 70,000-85,000
+richa | shah | linkedin.com/in/richaashah | richa@shotformats.com | professional | N/A | N/A | 'net works llc | null | <20,000
+cornelia | boshoff | linkedin.com/in/cornelia-boshoff-a883a885 | cornelia.boshoff@reiss.com | professional | cornelia@openvector.co.uk | N/A | open vector | null | 55,000-70,000
+maria | delic | linkedin.com/in/maria-delic-49435448 | mariadelic@gmail.com | personal | N/A | N/A | friend filer | null | 55,000-70,000
