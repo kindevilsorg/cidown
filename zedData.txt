@@ -151,4 +151,15 @@ rossella | tricarico | linkedin.com/in/rossella-tricarico-87197721 | rossellatri
 chava | lebarton | linkedin.com/in/chava-lebarton-4028b522 | chava@talkingpony.com | current_professional | chava@talkingpony.com | N/A | talking pony | null | 70,000-85,000
 murat | karakas | linkedin.com/in/beyinereksiyonu | muratk79@gmail.com | personal | N/A | N/A | hayal akademisi bilişim ve i̇letişim hizmetleri | null | <20,000
 mihir | rasal | linkedin.com/in/mihir-rasal-82964896 | mihir.rasal@checklittle.com | professional | N/A | N/A | time capsule 3d | null | 55,000-70,000
-khyati | gada | linkedin.com/in/khyatigada | khyati.gada@gmail.com | personal | N/A | N/A | null | null | <20,000
+khyati | gada | linkedin.com/in/khyatigada | khyati.gada@gmail.com | personal | N/A | N/A | null | null | <20,000hubert | maassen | linkedin.com/in/hubert-maassen-18522858 | hubert@fidene.nl | current_professional | hubert@fidene.nl | N/A | fidene | null | 55,000-70,000
+mégane | laroche | linkedin.com/in/mégane-laroche-67a78148 | laroche.megane@hotmail.fr | personal | N/A | N/A | null | null | 55,000-70,000
+francesca | turrini | linkedin.com/in/francesca-turrini-7867bb2a | befree263@gmail.com | personal | N/A | N/A | yop studiopilates | null | 35,000-45,000
+meridith | walsh | linkedin.com/in/meridith-walsh-b6652b34 | meridith.walsh@gmail.com | personal | N/A | N/A | bikram yoga northville | null | 70,000-85,000
+brandi | redick | linkedin.com/in/brandi-redick-55688022 | boobeto@address.com | personal | N/A | +13237789133 | faithful central bible church | null | 85,000-100,000
+valentina | basili | linkedin.com/in/valentinabasili | v.basili@gascommunication.com | current_professional | v.basili@gascommunication.com | N/A | gas communication | null | 45,000-55,000
+adriana | miñana | linkedin.com/in/adrianahm | adrihdezm@gmail.com | personal | N/A | N/A | webconsultas healthcare | null | 45,000-55,000
+fatemeh | nazarian | linkedin.com/in/fatemeh-nazarian-3a73b24b | fatemeh.nazarian@gmail.com | personal | N/A | N/A | borna institute | null | <20,000
+lauren | rachel | linkedin.com/in/laurenrachel | lauren.rachel@boardroomsalon.com | professional | N/A | N/A | bartaco | 1 willet avenue | 70,000-85,000
+melissa | wone | linkedin.com/in/melissa-wone-67842510a | melissa.wone@greenstone.com.au | current_professional | melissa.wone@greenstone.com.au | N/A | greenstone financial services | null | 70,000-85,000
+samia | rachid | linkedin.com/in/samia-rachid-b6486581 | samia.rachid@orange.com | current_professional | samia.rachid@orange.com | N/A | orange | null | 55,000-70,000
+claire | matz | linkedin.com/in/clairematz | clairematz@gmail.com | personal | N/A | +17137875369 | groupe edh efap icart efj | null | 55,000-70,000
