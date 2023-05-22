@@ -2037,4 +2037,11 @@ domenico | d'agostino | linkedin.com/in/domenico-d-agostino-68aba6163 | dagostin
 kyara | smit | linkedin.com/in/kyara-smit-9467252b | kyara-s@hotmail.com | personal | N/A | N/A | voedselboskabouters | null | 55,000-70,000
 sierra | schinhofen | linkedin.com/in/sierra-schinhofen-13321296 | sierrarschinhofen@gmail.com | personal | sierra@hlei.us | +17142708918 | harvest landscape enterprises, inc | 8030 east crystal drive | 85,000-100,000
 ashley | lloyd | linkedin.com/in/ashley-lloyd-51010722 | ashcisco240@gmail.com | personal | alloyd@psecu.com | +17174126301 | psecu | 1500 elmerton avenue | 70,000-85,000
-elvis | berisha | linkedin.com/in/elvisberisha1 | elvis_berisa03@hotmail.rs | N/A | N/A | N/A | star shoes | null | <20,000
+elvis | berisha | linkedin.com/in/elvisberisha1 | elvis_berisa03@hotmail.rs | N/A | N/A | N/A | star shoes | null | <20,000firdaus | adib | linkedin.com/in/firdaus-adib-06503031 | firdaus@mohamadfirdaus.com | N/A | N/A | N/A | jomsocial | null | <20,000
+michael | fleming | linkedin.com/in/mfleming3 | michaelef.89@gmail.com | personal | N/A | +19198189790 | american financial network, inc. | 10 pointe drive | 70,000-85,000
+janaan | harp | linkedin.com/in/janaanharp | janaan.harp@blackhillscorp.com | professional | N/A | N/A | csg international | 6175 south willow drive | 85,000-100,000
+jahzeel | piocnacia | linkedin.com/in/jahzeel-mae-piocnacia-67626342 | jahzmie@googlemail.com | personal | N/A | N/A | newlook remodeling company | null | <20,000
+thabang | senona | linkedin.com/in/thabang-senona-210050114 | thabang@amokdigital.co.za | current_professional | thabang@amokdigital.co.za | N/A | amok digital | 37 bath avenue | <20,000
+jonathan | smith | linkedin.com/in/jonathan-smith-aa256644 | jonathan@vanwrite.com | current_professional | jonathan@vanwrite.com | N/A | vanwrite writing consultants, llc | null | 85,000-100,000
+elisabetta | cappellin | linkedin.com/in/elisabetta-cappellin-096248b9 | elisabetta.cappellin@uniroma3.it | professional | N/A | N/A | imago artis travel | null | 45,000-55,000
+jenna | kelly | linkedin.com/in/jenna-kelly-447272113 | jenna.kelly@conversationlab.com | current_professional | jenna.kelly@conversationlab.com | N/A | conversation lab | null | <20,000
