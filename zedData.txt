@@ -927,4 +927,13 @@ rajavi | shah | linkedin.com/in/rajavi-shah-44911047 | nutterbabe@yahoo.com | pe
 diana | sterescu | linkedin.com/in/ecaterina-diana-sterescu | diana.sterescu@emerson.com | professional | N/A | N/A | social media | null | <20,000
 elizabeth | spencer | linkedin.com/in/elizabeth-spencer-50b87695 | jmarusak@acronym.com | N/A | N/A | N/A | emarketing strategies | null | 85,000-100,000
 carla | pagliuca | linkedin.com/in/fashionblogger | fashion.buzz.facebook@gmail.com | personal | N/A | N/A | fashion bloggers | null | 45,000-55,000
-kevin | lucena | linkedin.com/in/kevin-lucena-a61327b2 | kevinllakers824@yahoo.com | personal | N/A | +15305145137 | chico heat baseball | null | 85,000-100,000
+kevin | lucena | linkedin.com/in/kevin-lucena-a61327b2 | kevinllakers824@yahoo.com | personal | N/A | +15305145137 | chico heat baseball | null | 85,000-100,000david | parkhill | linkedin.com/in/david-parkhill-a362874 | rebelgrl26@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+jamie | devergillo | linkedin.com/in/jamie-devergillo-146ab245 | jdevergillo@verizon.net | personal | N/A | +19082954006 | jamie devergillo | null | 85,000-100,000
+emily | adams | linkedin.com/in/emily-darcy-adams-0770028a | emilyadams_365@hotmail.com | personal | N/A | N/A | ak media management | null | 55,000-70,000
+alex | sembra | linkedin.com/in/alexsembra | alexsembra@gmail.com | personal | N/A | N/A | cortland partners | 3424 peachtree road | 70,000-85,000
+lourens | du plessis | linkedin.com/in/lduplessis | lourensduplessis@yahoo.co.nz | personal | N/A | N/A | y-is-for-youth | null | <20,000
+ernest | cappa | linkedin.com/in/ernestcappa | ernest.cappa@jwt.com | professional | N/A | N/A | advance - digital marketing | null | <20,000
+nicole | schneider | linkedin.com/in/schneidernicole | nicole@yelp.com | N/A | N/A | N/A | ignite visibility | 3770 tansy street | 85,000-100,000
+hailey | williams | linkedin.com/in/haileymariewilliams | hailey.williams@xmsolution.com | current_professional | hailey.williams@xmsolution.com | N/A | xm solutions | 330 robert rose drive | 70,000-85,000
+matevž | homovec | linkedin.com/in/matevž-homovec-105b4b49 | matevz.homovec@gmail.com | personal | N/A | N/A | basketball federation of slovenia - kzs | null | 85,000-100,000
+brittany | benson | linkedin.com/in/brittany-benson-8abb2675 | bbenson@dolphins.com | professional | N/A | +13059438000 | e11even miami | 29 north east 11th street | 70,000-85,000
