@@ -1167,4 +1167,27 @@ april | macias | linkedin.com/in/aprildenisemacias | proggy9@yahoo.com | persona
 erin | siskind | linkedin.com/in/erinbyrne | esiskind@goldstar.com | current_professional | esiskind@goldstar.com | N/A | goldstar events, inc. | null | 70,000-85,000
 stathis | kalligeris | linkedin.com/in/stathisgr | blogakilicious@gmail.com | personal | N/A | N/A | webjar | null | 25,000-35,000
 pamela | christopher | linkedin.com/in/pamela-christopher-9bb80b28 | pamelacee@gmail.com | personal | N/A | N/A | backstage studio of dance | null | 100,000-150,000
-qais | qazaz | linkedin.com/in/qais-qazaz-4411052b | qaisqazaz@aol.com | personal | N/A | N/A | ismc ioftd | null | 85,000-100,000
+qais | qazaz | linkedin.com/in/qais-qazaz-4411052b | qaisqazaz@aol.com | personal | N/A | N/A | ismc ioftd | null | 85,000-100,000algeria | bennett | linkedin.com/in/algeria-bennett-8a79a39a | algeria.bennett@att.com | current_professional | algeria.bennett@att.com | N/A | at&t | 208 south akard street | 70,000-85,000
+vishakha | rajput | linkedin.com/in/vishakha-rajput-183094b8 | vishakha@eidoloncyber.com | current_professional | vishakha@eidoloncyber.com | N/A | eidolon design studio | null | <20,000
+hunter | braine | linkedin.com/in/hbraine | cbraine@rochester.rr.com | N/A | N/A | +15859789676 | immortals, llc | null | 70,000-85,000
+karen | mummert | linkedin.com/in/karen-mummert-b1a19645 | kmummert@weber-ins.com | current_professional | kmummert@weber-ins.com | +17174760620 | c a weber insurance agency | null | 85,000-100,000
+craig | hlavaty | linkedin.com/in/craig-hlavaty-022a11106 | craig.hlavaty@chron.com | professional | N/A | N/A | houston museum of natural science | 5555 hermann park drive | 70,000-85,000
+isabel | garcia | linkedin.com/in/isabelgarciaig | isabel@homesintrivalley.com | N/A | N/A | N/A | soledad garcia exp realty | null | 85,000-100,000
+tim | bossie | linkedin.com/in/tim-bossie-8a806532 | nlbctim@gmail.com | personal | N/A | +12074478565 | bionorthtx | 1400 civic place | 70,000-85,000
+emma | phelps | linkedin.com/in/emmajphelps | ephelps@glasses.com | professional | N/A | +18015402787 | mrm//mccann | 622 third avenue | 70,000-85,000
+dan | ngumbi | linkedin.com/in/dan-ngumbi-4811082b | smartriches@gmail.com | personal | N/A | N/A | danito promotions | null | <20,000
+alanna | smith | linkedin.com/in/alanna-smith-3916a2a7 | asmith@novaentertainment.com.au | professional | N/A | +61428243699 | style hutt | null | 70,000-85,000
+laura | cranfield | linkedin.com/in/lauracranfield | laura.cranfield@taxi.ca | professional | N/A | N/A | lush fresh handmade cosmetics north america | 8680 cambie street | 55,000-70,000
+tom | matrullo | linkedin.com/in/matrullo | matrullo@gmail.com | personal | N/A | N/A | citizens for sarasota | null | 85,000-100,000
+lauren | grant | linkedin.com/in/lauren-grant-73401737 | grantl@purdue.edu | N/A | N/A | +15029380194 | pastiche custom perfume | null | 70,000-85,000
+beyhan | yilmaz | linkedin.com/in/beyhan-birce-yilmaz-03529988 | beyhanyilmaz@kuarktek.com.tr | current_professional | beyhanyilmaz@kuarktek.com.tr | N/A | kuarktek | null | <20,000
+mai | mahfouz | linkedin.com/in/maimahfouz | eng_omo87@yahoo.com | personal | N/A | N/A | sa7afet welad elbald | null | <20,000
+elisabeth | vikanes | linkedin.com/in/elisabeth-bekken-vikanes-3b745426 | evikanes@gmail.com | personal | N/A | N/A | helly hansen | null | 100,000-150,000
+diego | avendaño | linkedin.com/in/diego-fernando-arboleda-avendaño-56b2792b | diegote-527@hotmail.com | personal | N/A | N/A | gabriel jaime rico | null | <20,000
+matias | petersen | linkedin.com/in/matiaskirsteinpetersen | matiaskp@outlook.dk | N/A | N/A | N/A | aalborg bibliotekerne | null | 70,000-85,000
+peter | milano | linkedin.com/in/peter-milano-2a7ab524 | yasuragipete@me.com | personal | N/A | +19146217668 | maryknoll fathers and brothers | 55 ryder road | 85,000-100,000
+vectore | comunicación | linkedin.com/in/vectorecm | vectore@vectore.es | current_professional | vectore@vectore.es | N/A | vectore, iniciativas de negocio | null | 20,000-25,000
+pierrick | aubert | linkedin.com/in/pierrick-aubert-93a58a18 | aubertpierrick@gmail.com | personal | N/A | N/A | la clusaz | null | 55,000-70,000
+samantha | hruz | linkedin.com/in/samantha-hruz-53a613b6 | shruz@ycp.edu | professional | N/A | N/A | null | null | 85,000-100,000
+zara | hopcroft | linkedin.com/in/zara-hopcroft-47999b31 | zarahopcroft@gmail.com | personal | N/A | N/A | nbn™ australia | null | 70,000-85,000
+danny | bernardo | linkedin.com/in/danny-bernardo-0a104223 | danny@dannybernardo.com | N/A | N/A | +17735622492 | revenue (ireland) | null | 70,000-85,000
