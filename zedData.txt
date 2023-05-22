@@ -748,4 +748,15 @@ francisco | júnior | linkedin.com/in/francisco-paiva-júnior-66721443 | paiva.p
 tiffany | irene | linkedin.com/in/irenetiffanyresume | tiffanyirene8@gmail.com | personal | N/A | +14047217121 | null | null | 85,000-100,000
 courtney | coats | linkedin.com/in/courtneycoatstopini | ctopini@gmail.com | personal | N/A | N/A | hallaron advertising agency | 2002 timberloch place | 70,000-85,000
 lari | umeno | linkedin.com/in/lariumeno | lari.umeno@gmail.com | personal | N/A | N/A | loud pack zack | null | <20,000
-fabio | mencocco | linkedin.com/in/fabio-mencocco-75aa6b22 | fmencocco@gmail.com | personal | N/A | N/A | bemorelab agenzia pubblicitaria | null | 45,000-55,000
+fabio | mencocco | linkedin.com/in/fabio-mencocco-75aa6b22 | fmencocco@gmail.com | personal | N/A | N/A | bemorelab agenzia pubblicitaria | null | 45,000-55,000carla | iadecola | linkedin.com/in/carla-iadecola-639a4514 | lotty119@gmail.com | personal | N/A | N/A | lavoratore autonomo | null | 45,000-55,000
+clare | hatcher | linkedin.com/in/clarehatcher1 | m.hatcher2@umiami.edu | N/A | N/A | +17173993110 | yes! communities | 5050 south syracuse street | 70,000-85,000
+sara | cardinali | linkedin.com/in/sara-cardinali-12984010b | saracardinali@godigitalsrl.it | current_professional | saracardinali@godigitalsrl.it | N/A | godigital srl | null | 45,000-55,000
+marie | mikols | linkedin.com/in/marie-mikols-738bb694 | mmikols@lvzoo.org | current_professional | mmikols@lvzoo.org | N/A | lehigh valley zoo | null | 85,000-100,000
+nicolas | mary | linkedin.com/in/social-media-manag3r | n.mary@kingcom.fr | professional | N/A | N/A | le groupe la poste | null | 55,000-70,000
+anissa | djamai | linkedin.com/in/anissa-djamai-094748111 | anissa.djamai@ecoledesparents.be | professional | N/A | N/A | heetch | null | 85,000-100,000
+kelly | mahoney | linkedin.com/in/kellyjanowski | kellyjanowski@gmail.com | personal | N/A | N/A | comptia | 3500 lacey road | 85,000-100,000
+catherine | flanigan | linkedin.com/in/catherine-flanigan-856454a3 | catherine.flanigan@sheridancollege.ca | professional | N/A | +14162763041 | gritty guru company | null | 55,000-70,000
+hayley | sakae | linkedin.com/in/hayleysakae | hsakae@ripcurl.com | professional | N/A | N/A | amplitude | null | 70,000-85,000
+audrey | errickson | linkedin.com/in/audrey-errickson-b001b634 | smilinsun11@yahoo.com | personal | N/A | N/A | merchandising matters | null | 85,000-100,000
+rossella | tassone | linkedin.com/in/rossella-tassone-292236115 | rossella.tassone@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
+elphas | njagi | linkedin.com/in/elphas-njagi-8a8a6648 | njaimweben@yahoo.com | personal | N/A | N/A | null | null | <20,000
