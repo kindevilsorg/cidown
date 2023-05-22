@@ -162,4 +162,10 @@ fatemeh | nazarian | linkedin.com/in/fatemeh-nazarian-3a73b24b | fatemeh.nazaria
 lauren | rachel | linkedin.com/in/laurenrachel | lauren.rachel@boardroomsalon.com | professional | N/A | N/A | bartaco | 1 willet avenue | 70,000-85,000
 melissa | wone | linkedin.com/in/melissa-wone-67842510a | melissa.wone@greenstone.com.au | current_professional | melissa.wone@greenstone.com.au | N/A | greenstone financial services | null | 70,000-85,000
 samia | rachid | linkedin.com/in/samia-rachid-b6486581 | samia.rachid@orange.com | current_professional | samia.rachid@orange.com | N/A | orange | null | 55,000-70,000
-claire | matz | linkedin.com/in/clairematz | clairematz@gmail.com | personal | N/A | +17137875369 | groupe edh efap icart efj | null | 55,000-70,000
+claire | matz | linkedin.com/in/clairematz | clairematz@gmail.com | personal | N/A | +17137875369 | groupe edh efap icart efj | null | 55,000-70,000jennifer | miller | linkedin.com/in/jennifer-miller-406b64123 | jennifer@blockfolio.com | current_professional | jennifer@blockfolio.com | N/A | blockfolio | 1337 3rd street | 70,000-85,000
+kate | chawansky | linkedin.com/in/katechawansky | kchawansky@ups.com | professional | N/A | +15025548123 | licensure exams inc. | 724 bonita drive | 85,000-100,000
+alana | deacon | linkedin.com/in/alana-deacon-97030762 | alana.deacon@mylayby.com | professional | N/A | N/A | loaded gun social | null | 70,000-85,000
+michael | york | linkedin.com/in/michael-york-35910035 | mike@dwxpo.com | N/A | N/A | N/A | eldorado resorts, inc. | 100 west liberty street | 70,000-85,000
+amanda | mcgee | linkedin.com/in/amandammcgee | manda@ammcgee.net | professional | N/A | +17064026027 | splash kitchens & baths | null | 85,000-100,000
+comunicacion | viral | linkedin.com/in/comunicacion-viral-b10a9424 | info@cviral.com.ar | current_professional | info@cviral.com.ar | N/A | comunicacion viral | null | <20,000
+akshay | shah | linkedin.com/in/akshayshah98 | aks_shah_98@yahoo.com | personal | N/A | N/A | i marketing services | null | <20,000
