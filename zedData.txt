@@ -500,17 +500,16 @@ lyndell | grewar | linkedin.com/in/lyndell-grewar-000b5313 | lyndell@10degrees.c
 francesca | michelini | linkedin.com/in/francesca-michelini-333841111 | francesca.michelini@mediaset.it | professional | N/A | N/A | greyunited | null | 45,000-55,000
 lidia | torres | linkedin.com/in/lidia-m-torres-1282091a | lidiatorres73@gmail.com | personal | N/A | N/A | demur consulting | null | 85,000-100,000
 luka | jashiashvili | linkedin.com/in/luka-jashiashvili | pr1menwfan@gmail.com | personal | N/A | N/A | financial management group ფინანსური მართვის ჯგუფი | null | 85,000-100,000
-guilherme | de carvalho | linkedin.com/in/guilherme-carvalho-17203824 | abati.guilherme@gmail.com | personal | N/A | N/A | tamer comunicação | null | <20,000james | warvel | linkedin.com/in/james-warvel-461563102 | jwarvel@buckeyeranch.org | professional | jwarvel@byersauto.com | +16145791962 | byers auto | 427 south hamilton road | 70,000-85,000
-bradley | herring | linkedin.com/in/bwherring3 | bwherring3@gmail.com | personal | N/A | N/A | digits in motion | 3445 stratford road northeast | 70,000-85,000
-kate | normand | linkedin.com/in/kate-normand-57153115 | kate@limelight.org | professional | N/A | N/A | lil helper | 43 hua du avenue | 55,000-70,000
-juliana | gomez | linkedin.com/in/juliana-gomez-19150429 | julimba@gmail.com | personal | juliana.gomez@ogilvy.com | N/A | ogilvy & mather | null | <20,000
-isha | sehmbey | linkedin.com/in/isha-sehmbey-63a43ba | ishasehmbey@gmail.com | personal | N/A | N/A | vmc copywriting boutique | null | <20,000
-francesca | slade | linkedin.com/in/francesca-slade-391330ab | francesca.slade@vsp.com | professional | N/A | N/A | us landscaping tm | null | 70,000-85,000
-hanna | lidgren | linkedin.com/in/hanna-lidgren-43837b64 | hanna.lidgren@visma.com | professional | N/A | N/A | byggmax ab | null | 70,000-85,000
-claire | henline | linkedin.com/in/claire-henline-39b647110 | claire@taps.org | current_professional | claire@taps.org | N/A | tragedy assistance program for survivors | 3033 wilson boulevard | 85,000-100,000
-javier | caballero | linkedin.com/in/javier-caballero-55b995b2 | jcaballero@wearecsc.org | professional | N/A | N/A | alexandria family for safe streets | null | 85,000-100,000
-jamye | phillips | linkedin.com/in/jamyedurrance | jamye.durrance@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-deskdemon | admin | linkedin.com/in/deskdemon-admin-34a70637 | linkedin_admin@deskdemon.com | current_professional | linkedin_admin@deskdemon.com | N/A | deskdemon | null | 55,000-70,000
-anastasia | zagoruiko | linkedin.com/in/anastasia-zagoruyko-14933140 | videogirl970@gmail.com | personal | N/A | N/A | noah & partners | null | 35,000-45,000
-jeffrey | hersh | linkedin.com/in/jeffrey-hersh-b98a8929 | jhersh37@gmail.com | personal | N/A | +15162975982 | castle software inc. (castle learning) | null | 85,000-100,000
-jens | peters | linkedin.com/in/jens-peters-b43b2b9 | weekly_de@gmx.de | personal | N/A | N/A | fachhochschule münster (university of applied sciences) | null | 70,000-85,000
+guilherme | de carvalho | linkedin.com/in/guilherme-carvalho-17203824 | abati.guilherme@gmail.com | personal | N/A | N/A | tamer comunicação | null | <20,000emilie | richard | linkedin.com/in/emilie-richard-679b5974 | emilie.richard@philips.com | current_professional | emilie.richard@philips.com | N/A | philips | null | 55,000-70,000
+melissa | dethlefsen | linkedin.com/in/melissa-dethlefsen | mswart82@yahoo.com | personal | N/A | N/A | hartford healthcare | 1 state street | 85,000-100,000
+katie | ferraro | linkedin.com/in/ferrarok | katie@stoked.org | professional | kferraro@lifeaidbevco.com | +17346730250 | lifeaid beverage company, llc | p/o box 761 | 85,000-100,000
+allanah | brookhouse | linkedin.com/in/allanah-brookhouse-21a23ab9 | allanah.brookhouse@communications.gov.au | professional | N/A | N/A | australian taxation office | null | 85,000-100,000
+sara | hamidifar | linkedin.com/in/sara-hamidifar-1254aab1 | sara@epsfamily.com | current_professional | sara@epsfamily.com | N/A | enterprise productivity software (eps) corp. | null | 55,000-70,000
+boitumelo | serache | linkedin.com/in/boitumelo-serache-79349533 | tumi@kenna.co.za | professional | N/A | N/A | ithuba holdings (pty) ltd | null | <20,000
+kate | selvaratnam | linkedin.com/in/kate-selvaratnam-6a23a330 | kateselvaratnam@gmail.com | personal | N/A | N/A | dunelm | null | 55,000-70,000
+lila | ichane | linkedin.com/in/lila-ichane | lilloux@hotmail.com | professional | N/A | N/A | prisma media | null | 55,000-70,000
+carlos | lopez | linkedin.com/in/carlos-lopez-5898642b | carlosl@angrybananas.com | professional | N/A | N/A | skybound entertainment | 9570 west pico boulevard | 85,000-100,000
+experts | comptable | fr.linkedin.com/in/bs-experts-avignon-expert-comptable-370288b1 | laure.sanchez@bs-experts.fr | current_professional | laure.sanchez@bs-experts.fr | N/A | bs experts - expert-comptable digital et connecté | null | 55,000-70,000
+rachel | crain | linkedin.com/in/rachel-crain-79509b22 | rcrain@meadowood.com | current_professional | rcrain@meadowood.com | N/A | meadowood napa valley | 900 meadowood lane | 85,000-100,000
+aparna | pathak | linkedin.com/in/aparna-pathak-7b850029 | aparna.pathak@infibeam.com | professional | N/A | N/A | synergos tech | null | <20,000
+guglielmo | niada | linkedin.com/in/guglielmoniada | g_niada@hotmail.it | personal | N/A | N/A | l'unione sarda s.p.a. | null | 45,000-55,000
