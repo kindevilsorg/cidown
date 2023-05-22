@@ -2103,4 +2103,17 @@ marie | bonnault | linkedin.com/in/marie-bonnault | marie.bonnault@gettyimages.c
 karina | perez | linkedin.com/in/karina-lizet-perez-49a05457 | karinalizetperez@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
 ankush | khandelwal | linkedin.com/in/ankush-khandelwal-248768103 | ankush@wyo.in | current_professional | ankush@wyo.in | N/A | wear your opinion | null | <20,000
 camilla | marabelli | linkedin.com/in/camilla-marabelli-456bbb43 | camimarabelli@gmail.com | personal | N/A | N/A | null | null | 45,000-55,000
-artem | miranovich | linkedin.com/in/artem-miranovich-29715823 | insight.artem@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+artem | miranovich | linkedin.com/in/artem-miranovich-29715823 | insight.artem@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000diego | sanudo | linkedin.com/in/diego-sanudo-727b93104 | diego.sanudo@practum.com | current_professional | diego.sanudo@practum.com | N/A | practum | null | <20,000
+aviv | melamed | linkedin.com/in/aviv-melamed-584aaa16 | aviv_melamed@walla.com | N/A | N/A | N/A | bbr saatchi & saatchi | null | 55,000-70,000
+nori | hasenbein | linkedin.com/in/nori-hasenbein-9a522318 | nori@villadellarosa.com.au | professional | N/A | N/A | your tamborine mountain wedding guide http://www.yourtamborinemountainwedding.com.au | null | 70,000-85,000
+ivonne | probst | linkedin.com/in/ivonne-probst-b2329147 | ivonne.probst@hotmail.de | N/A | N/A | N/A | freelance | null | 55,000-70,000
+erin | shipley | linkedin.com/in/erin-shipley-05bb2234 | erinshipley11@yahoo.com | personal | eshipley@mainstreethost.com | N/A | mainstreethost | 207 commerce drive | 85,000-100,000
+elizabeth | furey | linkedin.com/in/elizabeth-furey-39aa8439 | efurey@tulane.edu | N/A | N/A | N/A | the woods & co | 59 east 54th street | 85,000-100,000
+ez | pudewa | linkedin.com/in/ezpudewa | creaturecomfortsblog@gmail.com | personal | N/A | N/A | len collective | null | 85,000-100,000
+ana | garcía | linkedin.com/in/anaromangarcia | anuskyrgmp@hotmail.com | personal | ana@microbio.tv | N/A | microbio comunicación | null | 35,000-45,000
+rebecca | pattinson | linkedin.com/in/rebecca-pattinson-47464340 | beckysmeckysmoo@gmail.com | personal | N/A | +447742662514 | we do talent | 5 broom street | 55,000-70,000
+madalina | ioan | linkedin.com/in/madalina-ioan-90861736 | madalinaioan@yahoo.com | personal | madalina.ioan@kubisinteractive.com | N/A | kubis interactive | null | <20,000
+shruti | prabhala | linkedin.com/in/shrutiprabhala | shruti.prabhala@blogmint.com | professional | shruti@crushcampaigns.com | N/A | crush campaigns | 2133 southend drive | <20,000
+maribeth | snyder | linkedin.com/in/maribethsnyder | msnyder@jacksontherapy.com | professional | N/A | N/A | strive media | null | 70,000-85,000
+aline | sousa | linkedin.com/in/aline-sousa-b5258839 | ailinessousa@gmail.com | personal | N/A | +16199665588 | aline sousa | null | <20,000
+zachary | hausner | linkedin.com/in/zachary-hausner-51701236 | zphdude87@gmail.com | personal | zachary@bigvisionmediagroup.com | N/A | big vision media group | 6209 northwest tower drive | 85,000-100,000
