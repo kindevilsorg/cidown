@@ -1441,4 +1441,14 @@ elizabeth | saari | linkedin.com/in/saarielizabeth | elizabeth@simplygluten-free
 kelsey | duggan | linkedin.com/in/kelsey-duggan-b7913835 | kelsa.duggan@gmail.com | personal | N/A | N/A | quantic school of business and technology | null | 85,000-100,000
 david | desue | linkedin.com/in/david-desue-5b8942a | ddesue@fsu.edu | professional | N/A | +18509337956 | corbec media, llc | null | 85,000-100,000
 erica | rossi | linkedin.com/in/erica-rossi-1b920892 | erica.rossi@aism.it | current_professional | erica.rossi@aism.it | N/A | aism onlus | null | 45,000-55,000
-jayne | gubler | linkedin.com/in/jayne-gubler-30667829 | moanasaves@gmail.com | professional | N/A | N/A | health unveiled | 662 east 500 north | 70,000-85,000
+jayne | gubler | linkedin.com/in/jayne-gubler-30667829 | moanasaves@gmail.com | professional | N/A | N/A | health unveiled | 662 east 500 north | 70,000-85,000cristiana | faria | linkedin.com/in/cristianafaria | cristiana.faria@gmail.com | personal | N/A | N/A | brandstory - marketing digital, social media. | null | 25,000-35,000
+jimmie | brewer | linkedin.com/in/jimmie-brewer-3536616 | purplehaze1100@yahoo.com | personal | N/A | +18137525179 | null | null | 85,000-100,000
+hunter | skipworth | linkedin.com/in/hunter-skipworth-2b4846131 | hunter.skipworth@mclaren.com | current_professional | hunter.skipworth@mclaren.com | N/A | mclaren automotive ltd | null | 55,000-70,000
+sarah | hoski | linkedin.com/in/sarah-hoski-517339a9 | shoski@dom360.com | professional | N/A | N/A | épatage | p/o box 171 | 70,000-85,000
+maimuna | irmal | linkedin.com/in/maimuna-irmal-41758a53 | maimuna.irmal@gmail.com | personal | N/A | N/A | somali society university of westminster | null | 55,000-70,000
+katie | gamboz | linkedin.com/in/katiegamboz | katie@helixcommerce.com | N/A | N/A | N/A | linea intima | null | 55,000-70,000
+bilal | nasr | linkedin.com/in/bilalnasr | bilalnr@gmail.com | personal | N/A | N/A | tv channel "ukraine" | 4 geroev kosmosa street | <20,000
+connie | fan | linkedin.com/in/cfan95 | cfan95@gmail.com | personal | N/A | +16267598927 | a.kartel | null | 70,000-85,000
+mary | brady | linkedin.com/in/mary-brady-b2913342 | maryfayebrady@gmail.com | personal | N/A | +19548306542 | null | null | 70,000-85,000
+veronika | tomanova | linkedin.com/in/veronika-tomanova-a07a5137 | veronika.journalist@gmail.com | personal | N/A | N/A | airbus | null | 55,000-70,000
+eliza | ryall | linkedin.com/in/eliza-ryall-40521230 | elizaryall@hotmail.com | personal | N/A | N/A | napier city business | null | 55,000-70,000
