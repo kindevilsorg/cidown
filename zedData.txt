@@ -1464,4 +1464,14 @@ soniya | sen | linkedin.com/in/infibeam | infibeam@gmail.com | current_professio
 myleka | gantt | linkedin.com/in/myleka-gantt-4357b635 | mgantt@blackplanet.com | personal | N/A | +17072901293 | null | null | 85,000-100,000
 abby | mcnatt | linkedin.com/in/abby-mcnatt-ab8113a7 | finsterthefatcat@yahoo.com | personal | N/A | N/A | fortune cove | null | 70,000-85,000
 eric | espiritu | linkedin.com/in/eric-angelo-espiritu-3973801a | ericangelo@gmail.com | personal | eric.espiritu@mmaglobal.com | N/A | mobile marketing association | 41 east 11th street | 85,000-100,000
-eston | dickinson | linkedin.com/in/eston-dickinson-3a173410b | estondickinson@gmail.com | personal | N/A | N/A | sonarch media | null | 70,000-85,000
+eston | dickinson | linkedin.com/in/eston-dickinson-3a173410b | estondickinson@gmail.com | personal | N/A | N/A | sonarch media | null | 70,000-85,000anasha | lall-khan | linkedin.com/in/anashakhan | anasha.lall-khan@expresspros.com | professional | N/A | N/A | anasha khan virtual assistant | null | 55,000-70,000
+rochelle | buchanan | linkedin.com/in/rochelle-buchanan-3b062a112 | rbuchanan@petsmart.com | current_professional | rbuchanan@petsmart.com | N/A | petsmart | 19601 north 27th avenue | 85,000-100,000
+sierra | barter | linkedin.com/in/sierrabarter | sierrabarter@gmail.com | personal | N/A | +12624880834 | aaa northeast | 110 royal little drive | 85,000-100,000
+william | tan | linkedin.com/in/williamtanwl | erpwt@yahoo.com | personal | N/A | N/A | i advertise you click pte | null | 85,000-100,000
+marcela | cevo | linkedin.com/in/marcela-cevo-6a77162b | mcevo@forum.cl | professional | N/A | N/A | independiente | null | 20,000-25,000
+anna | maksymova | linkedin.com/in/anna-maksymova-a4ba8321 | stupefyomela@gmail.com | personal | N/A | N/A | templatemonster.com | null | <20,000
+leen | baetens | linkedin.com/in/leen-baetens-13381229 | lbaetens@vub.ac.be | N/A | N/A | N/A | unizo | null | 55,000-70,000
+tom | kennedy | linkedin.com/in/tom-kennedy-8a35a142 | thomkennedy1983@gmail.com | personal | N/A | N/A | cambridge international examinations | null | 55,000-70,000
+alex | quintanilla | linkedin.com/in/alex-quintanilla-70108b112 | alex.quintanilla@dmn3.com | current_professional | alex.quintanilla@dmn3.com | N/A | dmn3 | 5600 northwest central drive | 70,000-85,000
+ravi | verma | linkedin.com/in/raviverma090 | ravd0903@gmail.com | personal | N/A | N/A | let me know | null | <20,000
+madeline | speer | linkedin.com/in/madeline-speer-78034323 | madespeer@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
