@@ -871,4 +871,14 @@ shawna | real | linkedin.com/in/shawnareal | twstedm80@yahoo.com | personal | N/
 judith | dierick | linkedin.com/in/judithjosephine | judith.oudt@asm.com | professional | N/A | N/A | f & l hostess agency | null | 55,000-70,000
 kenneth | westling | linkedin.com/in/kennethwestling | westlingk@gmail.com | personal | N/A | N/A | university of southern california | null | 85,000-100,000
 jamie | janover | linkedin.com/in/jamiejanover | j@jamiejanover.com | professional | N/A | N/A | crown sterling | null | 70,000-85,000
-ahmad | jouni | linkedin.com/in/ahmad-jouni-53203876 | ahmad.jouni@rotana.net | current_professional | ahmad.jouni@rotana.net | N/A | rotana hotel management corporation pjsc | null | 55,000-70,000
+ahmad | jouni | linkedin.com/in/ahmad-jouni-53203876 | ahmad.jouni@rotana.net | current_professional | ahmad.jouni@rotana.net | N/A | rotana hotel management corporation pjsc | null | 55,000-70,000kelly | turner | linkedin.com/in/kellymarissaturner | kturner@resolutionmedia.com | professional | N/A | N/A | phd | 5 north crescent | 85,000-100,000
+evelyn | mathews | linkedin.com/in/evelynmathews | evelyn@eyr.com.au | professional | N/A | N/A | bee yu skincare | null | 55,000-70,000
+alexandria | klimowicz | linkedin.com/in/alexandriarae | ak0953@stu.aii.edu | N/A | N/A | N/A | st. luke's cataract & laser institute | 43309 highway 19n | 70,000-85,000
+jonathan | zegbe | linkedin.com/in/jonathan-zegbe-0566212a | zegbe.jonathan@hotmail.com | personal | N/A | N/A | clinic stores | null | 55,000-70,000
+cynthia | davis | linkedin.com/in/cynthiajdavis | cynthia.davis@hotmail.com | personal | N/A | +19013625976 | railroad & main | null | 70,000-85,000
+miryan | porcel | linkedin.com/in/miryan-porcel-5609326a | miryan.porcel@gmail.com | personal | N/A | N/A | agência click pérola | null | <20,000
+monika | ilieva | linkedin.com/in/monika-ilieva-42854058 | monika.ilieva@gmail.com | personal | N/A | N/A | proximity sofia | null | <20,000
+julia | cornish | linkedin.com/in/juliacornish | juliadcornish@gmail.com | personal | N/A | +19496905286 | null | null | 70,000-85,000
+louise | nilsson | linkedin.com/in/louise-nilsson-980747bb | louise@markenvard.com | professional | N/A | N/A | konovalenko | null | 70,000-85,000
+casey | ochoa | linkedin.com/in/caseyochoa | casey@fuseyourbrand.com | professional | N/A | N/A | audubon nature institute | 6500 magazine street | 70,000-85,000
+merel | baeten | linkedin.com/in/merelbaeten | merelbaeten@mail.com | personal | N/A | N/A | albert heijn belgië | null | 55,000-70,000
