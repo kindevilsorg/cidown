@@ -936,15 +936,11 @@ ernest | cappa | linkedin.com/in/ernestcappa | ernest.cappa@jwt.com | profession
 nicole | schneider | linkedin.com/in/schneidernicole | nicole@yelp.com | N/A | N/A | N/A | ignite visibility | 3770 tansy street | 85,000-100,000
 hailey | williams | linkedin.com/in/haileymariewilliams | hailey.williams@xmsolution.com | current_professional | hailey.williams@xmsolution.com | N/A | xm solutions | 330 robert rose drive | 70,000-85,000
 matevž | homovec | linkedin.com/in/matevž-homovec-105b4b49 | matevz.homovec@gmail.com | personal | N/A | N/A | basketball federation of slovenia - kzs | null | 85,000-100,000
-brittany | benson | linkedin.com/in/brittany-benson-8abb2675 | bbenson@dolphins.com | professional | N/A | +13059438000 | e11even miami | 29 north east 11th street | 70,000-85,000lauren | black | linkedin.com/in/lauren-black-62a8261b0 | laurenb@google.com | current_professional | laurenb@google.com | N/A | google | 1600 amphitheatre parkway | 85,000-100,000
-wang | lichao | linkedin.com/in/wang-lichao-79056623 | etwanglichao87@gmail.com | personal | N/A | N/A | pandamobo | null | <20,000
-bryan | lim | linkedin.com/in/bryan-lim-35342445 | bryanlytdotcom@gmail.com | personal | N/A | N/A | echosphere | null | <20,000
-sabine | brockmeier | linkedin.com/in/sabine-brockmeier-76b0711 | sabinebrockmeier@gmx.de | personal | sabine.brockmeier@xing.com | N/A | xing | null | 70,000-85,000
-jay | alan | linkedin.com/in/jay-alan-98232547 | jay@esocialexperts.com | professional | N/A | N/A | esocial experts | null | 85,000-100,000
-janice | chou | linkedin.com/in/janice-chou-6319a118 | jchou@gmail.com | personal | N/A | +18477783596 | ann inc. (parent company of ann taylor, loft & lou & grey) | 7 times square | 85,000-100,000
-julie | serafini | linkedin.com/in/julieserafini | julie.serafini@lenoxtools.com | professional | N/A | N/A | smith & wesson | 2100 roosevelt avenue | 70,000-85,000
-trish | ferland | linkedin.com/in/trishferland | tferland@metlife.com | professional | N/A | N/A | the eunis group | 300 southeast 2nd street | 70,000-85,000
-valentino | shine | linkedin.com/in/vshinejr | shinemanagementandco@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-alessio | soldi | linkedin.com/in/alessio-soldi-50b31a2b | il-grande-so@hotmail.it | personal | alessio.soldi@zeusnoto.com | N/A | zeus milano | null | 45,000-55,000
-hc | idiaquez | linkedin.com/in/hc-idiaquez-612594113 | idiaquezh@state.gov | current_professional | idiaquezh@state.gov | N/A | u.s. department of state | 2201 c street northwest | 85,000-100,000
-justin | hardy | linkedin.com/in/restoreyourbody | justin@chapelhilltraining.com | professional | N/A | N/A | null | null | 70,000-85,000
+brittany | benson | linkedin.com/in/brittany-benson-8abb2675 | bbenson@dolphins.com | professional | N/A | +13059438000 | e11even miami | 29 north east 11th street | 70,000-85,000vera | mikhalchuk | linkedin.com/in/veramikhalchuk | mikvera@yahoo.com | personal | N/A | N/A | null | null | 85,000-100,000
+linda | gierich | linkedin.com/in/linda-gierich | linda@thefriendlyswede.com | professional | N/A | N/A | cyberforum e.v. | null | 70,000-85,000
+madeleine | boyce | linkedin.com/in/madeleineboyce | mboyce@fluentgrp.com | professional | N/A | N/A | inspiremore | 302 north market street | 70,000-85,000
+camille | brooks | linkedin.com/in/brookscamille | camille@shakewellcreative.com | current_professional | camille@shakewellcreative.com | N/A | shakewell creative | 1101 west 40th street | 70,000-85,000
+grace | palmieri | linkedin.com/in/grace-palmieri-6487818a | gpalmieri@gannett.com | current_professional | gpalmieri@gannett.com | +17652128707 | gannett | 7950 jones branch drive | 70,000-85,000
+natia | demetrashvili | linkedin.com/in/natia-demetrashvili-35079347 | natia.demetrashvili@gmail.com | personal | N/A | +995598156116 | palitranews | null | 85,000-100,000
+emmanuel | moreno | linkedin.com/in/emmanuelmo | dinamiteboy@gmail.com | personal | N/A | N/A | octo media house | null | <20,000
+lucy | benson | linkedin.com/in/lucybenson | lucy_benson@wmsde.org | professional | N/A | +13024750555 | run moore | null | 55,000-70,000
