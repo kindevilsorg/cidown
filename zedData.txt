@@ -1542,12 +1542,17 @@ alison | tirrell | linkedin.com/in/alison-tirrell-0297436 | alisontirrell@gmail.
 mandy | long | linkedin.com/in/mandy-long-b353947 | mandylong@mac.com | personal | N/A | N/A | house of social | null | 70,000-85,000
 zach | gayner | linkedin.com/in/zach-gayner-21343b73 | gaynerz@gmail.com | personal | N/A | N/A | roar digital | 210 hudson court | 85,000-100,000
 jack | london | linkedin.com/in/jack-london-8b762436 | tmc_dt@hotmail.co.uk | personal | N/A | N/A | so cool social media | null | 55,000-70,000
-boledi | makofane | linkedin.com/in/boledi-makofane-38332217 | boledi.makofane@gmail.com | personal | N/A | N/A | jacaranda 94.2 | null | <20,000henry | nwokike | linkedin.com/in/henry-nwokike-90180218 | henry.nwokike@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
-goberu | dedeepya | linkedin.com/in/goberu-dedeepya-019b3642 | chinnihasini@gmail.com | personal | N/A | N/A | biophore india pharmaceuticals pvt. ltd. | null | <20,000
-monica | carranco | linkedin.com/in/monica-carranco-8a2803123 | monica.carranco@ritterimplants.com | current_professional | monica.carranco@ritterimplants.com | N/A | ritter implants | null | 70,000-85,000
-amanda | margraf | linkedin.com/in/amanda-margraf-76124754 | amargraf@localvox.com | professional | amanda.margraf@theberrycompany.com | N/A | vivial | 160 inverness drive west | 85,000-100,000
-trevor | osz | linkedin.com/in/trevor-osz-78b83653 | trevor.osz@radioshack.com | professional | N/A | +17402192227 | winterborn | null | 85,000-100,000
-charmyn | chan | linkedin.com/in/charmynchan | charmynchan@gmail.com | personal | N/A | N/A | advesa digital | null | 55,000-70,000
-andreas | morawietz | linkedin.com/in/andreas-morawietz-664a4a24 | amorawietz@web.de | personal | N/A | N/A | null | null | 55,000-70,000
-andrew | smith | linkedin.com/in/andrew-smith-2888bb4b | andy@snizl.com | current_professional | andy@snizl.com | N/A | snizl | null | 55,000-70,000
-anthony | charter | linkedin.com/in/anthony-charter-b6488384 | anthony.charter@dal.ca | professional | N/A | N/A | montreal nationals | null | 55,000-70,000
+boledi | makofane | linkedin.com/in/boledi-makofane-38332217 | boledi.makofane@gmail.com | personal | N/A | N/A | jacaranda 94.2 | null | <20,000roswell | fernandes | linkedin.com/in/roswell-fernandes-20968b30 | rafernandes12@yahoo.com | personal | N/A | N/A | digicrawlrz | null | <20,000
+lindsay | feeney | linkedin.com/in/lefeeney | lfeeney@lasell.edu | professional | N/A | +16039694224 | madeleine's daughter bridal | null | 85,000-100,000
+thomas | nguyen | linkedin.com/in/thomas-nguyen-6677b54a | thomas@mihdesigns.com | N/A | tnguyen@osteomed.com | +19726774600 | osteomed | 3885 arapaho road | 100,000-150,000
+alexander | arredondo | linkedin.com/in/alexander-arredondo-4508886b | alexander@kulmina.com | current_professional | alexander@kulmina.com | N/A | kulmina | null | <20,000
+bayan | tbaishat | linkedin.com/in/bayan-tbaishat-6a7b16102 | bayan.tbaishat@hashtag-me.com | current_professional | bayan.tbaishat@hashtag-me.com | N/A | hashtag social media agency | null | 25,000-35,000
+melissa | brookes | linkedin.com/in/melissa-brookes-64ba1719 | dmdia@aol.com | personal | mbrookes@achrm.org | N/A | achrm | 230 kings highway | 85,000-100,000
+albert | kondor | linkedin.com/in/albert-kondor-9a173428 | albert_kondor@yahoo.com | personal | N/A | N/A | cityrama dmc budapest | null | 20,000-25,000
+laura | moreno | linkedin.com/in/laura-albarrán-moreno-5b0b4448 | laura.albarran.moreno@gmail.com | personal | N/A | N/A | null | null | 35,000-45,000
+federico | driusso | linkedin.com/in/federico-driusso-0aab92123 | federico@a-champs.com | current_professional | federico@a-champs.com | N/A | a-champs | null | 35,000-45,000
+teodor | barsan | linkedin.com/in/teodor-barsan-70916536 | theokillis@gmail.com | personal | N/A | N/A | vila camelia sinaia | null | <20,000
+ryan | gentz | linkedin.com/in/ryan-gentz-7839a58 | gentzryan@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+beth | bartlett | linkedin.com/in/beth-bartlett-1109415 | beth@plaidearthworm.com | N/A | N/A | N/A | girl body pride | null | 85,000-100,000
+carly | ciambriello | linkedin.com/in/carly-ciambriello-7a25b735 | carly0930@aol.com | personal | cciambriello@theedgefitnessclubs.com | N/A | the edge fitness clubs llc | 50 boston post road | 85,000-100,000
+joy | idris | linkedin.com/in/joy-idris-2ab68a66 | joy.idris@gmail.com | personal | N/A | N/A | null | null | 55,000-70,000
