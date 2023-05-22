@@ -2397,21 +2397,19 @@ daniel | wiersema | linkedin.com/in/danielwiersema | dmwiersema@gmail.com | pers
 rachael | stephen | linkedin.com/in/rachaelstephen | rachael@deargreencoffee.com | current_professional | rachael@deargreencoffee.com | N/A | dear green coffee roasters (dear green ltd) | 13-27 east campbell street | 55,000-70,000
 timothy | torres | linkedin.com/in/timothyetorres | timmytor@gmail.com | personal | ttorres@adfinternational.org | N/A | adf international | null | 70,000-85,000
 mohib | qurishi | linkedin.com/in/mohib-qurishi-79394a99 | mohib.qurishi@gmail.com | personal | N/A | N/A | foodpanda | null | <20,000
-mindy | malerich | linkedin.com/in/mindy-malerich-13ba8b7b | mindy.malerich@brookdalecareers.com | current_professional | mindy.malerich@brookdalecareers.com | N/A | brookdale | 111 westwood place | 85,000-100,000allyson | jones | linkedin.com/in/allysonjones | allysonj@hargray.com | professional | N/A | +18433843254 | null | null | 85,000-100,000
-pamela | smerker | linkedin.com/in/pamela-smerker-77433835 | psmerker@gmail.com | personal | N/A | +17202448112 | operation shower | null | 85,000-100,000
-julie | christensen | linkedin.com/in/julie-ejdsvold-christensen-233932123 | julie_lund_christensen@yahoo.dk | personal | N/A | N/A | icm a/s | null | 85,000-100,000
-lucas | chong | linkedin.com/in/lucas-chong-71104844 | smedia.lucas@gmail.com | personal | N/A | N/A | smedia lab sdn bhd | null | <20,000
-erica | hermanson | linkedin.com/in/ericahermanson | ehermanson@brandconnections.com | professional | N/A | +12123024141 | sunflower group | null | 70,000-85,000
-lucien | jamin | linkedin.com/in/lucien-jamin-ab15a231 | 2012@jamin.ch | N/A | N/A | N/A | jlocalmedia | null | 100,000-150,000
-esmee | otter | linkedin.com/in/esmee-otter-0334315a | e.otter@tmg.nl | professional | N/A | N/A | mediain.nl | null | 55,000-70,000
-eniko | dorogi | linkedin.com/in/eniko-dorogi-20996530 | eniko.dorogi@gmail.com | personal | N/A | N/A | humanrobot.biz | null | <20,000
-chloé | delcroix | linkedin.com/in/delcroixchloe | delcroix.chloe@gmail.com | personal | N/A | N/A | teeps | null | 55,000-70,000
-nicola | protopapa | linkedin.com/in/nicola-protopapa-1286a0a6 | nicola.protopapa@up3up.it | current_professional | nicola.protopapa@up3up.it | N/A | up & up | null | 45,000-55,000
-jerry | wang | linkedin.com/in/jerry-jia-wang | jerry_060101@hotmail.com | personal | N/A | N/A | grand hyatt hong kong | 1 harbour road | 70,000-85,000
-omari | joseph | linkedin.com/in/omari-joseph-80731971 | omari@giantmedia.com | professional | N/A | +13105266739 | itsmrkt.com | null | 70,000-85,000
-jessica | mullins | linkedin.com/in/jessicasmithmullins | jessica.m.smith79@gmail.com | personal | N/A | +12566061506 | null | null | 70,000-85,000
-jordyn | prince | linkedin.com/in/jordynmprince | jordynmprince@gmail.com | personal | N/A | +14402239938 | the busy bee diy decor studio | null | 85,000-100,000
-hripsime | khojayan | linkedin.com/in/hripsime-khojayan-0232ab69 | hripsime.khojayan@gmail.com | personal | N/A | N/A | null | null | 100,000-150,000
-caroline | boccioli | linkedin.com/in/carolineboccioli | cboccioli@yahoo.fr | personal | caroline.boccioli@virbac.com | N/A | virbac | null | 55,000-70,000
-felicity | sweeney | linkedin.com/in/felicity-sweeney | felicity@polygongroup.com.au | current_professional | felicity@polygongroup.com.au | N/A | the polygon group pty ltd | null | 70,000-85,000
-nick | anselmo | linkedin.com/in/nick-anselmo-26649833 | nicolaanselmo@gmail.com | personal | nanselmo@ambientcommunities.com | N/A | ambient communities | 179 calle magdalena | 85,000-100,000
+mindy | malerich | linkedin.com/in/mindy-malerich-13ba8b7b | mindy.malerich@brookdalecareers.com | current_professional | mindy.malerich@brookdalecareers.com | N/A | brookdale | 111 westwood place | 85,000-100,000katharina | klausburg | linkedin.com/in/katharina-klausburg-4a94b2103 | katharina.klausburg@univie.ac.at | professional | N/A | N/A | merkur warenhandels ag | null | 70,000-85,000
+murat | acer | linkedin.com/in/muratacer | murat.acer@groupm.com | professional | N/A | N/A | fcb ram i̇stanbul | null | <20,000
+chiara | scodro | linkedin.com/in/chiarascodro | chiarascodro@gmail.com | personal | N/A | N/A | dart srl | null | 45,000-55,000
+jillian | chandler | linkedin.com/in/jillian-chandler-5050a325 | jillchandler@gmail.com | personal | N/A | N/A | entreposage montreal mini-storage | null | 55,000-70,000
+jesse | ferrell | linkedin.com/in/jesseferrell | ferrell@accuweather.com | current_professional | ferrell@accuweather.com | +18142358600 | accuweather | 385 science park road | 85,000-100,000
+siguiendo | el | linkedin.com/in/siguiendo-el-show-38628131 | siguiendoelshow@gmail.com | personal | N/A | N/A | www.siguiendoelshow.com | null | 20,000-25,000
+patty | lambert | linkedin.com/in/pattymlambert | patty.lambert@flyfrontier.com | professional | N/A | N/A | digital media management | 5670 wilshire boulevard | 70,000-85,000
+meg | mcdonald | linkedin.com/in/meg-mcdonald-3339ba3 | megmcdonald@optonline.net | personal | meg.mcdonald@cssindustries.com | N/A | css industries, inc. | 450 plymouth road | 85,000-100,000
+dianne | luding | linkedin.com/in/dianne-luding-1215a141 | dianne.luding@yahoo.com | personal | N/A | +14068920926 | dianne luding | null | 70,000-85,000
+tara | goggans | linkedin.com/in/tara-goggans-8613387 | tgoggans@connectforhealthco.com | professional | N/A | +17204962530 | a just cause | null | 70,000-85,000
+brianna | rosia | linkedin.com/in/briannarosia | briannarosia2@aol.com | personal | N/A | N/A | paparazzi accessories corporate | null | 85,000-100,000
+victoria | baetzel | linkedin.com/in/victoria-baetzel-b02ba288 | victoria.baetzel@cendynone.com | professional | victoria@bottomlineblack.com | +19544789265 | bottom line black | 860 highway 1 | 85,000-100,000
+james | montague | linkedin.com/in/james-montague-761b7111 | j.w.a.montague@googlemail.com | personal | N/A | N/A | uefa | null | 55,000-70,000
+roderick | cash | linkedin.com/in/roderick-cash-a5b33931 | rcash@renaissance-project.org | professional | N/A | N/A | null | null | 85,000-100,000
+janna | hayes | linkedin.com/in/janna-hayes-b9943335 | janna.hayes@me.com | personal | N/A | +61431209753 | university of new england, armidale | null | 85,000-100,000
+kristin | danks | linkedin.com/in/kristin-danks-b2a10120 | its_gotta_be_kd_123@hotmail.com | personal | N/A | N/A | virtual growth solutions | null | 55,000-70,000
