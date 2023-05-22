@@ -1978,4 +1978,10 @@ khadijah | amin | linkedin.com/in/khadijahdowidar | khadijah.dowidar@andalusiagr
 andrew | todd | linkedin.com/in/andrewmtodd | andrew.todd@usu.edu | professional | atodd@extraspace.com | +18019277459 | extra space storage | 2795 east cottonwood parkway | 85,000-100,000
 nathan | woodfield | linkedin.com/in/nathan-woodfield-76509862 | nathan.woodfield@yahoo.com | personal | N/A | +15018311463 | designloyal | null | 70,000-85,000
 lacey | perryman | linkedin.com/in/lacey-perryman-331a97100 | lacey.perryman@t-mobile.com | current_professional | lacey.perryman@t-mobile.com | N/A | t-mobile | 12920 southeast 38th street | 85,000-100,000
-stephanie | hernandez | linkedin.com/in/stephanie-hernandez-889900b1 | shdez_92@yahoo.com | personal | N/A | N/A | univision communications inc. | 605 third avenue | 85,000-100,000
+stephanie | hernandez | linkedin.com/in/stephanie-hernandez-889900b1 | shdez_92@yahoo.com | personal | N/A | N/A | univision communications inc. | 605 third avenue | 85,000-100,000ash | corson | linkedin.com/in/ash-corson-a793441b | ashcorson@earthlink.net | personal | N/A | N/A | konami digital entertainment | null | 85,000-100,000
+jelyn | villanueva | linkedin.com/in/jelyn-villanueva-141b5845 | jelyn.villanueva@gmail.com | personal | N/A | N/A | null | null | <20,000
+valerio | novara | linkedin.com/in/valerio-novara | valerio.novara@blastingnews.com | professional | N/A | N/A | camera dei deputati | null | 45,000-55,000
+tom | reber | linkedin.com/in/tom-reber-44234450 | tomreber@sheehy.com | professional | N/A | N/A | classical austria | null | 70,000-85,000
+barbara | di iorio | linkedin.com/in/barbara-di-iorio-8636047 | barbaradiiorio@torinovantuno.it | N/A | N/A | N/A | buratti showroom | null | 45,000-55,000
+aminta | iriarte | linkedin.com/in/aminta-iriarte | aminta@clothesandfashion.net | professional | aminta.iriarte@crunch.com | N/A | crunch fitness | 22 west 19th street | 85,000-100,000
+francis | mccarthy | linkedin.com/in/francismccarthy | svpfrancis@gmail.com | personal | N/A | N/A | national basketball association (nba) | 645 5th avenue | 85,000-100,000
