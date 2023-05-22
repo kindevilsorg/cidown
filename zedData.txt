@@ -2397,4 +2397,21 @@ daniel | wiersema | linkedin.com/in/danielwiersema | dmwiersema@gmail.com | pers
 rachael | stephen | linkedin.com/in/rachaelstephen | rachael@deargreencoffee.com | current_professional | rachael@deargreencoffee.com | N/A | dear green coffee roasters (dear green ltd) | 13-27 east campbell street | 55,000-70,000
 timothy | torres | linkedin.com/in/timothyetorres | timmytor@gmail.com | personal | ttorres@adfinternational.org | N/A | adf international | null | 70,000-85,000
 mohib | qurishi | linkedin.com/in/mohib-qurishi-79394a99 | mohib.qurishi@gmail.com | personal | N/A | N/A | foodpanda | null | <20,000
-mindy | malerich | linkedin.com/in/mindy-malerich-13ba8b7b | mindy.malerich@brookdalecareers.com | current_professional | mindy.malerich@brookdalecareers.com | N/A | brookdale | 111 westwood place | 85,000-100,000
+mindy | malerich | linkedin.com/in/mindy-malerich-13ba8b7b | mindy.malerich@brookdalecareers.com | current_professional | mindy.malerich@brookdalecareers.com | N/A | brookdale | 111 westwood place | 85,000-100,000allyson | jones | linkedin.com/in/allysonjones | allysonj@hargray.com | professional | N/A | +18433843254 | null | null | 85,000-100,000
+pamela | smerker | linkedin.com/in/pamela-smerker-77433835 | psmerker@gmail.com | personal | N/A | +17202448112 | operation shower | null | 85,000-100,000
+julie | christensen | linkedin.com/in/julie-ejdsvold-christensen-233932123 | julie_lund_christensen@yahoo.dk | personal | N/A | N/A | icm a/s | null | 85,000-100,000
+lucas | chong | linkedin.com/in/lucas-chong-71104844 | smedia.lucas@gmail.com | personal | N/A | N/A | smedia lab sdn bhd | null | <20,000
+erica | hermanson | linkedin.com/in/ericahermanson | ehermanson@brandconnections.com | professional | N/A | +12123024141 | sunflower group | null | 70,000-85,000
+lucien | jamin | linkedin.com/in/lucien-jamin-ab15a231 | 2012@jamin.ch | N/A | N/A | N/A | jlocalmedia | null | 100,000-150,000
+esmee | otter | linkedin.com/in/esmee-otter-0334315a | e.otter@tmg.nl | professional | N/A | N/A | mediain.nl | null | 55,000-70,000
+eniko | dorogi | linkedin.com/in/eniko-dorogi-20996530 | eniko.dorogi@gmail.com | personal | N/A | N/A | humanrobot.biz | null | <20,000
+chloé | delcroix | linkedin.com/in/delcroixchloe | delcroix.chloe@gmail.com | personal | N/A | N/A | teeps | null | 55,000-70,000
+nicola | protopapa | linkedin.com/in/nicola-protopapa-1286a0a6 | nicola.protopapa@up3up.it | current_professional | nicola.protopapa@up3up.it | N/A | up & up | null | 45,000-55,000
+jerry | wang | linkedin.com/in/jerry-jia-wang | jerry_060101@hotmail.com | personal | N/A | N/A | grand hyatt hong kong | 1 harbour road | 70,000-85,000
+omari | joseph | linkedin.com/in/omari-joseph-80731971 | omari@giantmedia.com | professional | N/A | +13105266739 | itsmrkt.com | null | 70,000-85,000
+jessica | mullins | linkedin.com/in/jessicasmithmullins | jessica.m.smith79@gmail.com | personal | N/A | +12566061506 | null | null | 70,000-85,000
+jordyn | prince | linkedin.com/in/jordynmprince | jordynmprince@gmail.com | personal | N/A | +14402239938 | the busy bee diy decor studio | null | 85,000-100,000
+hripsime | khojayan | linkedin.com/in/hripsime-khojayan-0232ab69 | hripsime.khojayan@gmail.com | personal | N/A | N/A | null | null | 100,000-150,000
+caroline | boccioli | linkedin.com/in/carolineboccioli | cboccioli@yahoo.fr | personal | caroline.boccioli@virbac.com | N/A | virbac | null | 55,000-70,000
+felicity | sweeney | linkedin.com/in/felicity-sweeney | felicity@polygongroup.com.au | current_professional | felicity@polygongroup.com.au | N/A | the polygon group pty ltd | null | 70,000-85,000
+nick | anselmo | linkedin.com/in/nick-anselmo-26649833 | nicolaanselmo@gmail.com | personal | nanselmo@ambientcommunities.com | N/A | ambient communities | 179 calle magdalena | 85,000-100,000
