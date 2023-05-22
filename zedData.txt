@@ -2068,8 +2068,13 @@ amy | causley | linkedin.com/in/amy-ramirez-causley-8679752a | amyramirez@terra.
 andreas | schulz | linkedin.com/in/andreasschulz | theballatician@gmx.net | personal | N/A | N/A | red 5 limited | 35 ventnor avenue | 55,000-70,000
 kelly | pivarnik | linkedin.com/in/kelly-pivarnik-3849543a | kellypivarnik@gmail.com | personal | kelly.pivarnik@hmhco.com | +14129531686 | houghton mifflin harcourt | 125 high street | 70,000-85,000
 scott | thiemann | linkedin.com/in/scottthiemann | sthiemann@live.com | personal | N/A | N/A | total wine & more | 6600 rockledge drive | 85,000-100,000
-stephanie | cummings | linkedin.com/in/stephanie-cummings-a9a01214 | stephaniebrady2002@yahoo.com | personal | N/A | +447990635390 | stephanie cummings social media | null | 55,000-70,000alison | clancy | linkedin.com/in/alisonclancy | clancy.al@gmail.com | personal | N/A | +17813611366 | smartsheet | 10500 northeast 8th street | 85,000-100,000
-mercedes | escauriaza | linkedin.com/in/mercedes-escauriaza-2089223b | m.escauriaza@hotmail.com | personal | N/A | N/A | lagasca vintage | null | 35,000-45,000
-menno | broeders | linkedin.com/in/mennobroeders | menno.broeders@bluemango.nl | professional | N/A | N/A | fight club | null | 70,000-85,000
-sabrina | terence | linkedin.com/in/sabrinaterence | sabrina@sabrinaterence.com | professional | N/A | N/A | null | null | 55,000-70,000
-livia | patta | linkedin.com/in/liviapatta | livia.patta@gmail.com | personal | N/A | N/A | bepop | null | 45,000-55,000
+stephanie | cummings | linkedin.com/in/stephanie-cummings-a9a01214 | stephaniebrady2002@yahoo.com | personal | N/A | +447990635390 | stephanie cummings social media | null | 55,000-70,000sara | muggittu | linkedin.com/in/sara-muggittu-b2a23736 | saraservizi@gmail.com | personal | N/A | N/A | marco bellu | null | 45,000-55,000
+mathuram | murugaiyan | linkedin.com/in/mathuram | mathuram.m.usha@gmail.com | personal | N/A | N/A | niyati technologies | null | <20,000
+deltdrick | adams | linkedin.com/in/deltdrick-adams-b058453a | blklionofficial@gmail.com | personal | N/A | +19199309903 | black wall street international | null | 70,000-85,000
+robyn | hoffman | linkedin.com/in/robyn-hoffman-b9482840 | rbh331@verizon.net | personal | N/A | N/A | chapman ford llc | 1100 easton road | 70,000-85,000
+shelly | pogue | linkedin.com/in/shelly-pogue-14224820 | shellypogue@yahoo.com | personal | N/A | N/A | sportsmans park | null | 70,000-85,000
+colette | swan | linkedin.com/in/colette-swan-62478633 | colette@redhensocialmedia.com | current_professional | colette@redhensocialmedia.com | N/A | red hen social media | null | 85,000-100,000
+sini | rauhala | linkedin.com/in/sini-rauhala-06b25087 | sini.rauhala@laurea.fi | current_professional | sini.rauhala@laurea.fi | N/A | laurea university of applied sciences | null | 70,000-85,000
+indrajeet | sinha | linkedin.com/in/indrajeetsinha | indrajeet.sinha@rocketmail.com | personal | N/A | +919098726615 | shreeram communications | null | <20,000
+patrick | harmon | linkedin.com/in/patharmon | pharmongsu@gmail.com | personal | N/A | N/A | central bark atlanta | null | 85,000-100,000
+elyse | estrella | linkedin.com/in/elyseestrella | emestrella@gmail.com | personal | N/A | +15083605677 | the wine enthusiast | 200 summit lake drive | 70,000-85,000
