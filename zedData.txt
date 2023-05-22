@@ -1856,4 +1856,15 @@ michel | bi | linkedin.com/in/michel-dje-bi-329b9526 | djebi_michel@yahoo.fr | p
 philip | taddeo | linkedin.com/in/philiptaddeo | philip.taddeo@sprint.com | professional | N/A | N/A | red roof inn | 7815 walton parkway | 70,000-85,000
 sylvie | provan | linkedin.com/in/sylvie-provan-00153a13 | sylvie.provan@gmail.com | personal | N/A | N/A | 21st century leaders foundation | null | 55,000-70,000
 shirley | manansala | linkedin.com/in/shirley-joy-manansala-0xx021572 | joymitch_babe@yahoo.com | personal | shirley@smartsites.com | N/A | smartsites | 45 eisenhower drive | 85,000-100,000
-gilina | mcbride | linkedin.com/in/gilinamcbride | gilinamcbride@gmail.com | personal | N/A | N/A | iresponze | 60 pointe circle | 85,000-100,000
+gilina | mcbride | linkedin.com/in/gilinamcbride | gilinamcbride@gmail.com | personal | N/A | N/A | iresponze | 60 pointe circle | 85,000-100,000rayna | kreissler | linkedin.com/in/rayna-kreissler-81940682 | rayna.kreissler@att.eu | professional | N/A | N/A | epic health and fitness | null | 85,000-100,000
+elvira | elzinga | linkedin.com/in/elvira-elzinga | er.elzinga@gmail.com | personal | eelzinga@foreverliving.com | N/A | forever living products benelux nl | null | 70,000-85,000
+james | russell | linkedin.com/in/james-russell-14429438 | peggerleg83@googlemail.com | personal | N/A | N/A | paragon garden design limited | null | 55,000-70,000
+valerie | ruiz | linkedin.com/in/valerie-ruiz-22088210b | valerie@austincreativereuse.org | current_professional | valerie@austincreativereuse.org | N/A | austin creative reuse | null | 85,000-100,000
+jamal | phillips | linkedin.com/in/jamal-phillips-45a56610b | jam1997l@verizon.net | personal | N/A | +13019107768 | ward 9 | null | 85,000-100,000
+annette | pope | linkedin.com/in/annettemvpope | annette@writtenbyannette.com | professional | annette@patrickpopephotography.com | N/A | patrick pope photography | null | 85,000-100,000
+jorune | ruginyte | linkedin.com/in/jorūnė-ruginytė-13830a95 | jorune.ruginyte@gmail.com | personal | N/A | N/A | uab laurema | null | 85,000-100,000
+laura | lincesso | linkedin.com/in/laura-lincesso | laura.lincesso@unimercatorum.it | current_professional | laura.lincesso@unimercatorum.it | N/A | universitas mercatorum | null | 45,000-55,000
+yasmine | shoukry | linkedin.com/in/yasmine-shoukry | yshoukry@medici.tv | current_professional | yshoukry@medici.tv | N/A | medici.tv | null | 55,000-70,000
+ben | guilfoy | linkedin.com/in/bkguilfoy | bkguilfoy@gmail.com | personal | N/A | +15089323828 | lexisnexis | 230 park avenue | 70,000-85,000
+holly | bensur | linkedin.com/in/holly-bensur | holly.bensur@archivesfoundation.org | professional | N/A | +14125515631 | costar group | 1331 l street | 70,000-85,000
+malcolm | mann | linkedin.com/in/malcolm-mann-05226737 | callyskitchen@msn.com | personal | N/A | N/A | alamo pictures | 4a bloomsbury square | 55,000-70,000
