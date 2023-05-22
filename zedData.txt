@@ -738,4 +738,14 @@ mikkel | andersen | linkedin.com/in/andersenmikkel | skrivtilmikkel@hotmail.com 
 savita | joshi | linkedin.com/in/savita-sharma-joshi-187254b | capricos1@yahoo.com | personal | N/A | N/A | festivalofindiaottawa.org | null | 55,000-70,000
 mariame | wone | linkedin.com/in/mariame-wone-26881395 | mwone@allafrica.com | current_professional | mwone@allafrica.com | N/A | allafrica global media | 920 m street southeast | 85,000-100,000
 mikol | menato | linkedin.com/in/mikol-piccardo-menato-5823055 | mikol.piccardomenato@gmail.com | personal | N/A | N/A | gtm batiment | null | 70,000-85,000
-melanie | ingram | linkedin.com/in/melanie-ingram | mingram@mooreandscarry.com | professional | N/A | N/A | orangetheory fitness | 6000 broken sound parkway northwest | 70,000-85,000
+melanie | ingram | linkedin.com/in/melanie-ingram | mingram@mooreandscarry.com | professional | N/A | N/A | orangetheory fitness | 6000 broken sound parkway northwest | 70,000-85,000athos | zenios | linkedin.com/in/athoszenios | athos.zenios@delema.com | current_professional | athos.zenios@delema.com | N/A | delema mccann cyprus | null | 85,000-100,000
+alessandra | savelli | linkedin.com/in/alessandra-savelli-0162601b | a-l-e@hotmail.it | personal | N/A | N/A | simona randazzo s.r.l gioielli | null | 45,000-55,000
+steve | blake | linkedin.com/in/steve-blake-6a827b26 | steve@steve-blakesm.co.uk | current_professional | steve@steve-blakesm.co.uk | N/A | steve blake social media | null | 55,000-70,000
+carly | schweigert | linkedin.com/in/carly-schweigert-904a5583 | carly@greenscenemarketing.com | current_professional | carly@greenscenemarketing.com | N/A | green scene marketing | 1024 bayside drive | 85,000-100,000
+giulia | besana | linkedin.com/in/giulia-besana-b19175138 | besana@tribecommunication.it | current_professional | besana@tribecommunication.it | N/A | tribe communication | null | 45,000-55,000
+stephanie | perez | linkedin.com/in/stephanie-perez-064a0924 | stephanie.perez@yahoo.com | personal | N/A | +13018737190 | laced in weddings | null | 70,000-85,000
+francisco | júnior | linkedin.com/in/francisco-paiva-júnior-66721443 | paiva.publicidade@hotmail.com | personal | N/A | N/A | new comunicação | null | <20,000
+tiffany | irene | linkedin.com/in/irenetiffanyresume | tiffanyirene8@gmail.com | personal | N/A | +14047217121 | null | null | 85,000-100,000
+courtney | coats | linkedin.com/in/courtneycoatstopini | ctopini@gmail.com | personal | N/A | N/A | hallaron advertising agency | 2002 timberloch place | 70,000-85,000
+lari | umeno | linkedin.com/in/lariumeno | lari.umeno@gmail.com | personal | N/A | N/A | loud pack zack | null | <20,000
+fabio | mencocco | linkedin.com/in/fabio-mencocco-75aa6b22 | fmencocco@gmail.com | personal | N/A | N/A | bemorelab agenzia pubblicitaria | null | 45,000-55,000
