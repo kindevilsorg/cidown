@@ -1235,4 +1235,18 @@ rebecca | shires | linkedin.com/in/rebecca-shires-974536b9 | rebecca.shires@yell
 dominika | prochazkova | linkedin.com/in/dominika-prochazkova-7b0514a4 | dominika.prochazkova@sap.com | professional | N/A | N/A | urlaubsbox travel company | null | 55,000-70,000
 ar.gergi | sessine | linkedin.com/in/ar-gergi-sessine-15548a29 | sgergi@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
 ashleigh | soppet | linkedin.com/in/ashleigh-soppet | ashleigh.soppet@mhr.co.uk | professional | N/A | +447532266400 | people first | null | 55,000-70,000
-kenley | simon | linkedin.com/in/kenley-y-simon-a1a870128 | kenleysimon@gmail.com | personal | N/A | N/A | freaky juice | null | 70,000-85,000
+kenley | simon | linkedin.com/in/kenley-y-simon-a1a870128 | kenleysimon@gmail.com | personal | N/A | N/A | freaky juice | null | 70,000-85,000laura | lucas | linkedin.com/in/laura-lucas-43a94446 | lucasl02@mycu.concord.edu | N/A | N/A | N/A | winterplace ski resort | 100 old flat | 85,000-100,000
+vanessa | irani | linkedin.com/in/vanessairani | vanessairani@gmail.com | personal | N/A | N/A | addbloom | null | 85,000-100,000
+michael | robbins | linkedin.com/in/mrobbins9 | rufusshinra586@gmail.com | personal | N/A | N/A | null | null | 70,000-85,000
+brent | yang | linkedin.com/in/brentyang-楊承育 | gs.brent@gmail.com | personal | N/A | N/A | kye systems corp | null | 70,000-85,000
+kaitlyn | rawlings | linkedin.com/in/kaitlynrawlings | kaitlyn@roedinginsurance.com | current_professional | kaitlyn@roedinginsurance.com | N/A | roeding group companies | 2734 chancellor drive | 70,000-85,000
+joseph | silver | linkedin.com/in/joseph-silver-b86450100 | josephsilver@archstl.org | professional | N/A | N/A | mater media | null | 85,000-100,000
+roy | myers | linkedin.com/in/roy-myers-66087096 | roy.myers@socialmediagroup.com | current_professional | roy.myers@socialmediagroup.com | N/A | social media group | null | 70,000-85,000
+lucy | harper | linkedin.com/in/lucy-harper-76ba80186 | lucyh@microsoft.com | current_professional | lucyh@microsoft.com | N/A | microsoft | 1 microsoft way | 55,000-70,000
+charlotte | ardito | linkedin.com/in/charlotte-ardito-895baa174 | c.ardito@geg.fr | current_professional | c.ardito@geg.fr | N/A | geg - gaz electricité de grenoble | null | 85,000-100,000
+eleni | nikolidaki | linkedin.com/in/eleni-nikolidaki-b5131527 | elenik1989@hotmail.com | personal | N/A | N/A | center for social innovation cyprus - csicy | 7 asprogis street | 85,000-100,000
+carsten | hanke | linkedin.com/in/carsten-hanke-3387a3b9 | carsten.hanke@landgard.de | professional | N/A | N/A | h. von gimborn gmbh | null | 55,000-70,000
+carmen | martínez | linkedin.com/in/carmen-martínez-80b44243 | carmen.martz@outlook.com | personal | N/A | N/A | inova mexico | null | <20,000
+vanessa | losi | linkedin.com/in/vanessa-losi-40191825 | vanes@libero.it | N/A | N/A | N/A | not just coffee | 1812 oakdale green drive | 45,000-55,000
+michelle | cyr | linkedin.com/in/michellecyr | cyr_michelle@hotmail.com | personal | N/A | N/A | form & affect | null | 55,000-70,000
+daniela | hauser | linkedin.com/in/danielahauser | daniela.hauser@harman.com | professional | N/A | N/A | tremento | null | 55,000-70,000
