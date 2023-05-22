@@ -1389,4 +1389,13 @@ andrew | basile | linkedin.com/in/andrew-basile-83536748 | arbasile@gmail.com | 
 clement | hoh | linkedin.com/in/clement-hoh-2537a928 | clementhoh@gmail.com | personal | N/A | N/A | lobiz33 | null | <20,000
 hans-eivind | avellan | linkedin.com/in/hans-eivind-urbye-avellan-28176a4 | hansistuta@hotmail.com | personal | N/A | N/A | null | null | 100,000-150,000
 massimo | fava | linkedin.com/in/massimo-fava-84719925 | massimofava@gmail.com | personal | N/A | N/A | viteculture | null | 45,000-55,000
-briony | skeen | linkedin.com/in/briony-skeen-b6976830 | brionyw@bigpond.net.au | personal | briony.skeen@affix.com.au | +61408101076 | affix group pty ltd | 250 st kilda road | 70,000-85,000
+briony | skeen | linkedin.com/in/briony-skeen-b6976830 | brionyw@bigpond.net.au | personal | briony.skeen@affix.com.au | +61408101076 | affix group pty ltd | 250 st kilda road | 70,000-85,000viktoria | schenkel | linkedin.com/in/viktoria-schenkel-b6a29317 | viktoriaschenkel@hotmail.de | N/A | N/A | N/A | ippen digital media gmbh | null | 70,000-85,000
+klaus | esterluß | linkedin.com/in/klaus-esterluß-4691241b | esterluss@gmail.com | personal | N/A | N/A | wwf germany | null | 55,000-70,000
+solange | segal | linkedin.com/in/solangesegal | solisegal@gmail.com | personal | ssegal@unsam.edu.ar | N/A | universidad nacional de san martin | null | 20,000-25,000
+sara | montini | linkedin.com/in/sara-montini-101280a9 | smontini@justfab.com | N/A | N/A | +18186385170 | null | null | 85,000-100,000
+christopher | klimovski | linkedin.com/in/klimovski | cklimovski@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+claudia | giordano | linkedin.com/in/claudiagiordano | claudia.giordano@teletu.it | N/A | N/A | N/A | trilogy sposa | null | 45,000-55,000
+kristen | palasick | linkedin.com/in/kristen-palasick-15b05038 | kpalasick@gmail.com | personal | N/A | N/A | teachers pay teachers | 111 east 18th street | 85,000-100,000
+vasilis | hajda | linkedin.com/in/vasilis-hajda-b237a189 | vasilis.hajda@avon.com | professional | N/A | N/A | iml network | null | 25,000-35,000
+jennifer | lohnstein | linkedin.com/in/jennifer-lohnstein-334a3a16 | jenniferlohnstein@yahoo.com | personal | N/A | +18478332739 | cse | null | 85,000-100,000
+adele | rios | linkedin.com/in/adelerios | arios@berkeley.edu | professional | N/A | +15106423383 | campaign to elect lisa hicks-dumanske for smcccd 2020 | null | 70,000-85,000
