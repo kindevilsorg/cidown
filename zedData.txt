@@ -302,4 +302,19 @@ genia | lyudmilov | linkedin.com/in/ylyudmilov | y.lyudmilov@gmail.com | persona
 varsha | gupta | linkedin.com/in/varsha-gupta-7577b53a | varshapoli@gmail.com | personal | N/A | N/A | network bug digital media management llp | null | <20,000
 zoyi | so | linkedin.com/in/zoyi-so | zoyi.so@gmail.com | personal | N/A | N/A | google | 1600 amphitheatre parkway | 55,000-70,000
 barbora | jurovcová | linkedin.com/in/barbora-jurovcová-a22817a5 | barbora.jurovcova@gmail.com | personal | N/A | N/A | elite solutions, s.r.o. | null | 85,000-100,000
-andrew | eardley | linkedin.com/in/andrew-eardley-282a9633 | ovaldata@gmail.com | personal | N/A | N/A | gvc ladbrokes coral | null | 85,000-100,000
+andrew | eardley | linkedin.com/in/andrew-eardley-282a9633 | ovaldata@gmail.com | personal | N/A | N/A | gvc ladbrokes coral | null | 85,000-100,000gabriela | portillo | linkedin.com/in/gabriela-medrano-portillo-25414949 | gabimp91@gmail.com | personal | N/A | N/A | null | null | <20,000
+anne | tolefe | linkedin.com/in/anne-tolefe-a36a2615 | a_tolefe@yahoo.co.uk | personal | N/A | N/A | ashford social | null | 55,000-70,000
+amanda | bennett | linkedin.com/in/amandabennett95 | abennett@lasell.edu | professional | abennett@vibco.com | N/A | vibco vibrators | 75 stilson road | 85,000-100,000
+christina | campobasso | linkedin.com/in/christina-campobasso-ba4126a | christinajoelle@hotmail.com | personal | N/A | +18162239701 | null | null | 85,000-100,000
+bronte | mcconnell | linkedin.com/in/bronte-mcconnell-aa462b6 | bronte.mcconnell@gmail.com | personal | N/A | N/A | versus arthritis | null | 55,000-70,000
+patricia | mcelhinney | linkedin.com/in/patriciamcelhinney | patricia.mcelhinney@gmail.com | personal | N/A | N/A | manulife | 200 bloor street east | 55,000-70,000
+lindsay | schaeckenbach | linkedin.com/in/lindsay-schaeckenbach-8867593b | lindsay@diamondsontheavenue.com | professional | N/A | N/A | palen financial | null | 85,000-100,000
+katina | rosker | linkedin.com/in/katinalindarosker | katina@milkbardigital.com.au | current_professional | katina@milkbardigital.com.au | N/A | milkbar digital | 1 brenchley place | 70,000-85,000
+alice | bogni | linkedin.com/in/alice-bogni-83615a115 | alice.bogni@hotmail.it | personal | N/A | N/A | 1000things | null | 70,000-85,000
+neda | ghanadan | linkedin.com/in/neda-ghanadan-1a4b433a | nd.ghanadan@gmail.com | personal | N/A | N/A | sam service | null | <20,000
+matthias | apel | linkedin.com/in/matthias-apel-202522a | netzwerke@matthias-apel.com | professional | N/A | N/A | linked2business | null | 70,000-85,000
+naomi | marquez | linkedin.com/in/naomi-marquez-12975a12 | mhnaomi@yahoo.com | personal | N/A | +19155496957 | niner empire | null | 85,000-100,000
+oscar | gomez | linkedin.com/in/oscar-gomez-3a55623b | vilares20@hotmail.com | personal | N/A | N/A | soulkitchen ibiza | null | 35,000-45,000
+rida | sarfraz | linkedin.com/in/rida-sarfraz-62a8b422 | ridasarfraz@gmail.com | personal | N/A | N/A | gainford group | null | 55,000-70,000
+maria | fuentes | linkedin.com/in/maria-estrada-fuentes-02a24089 | mariaestradaf4@gmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+jenni | sullivan | linkedin.com/in/jenni-sullivan-56b13a9a | sullivanj@pwcs.edu | professional | N/A | N/A | semper fi fund | null | 85,000-100,000
