@@ -522,4 +522,20 @@ carly | chodosh | linkedin.com/in/carly-chodosh-80800826 | cfeldman1201@gmail.co
 zeke | september | linkedin.com/in/zekesocial | zekeziah1@yahoo.co.uk | personal | N/A | N/A | social media services | null | <20,000
 isaac | holladay | linkedin.com/in/isaac-holladay-6a7b83b6 | isaac@hopeforfamilies.org | current_professional | isaac@hopeforfamilies.org | N/A | hope for families adoption services | 130 indian river drive | 70,000-85,000
 anne-lise | bénard | linkedin.com/in/anne-lise-bénard-42854760 | lalisedu76@msn.com | personal | N/A | N/A | null | null | 55,000-70,000
-angela | sharkey | linkedin.com/in/angela-sharkey | asharkey@brandstar.com | current_professional | asharkey@brandstar.com | N/A | brandstar | 3860 north powerline road | 85,000-100,000
+angela | sharkey | linkedin.com/in/angela-sharkey | asharkey@brandstar.com | current_professional | asharkey@brandstar.com | N/A | brandstar | 3860 north powerline road | 85,000-100,000judimarilei | melendrez | linkedin.com/in/judimarilei-melendrez-98447349 | judimarilei.melendrez@sunpowercorp.com | professional | N/A | N/A | null | null | <20,000
+tomas | vasquez | linkedin.com/in/tomas-vasquez-a339142a | gtomasvphoto@yahoo.com | personal | N/A | N/A | studios by alamo | null | 70,000-85,000
+naomi | goldwater | linkedin.com/in/naomi-goldwater-8279b1104 | ngoldwater@distinctsoftwaresolutions.com | current_professional | ngoldwater@distinctsoftwaresolutions.com | N/A | distinct software solutions | 9111 old jollyville road | 70,000-85,000
+anne-charlotte | meistelman | linkedin.com/in/acmeistelman | anne-charlotte.meistelman@direct-energie.com | professional | N/A | N/A | verisure | null | 55,000-70,000
+corlon | evans | linkedin.com/in/corlondevans | corlon.d.evans@original4kingz.net | professional | N/A | N/A | me & the bees lemonade | 3536 beecaves road | 70,000-85,000
+morgan | goldstein | linkedin.com/in/morgangoldstein | mgoldstein@bocachamber.com | professional | morgan.goldstein@bonniercorp.com | N/A | bonnier corporation | 480 north orlando avenue | 70,000-85,000
+victoria | knight | linkedin.com/in/knightvictoria | victoria.knight@itu.int | current_professional | victoria.knight@itu.int | N/A | international telecommunication union | null | 100,000-150,000
+stefan | vitalis | linkedin.com/in/stefan-vitalis | stefan@paladarlondon.com | current_professional | stefan@paladarlondon.com | N/A | paladar london | 4-5 london road | 55,000-70,000
+lourdes | amador | linkedin.com/in/lourdesamador | lramador@gmail.com | personal | N/A | N/A | city college | 2000 west commercial boulevard | 70,000-85,000
+laura | barbany | linkedin.com/in/lauracab | laura15_bcn@hotmail.com | personal | laura@talentid.es | N/A | talentid.es | null | 35,000-45,000
+jacob | brizinski | linkedin.com/in/jacob-brizinski-285b5210b | jbrizinski@big-d.com | current_professional | jbrizinski@big-d.com | N/A | big-d construction | 404 west 400 south | 55,000-70,000
+pranav | vibhute | linkedin.com/in/pranav-vibhute-808a28119 | pranavsvibhute@gmail.com | personal | N/A | +919049994111 | infinista concepts | null | 55,000-70,000
+latrice | newsome | linkedin.com/in/latricenewsome | latricenewsome@aol.com | personal | latrice.newsome@asurion.com | +18328769730 | asurion | 648 grassmere park | 85,000-100,000
+wendy | kate | linkedin.com/in/wendytenkate | wendytenkate@live.nl | N/A | N/A | N/A | null | null | 70,000-85,000
+federico | parmigiani | linkedin.com/in/federico-parmigiani-a5198249 | fparmigiani@globalmind.la | current_professional | fparmigiani@globalmind.la | N/A | global mind | null | <20,000
+chiara | fiori | linkedin.com/in/chiara-fiori-68587a41 | kiaita@hotmail.com | personal | N/A | N/A | free-lance writer | null | 35,000-45,000
+janina | koch | linkedin.com/in/janina-koch-6489b1111 | janina.koch@bitzer.de | current_professional | janina.koch@bitzer.de | N/A | bitzer kühlmaschinenbau gmbh | null | 55,000-70,000
