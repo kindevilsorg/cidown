@@ -178,4 +178,13 @@ sara | tettamanti | linkedin.com/in/sara-tettamanti-2a3770 | saratettamanti@tisc
 meta | byte | linkedin.com/in/meta-byte-technologies-8a56bb5a | info@meta-byte.com | current_professional | info@meta-byte.com | N/A | metabyte technologies | null | 55,000-70,000
 harley | mathieson | linkedin.com/in/harleymathieson | harley.mathieson@davidurquhart.com | current_professional | harley.mathieson@davidurquhart.com | N/A | david urquhart travel | null | 55,000-70,000
 anise | vaughn | linkedin.com/in/anise-vaughn-417092106 | anise.vaughn@crystaldreamersrealm.com | N/A | N/A | N/A | site 1a | 231 east buffalo street | 70,000-85,000
-reny | mihaylova | linkedin.com/in/renymihaylova | r.mihaylova@salford.ac.uk | professional | N/A | N/A | fun bulgaria | null | <20,000
+reny | mihaylova | linkedin.com/in/renymihaylova | r.mihaylova@salford.ac.uk | professional | N/A | N/A | fun bulgaria | null | <20,000klaus | hekenberger | linkedin.com/in/klaus-hekenberger-8110998 | klaushekenberger@web.de | personal | N/A | N/A | null | null | 55,000-70,000
+ashley | finethy | linkedin.com/in/ashley-finethy-41420334 | a_finethy@yahoo.com | personal | afinethy@hbs.edu | N/A | harvard business school | null | 100,000-150,000
+whitney | sims | linkedin.com/in/whitney-sims-591372104 | whitney.sims@scotiabank.com | professional | N/A | N/A | dave's juice | null | 55,000-70,000
+maggie | cooney | linkedin.com/in/maggiecooney | margaret.cooney@marquette.edu | professional | N/A | +17738582894 | greenleaf foods | 180 west park avenue | 70,000-85,000
+sarina | brumm | linkedin.com/in/sarina-brumm-6872a382 | sarina.brumm@gmail.com | personal | N/A | N/A | nord-ostsee sparkasse | null | 55,000-70,000
+raffael | neuhaus | linkedin.com/in/raffael-neuhaus | raffael.neuhaus@gmail.com | personal | N/A | N/A | helvetia insurance group | null | 100,000-150,000
+marsha | rose | linkedin.com/in/marsharose | marsharose@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
+alec | lichlyter | linkedin.com/in/alec-lichlyter-0112b257 | alichlyter@cityofmadison.com | current_professional | alichlyter@cityofmadison.com | N/A | city of madison | 210 martin luther king jr boulevard | 85,000-100,000
+sana | irfan | linkedin.com/in/sana-irfan-b91219a8 | sana@bugclipper.com | professional | N/A | N/A | promodome digital | null | 85,000-100,000
+santosh | maharaj | linkedin.com/in/santosh-maharaj-7024563b | santoshmaharaj02@yahoo.com | personal | N/A | N/A | bhakti marga south africa | null | <20,000
