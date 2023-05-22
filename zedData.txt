@@ -1215,4 +1215,13 @@ noemi | de togni | linkedin.com/in/noemidetogni | noemidetogni@hotmail.it | pers
 diana | fu | linkedin.com/in/fudiana | diana.fu@headoffice.be | current_professional | diana.fu@headoffice.be | N/A | head office | null | 55,000-70,000
 veerle | de vries | linkedin.com/in/veerle-de-vries-01a62a19 | veerledevries25@hotmail.com | personal | N/A | N/A | politie antwerpen | null | 70,000-85,000
 loren | birkett | linkedin.com/in/loren-birkett-5b4818103 | loren.birkett@kirklees.gov.uk | professional | N/A | N/A | yboo | 7 northumberland street | 55,000-70,000
-kristen | edgington | linkedin.com/in/kristen-edgington-a3b227107 | kristen@totalassault.com | current_professional | kristen@totalassault.com | N/A | total assault | 17547 ventura boulevard | 70,000-85,000
+kristen | edgington | linkedin.com/in/kristen-edgington-a3b227107 | kristen@totalassault.com | current_professional | kristen@totalassault.com | N/A | total assault | 17547 ventura boulevard | 70,000-85,000cathy | romero | linkedin.com/in/cathy-romero-346065b | aaroncathy@aol.com | personal | cathy@socialknx.com | +13035879423 | socialknx | 10776 fairway vistas court | 85,000-100,000
+gianni | russo | linkedin.com/in/giannirussofg | gianni.russo@lindsaymcghee.com | N/A | N/A | N/A | nwac | null | 45,000-55,000
+claudia | lira | linkedin.com/in/claudia-lira-abb37827 | claudia.slira@gmail.com | personal | N/A | N/A | pyhex work | null | 85,000-100,000
+bhavik | patel | linkedin.com/in/ibhavikpatel | bhavik@snehworld.com | current_professional | bhavik@snehworld.com | N/A | sneh world | null | <20,000
+christian | gaisford | linkedin.com/in/christian-gaisford-51592324 | cmgsocialmedia4u@live.com | personal | N/A | N/A | cmg financial | 3160 crow canyon road | 55,000-70,000
+mark | weissman | linkedin.com/in/mark-weissman-4ba54044 | mark.weissman@att.com | professional | N/A | N/A | hookah house | null | 85,000-100,000
+maria | velez | linkedin.com/in/maria-c-velez-12354633 | mvelez@edukgroup.com | professional | maria.velez@jwt.com | N/A | j. walter thompson worldwide | 466 lexington avenue | 85,000-100,000
+dmitry | kovalev | linkedin.com/in/mrnomid | dmitry.kovalev@tele2.com | professional | dmitry.kovalev@atlascopco.com | N/A | atlas copco | null | <20,000
+halee | edwards | linkedin.com/in/halee-edwards | halee.edwards33@gmail.com | personal | N/A | +12102159594 | method products pbc | 637 commercial | 70,000-85,000
+emma | ayling | linkedin.com/in/emma-ayling-892b7342 | emmaayling@hotmail.com | personal | N/A | N/A | holdbreaker ltd | null | 70,000-85,000
