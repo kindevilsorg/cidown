@@ -2862,23 +2862,21 @@ rui | quadrado | linkedin.com/in/rui-quadrado-1560967a | ruiquadrado@gliff.pt | 
 joshua | meier | linkedin.com/in/joshua-meier-22a90441 | joshua-.-meier@hotmail.com | personal | N/A | N/A | calanda broncos | null | 100,000-150,000
 natalia | kijko | linkedin.com/in/natalia-kijko-205611bb | natalia.kijko@they.pl | current_professional | natalia.kijko@they.pl | N/A | they.pl digital marketing agency | null | <20,000
 caylee | ashwell | linkedin.com/in/cayleeashwell | caylee@besocialpr.com | professional | caylee.ashwell@fabfitfun.com | +18589453037 | fabfitfun | 360 north la cienega boulevard | 85,000-100,000
-leslie | harris | linkedin.com/in/leslie-harris-4a4b4230 | lharris0227@sbcglobal.net | personal | N/A | +19048603773 | stafftime | 7845 baymeadows way | 100,000-150,000juliana | costa | linkedin.com/in/juliana-costa-54b12742 | juliana3562@hotmail.com | personal | N/A | N/A | null | null | 85,000-100,000
-vincent | ascolese | linkedin.com/in/vincentascolese | vincent@jaymiescotto.com | professional | N/A | +12018390177 | south state bank | 520 gervais street | 70,000-85,000
-ricardo | lopez | linkedin.com/in/ricardo-lópez-b611a333 | startingl_182@hotmail.com | personal | N/A | N/A | grupo martí | null | <20,000
-parisa | pourhabib | linkedin.com/in/parisapourhabib | parisa.pourhabib@grammarly.com | current_professional | parisa.pourhabib@grammarly.com | +13102923300 | grammarly | 548 market street | 70,000-85,000
-urko | gonzález | linkedin.com/in/urkocombarrogonzalez | urko.gonzalez@gmail.com | personal | N/A | N/A | el secreto digital | null | 35,000-45,000
-saskia | gottschalk | linkedin.com/in/saskia-gottschalk-8600008a | saskia.gottschalk@gmx.de | personal | saskia.gottschalk@jimdo.com | N/A | jimdo | null | 55,000-70,000
-onyekachi | nwanokwu | linkedin.com/in/onyekachi-nwanokwu-35211864 | onyekachi.nwanokwu@topshop.com | professional | N/A | N/A | caa-gbg global brand management group | 1032a southern terrace | 55,000-70,000
-theresia | windberg | linkedin.com/in/theresia-windberg-39b49973 | theresia.windberg@biotechusa.com | current_professional | theresia.windberg@biotechusa.com | N/A | biotech usa | null | 70,000-85,000
-avalon | cole | linkedin.com/in/avalon-cole-92983b46 | avalon_cole@hotmail.com | personal | N/A | N/A | men at work communications | null | 70,000-85,000
-richa | shah | linkedin.com/in/richaashah | richa@shotformats.com | professional | N/A | N/A | 'net works llc | null | <20,000
-cornelia | boshoff | linkedin.com/in/cornelia-boshoff-a883a885 | cornelia.boshoff@reiss.com | professional | cornelia@openvector.co.uk | N/A | open vector | null | 55,000-70,000
-maria | delic | linkedin.com/in/maria-delic-49435448 | mariadelic@gmail.com | personal | N/A | N/A | friend filer | null | 55,000-70,000diego | catalán | linkedin.com/in/diegohuenchur | diego.you.go@gmail.com | personal | N/A | N/A | cinemark | 3900 dallas parkway | 20,000-25,000
-morgan | peaks | linkedin.com/in/morgan-peaks-96bb2a70 | peaksm@cintas.com | professional | N/A | +16503186065 | modish & swank clothing | null | 70,000-85,000
-clara | wissmach | linkedin.com/in/clara-wissmach-206aa5a6 | clara.wissmach@xing.com | professional | N/A | N/A | null | null | 85,000-100,000
-sara | towner | linkedin.com/in/saratowner | sarambtowner@comcast.net | personal | N/A | +12066592096 | real marketing solutions | null | 85,000-100,000
-kurt | theakston | linkedin.com/in/kurt-theakston-05b11348 | sm@flightexec.com | current_professional | sm@flightexec.com | N/A | flightexec | 330 allstate parkway | 55,000-70,000
-bni | ahmedabad | linkedin.com/in/bni-ahmedabad-8b523b110 | bni@bniahmedabad.com | current_professional | bni@bniahmedabad.com | N/A | bni ahmedabad | null | <20,000
-miuryshkanis | torres | linkedin.com/in/miuryshkanis-torres-40848ab4 | mtorres@sjcourtyard.com | current_professional | mtorres@sjcourtyard.com | N/A | courtyard by marriott isla verde beach resort | 7012 boca de cangrejos avenue | 70,000-85,000
-te | ja | linkedin.com/in/te-ja-14174b109 | saiteja709@gmail.com | personal | N/A | N/A | josh talks | null | <20,000
-mariagrazia | de silva | linkedin.com/in/mariagrazia-de-silva-2584b048 | marides85@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000
+leslie | harris | linkedin.com/in/leslie-harris-4a4b4230 | lharris0227@sbcglobal.net | personal | N/A | +19048603773 | stafftime | 7845 baymeadows way | 100,000-150,000bryana | gold | linkedin.com/in/bryana-gold-a8b8b8115 | bgold@trace.tv | professional | N/A | N/A | null | null | 55,000-70,000
+alisa | scott | linkedin.com/in/alisa-scott-684241108 | ascott@westminstercollege.edu | professional | N/A | N/A | windermere real estate-utah | 1240 east 2100 south | 70,000-85,000
+simon | rees | linkedin.com/in/simondrees | simon.rees@live.com | personal | N/A | +19172252312 | verizon business | null | 85,000-100,000
+tom | ryan | linkedin.com/in/tom-ryan-b8491236 | tpryan80@hotmail.com | personal | N/A | N/A | jewish book week | 126 albert street | 55,000-70,000
+dixie | lamers | linkedin.com/in/dixie-lamers-4172b3b6 | dixie.lamers@gmail.com | personal | N/A | N/A | coffsharbourlifestyle facebook | null | 70,000-85,000
+anna | veloso | linkedin.com/in/aveloso | annajveloso@hotmail.com | personal | anna.veloso@pixelandpixel.com | N/A | pixel and pixel | null | 35,000-45,000
+teresa | de masi | linkedin.com/in/teresa-de-masi-85515949 | teresademasi@libero.it | N/A | N/A | N/A | null | null | 45,000-55,000nicola | green | linkedin.com/in/nicola-green-44593b20 | nicola.green@hotmail.co.uk | personal | N/A | N/A | null | null | 55,000-70,000
+james | garlin | linkedin.com/in/thejamesgarlin | jgarlin12204@gmail.com | personal | N/A | N/A | newbreed promotions | null | 70,000-85,000
+scott | bonertz | linkedin.com/in/scottbonertz | sbonertz@hotmail.com | personal | scott.bonertz@mutualofomaha.com | N/A | mutual of omaha | null | 85,000-100,000
+georgina | mulder | linkedin.com/in/georgina-mulder-7155a533 | gmulder@miladys.com | current_professional | gmulder@miladys.com | N/A | miladys | null | <20,000
+bobby | dolan | linkedin.com/in/bobby-dolan-06807728 | bob.dolan3@gmail.com | personal | bobby.dolan@dollarshaveclub.com | N/A | dollar shave club | p/o box 5688 | 85,000-100,000
+andrea | nicholas | linkedin.com/in/andrea-nicholas-19144118 | andrea.e.nicholas@gmail.com | personal | N/A | +16465356327 | null | null | <20,000
+david | pitt | linkedin.com/in/david-pitt-4b83463a | david@facebooksquare.net | current_professional | david@facebooksquare.net | N/A | facebooksquare.net | null | 55,000-70,000
+laura | arnold | linkedin.com/in/laurajarnold | larnold6811@gmail.com | personal | N/A | N/A | national instruments | null | 85,000-100,000
+stephanie | rosen | linkedin.com/in/stephanie-rosen-60717232 | skayrosen@gmail.com | personal | N/A | +17742320533 | erno laszlo | 129 west 29th street | 85,000-100,000
+erin | ansley | linkedin.com/in/erinfansley | eansley@hanleywood.com | professional | N/A | N/A | zovio | null | 70,000-85,000
+agata | bonaccorso | linkedin.com/in/agatabonaccorso | agata.bonaccorso@inwind.it | personal | N/A | N/A | sicula carni | null | 45,000-55,000
+manila | baldan | linkedin.com/in/manila-baldan-99925637 | manilabal@gmail.com | personal | N/A | N/A | tinyurlme | null | 45,000-55,000
